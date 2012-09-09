@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="安顺" type="1" order="C" >	
+			<video name="若飞广场路口">
+			<url>rtsp://218.201.202.233/broadcast/gz_as03.rm</url>
+			</video>
+			<video name="客车西站出入口">
+			<url>rtsp://218.201.202.233/broadcast/gz_as02.rm</url>
+			</video>
+      <video name="西秀区建军路口">
+			<url>rtsp://218.201.202.233/broadcast/gz_as01.rm</url>
+			</video>
+			<video name="公安局路口">
+			<url>rtsp://218.201.202.233/broadcast/gz_as04.rm</url>
+			</video>
+		
+		</city>
+	</province>
+</provinces> 

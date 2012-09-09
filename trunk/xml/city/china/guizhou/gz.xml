@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="安顺" type="1" order="C" >
+			<video name="# 安顺(单击加载)">
+				<url>city/guizhou/gzas.xml</url>
+			</video>
+		</city>		
+		<city name="毕节" type="300" order="G" >
+			<video name="# 毕节(单击加载)">
+				<url>city/guizhou/gzbj.xml</url>
+			</video>
+		</city>	
+		
+		<city name="都匀" type="300" order="D" >
+			<video name="# 都匀(单击加载)">
+				<url>city/guizhou/gzdy.xml</url>
+			</video>
+		</city>	
+		
+		<city name="贵阳" type="300" order="A" >
+			<video name="# 贵阳(单击加载)">
+				<url>city/guizhou/gzgy.xml</url>
+			</video>
+		</city>	
+		
+		<city name="凯里" type="300" order="E" >
+			<video name="# 凯里(单击加载)">
+				<url>city/guizhou/gzkl.xml</url>
+			</video>
+		</city>		
+		<city name="六盘水" type="0" order="H" >
+			<video name="# 六盘水(单击加载)">
+				<url>city/guizhou/gzlps.xml</url>
+			</video>
+		</city>	
+		
+		<city name="铜仁" type="300" order="F" >
+			<video name="# 铜仁(单击加载)">
+				<url>city/guizhou/gztr.xml</url>
+			</video>
+		</city>
+		<city name="兴义" type="300" order="I" >
+			<video name="# 兴义(单击加载)">
+				<url>city/guizhou/gzxy.xml</url>
+			</video>
+		</city>
+		<city name="遵义" type="300" order="B" >
+			<video name="# 遵义(单击加载)">
+				<url>city/guizhou/gzzy.xml</url>
+			</video>
+		</city>														
+	</province>
+</provinces> 

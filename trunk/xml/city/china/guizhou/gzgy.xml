@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="贵阳" type="1" order="A" >	
+			<video name="枣山路">
+			<url>rtsp://218.201.202.233/broadcast/gy_zsl.rm</url>
+			</video>
+			<video name="中华北路段">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhbl.rm</url>
+			</video>
+      <video name="中华中路大十字">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhzldsz.rm</url>
+			</video>
+			<video name="北京路">
+			<url>rtsp://218.201.202.233/broadcast/gy_bjl.rm</url>
+			</video>
+			<video name="盐务街">
+			<url>rtsp://218.201.202.233/broadcast/gy_ywj.rm</url>
+			</video>
+      <video name="大西门瑞金中路段">
+			<url>rtsp://218.201.202.233/broadcast/gy_rjzldxm.rm</url>
+			</video>
+			<video name="喷水池延安中路段">
+			<url>rtsp://218.201.202.233/broadcast/gy_yazlpsc.rm</url>
+			</video>
+			<video name="中华北路喷水池">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhblpsc.rm</url>
+			</video>
+			<video name="青云路段">
+			<url>rtsp://218.201.202.233/broadcast/gy_qyl.rm</url>
+			</video>
+			<video name="遵义路人民广场段">
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyilurmgc.rm</url>
+			</video>
+			<video name="中华路都司路口段">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhldslk.rm</url>
+			</video>
+			<video name="遵义路展览馆段">
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyiluzlg.rm</url>
+			</video>
+			<video name="神奇路纪念塔转盘段">
+			<url>rtsp://218.201.202.233/broadcast/gy_jnt.rm</url>
+			</video>
+			<video name="神奇路兴关路口段">
+			<url>rtsp://218.201.202.233/broadcast/gy_xgl.rm</url>
+			</video>
+			<video name="小十字富水南路段">
+			<url>rtsp://218.201.202.233/broadcast/gy_fsnlxsz.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

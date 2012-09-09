@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="兴义" type="1" order="I" >	
+			<video name="盘江路">
+			<url>rtsp://218.201.202.233/broadcast/xy_pjl.rm</url>
+			</video>
+			<video name="遵义路">
+			<url>rtsp://218.201.202.233/broadcast/xy_zyl.rm</url>
+			</video>
+      <video name="瑞金大道">
+			<url>rtsp://218.201.202.233/broadcast/xy_rjdd.rm</url>
+			</video>
+			<video name="北京路立交桥">
+			<url>rtsp://218.201.202.233/broadcast/xy_bjlljq.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 
