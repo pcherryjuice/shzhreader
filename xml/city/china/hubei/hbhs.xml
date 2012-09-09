@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="H" >
+		<city name="黄石" type="1" order="S" >
+			<video name="矿山公园-天坑"><url>rtsp://211.137.78.148/broadcast/hs_ksgy9004_01.rm</url></video>
+			<video name="矿山公园俯瞰 "><url>rtsp://211.137.78.148/broadcast/hs_ksgy9004_02.rm</url></video>
+			
+			<video name="天津路 "><url>rtsp://211.138.208.186/broadcast/hs_jgj02_01.rm</url></video>
+			<video name="凤凰山隧道口 "><url>rtsp://211.138.208.186/broadcast/hs_jgj02_08.rm</url></video>
+			<video name="陈家湾监控点 "><url>rtsp://211.138.208.186/broadcast/hs_jgj02_09.rm</url></video>
+	
+			<video name="鲶鱼敦慈湖风景区 "><url>rtsp://211.137.78.148/broadcast/hs_jk9001_02.rm</url></video>
+			<video name="亚光磁湖风景点 "><url>rtsp://211.137.78.148/broadcast/hs_jk9001_03.rm</url></video>
+			<video name="黄石百斯特磁湖风景点 "><url>rtsp://211.137.78.148/broadcast/hs_jk9001_01.rm</url></video>
+			<video name="广场监控点 "><url>rtsp://211.137.78.148/broadcast/hs_jk9001_04.rm</url></video>
+
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="T" >
+		<city name="荆州" type="1" order="J" >
+			<video name="江津江区">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj03.rm</url>
+			</video>
+			<video name="东门路口">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj02.rm</url>
+			</video>
+			<video name="江津塔桥">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj01.rm</url>
+			</video>
+			<video name="测试">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj04.rm</url>
+			</video>
+			<video name="油江桥至中医院方向"><url>rtsp://120.202.250.152:7003/5.3gp</url></video>
+			<video name="计生委至至孱陵大道东"><url>rtsp://120.202.250.152:7003/6.3gp</url></video>
+			<video name="杨公提至职校"><url>rtsp://120.202.250.152:7003/4.3gp</url></video>
+			<video name="华联鞋城至五九路南"><url>rtsp://120.202.250.152:7003/3.3gp</url></video>
+			<video name="夏威夷至孱陵大道东"><url>rtsp://120.202.250.152:7003/2.3gp</url></video>
+			<video name="孱陵小学至南平方向"><url>rtsp://120.202.250.152:7003/1.3gp</url></video>
+		</city>
+	</province>
+</provinces> 

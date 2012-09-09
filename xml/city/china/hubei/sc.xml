@@ -1,0 +1,10 @@
+<?xml version="1.2" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="四川" order="T1" >
+		<city name="成都" type="0" order="A" >
+			<video name="# 成都(单击加载)">
+				<url>city/hubei/sccd.xml</url>
+			</video>
+		</city>			
+	</province>
+</provinces> 
