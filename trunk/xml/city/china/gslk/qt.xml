@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="上海" order="T0" >
+		<city name="其他" type="300" order="Q" >
+			<video name="上海方浜中路摄像头">
+			<url>mmst://www.onedir.com/cam1</url>
+			</video>
+			<video name="上海市老城区摄像头">
+			<url>mmst://www.onedir.com/Cam2</url>
+			</video>
+			<video name="上海市黄浦江和外滩摄像头">
+			<url>mmst://www.onedir.com/Cam3</url>
+			</video>
+			<video name="上海市浦东新区摄像头">
+			<url>mmst://www.onedir.com/Cam4</url>
+			</video>
+	</city>
+	</province>
+</provinces> 
