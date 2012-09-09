@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="三明" type="1" order="D" >	
+			<video name="三明市东新三路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012348::1;StreamingType=1</url>
+			</video>
+			<video name="三明市东新三路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012348::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市第一技术学校门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012345::1;StreamingType=1</url>
+			</video>
+			<video name="三明市第一技术学校门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012345::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市兴业银行门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012343::1;StreamingType=1</url>
+			</video>
+			<video name="三明市兴业银行门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012343::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市中级法院门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012347::1;StreamingType=1</url>
+			</video>
+			<video name="三明市中级法院门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012347::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市第三医院旧大门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012341::1;StreamingType=1</url>
+			</video>
+			<video name="三明市第三医院旧大门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012341::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市列东大桥西侧路口、崇荣路与二元路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012346::1;StreamingType=1</url>
+			</video>
+			<video name="三明市列东大桥西侧路口、崇荣路与二元路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012346::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市三元区交通局路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012338::1;StreamingType=1</url>
+			</video>
+			<video name="三明市三元区交通局路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012338::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市红印山体育中心门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012339::1;StreamingType=1</url>
+			</video>
+			<video name="三明市红印山体育中心门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012339::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市三元区政府门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012335::1;StreamingType=1</url>
+			</video>
+			<video name="三明市三元区政府门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012335::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市三元区建设银行门口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012333::1;StreamingType=1</url>
+			</video>
+			<video name="三明市三元区建设银行门口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012333::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市东泉幼儿园三叉路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012344::1;StreamingType=1</url>
+			</video>
+			<video name="三明市东泉幼儿园三叉路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012344::1;StreamingType=2</url>
+			</video>
+			
+			<video name="三明市崇荣路与一元路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012337::1;StreamingType=1</url>
+			</video>
+			<video name="三明市崇荣路与一元路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012337::1;StreamingType=2</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 

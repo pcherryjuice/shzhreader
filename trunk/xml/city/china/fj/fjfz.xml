@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="福州" type="1" order="A" >
+			<video name="福州市得贵巷"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=1</url></video>
+			<video name="福州市政状元镜1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=1</url></video>
+			<video name="福州市政迎宾路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=1</url></video>
+			<video name="福州市政首山路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012629::1;StreamingType=1</url></video>
+			<video name="福州市政状元镜2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012631::1;StreamingType=1</url></video>
+			<video name="先施地下通道1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012637::1;StreamingType=1</url></video>
+			<video name="先施地下通道2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012638::1;StreamingType=1</url></video>
+			<video name="古三座地下通道1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=1</url></video>
+			<video name="古三座地下通道2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=1</url></video>
+			<video name="华林路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012647::1;StreamingType=1</url></video>
+			<video name="华林路天桥"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012648::1;StreamingType=1</url></video>
+			<video name="乌山路大洋晶典门口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012649::1;StreamingType=1</url></video>
+			<video name="五一路华荣宾馆前立交"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012650::1;StreamingType=1</url></video>
+			<video name="古田路德克士前花圃"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012651::1;StreamingType=1</url></video>
+			<video name="双湖高架桥下大转盘"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012667::1;StreamingType=1</url></video>
+
+      <video name="福州市得贵巷（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=2</url></video>
+			<video name="福州市政状元镜1（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=2</url></video>
+			<video name="福州市政迎宾路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=2</url></video>
+			<video name="福州市政首山路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012629::1;StreamingType=2</url></video>
+			<video name="福州市政状元镜2（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012631::1;StreamingType=2</url></video>
+			<video name="先施地下通道1（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012637::1;StreamingType=2</url></video>
+			<video name="先施地下通道2（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012638::1;StreamingType=2</url></video>
+			<video name="古三座地下通道1（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=2</url></video>
+			<video name="古三座地下通道2（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=2</url></video>
+			<video name="华林路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012647::1;StreamingType=2</url></video>
+			<video name="华林路天桥（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012648::1;StreamingType=2</url></video>
+			<video name="乌山路大洋晶典门口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012649::1;StreamingType=2</url></video>
+			<video name="五一路华荣宾馆前立交（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012650::1;StreamingType=2</url></video>
+			<video name="古田路德克士前花圃（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012651::1;StreamingType=2</url></video>
+			<video name="双湖高架桥下大转盘（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012667::1;StreamingType=2</url></video>
+		</city>
+	</province>
+</provinces> 

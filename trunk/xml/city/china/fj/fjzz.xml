@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="G" >
+		<city name="漳州" type="1" order="H" >	
+			<video name="人民广场">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359600034010100005894::1;StreamingType=1</url>
+			</video>
+			<video name="中山公园">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359600034010100006260::1;StreamingType=1</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
