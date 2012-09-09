@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="常州" type="250" order="D" >	
+			<video name="武进区-南一路南四路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441011::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武进区-武夷路淹城区">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441013::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武进区-竹林西路新塘路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441012::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-常州天宁寺">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010619000200420200-010619010500420201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-常州天宁寺2">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010619000100650600-010619010500650601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-怀德路勤业路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-惠民广场大道">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440803::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-晋陵中路飞龙东路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440812::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-恐龙园门口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440811::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-清凉岗">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440805::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-甬江大道关河路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-甬江大道汉江路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440813::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-延陵西路公园路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440810::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-中百岗">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440809::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-中山门岗">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440804::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="天宁区-琢初桥">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440802::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-金百国际">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441004::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-龙城大道长江路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441009::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-劳动西路怀德北路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441002::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-甬江大道河海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440814::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-甬江大道龙城大道">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440815::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-文化宫">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441006::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-新天地">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441008::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-小营前">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441007::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-延陵路元丰桥">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440806::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-钟区岗">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440807::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="钟楼区-中吴龙江路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441010::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-常州恐龙园1">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106xb000200420600-0106xb010500420601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-常州恐龙园2">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106xb000100650400-0106xb010500650401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-龙城大道惠山南路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441005::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-鸣新路凤栖路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101441000-0106zl010501441014::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-甬江大道飞龙路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440816::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="新北区-新丰一桥">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=0106zl000101440800-0106zl010501440808::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

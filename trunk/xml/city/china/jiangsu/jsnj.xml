@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="C" >
+		<city name="南京" type="250" order="A" >	
+			<video name="南京北京西路">
+			<url>tmss://221.130.30.88:9901/blc_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="北京西路、云南路交叉口">
+			<url>tmss://221.130.30.88:9901/nhl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>			
+			<video name="鼓楼邮政往北京东路方向">
+			<url>tmss://221.130.30.88:9901/glyz_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>				
+			<video name="新街口往珠江路方向">
+			<url>tmss://221.130.30.88:9901/xjk_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>		
+			<video name="雨花西路转盘(测试)">
+			<url>tmss://221.130.30.88:9901/yhxl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="雨花西路高架(测试)">
+			<url>tmss://221.130.30.88:9901/yhxl_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="鼓楼广场转盘">
+			<url>tmss://221.130.30.88:9901/glyz_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="14所往大桥方向">
+			<url>tmss://221.130.30.88:9901/14s_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="14所往草场门方向">
+			<url>tmss://221.130.30.88:9901/14s_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="镇江路往大桥南路方向">
+			<url>tmss://221.130.30.88:9901/zjl_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="镇江路往虎踞路方向">
+			<url>tmss://221.130.30.88:9901/zjl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="虹桥模范中路与水佐岗路交叉口">
+			<url>tmss://221.130.30.88:9901/hq_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="虹桥模范中路与中山北路交叉口">
+			<url>tmss://221.130.30.88:9901/hq_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="草场门往大桥方向">
+			<url>tmss://221.130.30.88:9901/njmtx_3333?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="草场门立交">
+			<url>tmss://221.130.30.88:9901/njmtx_4444?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="南京移动清凉门大桥方向">
+			<url>tmss://221.130.30.88:9901/hjl_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>			
+			<video name="南京移动往虎踞北路方向">
+			<url>tmss://221.130.30.88:9901/hjl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="国防园往南京移动方向">
+			<url>tmss://221.130.30.88:9901/gfy_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="国防园往草场门方向">
+			<url>tmss://221.130.30.88:9901/gfy_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>							
+			<video name="水西门大街茶南商业街路口">
+			<url>tmss://221.130.30.88:9901/cn_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="水西门大街大屠杀纪念馆方向">
+			<url>tmss://221.130.30.88:9901/cn_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>			
+			<video name="南苑集庆门大街西">
+			<url>tmss://221.130.30.88:9901/ny_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="南苑集庆门大街东">
+			<url>tmss://221.130.30.88:9901/ny_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="长虹路集庆门大街交叉口">
+			<url>tmss://221.130.30.88:9901/shq_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="集合村应天大街方向">
+			<url>tmss://221.130.30.88:9901/jhc_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="大阳沟往御道街方向">
+			<url>tmss://221.130.30.88:9901/dyg_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="大阳沟往大光路方向">
+			<url>tmss://221.130.30.88:9901/dyg_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="华世搏纪往瑞金路方向">
+			<url>tmss://221.130.30.88:9901/hsbj_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="中山门往南航大学方向">
+			<url>tmss://221.130.30.88:9901/zsm_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="应天西路高架宏光路段往南">
+			<url>tmss://221.130.30.88:9901/hgl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>			
+			<video name="汽车东站玄武大道">
+			<url>tmss://221.130.30.88:9901/hyl_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="汽车东站花园路">
+			<url>tmss://221.130.30.88:9901/hyl_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="新庄立交往龙蟠路方向">
+			<url>tmss://221.130.30.88:9901/xz_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>	
+			<video name="新庄立交往红山路方向">
+			<url>tmss://221.130.30.88:9901/xz_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="锁金三村往太阳宫方向">
+			<url>tmss://221.130.30.88:9901/gzc_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="锁金三村往国展中心方向">
+			<url>tmss://221.130.30.88:9901/gzc_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="鱼翅皇往白马公园方向">
+			<url>tmss://221.130.30.88:9901/ych_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="北京东路与龙蟠中路交叉口">
+			<url>tmss://221.130.30.88:9901/lpzlb_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="后宰门北安门街明故宫路方向">
+			<url>tmss://221.130.30.88:9901/hzm_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="后宰门富贵山隧道">
+			<url>tmss://221.130.30.88:9901/hzm_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="明故宫往新街口（明故宫段）">
+			<url>tmss://221.130.30.88:9901/mgg_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="金润发往长府街方向">
+			<url>tmss://221.130.30.88:9901/jrf_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="机场高速往机场方向">
+			<url>tmss://221.130.30.88:9901/jcgs3_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="机场高速往市区方向">
+			<url>tmss://221.130.30.88:9901/jcgs3_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="铁心桥绕城公路方向">
+			<url>tmss://221.130.30.88:9901/txq2_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="卡子门高架往龙蟠路方向">
+			<url>tmss://221.130.30.88:9901/njmtx_8888?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="卡子门高架往机场方向">
+			<url>tmss://221.130.30.88:9901/njmtx_7777?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="雨花西路往卡子门方向">
+			<url>tmss://221.130.30.88:9901/ylyy_002?cmnetport=9901::1;cmwapport=443</url>
+			</video>
+			<video name="土城头往双桥门立交方向">
+			<url>tmss://221.130.30.88:9901/tct_001?cmnetport=9901::1;cmwapport=443</url>
+			</video>		
+		</city>
+	</province>
+</provinces> 

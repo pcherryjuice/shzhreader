@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="南京" type="1" order="A" >
+			<video name="# 南京(单击加载)">
+				<url>city/jiangsu/jsnj.xml</url>
+			</video>	
+		</city>				
+	</province>
+</provinces> 
