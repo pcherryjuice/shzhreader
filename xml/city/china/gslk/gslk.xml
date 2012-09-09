@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="上海" order="T0" >
+		<city name="高速路口" type="300" order="C" >
+			<video name="G60沪昆高速">
+			<url>rtsp://114.80.221.20/A8HWVIDEO</url>
+			</video>	
+			<video name="S20外环高速">
+			<url>rtsp://114.80.221.20/waihuan</url>
+			</video>	
+			<video name="G2京沪高速">
+			<url>rtsp://114.80.221.20/jiangqiao</url>
+			</video>							
+			<video name="S4沪金高速">
+			<url>rtsp://114.80.221.20/A9</url>
+			</video>				
+			<video name="S5沪嘉高速">
+			<url>rtsp://114.80.221.20/A4</url>
+			</video>
+			<video name="G50沪渝高速">
+			<url>rtsp://114.80.221.20/A12</url>
+			</video>
+			<video name="G1501绕城南环">
+			<url>rtsp://114.80.221.20/nanhuan</url>
+			</video>
+			<video name="G1501绕城同三">
+			<url>rtsp://114.80.221.20/raocheng</url>
+			</video>
+			<video name="S2沪芦高速">
+			<url>rtsp://114.80.221.20/S2</url>
+			</video>
+			<video name="G40沪陕高速">
+			<url>rtsp://114.80.221.20/changjiansuiqiao</url>
+			</video>
+			<video name="S26沪常高速">
+			<url>rtsp://114.80.221.20/S26</url>
+			</video>
+			<video name="S32申嘉湖高速">
+			<url>rtsp://114.80.221.20/S32</url>
+			</video>
+			<video name="G15沈海高速">
+			<url>rtsp://114.80.221.20/A5</url>
+			</video>
+			<video name="内环">
+			<url>rtsp://114.80.221.20/neihuan</url>
+			</video>
+			<video name="南北高架">
+			<url>rtsp://114.80.221.20/nanbeigaojia</url>
+			</video>
+			<video name="延安高架">
+			<url>rtsp://114.80.221.20/yanangaojia</url>
+			</video>
+		  <video name="逸仙沪闵高架">
+			<url>rtsp://114.80.221.20/yixianhumingaojia</url>
+			</video>
+		  <video name="中环高架1">
+			<url>rtsp://114.80.221.20/zhonghuan1</url>
+			</video>
+		  <video name="中环高架2">
+			<url>rtsp://114.80.221.20/zhonghuan2</url>
+			</video>
+		  <video name="中环高架3">
+			<url>rtsp://114.80.221.20/zhonghuan4</url>
+			</video>
+	</city>
+	</province>
+</provinces> 
