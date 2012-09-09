@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="T" >
+		<city name="武汉" type="0" order="A" >
+			<video name="# 武汉(单击加载)">
+				<url>city/hubei/hbwh.xml</url>
+			</video>		
+		</city>	
+		<city name="襄阳" type="0" order="E" >
+			<video name="# 襄阳(单击加载)">
+				<url>city/hubei/hbxy.xml</url>
+			</video>			
+		</city>		
+		<city name="宜昌" type="1" order="I" >
+			<video name="# 宜昌(单击加载)">
+				<url>city/hubei/hbyc.xml</url>
+			</video>			
+		</city>
+		<city name="荆州" type="1" order="J" >
+			<video name="# 荆州(单击加载)">
+				<url>city/hubei/hbjz.xml</url>
+			</video>			
+		</city>	
+	</province>
+</provinces> 
