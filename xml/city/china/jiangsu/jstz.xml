@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="泰州" type="1" order="I" >	
+			<video name="海陵区 泰州旅游局">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=012301000200654400-012301010500654401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

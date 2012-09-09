@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="无锡" type="1" order="E" >	
+			<video name="锡山区 无锡物联网感知中心">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=019999000200526800-019999010500526801::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="滨湖区 icttest">
+			<url>rtsp://221.231.150.37:554/service?UserId=jsshow::1;PuId-ChannelNo=010504000201168800-010504010501168801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=221.231.150.37::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="滨湖区 无锡鼋头渚风景区">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011001000200450800-011001010500450801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+      <video name="滨湖区 宜兴竹海风景区">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011008000200463400-011008010500463401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
