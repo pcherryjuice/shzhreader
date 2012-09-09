@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="厦门" type="250" order="H" >	
+			<video name="湖滨南路斗西路口">
+			<url>tmss://112.5.66.137:9901/tmes_40</url>
+			</video>
+			<video name="鹭江道厦禾路口">
+			<url>tmss://112.5.66.137:9901/tmes_92</url>
+			</video>
+			<video name="环岛路亚洲海湾大酒店">
+			<url>tmss://112.5.66.137:9901/tmes_94</url>
+			</video>
+			<video name="禾祥西湖滨西路路口">
+			<url>tmss://112.5.66.137:9901/tmes_96</url>
+			</video>
+			<video name="轮渡公交车站">
+			<url>tmss://112.5.66.137:9901/tmes_97</url>
+			</video>
+			<video name="湖滨北长青路口">
+			<url>tmss://112.5.66.137:9901/tmes_37</url>
+			</video>
+			<video name="仙岳路东渡路口">
+			<url>tmss://112.5.66.137:9901/tmes_10</url>
+			</video>
+			<video name="莲前移动">
+			<url>tmss://112.5.66.137:9901/tmes_25</url>
+			</video>
+			<video name="莲前西路莲前街道办2">
+			<url>tmss://112.5.66.137:9901/tmes_38</url>
+			</video>
+			<video name="厦禾路二市路口">
+			<url>tmss://112.5.66.137:9901/tmes_36</url>
+			</video>
+			<video name="嘉禾路SM路口二">
+			<url>tmss://112.5.66.137:9901/tmes_35</url>
+			</video>
+			<video name="厦禾路双涵路口">
+			<url>tmss://112.5.66.137:9901/tmes_33</url>
+			</video>
+			<video name="湖滨南东渡路口">
+			<url>tmss://112.5.66.137:9901/tmes_32</url>
+			</video>
+			<video name="嘉禾路马垄路口">
+			<url>tmss://112.5.66.137:9901/tmes_31</url>
+			</video>			
+			<video name="莲前大道华林路口">
+			<url>tmss://112.5.66.137:9901/tmes_01</url>
+			</video>
+			<video name="厦门海堤进岛路口">
+			<url>tmss://112.5.66.137:9901/tmes_02</url>
+			</video>
+			<video name="环岛路文曾路口">
+			<url>tmss://112.5.66.137:9901/tmes_03</url>
+			</video>
+			<video name="金尚路仙岳路口">
+			<url>tmss://112.5.66.137:9901/tmes_04</url>
+			</video>
+			<video name="滨北路滨中路口">
+			<url>tmss://112.5.66.137:9901/tmes_05</url>
+			</video>
+			<video name="东渡立交桥">
+			<url>tmss://112.5.66.137:9901/tmes_06</url>
+			</video>
+			<video name="吕厝立交桥">
+			<url>tmss://112.5.66.137:9901/tmes_07</url>
+			</video>
+			<video name="滨北路滨东路口">
+			<url>tmss://112.5.66.137:9901/tmes_08</url>
+			</video>			
+			<video name="七星路仙岳路口">
+			<url>tmss://112.5.66.137:9901/tmes_09</url>
+			</video>
+			<video name="莲坂转盘">
+			<url>tmss://112.5.66.137:9901/tmes_11</url>
+			</video>
+			<video name="厦大白城">
+			<url>tmss://112.5.66.137:9901/tmes_12</url>
+			</video>
+			<video name="环岛路椰风寨">
+			<url>tmss://112.5.66.137:9901/tmes_13</url>
+			</video>
+			<video name="思明南路博物馆">
+			<url>tmss://112.5.66.137:9901/tmes_14</url>
+			</video>
+			<video name="厦禾路福津大街路口">
+			<url>tmss://112.5.66.137:9901/tmes_15</url>
+			</video>
+			<video name="厦禾路金榜路口">
+			<url>tmss://112.5.66.137:9901/tmes_16</url>
+			</video>
+			<video name="海沧大桥收费处">
+			<url>tmss://112.5.66.137:9901/tmes_18</url>
+			</video>
+			<video name=" 厦门大桥进岛处">
+			<url>tmss://112.5.66.137:9901/tmes_17</url>
+			</video>
+			<video name="嘉禾路中埔路口">
+			<url>tmss://112.5.66.137:9901/tmes_20</url>
+			</video>
+			<video name="体育路育秀东路口">
+			<url>tmss://112.5.66.137:9901/tmes_21</url>
+			</video>
+			<video name="莲前西路莲前街道办">
+			<url>tmss://112.5.66.137:9901/tmes_22</url>
+			</video>
+			<video name="鹭江道第一码头">
+			<url>tmss://112.5.66.137:9901/tmes_24</url>
+			</video>
+			<video name="嘉禾路SM路口">
+			<url>tmss://112.5.66.137:9901/tmes_27</url>
+			</video>
+			<video name="嘉禾路南山路口">
+			<url>tmss://112.5.66.137:9901/tmes_29</url>
+			</video>
+			<video name="虎园路文园路口">
+			<url>tmss://112.5.66.137:9901/tmes_19</url>
+			</video>
+			<video name="嘉禾路湖里大道路口">
+			<url>tmss://112.5.66.137:9901/tmes_26</url>
+			</video>
+			<video name="莲前大道金尚路口">
+			<url>tmss://112.5.66.137:9901/tmes_30</url>
+			</video>
+			<video name="文园路厦门一中高中部">
+			<url>tmss://112.5.66.137:9901/tmes_28</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

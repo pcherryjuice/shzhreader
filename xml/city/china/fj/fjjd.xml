@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="福建景点" type="1" order="B" >	
+
+			<video name="厦门-远眺鼓浪屿"><url>tmss://112.5.66.137:9901/tmes_92?isLive=true::1;playTitle=远眺鼓浪屿::1;netType=1::1;msisdn=null::1;channel_id=0009::1;ProgramID=5789105::1;type=1::1;isdebug=true::1;lg=zh_cn</url></video>
+			<video name="莆田-九龙谷"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100015423::1;StreamingType=1</url></video>
+			<video name="莆田-九龙谷（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100015423::1;StreamingType=2</url></video>
+			<video name="泉州-牛姆林停车场"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500061010100011842::1;StreamingType=1</url></video>
+			<video name="泉州-牛姆林停车场（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500061010100011842::1;StreamingType=2</url></video>
+			<video name="泉州-牛姆林"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500061010100011843::1;StreamingType=1</url></video>
+			<video name="泉州-牛姆林（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500061010100011843::1;StreamingType=2</url></video>
+			<video name="南平-武夷山大王峰"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012234::1;StreamingType=1</url></video>
+			<video name="南平-武夷山大王峰（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012234::1;StreamingType=2</url></video>
+			<video name="南平-武夷山玉女峰"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012233::1;StreamingType=1</url></video>
+			<video name="南平-武夷山玉女峰（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900029010100012233::1;StreamingType=2</url></video>
+	
+		</city>
+	</province>
+</provinces> 
