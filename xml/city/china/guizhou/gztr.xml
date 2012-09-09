@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="铜仁" type="1" order="F" >	
+			<video name="东太大道">
+			<url>rtsp://218.201.202.233/broadcast/gz_trdtdd03.rm</url>
+			</video>
+			<video name="大十字路段">
+			<url>rtsp://218.201.202.233/broadcast/gz_trdsz02.rm</url>
+			</video>
+      <video name="清水大道北门段">
+			<url>rtsp://218.201.202.233/broadcast/gz_trqsdd01.rm</url>
+			</video>
+			<video name="清水大道附中段">
+			<url>rtsp://218.201.202.233/broadcast/gz_trqsddfzd04.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 

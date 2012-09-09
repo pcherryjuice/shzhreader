@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="凯里" type="1" order="E" >	
+			<video name="北京路西向">
+			<url>rtsp://218.201.202.233/broadcast/kl_bjlxx.rm</url>
+			</video>
+			<video name=" 宁波路">
+			<url>rtsp://218.201.202.233/broadcast/kl_nbl.rm</url>
+			</video>
+      <video name=" 友庄路">
+			<url>rtsp://218.201.202.233/broadcast/kl_yzl.rm</url>
+			</video>
+			<video name="北京东路">
+			<url>rtsp://218.201.202.233/broadcast/kl_bjdl.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 
