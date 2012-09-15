@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞士" order="BM" >
+<city name="其他2" type="1888" order="D" >	
+
+<video name="瑞士弗里堡州 Fribourg 城市监控摄像头-高清">
+<url>http://85.90.4.70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士弗里堡州 Bulle 城市鸟瞰-高清1080p">
+<url>http://62.202.38.129:8889/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士弗里堡州 Fribourg 乡村宾馆2">
+<url>http://axis-jack.axiscam.net:8085/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士弗里堡州 Alterswil 城市风貌-旋转镜头">
+<url>http://axis-206m.axiscam.net:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士弗里堡州 Marsens 城市风貌2">
+<url>http://cjgeers.hopto.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士日内瓦 Geneva 小卖部">
+<url>http://195.70.20.210:81/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338348980052</url>
+</video>
+
+<video name="瑞士日内瓦 Onex 十字路口">
+<url>http://alfred25.ath.cx/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士日内瓦 Geneva 湖光山色2">
+<url>http://seecam.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士日内瓦 Genuve 未知摄像头">
+<url>http://217.169.130.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士日内瓦 Geneva 山坡草地3">
+<url>http://bleiken.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士格劳宾登 Davos Platz  十字路口2">
+<url>http://webcam.msinformatik.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士格劳宾登 Chur 大楼外景2">
+<url>http://217.71.243.196:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士格劳宾登 Igis 城市街道">
+<url>http://cam2-awsg.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士格劳宾登 Igis 大楼外景2">
+<url>http://cam2-awsg.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士格劳宾登 Pontresina 儿童跳床-高清">
+<url>http://217.71.248.199/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士-Inner-Rhoden Buhler 私家园林">
+<url>http://62.202.37.64:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-Jura Laufen 雪山风景">
+<url>http://axis-bual-lantsch.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 鸟窝">
+<url>http://webcam.wauwilermoos.lu.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Kriens 餐厅内景">
+<url>http://81.63.138.72:1216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Schongau 山坡工地">
+<url>http://212.101.18.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Horw 阿布特威尔-雪山景色">
+<url>http://213.3.7.69:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Emmenbrucke 城市风貌2-高清">
+<url>http://cam.altstadthotelluzern.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 桥头堡2">
+<url>http://cam.luzern.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Horw 草地2">
+<url>http://saentis.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Root euronics电子城">
+<url>http://213.200.231.129:8383/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士卢塞恩 Dagmersellen 湖光山色3">
+<url>http://bellevue-sursee.creanet.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 河边码头3-高清">
+<url>http://cam.hotel-delphin.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 电子商务实验室5">
+<url>http://s0014.dmz008.enterpriselab.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 河边山景6">
+<url>http://193.72.17.203/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士纳沙泰尔 La Chaux-de-fonds  城市风景2">
+<url>http://estafilles.wifx.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-楚格 Steinhausen 牧羊农场-高清">
+<url>http://80.254.191.189:1024/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士-楚格 Baar 未知摄像头">
+<url>http://213.200.238.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-楚格 Zug 太阳能发电装置">
+<url>http://212.41.203.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-楚格 Steinhausen 农场小屋2">
+<url>http://80.254.191.189:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-楚格 Baar 马路2-高清">
+<url>http://vonplon.osit.ch:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士-楚格 Menzingen 马路3-高清">
+<url>http://schoenaugarage.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

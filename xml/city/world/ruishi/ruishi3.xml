@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞士" order="BM" >
+<city name="其他" type="1888" order="C" >	
+
+<video name="瑞士阿尔高 Kaiseraugst 竞技训练场">
+<url>http://213.188.248.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 D?niken  城市鸟瞰">
+<url>http://91.138.2.129/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 Roggwil 花圃">
+<url>http://webcam-roggwil2.bioforce.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 Aarau 广播电台">
+<url>http://cam01.agglo.ch/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338285992651</url>
+</video>
+
+<video name="瑞士阿尔高 Roggwil 草地2">
+<url>http://webcam-roggwil1.bioforce.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 Spreitenbach">
+<url>http://piste-dintikon.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士阿尔高 Berikon 游艇码头-高清">
+<url>http://81.221.126.206:8088/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 Brugg 山坡木屋-高清">
+<url>http://81.221.10.114:443/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士阿尔高 Oberwil 小码头">
+<url>http://213.3.30.225/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士阿尔高 Aarau 电台直播室2">
+<url>http://cam02.agglo.ch/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338286901130</url>
+</video>
+
+<video name="瑞士阿尔高 Aarau 办公室3">
+<url>http://h2gcam.no-ip.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士阿尔高 Buchs Migros超市集团-高清">
+<url>http://88.84.15.200/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士阿尔高 Niederrohrdorf 山顶摄像头">
+<url>http://besmer.dyndns.org:7777/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338290773385</url>
+</video>
+
+<video name="瑞士阿尔高 Duniken 城镇鸟瞰2">
+<url>http://91.138.1.70/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士阿尔高 Vordemwald 2">
+<url>http://mrx.homeftp.org:1181/mjpg/video.mjpg?resolution=352x288</url>
+<url>http://mrx.homeftp.org:1181/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士阿尔高 Erlinsbach 室外休闲所">
+<url>http://mont-vully.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴塞尔乡村州 Therwil 汽车修理店全景-高清">
+<url>http://raycom.dyndns.org/axis-cgi/mjpg/video.cgi?quad=1::1;resolution=352x288</url>
+</video>
+
+<video name="巴塞尔乡村州 Therwil 汽车修理店全景-A">
+<url>http://raycom.dyndns.org/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x288::1;1338291311898</url>
+</video>
+
+<video name="巴塞尔乡村州 Therwil 汽车修理店全景-B">
+<url>http://raycom.dyndns.org/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;1338291311898</url>
+</video>
+
+<video name="巴塞尔乡村州 Therwil 汽车修理店全景-C">
+<url>http://raycom.dyndns.org/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x288::1;1338291311898</url>
+</video>
+
+<video name="巴塞尔乡村州 Ettingen 利德阿尔卑斯山-artfurrer宾馆1-高清">
+<url>http://sparrhorn.dyndns.org:88/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="巴塞尔城市半州 Basel 教堂">
+<url>http://cam001.ethz.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴塞尔城市半州 Basel 利德阿尔卑斯山-artfurrer宾馆2-高清">
+<url>http://nfh2008.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="巴塞尔城市半州 Basel 利德阿尔卑斯山-artfurrer宾馆3">
+<url>http://hotel-riederfurka.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Chavannes 未知摄像头">
+<url>http://128.178.6.161/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338357337487</url>
+</video>
+
+<video name="瑞士-沃州 Gland 高尔夫球场">
+<url>http://golfvuissens18.axiscam.net:8085/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Lausanne 山村小宾馆4">
+<url>http://tschappina.dyndns.org:8090/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士-沃州 Villeneuve 工地2">
+<url>http://83.172.200.53/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Villeneuve 海边观光台2-高清">
+<url>http://tropical.ath.cx/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Moudon 城市风貌4">
+<url>http://wiweb.gotdns.com:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Roche 旧房拆迁工地-高清">
+<url>http://furka.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士-沃州 Cugy BioWall-博物馆">
+<url>http://lslcam1.epfl.ch/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Montreux 江边草地-高清">
+<url>http://webcamplage.dyndns.org:60002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

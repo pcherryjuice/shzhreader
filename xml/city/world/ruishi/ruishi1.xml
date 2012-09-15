@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞士" order="BM" >
+<city name="伯尔尼" type="1888" order="A" >	
+
+<video name="首都伯尔尼 Bern 停车场-高清">
+<url>http://friwash.ath.cx:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 服务器机房2">
+<url>http://cam3.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Wichtrach 酒店观光台-高清">
+<url>http://axis648127.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Interlaken 草坪喷泉">
+<url>http://casino-int.homeip.net:8383/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 办公室3">
+<url>http://cam2.uridium.ch/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338292638505</url>
+</video>
+
+<video name="首都伯尔尼 Burgdorf 山顶摄像头">
+<url>http://62.202.8.250:62008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Langenthal 木材加工厂">
+<url>http://cam1.hector-egger.ch:8080/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338292638505</url>
+</video>
+
+<video name="首都伯尔尼 Spiez 山顶摄像头2">
+<url>http://marti-adelboden.dyndns.org:3715/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Biel 山坡小屋3">
+<url>http://funi2610.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 办公桌前4">
+<url>http://62.2.213.149/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 服务器机房5">
+<url>http://cam1.uridium.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 窗外花圃-高清">
+<url>http://cam5.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Laupen 城市风景">
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="首都伯尔尼 Lyss 高速路口2">
+<url>http://kblyss.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Munsingen 山脚下的宾馆-高清">
+<url>http://clausenrc5.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Wichtrach 未知摄像头2">
+<url>http://axis_648127.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Berne 建筑工地-高清">
+<url>http://bau017.dyndns.org:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 服务器机房7">
+<url>http://cam4.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 服务器机房8">
+<url>http://domecam.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Langenthal 未知摄像头2">
+<url>http://cam.hector-egger.ch:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Spiez 阿达尔波登山2">
+<url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Langnau 爱蒙塔尔雪山">
+<url>http://213.213.180.125/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Langenthal 威盟-工厂内6">
+<url>http://cam.hector-egger.ch:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Bolligen 杂物间">
+<url>http://cam6.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="首都伯尔尼 Rubigen 田野马路">
+<url>http://axis-a528d2.axiscam.net:8098/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Lyss 城市街景">
+<url>http://axis-lyss2.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Wabern 窗外风景">
+<url>http://213.200.229.178:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Biel 客户数据中心">
+<url>http://webcam.sec101.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="首都伯尔尼 Bern 窗外风景2">
+<url>http://axis-lyss2.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
