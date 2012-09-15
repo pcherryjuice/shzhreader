@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="西班牙" order="BH" >
+<city name="西班牙3" type="1888" order="C" >
+		
+<video name="Nanclares De La Oca 西班牙.巴斯克自治区 海边泳池">
+<url>http://79.148.108.205:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Bilbao 西班牙.巴斯克自治区 海与山">
+<url>http://62.99.77.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山顶建筑4">
+<url>http://161.72.22.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Fuenterrab��a 西班牙.巴斯克自治区 海边浴场">
+<url>http://abba-londres.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Basauri 西班牙.巴斯克自治区 小镇三叉路口">
+<url>http://217.127.128.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Algorta 西班牙.巴斯克自治区 海边风景2">
+<url>http://80.36.76.101/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西班牙.马德里 出入口6">
+<url>http://campinggavin.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿拉贡 Barbastro 高山平湖">
+<url>http://94.228.13.44:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 海边游泳场6">
+<url>http://80.37.190.208:1500/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 未知摄像头7">
+<url>http://213.96.29.238:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Arcos De La Frontera 西班牙.安达路西亚 海边游艇码头">
+<url>http://88.2.221.154/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<!--video name="西班牙.安达路西亚 Aguadulce 酒店游泳池（实时图片）">
+<url>http://alquitara.ath.cx/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video-->
+
+<video name="西班牙.安达路西亚 Sevilla 足球场">
+<url>http://meteosantiponce.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 游泳池">
+<url>http://hoteloasismango.dyndns.org:1028/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 气象天文台">
+<url>http://150.214.93.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 天文望远镜">
+<url>http://150.214.93.55/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Huelva 未知摄像头">
+<url>http://webcam1.ujaen.es/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342012432896</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 海边游泳场8">
+<url>http://213.96.40.237:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Pobla De Montorn��s 西班牙.加泰罗尼亚 海边泳池">
+<url>http://212.145.212.209:8092/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Arenys De Mar 西班牙.加泰罗尼亚 游艇码头2">
+<url>http://webcam.cnelbalis.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 山顶摄像头9">
+<url>http://188.119.194.36/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 交通路口11">
+<url>http://eudaldcarrera.dynalias.org:1024/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 乡村风光12">
+<url>http://meteosalvador.dvrdns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Palma 西班牙.巴利阿里群岛 乡村风光2">
+<url>http://sanpedro.dyndns.biz/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.埃斯特雷马杜拉 Serradilla 酒吧">
+<url>http://217.125.138.27:81/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342012947181</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 城市风景">
+<url>http://gocanaria.ath.cx:8000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 海边小码头8">
+<url>http://dulcinea01.homeunix.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Tarragona 未知摄像头">
+<url>http://80.35.1.69:6666/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Tarragona 路边小城堡2">
+<url>http://80.32.56.48:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 窗外城市风景4">
+<url>http://89.29.219.145:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Vic 酒吧（不稳定）">
+<url>http://80.24.18.35:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 路边城堡16">
+<url>http://80.39.113.72:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Palma 西班牙.巴利阿里群岛 城市风景3">
+<url>http://meteoibiza.dyndns.biz/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342013661432</url>
+</video>
+
+<video name="西班牙.巴利阿里群岛 Marratxi 游艇（高清）">
+<url>http://217.127.254.155:8088/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.巴利阿里群岛 Palma 海边气象监测站">
+<url>http://87.235.150.79/image?speed=0</url>
+</video>
+
+<video name="西班牙.马德里 海边泳场3">
+<url>http://webcamubet.dyndns.org:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳场4（高清）">
+<url>http://212.145.204.167:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边泳池停车场（高清）">
+<url>http://alcalatf.dyndns.org:8082/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳场7（高清）">
+<url>http://212.145.204.191:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 Aranjuez 海边风光（高清）">
+<url>http://87.235.206.90:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边风光12（高清）">
+<url>http://liesecam.dyndns.tv:8089/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边风光13（高清）">
+<url>http://212.145.204.225:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边游泳池15（高清）">
+<url>http://212.145.204.101:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边风光17（高清）">
+<url>http://212.145.204.172:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边风光18">
+<url>http://212.170.96.240:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边城市风光19（高清）">
+<url>http://88.26.207.3:2000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 小广场21">
+<url>http://80.26.69.138:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 海边浴场22（高清）">
+<url>http://80.38.156.36:1500/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.马德里 海边浴场23（高清）">
+<url>http://81.43.101.81:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>
