@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中东" order="J" >
+<city name="中东" type="1888" order="A" >	
+<video name="以色列 展厅">
+<url>http://194.90.238.160/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=762441::1;data=v.mjpg</url>
+</video>
+<video name="以色列 拿撒勒 Nahalal/HaZafon, Israel">
+<url>http://80.179.197.227/mjpg/1/video.mjpg</url>
+</video>
+<video name="以色列 风景区 Israel">
+<url>http://212.179.81.246/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=218512::1;data=v.mjpg</url>
+</video>
+
+<video name="以色列 室内 Israel">
+<url>http://212.235.45.209/mjpg/video.mjpg</url>
+</video>
+
+<video name="以色列 海边游艇区 Israel">
+<url>http://81.218.185.2/axis-cgi/mjpg/video.cgi?camera=1::1;1336818239679</url>
+</video>
+
+<video name="以色列 家园监控-普清">
+<url>http://mokedsecurity.viewnetcam.com:1025/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="以色列 家园监控-普通">
+<url>http://mokedsecurity.viewnetcam.com:1025/nphMotionJpeg?Resolution=192x144::1;Quality=Standard</url>
+</video>
+
+<video name="以色列 Yehud / HaMerkaz, Israel-高清">
+<url>http://whitecity.dvrdns.org/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=777137</url>
+</video>
+
+<video name="科威特 建筑现场-高清">
+<url>http://83.96.53.242/mjpg/video.mjpg</url>
+</video>
+
+<video name="科威特 建筑现场2-高清">
+<url>http://webcam.jaberalahmadhospital.com/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="土耳其 停车场 Istanbul / Istanbul, Turkey 1-高清">
+<url>http://88.249.65.52/mjpg/video.mjpg</url>
+</video>
+<video name="土耳其 停车场 Istanbul / Istanbul, Turkey 1-普清">
+<url>http://88.249.65.52/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="土耳其 游泳池 Ankara / Ankara, Turkey 2">
+<url>http://78.187.74.117:8080/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="土耳其 风景1 Ankara / Ankara, Turkey -普清">
+<url>http://88.249.65.85/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="土耳其 风景1 Ankara / Ankara, Turkey -高清">
+<url>http://88.249.65.85/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="土耳其 建筑1 Ankara / Ankara, Turkey -高清">
+<url>http://92.45.25.194:83/cgi-bin/faststream.jpg?stream=::1;fps=5::1;rand=424906</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

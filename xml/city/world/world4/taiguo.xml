@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="泰国" order="H" >
+<city name="泰国" type="1888" order="A" >	
+
+<video name="泰国 Nonthaburi 水库监控（旋转摄像头）-普清">
+<url>http://cctvsnr.egat.com/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Nonthaburi 水库监控-高清（比较卡）">
+<url>http://cctvsnr.egat.com/mjpg/video.mjpg</url>
+</video>
+<video name="泰国 Bangkok 海滨浴场-普清">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Bangkok 海滨浴场-高清（比较卡）">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep 游泳池内景-普清">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep 游泳池内景-高清（比较卡）">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 2-低分辨率">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=192x144</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 3-普清">
+<url>http://woc4laonokchum.dyndns.org:5001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 3-高清">
+<url>http://woc4laonokchum.dyndns.org:5001/mjpg/video.mjpg</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep 动物园-狗 4-普清">
+<url>http://k902.viewnetcam.com:50002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, 动物园-狗 4-高清">
+<url>http://k902.viewnetcam.com:50002/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+<video name="泰国 河流-普清">
+<url>http://woc4thasaard.dyndns.org:5001/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+<video name="泰国 河流-高清">
+<url>http://woc4thasaard.dyndns.org:5001/mjpg/video.mjpg</url>
+</video>
+<video name="泰国 水库-普清">
+<url>http://cctvvrk.egat.com/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+<video name="泰国 水库-高清">
+<url>http://cctvvrk.egat.com/mjpg/video.mjpg</url>
+</video>
+<video name="泰国 室内-普清">
+<url>http://110.164.185.76/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+<video name="泰国 室内-高清">
+<url>http://110.164.185.76/mjpg/video.mjpg</url>
+</video>
+<video name="泰国 酒吧（不稳定）">
+<url>http://61.7.147.221/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

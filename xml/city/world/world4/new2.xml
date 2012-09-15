@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Italy" order="A" >
+<city name="Italy" type="1" order="A" >	
+
+
+
+
+<video name="南美洲 牙买加 海滨浴场4 -普清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 牙买加 海滨浴场4 -高清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 马提尼克岛 交通路口1 -高清">
+<url>http://81.248.1.10/cgi-bin/faststream.jpg?stream=full&fps=2&rand=557620</url>
+</video>
+
+<video name="南美洲 马提尼克岛 交通路口2 -高清">
+<url>http://81.248.1.13/record/current.jpg?rand=273220</url>
+</video>
+
+
+<video name="南美洲 荷属安地列斯 未知 -普清">
+<url>http://islandcam.columbiasussex.com/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 荷属安地列斯 未知 -高清">
+<url>http://islandcam.columbiasussex.com/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 尼加拉瓜 教室 -普清">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 尼加拉瓜 教室 -高清">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 美属维京群岛 岛屿风景 -高清">
+<url>http://66.185.42.7/record/current.jpg?rand=3803216</url>
+</video>
+
+<video name="南美洲 美属维京群岛 海岛远景 -低分辨率">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=160x120&Quality=Standard</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -普清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -高清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=640x480&Quality=Standard</url>
+</video>
+
+<video name="大洋洲 澳大利亚 建筑工地 -普清">
+<url>http://129.94.184.85/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="大洋洲 澳大利亚 建筑工地 -高清">
+<url>http://129.94.184.85/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 新南威尔士州 风景区1 -普清">
+<url>http://129.78.249.83/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 新南威尔士州 风景区1 -高清">
+<url>http://129.78.249.83/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 新南威尔士州 海边风景1 -普清">
+<url>http://longycam01.dyndns.org/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 新南威尔士州 海边风景1 -高清">
+<url>http://longycam01.dyndns.org/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 新南威尔士州 街边（有美女出没） -普清">
+<url>http://129.94.184.76/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 新南威尔士州 街边（有美女出没） -高清">
+<url>http://129.94.184.76/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 托斯马尼亚 海边风景 -普清">
+<url>http://wphc-vb-c50ir.federalit.net/-wvhttp-01-/getoneshot?v=320&frame_count=300</url>
+</video>
+<video name="澳大利亚 托斯马尼亚 海边风景 -高清">
+<url>http://wphc-vb-c50ir.federalit.net/-wvhttp-01-/getoneshot?v=640&frame_count=300</url>
+</video>
+
+<video name="澳大利亚 托斯马尼亚 储藏所 -普清">
+<url>http://61.9.148.82/-wvhttp-01-/getoneshot?v=320&frame_count=300</url>
+</video>
+<video name="澳大利亚 托斯马尼亚 储藏所 -高清">
+<url>http://61.9.148.82/-wvhttp-01-/getoneshot?v=640&frame_count=300</url>
+</video>
+
+<video name="澳大利亚 托斯马尼亚 霍巴特-桥 -普清">
+<url>http://webcam.lenna.com.au/-wvhttp-01-/getoneshot?v=320&frame_count=300</url>
+</video>
+<video name="澳大利亚 托斯马尼亚 霍巴特-桥 -高清">
+<url>http://webcam.lenna.com.au/-wvhttp-01-/getoneshot?v=640&frame_count=300</url>
+</video>
+
+<video name="澳大利亚 新南威尔士州 卧龙岗-海边 -普清">
+<url>http://wollongongcam01.dyndns.org/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 新南威尔士州 卧龙岗-海边 -高清">
+<url>http://wollongongcam01.dyndns.org/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 维多利亚 Eden Park-海边 -普清">
+<url>http://elwoodsc.axiscam.net:8201/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 维多利亚 Eden Park-海边 -高清">
+<url>http://elwoodsc.axiscam.net:8201/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 墨尔本  滑冰赛道1 -普清">
+<url>http://120.151.100.155/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 墨尔本  滑冰赛道1 -高清">
+<url>http://120.151.100.155/mjpg/1/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 墨尔本  滑冰赛道2 -普清">
+<url>http://120.151.100.155/mjpg/2/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 墨尔本  滑冰赛道2 -高清">
+<url>http://120.151.100.155/mjpg/2/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 墨尔本  滑冰赛道3 -普清">
+<url>http://120.151.100.155/mjpg/3/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 墨尔本  滑冰赛道3 -高清">
+<url>http://120.151.100.155/mjpg/3/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 墨尔本  滑冰赛道4 -普清">
+<url>http://120.151.100.155/mjpg/4/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 墨尔本  滑冰赛道4 -高清">
+<url>http://120.151.100.155/mjpg/4/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 墨尔本  滑冰赛道-全景 -普清">
+<url>http://120.151.100.155/mjpg/quad/video.mjpg?resolution=320x240</url>
+</video>
+<video name="澳大利亚 墨尔本  滑冰赛道-全景 -高清">
+<url>http://120.151.100.155/mjpg/quad/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="澳大利亚 维多利亚  Mulgrave -普清">
+<url>http://webcam.nys.org.au:81/-wvhttp-01-/getoneshot?v=320&frame_count=300</url>
+</video>
+<video name="澳大利亚 维多利亚  Mulgrave -高清">
+<url>http://webcam.nys.org.au:81/-wvhttp-01-/getoneshot?v=640&frame_count=300</url>
+</video>
+
+<video name="澳大利亚 昆士兰-Toowoomba 草地 -普清">
+<url>http://139.86.48.94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="澳大利亚 昆士兰-Toowoomba 草地 -高清">
+<url>http://139.86.48.94/mjpg/video.mjpg?resolution=704x576</url>
+</video>
+
+
+
+<video name="新西兰 吉斯伯恩 海岛 -普清">
+<url>http://202.49.165.67/-wvhttp-01-/getoneshot?v=320&frame_count=300</url>
+</video>
+<video name="新西兰 吉斯伯恩 海岛 -高清">
+<url>http://202.49.165.67/-wvhttp-01-/getoneshot?v=640&frame_count=300</url>
+</video>
+
+<video name="新西兰 奥克兰 未知1 -高清">
+<url>http:/modular.stanleygroup.co.nz/control/faststream.jpg?stream=full&fps=16&rand=741903</url>
+</video>
+
+<video name="新西兰 奥克兰 未知2 -高清">
+<url>http://219.89.197.119:8000/cgi-bin/faststream.jpg?stream=full&fps=0.00333&rand=47668</url>
+</video>
+
+
+
+
+
+</city>
+</province>
+</provinces>

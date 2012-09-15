@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="印尼" order="G" >
+<city name="印尼" type="1888" order="A" >	
+	
+<video name="印度尼西亚 十字路口-高清">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口-普清">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口-低分辨率">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=192x144::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="印度尼西亚 十字路口2-高清">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口2-普清">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口2-低分辨率">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=192x144::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="印度尼西亚 街景-高清">
+<url>http://sologalabo.viewnetcam.com/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 街景-普清">
+<url>http://sologalabo.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+<video name="印度尼西亚 Jakarta Raya Jakarta  服务器机房-高清">
+<url>http://222.124.220.243/image?speed=10::1;AudioIn=O</url>
+</video>
+
+<video name="印度尼西亚 Jakarta Raya Jakarta  城市鸟瞰">
+<url>rtsp://202.67.8.62/mpeg4/media.amp</url>
+</video>
+
+<video name="印度尼西亚 Jakarta Raya Jakarta  城市鸟瞰2(有时花屏)">
+<url>rtsp://202.67.8.61/mpeg4/media.amp</url>
+</video>
+
+<video name="印度尼西亚 Jakarta Raya Jakarta  交通摄像头1">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="印度尼西亚 Jakarta Raya Jakarta  交通摄像头1-高清">
+<url>http://202.47.70.157:50001/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

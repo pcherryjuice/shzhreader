@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中国" order="C" >
+<city name="中国台湾2" type="1888" order="G" >	
+
+<video name="台湾 台北交通路口 5">
+<url>http://60.251.184.162/mjpg/quad/video.mjpg?resolution=320x240</url>
+</video>
+<video name="台湾 台北交通路口 5-A">
+<url>http://60.251.184.162/mjpg/1/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-B">
+<url>http://60.251.184.162/mjpg/2/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-C">
+<url>http://60.251.184.162/mjpg/3/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-D">
+<url>http://60.251.184.162/mjpg/4/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 6">
+<url>http://60.251.184.154/mjpg/quad/video.mjpg?resolution=320x240</url>
+</video>
+<video name="台湾 台北交通路口 6-A">
+<url>http://60.251.184.154/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 7">
+<url>http://60.251.184.146/mjpg/quad/video.mjpg?resolution=320x240</url>
+</video>
+<video name="台湾 台北交通路口 7-A">
+<url>http://60.251.184.146/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 8">
+<url>http://60.251.184.170/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 8-A">
+<url>http://60.251.184.170/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 9">
+<url>http://60.251.184.138/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 9-A">
+<url>http://60.251.184.138/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 10">
+<url>http://60.251.184.178/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 10-A">
+<url>http://60.251.184.178/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 11">
+<url>http://60.251.184.130/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 11-A">
+<url>http://60.251.184.130/mjpg/1/video.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

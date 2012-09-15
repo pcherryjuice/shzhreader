@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="中国" order="C" >
+ <city name="中国香港" type="1" order="D" >	
+			<video name="# 中国香港(单击加载)">
+				<url>city/world/world4/zgxg.xml</url>
+			</video>
+		</city>	
+		<city name="中国澳门" type="1" order="I" >	
+	    <video name="# 中国澳门(单击加载)">
+				<url>city/world/world4/zgam.xml</url>
+			</video>
+		</city>	
+		
+		<city name="中国台湾1" type="1" order="F" >		
+	    <video name="# 中国台湾1(单击加载)">
+				<url>city/world/world4/zgtw.xml</url>
+			</video>
+		</city>	
+		<city name="中国台湾2" type="1" order="G" >
+	    <video name="# 中国台湾2(单击加载)">
+				<url>city/world/world4/zgtw2.xml</url>
+			</video>
+		</city>						
+</province>
+
+<province name="印尼" order="G" >
+  <city name="印尼" type="1" order="A" >	
+      <video name="# 印尼(单击加载)">
+				<url>city/world/world4/yinni.xml</url>
+			</video>
+  </city>						
+</province>
+
+<province name="泰国" order="H" >
+     <city name="泰国" type="1" order="A" >		
+      <video name="# 泰国(单击加载)">
+				<url>city/world/world4/taiguo.xml</url>
+			</video>
+  </city>						
+</province>
+
+<province name="中东" order="J" >
+  <city name="中东" type="1" order="A" >		
+      <video name="# 中东(单击加载)">
+				<url>city/world/world4/zhongdong.xml</url>
+			</video>
+  </city>						
+</province>
+
+<province name="其他" order="P" >
+<city name="其他" type="1" order="A" >
+      <video name="# 其他(单击加载)">
+				<url>city/world/world4/qita.xml</url>
+			</video>
+  </city>						
+</province>
+
+</provinces> 

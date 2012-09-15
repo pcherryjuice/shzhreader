@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Japan" order="A" >
+<city name="Japan" type="1" order="A" >	
+<video name="橿原">
+<url>http://220.97.67.60/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知">
+<url>http://niraikanai.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="名古屋">
+<url>http://121.1.227.24:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列2">
+<url>http://150.43.229.248/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京">
+<url>http://121.1.246.114:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列3">
+<url>http://210.230.248.83:82/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="鹿儿岛">
+<url>http://studiokagawa.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="新泻">
+<url>http://takadacam.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="宫崎">
+<url>http://218.216.63.248/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列4">
+<url>http://210.163.183.251/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列5">
+<url>http://kymskcmr.aa0.netvolante.jp/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="一宫">
+<url>http://221.189.255.11:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列6">
+<url>http://219.106.253.83:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="朝日">
+<url>http://203.189.38.246/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="丰桥">
+<url>http://221.189.255.11:82/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列2">
+<url>http://cam262280.miemasu.net:60009/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列7">
+<url>http://210.154.21.195/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列8">
+<url>http://202.216.246.186/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="松江">
+<url>http://219.127.114.120/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="横滨">
+<url>http://218.47.86.254/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列9">
+<url>http://8j2ai.jarl.or.jp:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="福冈">
+<url>http://cam6075917.miemasu.net:50004/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="福冈系列2">
+<url>http://cam6075917.miemasu.net:50001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="福冈系列3">
+<url>http://cam6075917.miemasu.net:50002/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="福冈系列4">
+<url>http://cam6075917.miemasu.net:50003/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="橿原系列2">
+<url>http://220.97.66.51/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列3">
+<url>http://cam262280.miemasu.net:60007/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="松江系列2">
+<url>http://kjykuukou.aa0.netvolante.jp:50120/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="山口">
+<url>http://kjyhayami.aa0.netvolante.jp:50115/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列4">
+<url>http://121.1.246.114:82/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="西尾">
+<url>http://kamigou.iobb.net:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列5">
+<url>http://cam262280.miemasu.net:60006/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="吉川">
+<url>http://123.220.250.252/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列10">
+<url>http://ogotoyc.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列11">
+<url>http://210.156.41.71/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列6">
+<url>http://cam262280.miemasu.net:60008/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列12">
+<url>http://mekaro.miemasu.net:50001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="North Liberty">
+<url>http://167.142.151.234:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="神奈川">
+<url>http://219.121.16.30:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="朝日系列2">
+<url>http://158.39.49.51/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="浦安">
+<url>http://210.155.201.210:60001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="朝日系列3">
+<url>http://158.39.49.50/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="未知系列13">
+<url>http://suiranrou.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="筑波">
+<url>http://kanmuri.miemasu.net:60001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="大阪">
+<url>http://japan.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="尾道">
+<url>http://mare.miemasu.net:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="戈多">
+<url>http://naito01.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="横滨系列2">
+<url>http://cam6067746.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列14">
+<url>http://rt2.ginzado.ne.jp:8042/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="朝日系列4">
+<url>http://210.155.193.186/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列15">
+<url>http://210.251.65.172/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="纳卡">
+<url>http://211.129.127.116/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="京都">
+<url>http://camera.shinkansen.mydns.jp:8001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="秋田">
+<url>http://wspcojp.zenno.info/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="松阪">
+<url>http://chodaya01.miemasu.net:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="名古屋系列2">
+<url>http://cam22728.miemasu.net:60001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="名古屋系列3">
+<url>http://cam22728.miemasu.net:60004/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="名古屋系列4">
+<url>http://cam22728.miemasu.net:60003/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="名古屋系列5">
+<url>http://cam22728.miemasu.net:60005/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列16">
+<url>http://210.225.196.17:8042/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="盛冈">
+<url>http://jr7mlx.dip.jp:8080/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京市练马区">
+<url>http://cam161615.miemasu.net:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列17">
+<url>http://yuyujuku.homeip.net:1234/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="东京系列7">
+<url>http://takemoto.miemasu.net:84/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="长野">
+<url>http://202.222.136.126/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="盐山">
+<url>http://210.255.211.102/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="高桥">
+<url>http://210.148.170.48/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列18">
+<url>http://210.128.201.53/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列19">
+<url>http://210.157.229.43/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列20">
+<url>http://61.194.8.203/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列21">
+<url>http://211.10.76.229/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列22">
+<url>http://211.10.76.228/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="鹤冈">
+<url>http://210.161.154.235/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="鹤冈系列2">
+<url>http://210.161.154.236/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="长野系列2">
+<url>http://mjpeg1.tendam.go.jp/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="柳津町">
+<url>http://town.yanaizu.fukushima.jp/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="未知系列23">
+<url>http://cam6289850.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="Hauppauge">
+<url>http://12.154.129.233/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="穴水町">
+<url>http://219.99.222.204/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+<video name="冲绳岛">
+<url>http://210.142.144.5/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列24">
+<url>http://tomarin.miemasu.net/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="横滨系列3">
+<url>http://sakae.miemasu.net:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="未知系列25">
+<url>http://210.157.229.42/-wvhttp-01-/GetOneShot?frame_count=no_limit&data=v.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>
