@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选" order="b" >
+		<city name="美洲精选2" type="1888" order="B" >
+			
+<video name="加拿大 安大略-Lansdowne 海边码头 -普清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 安大略-Lansdowne 海边码头 -高清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="加拿大 不列颠哥伦比亚-CampbellRiver  飞机场 -普清">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加拿大 不列颠哥伦比亚-CampbellRiver  飞机场 -高清">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="加拿大 魁北克-蒙特利尔  马路边 -普清">
+<url>http://69.70.220.2:1010/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+<video name="加拿大 安大略-布兰普顿  马路边2 -普清">
+<url>http://192.82.150.11:8085/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略-渥太华  gillies lake -普清">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+<video name="加拿大 安大略-渥太华  gillies lake -高清">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+<video name="加拿大 魁北克-蒙特利尔 openpowered数据中心 -普清">
+<url>http://67.212.67.30/axis-cgi/mjpg/video.cgi?resolution=320x240::1;dummy=1336901721213::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 魁北克-蒙特利尔 openpowered数据中心2 -普清">
+<url>http://206.41.81.10/mjpg/video.mjpg?resolution=320x240::1;dummy=1336901721213</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室1 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室2 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室4 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略-Kingston   马路风景 -普清">
+<url>http://130.15.110.15/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 安大略-萨德伯里  湖边2 -普清">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 安大略-萨德伯里  湖边2 -高清">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="加拿大 新不伦瑞克省-弗雷德里克顿  广场 -高清">
+<url>http://205.174.168.131/image?speed=1::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略-米西索加  广场地铁口 -普清">
+<url>http://142.240.200.10:1205/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  Sylvan Lake 湖边 风景区 -普清">
+<url>http://142.103.183.237/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336915286021::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-布兰普顿  大树婆娑 -普清">
+<url>http://192.82.150.11:8086/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-多伦多 汉博学院校园1 -普清">
+<url>http://192.75.71.60/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加拿大 安大略省-多伦多 汉博学院校园1 -高清">
+<url>http://192.75.71.60/mjpg/video.mjpg</url>
+</video>
+<video name="加拿大 安大略省-Barrie  露天实验室 -高清">
+<url>http://208.80.99.248:3385/image?speed=6::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克威尔 游艇码头 -普清">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-欧文桑德  海边风景 -普清">
+<url>http://216.183.137.241/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 魁北克-Dolbeau  碧海蓝天 -普清">
+<url>http://216.113.117.232/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  游艇码头 -普清">
+<url>http://pr_nh_webcam.axiscam.net:8000/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 英属哥伦比亚-维多利亚tatlla lake 风景 -普清">
+<url>http://142.29.203.232/cgi-bin/mjpg/video.cgi?resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 曼尼托巴-温尼伯 马路边01 -普清">
+<url>http://130.179.249.1/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336916653331::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 西北领地-黄刀镇 小村庄 -普清">
+<url>http://216.108.22.146:8848/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加拿大 西北领地-黄刀镇 小村庄 -高清">
+<url>http://216.108.22.146:8848/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="加拿大 安大略省-奥克维尔 路口松树01 -普清">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="墨西哥 Distrito Federal 海边浴场 -普清">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="墨西哥Guanajuato Distrito Irapuato   码头 -普清">
+<url>http://cimco-corp.com.mx:8003/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="墨西哥 Guerrero-Acapulco   海边码头 -普清">
+<url>http://200.33.20.35/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=240x180::1;data=v.mjpg</url>
+</video>
+<video name="墨西哥 Guerrero-Acapulco  海边码头 -高清">
+<url>http://200.33.20.35/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=480x360::1;data=v.mjpg</url>
+</video>
+<video name="墨西哥 Guerrero-Acapulco   海边浴场2 -普清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="墨西哥 Guerrero-Acapulco   海边浴场2 -高清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="墨西哥 Guerrero-Acapulco   室内走廊 -普清">
+<url>http://serviexternos.axiscam.net:8120/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 尼加拉瓜 教室 -普清">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 阿根廷 海边-高清">
+<url>http://200.59.36.195/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 
