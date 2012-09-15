@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国二" order="BD" >
+<city name="德国6" type="1888" order="F" >	
+	
+<video name="德国-北莱茵-威斯特法伦州 Herten 街边">
+<url>http://217.91.184.63:83/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州  野生动物">
+<url>http://217.91.102.155/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Leichlingen 室内3">
+<url>http://wp8.dyndns.org:8081/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Oer-erkenschwick 飞机场6">
+<url>http://edlm.dyndns.info:8081/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Velbert 扇形建筑">
+<url>http://217.5.197.4/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Welver 设备">
+<url>http://dno750.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  Trier 山林2">
+<url>http://deinweinberg.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Saarland  街道2">
+<url>http://webcam-sankt-arnual-saarbruecken-德国.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Beierfeld 景色2">
+<url>http://cam.spiegelwald.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 小运动场">
+<url>http://nierott-castle.dyndns.org:9080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Freienwill 高楼4">
+<url>http://mzinfo.dyndns.org:5002/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Kiel 金鱼缸">
+<url>http://mhirte.com:81/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因  闹市（有点卡）">
+<url>http://webcam-buesum.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Thuringen Nohra 天空">
+<url>http://axis-8a8b91.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国  山上景观">
+<url>http://217.66.38.59/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国 交通视频6">
+<url>http://217.91.184.63/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 山林风景2">
+<url>http://80.153.231.71/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Eppelheim 山林风景3">
+<url>http://kammerbauer.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Furtwangen 交通视频5">
+<url>http://141.28.126.76/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Hausen 会议室">
+<url>http://rqd.dyndns.org:8091/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Pfullendorf 野生动物2">
+<url>http://bund-volkertshausen.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州  城市景色12">
+<url>http://217.89.113.103/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Baldham 攀岩">
+<url>http://87.139.42.109:8091/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Engelsberg 山林风景7">
+<url>http://loider.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 M��nchen 城堡">
+<url>http://burggnandstein.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Miesbach  码头6">
+<url>http://bootswerft-fischer.selfip.org:88/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 汽车博物馆">
+<url>http://thiesen-berlin.dyndns.org:2530/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-勃兰登堡  Drebkau 广场9">
+<url>http://fiwa01markt.dyndns.biz:1252/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 城市风光13">
+<url>http://moritzberg.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Hessen Willingen  如画风景">
+<url>http://koehlerhagen.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

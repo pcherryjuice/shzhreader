@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="德国" order="BC" >
+    <city name="德国1" type="1" order="A" >	
+			<video name="# 德国1(单击加载)">
+				<url>city/world/deguo/deguo1.xml</url>
+			</video>
+		</city>	
+		<city name="德国2" type="1" order="B" >	
+			<video name="# 德国2(单击加载)">
+				<url>city/world/deguo/deguo2.xml</url>
+			</video>
+		</city>	
+		<city name="德国3" type="1" order="C" >	
+			<video name="# 德国3(单击加载)">
+				<url>city/world/deguo/deguo3.xml</url>
+			</video>
+		</city>	
+		<city name="德国4" type="1" order="D" >	
+			<video name="# 德国4(单击加载)">
+				<url>city/world/deguo/deguo4.xml</url>
+			</video>
+		</city>	
+    <city name="德国5" type="1" order="E" >	
+			<video name="# 德国5(单击加载)">
+				<url>city/world/deguo/deguo5.xml</url>
+			</video>
+		</city>	
+		<city name="德国6" type="1" order="F" >	
+			<video name="# 德国6(单击加载)">
+				<url>city/world/deguo/deguo6.xml</url>
+			</video>
+		</city>	
+		<city name="德国7" type="1" order="G" >	
+			<video name="# 德国7(单击加载)">
+				<url>city/world/deguo/deguo7.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+</provinces> 

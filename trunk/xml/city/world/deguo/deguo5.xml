@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国二" order="BD" >
+<city name="德国5" type="1888" order="E" >	
+	
+<video name="德国-北莱茵-威斯特法伦州  门前马路">
+<url>http://langecker1.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州  转盘雕像">
+<url>http://marienhagen.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Oer-erkenschwick 飞机场">
+<url>http://edlm.dyndns.info:8082/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Schwerte 林中小路3">
+<url>http://194.9.124.22/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Welver 交通路口5">
+<url>http://dno750.dyndns.org:1024/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Wuppertal 江边风景">
+<url>http://217.91.171.92/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Mockrehna 河边风光2">
+<url>http://pbad.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Hoisdorf 农家风光">
+<url>http://heidbarghof.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Kiel 窗外3">
+<url>http://chrissie.selfhost.tv:88/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因  楼下2">
+<url>http://sagerviertel.dyndns.org:2001/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Thuringen Altenburg 交通视频3">
+<url>http://knobloch.net:8893/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Thuringen Steinbach-hallenberg 小区泳池">
+<url>http://s1-server.dyndns.org/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国 城市风光7">
+<url>http://213.146.232.238/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 摩托车店">
+<url>http://80.149.72.146:10002/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 运动场">
+<url>http://87.139.20.112/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国 窗外风光4">
+<url>http://agoweb.dyndns.org:10025/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国 公司大楼4">
+<url>http://kamera1.grosswallstadt.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Heidelberg 博物馆2">
+<url>http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Ludwigsburg 窗外6">
+<url>http://eckardtscholz.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Pforzheim 公司室内-高清">
+<url>http://141.47.69.120/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Amberg 机械手产线">
+<url>http://195.37.42.101/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Buchloe 家庭门前监控">
+<url>http://pisl.homeip.net:81/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Munich 城市风景（旋转摄像头）">
+<url>http://gud.stadtwerke-neustrelitz.de:81/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Starnberg 城市风景10">
+<url>http://82.135.124.181/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 河边建筑2">
+<url>http://141.45.165.42/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-勃兰登堡  Brandenburg 小区风景2">
+<url>http://vfhcam1.fh-brandenburg.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Hessen Maintal 城市风光11">
+<url>http://urju.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 梅克伦堡-前波莫瑞 Rostock 河边风光5">
+<url>http://mdefinanz.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Garbsen 交通摄像头2">
+<url>http://alisch.homeip.net:7979/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Aldekerk 农场2">
+<url>http://axis-921b62.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Espelkamp 交通4">
+<url>http://blomberg-cam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Essen 建筑景点">
+<url>http://wetter-altenessen.dyndns.info:3080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Herne 小民居">
+<url>http://baucam.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

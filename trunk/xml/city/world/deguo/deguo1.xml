@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国" order="BC" >
+<city name="德国1" type="1888" order="A" >	
+	
+<video name="德国-拜耳 Wilhelm 室内">
+<url>http://glcam.dyndns.org:6670/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 林间马路">
+<url>http://glcam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 城市风景">
+<url>http://62.109.89.244/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 城市风景-高清">
+<url>rtsp://62.109.89.244/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-萨克森-安哈特州 Halle 城市风景">
+<url>http://webcam.geo.uni-halle.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-不来梅 Bremen 海滨浴场">
+<url>http://82.198.200.23/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-不来梅 Bremen 海滨浴场 -高清">
+<url>rtsp://82.198.200.23/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-拜耳 Amberg 城市风貌">
+<url>http://80.153.67.235/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Mettingen 城市大街">
+<url>http://212.95.127.207/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Amberg 实验室">
+<url>http://axisst1.fh-amberg-weiden.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="Germany 教堂">
+<url>http://94.125.79.44/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="Germany 教堂 -高清">
+<url>rtsp://94.125.79.44/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Freiburg 未知">
+<url>http://87.234.241.181:8011/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 湖边风光">
+<url>http://alice-alsterwebcam.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 湖边风光-高清">
+<url>rtsp://alice-alsterwebcam.de/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-下萨克森州 Celle 广场喷泉">
+<url>http://217.91.208.210/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="Germany 高尔夫球场">
+<url>http://webcam52.resort-fleesensee.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="Germany 高尔夫球场-高清">
+<url>http://webcam52.resort-fleesensee.de/mjpg/video.mjpg</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 交通路口">
+<url>http://213.23.182.10:5595/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 海滨浴场远景">
+<url>http://85.182.137.4/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 大楼">
+<url>http://ewg.dyndns.info/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 海滨浴场2">
+<url>http://85.182.137.3/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 海滨浴场2-高清">
+<url>http://85.182.137.3/mjpg/video.mjpg</url>
+</video>
+
+<video name="德国-萨克森  Dresden 城市风光">
+<url>http://preibisch.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Dresden 城市风光-高清">
+<url>http://preibisch.dyndns.org/mjpg/video.mjpg</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Oberkirchberg 教堂1">
+<url>http://141.59.40.80/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-勃兰登堡  Fichtenau 交通视频">
+<url>http://raibacam.axiscam.net/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Dortmund 田园风光">
+<url>http://92.79.131.87/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Lohmar 广场（有点卡）">
+<url>http://217.91.174.201/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  Wittlich 街道">
+<url>http://bernkastelcam.homedns.org/mjpg/video.mjpg?Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Chemnitz 未知摄像头">
+<url>http://jota.rapid-e.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

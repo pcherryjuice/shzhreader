@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="法国" order="BL" >
+<city name="法国1" type="1888" order="A" >	
+	
+<video name="阿尔萨斯  斯特拉斯堡接收器">
+<url>http://193.51.107.114/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 巴约讷山谷村落">
+<url>http://webcam.hahd.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 巴约讷山谷村落2">
+<url>http://83.173.72.77/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 佩萨克港湾">
+<url>http://217.128.236.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 Vallier 阿基坦郊外">
+<url>http://camera-c1.obs-azur.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 Vallier 阿基坦郊外3">
+<url>http://192.134.16.245/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥维涅 奥弗涅山脚下的村庄">
+<url>http://meteopeypin.dnsalias.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥维涅 Gerzat 热尔扎山坡鸟瞰">
+<url>http://sbhome63378.dyndns.org:16251/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Caen 诺曼底卡昂政府广场">
+<url>http://62.160.78.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Cabourg 诺曼底卡堡人行街">
+<url>http://62.160.44.43:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Caen 诺曼底卡昂球场2">
+<url>http://62.160.78.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Cabourg 诺曼底卡堡公园2">
+<url>http://62.160.44.43:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布列塔尼 Ploufragan 普卢弗拉冈度假村">
+<url>http://jerome.dnsalias.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布列塔尼 Fouillard 港湾">
+<url>http://h2owebcam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布鲁塞尔 莫奈酒店-远眺海岸">
+<url>http://81.56.208.39:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布鲁塞尔 莫奈酒店-码头">
+<url>http://193.251.95.237/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="香槟-阿登 Biesles 比耶勒人工湖">
+<url>http://alexvoves.axiscam.net:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="香槟-阿登 Troyes 特鲁瓦鸟瞰山脉">
+<url>http://vue-sud-est.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蓬塔利耶港湾">
+<url>http://jpfredric.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="勒阿弗尔海上游轮2">
+<url>http://webcam.ville-lehavre.fr/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="上诺曼底 Canteleu 康特勒室内">
+<url>http://82.233.208.89:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="上诺曼底  汽车美容店2">
+<url>http://82.238.177.185:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎室内">
+<url>http://www.premium-computer.fr:9006/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎室内2">
+<url>http://www.premium-computer.fr:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎室内3">
+<url>http://www.premium-computer.fr:9004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎电器维修室4">
+<url>http://www.premium-computer.fr:9003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎电器维修室5">
+<url>http://www.premium-computer.fr:9008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎小巷6">
+<url>http://www.premium-computer.fr:9005/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Draveil 海港">
+<url>http://81.255.79.81:20091/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎室内8">
+<url>http://premium-computer.fr:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Choisy-le-roi 海洋馆">
+<url>http://80.13.189.135/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

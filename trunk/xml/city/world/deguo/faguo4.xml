@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="法国" order="BL" >
+<city name="法国4" type="1888" order="D" >	
+	
+<video name="巴黎大区 Antony 办公室">
+<url>http://camera1.mairie-brest.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 未知室内">
+<url>http://82.127.121.157/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338256276776</url>
+</video>
+
+<video name="巴黎大区 Courbevoie 教堂2">
+<url>http://193.251.38.244:7001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="巴黎大区 Courbevoie 未知摄像头3">
+<url>http://www.serveurperso.com:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 海边监控-高清">
+<url>http://217.128.152.166:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 野外监控">
+<url>http://217.128.200.55/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="巴黎大区 Paris 电脑专卖店">
+<url>http://217.128.8.7:1003/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338264362938</url>
+</video>
+
+<video name="巴黎大区 Paris 城镇景色-高清">
+<url>http://193.252.10.108:5627/image?speed=0</url>
+</video>
+
+
+<video name="巴黎大区 Paris 高山美景">
+<url>http://80.11.204.211/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="巴黎大区 Paris 河边风光-高清">
+<url>http://80.11.112.67/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="洛林 Metz 工厂监控-高清1080p">
+<url>http://195.6.87.194:11000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Lorraine酒店-高清1080p">
+<url>http://tepacap.dyndns.org:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="南比利牛斯  滑板游乐场">
+<url>http://217.128.124.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="皮卡第 Rue 海边-高清">
+<url>http://webcam-cayeux.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="皮卡第 码头2-高清">
+<url>http://193.251.36.248/image?speed=0</url>
+</video>
+
+<video name="皮卡第 Coye-la-forut 宠物猫小屋">
+<url>http://80.13.181.112:1026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯  未知摄像头">
+<url>http://tarotchili7.oamp.fr/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338270320301</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 d'Azur France 观光缆车-高清">
+<url>http://web-alpen.no-ip.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Valence 家庭监控-花园（高清）">
+<url>http://80.13.130.243:4200/image?speed=0</url>
+</video>
+
+<video name="罗纳阿尔卑斯 France 广场-高清">
+<url>http://81.80.79.202:7001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

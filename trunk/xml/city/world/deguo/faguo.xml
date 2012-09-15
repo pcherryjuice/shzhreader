@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="法国" order="BL" >
+<city name="法国1" type="1888" order="A" >	
+			<video name="#  法国1(单击加载)">
+				<url>city/world/deguo/faguo1.xml</url>
+			</video>
+		</city>	
+		<city name="法国2" type="1" order="B" >	
+			<video name="#  法国2(单击加载)">
+				<url>city/world/deguo/faguo2.xml</url>
+			</video>
+		</city>	
+		<city name="法国3" type="1" order="C" >	
+			<video name="#  法国3(单击加载)">
+				<url>city/world/deguo/faguo3.xml</url>
+			</video>
+		</city>	
+		<city name="法国4" type="1" order="D" >	
+			<video name="#  法国4(单击加载)">
+				<url>city/world/deguo/faguo4.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+
+</provinces> 
