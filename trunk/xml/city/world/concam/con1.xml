@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="可控摄像头" order="H" >
+<city name="可控摄像头1" type="1888" order="A" >	
+
+
+<video name="中国 澳门大街">
+<url>http://iacm-wcam1.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门景点">
+<url>http://iacm-wcam4.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门广场">
+<url>http://iacm-wcam5.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门广场大楼">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="中国 澳门政府大楼前">
+<url>http://wcam3.iacm.gov.mo/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="德国 公司大楼4">
+<url>http://kamera1.grosswallstadt.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="德国-巴登-符腾堡州 Ludwigsburg 窗外6">
+<url>http://eckardtscholz.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="德国-拜耳 Munich 城市风景（旋转摄像头）">
+<url>http://gud.stadtwerke-neustrelitz.de:81/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="德国-拜耳 Starnberg 城市风景10">
+<url>http://82.135.124.181/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="德国-北莱茵-威斯特法伦州  野生动物">
+<url>http://217.91.102.155/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video-->
+<video name="德国-北莱茵-威斯特法伦州 Welver 设备">
+<url>http://dno750.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-萨克森  Beierfeld 景色2">
+<url>http://cam.spiegelwald.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 小运动场">
+<url>http://nierott-castle.dyndns.org:9080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 后院">
+<url>http://nierott-castle.dyndns.org:9020/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国 停车场8">
+<url>http://vitalien.viewnetcam.com:24837/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="德国-北莱茵-威斯特法伦州  气象监测">
+<url>http://aros.dyndns.tv:5005/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video-->
+<video name="美国-宾州 Aston 停车场">
+<url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="美国-宾州 Richland 小鸟监控">
+<url>http://birdcam.hartshornarboretum.com/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="美国-宾州 East Earl 气候监测摄像头">
+<url>http://nhpa-cam1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-Earl 宾州 十字路口2">
+<url>http://nhpa-cam.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="美国-宾州 Flourtown 游乐场">
+<url>http://pmm.mainlinehobbies.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-南卡罗来纳州 Greenville  服务器机房">
+<url>http://rack.nobelsys.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-南卡罗来纳州 Mount Pleasant  桥2">
+<url>http://mailserver.charlestonharborresort.com:1123/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-南卡罗来纳州 Mount Pleasant  游艇码头4">
+<url>http://mailserver.charlestonharborresort.com:1122/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="美国-南卡罗来纳州 Myrtle Beach  海边7">
+<url>http://208.65.20.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-南达科他州 Sturgis  大街">
+<url>http://209.159.224.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-田纳西州 Madison 荒漠">
+<url>http://cam.balloonfacility.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 湖">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 湖-高清">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg</url>
+</video>
+<video name="奥地利 蒂罗尔州 Kufstein 酒店 -普清">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 蒂罗尔州 Kufstein 酒店 -高清">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=704x480::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 卡尔滕 Klagenfurt 山村风景2 -普清">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 卡尔滕 Klagenfurt 山村风景2 -高清">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf  小山坡 -普清">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf  小山坡 -高清">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf  索道 -普清">
+<url>http://80.75.241.227/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 上奥地利 Pfarrkirchen 山林美景 -普清">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 上奥地利 Pfarrkirchen 山林美景 -高清">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="奥地利 上奥地利 Steyr 市区实景 -普清">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 上奥地利 Steyr 市区实景 -高清">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="奥地利 上奥地利 Neuhofen河流  -普清">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 上奥地利 Neuhofen河流  -高清">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="奥地利 蒂罗尔州 Hall In Tiro街道 -普清">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 蒂罗尔州 Hall In Tiro街道 -高清">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Dornbirn gemma宾馆 -普清">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Dornbirn gemma宾馆 -高清">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 码头01-高清">
+<url>http://matsushimaharbor.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Hachioji 宠物护理店2（有时会关闭）">
+<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Hachioji 宠物护理店2-高清">
+<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 十字路口16">
+<url>http://shibuya01.ipcam.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Chofu 前台">
+<url>http://schoolben-tsuruse.miemasu.net:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="日本东京 日本 东京 Tokyo 海边17">
+<url>http://sunset.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="日本东京 日本 东京 Tokyo 大夏广场20">
+<url>http://01002demo.hsd.shell.link-life.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 小区马路30（有美女经过）">
+<url>http://gyozakan-event2.dyndns.info/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo  室内监控36">
+<url>http://pet.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="日本东京 日本 东京 Tokyo 29">
+<url>http://cam262280.miemasu.net:60010/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="日本东京 日本 东京 Tokyo 未知38">
+<url>http://60.45.63.26:8086/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 未知摄像头39">
+<url>http://sasayama.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama乡村小路   -普清">
+<url>http://scam.ps-j.com:5888/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama小村小路    -高清">
+<url>http://scam.ps-j.com:5888/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Sagamihara金鱼缸  -普清">
+<url>http://fullmoon-newmoon.ddo.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Sagamihara金鱼缸   -高清">
+<url>http://fullmoon-newmoon.ddo.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama办公室  -普清">
+<url>http://daichi-yokohama.homeip.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama办公室  -高清">
+<url>http://daichi-yokohama.homeip.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka沿海马路  -普清">
+<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka沿海马路  -高清">
+<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama玩具熊  -普清">
+<url>http://cam262280.miemasu.net:60005/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama玩具熊  -高清">
+<url>http://cam262280.miemasu.net:60005/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="日本 神奈川 Yokohama酒店内景  -普清">
+<url>http://60.33.108.92/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama酒店内景  -高清">
+<url>http://60.33.108.92/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="日本 神奈川 Fujisawa酒店内景  -普清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Fujisawa酒店内景  -高清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Sumida 东京塔景">
+<url>http://tree.dip.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 交通路口102">
+<url>http://121.2.68.167:60153/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 布玩具103">
+<url>http://cam262280.miemasu.net:60009/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 停车场104">
+<url>http://cam80761.miemasu.net:60015/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 林中小路113-高清（有点卡）">
+<url>http://bunanomi.sun.ddns.vc:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 玩具出售店114">
+<url>http://cam262280.miemasu.net:60008/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 家门口120">
+<url>http://220.32.116.74/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 未知摄像头121">
+<url>http://222.147.66.164:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 布娃娃玩具店7">
+<url>http://cam262280.miemasu.net:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 废品处理厂1">
+<url>http://cam302300.miemasu.net:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 交通路口132">
+<url>http://networkcamera.ddo.jp:60151/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 Japan Tokyo Tokyo 高楼133">
+<url>http://pcc.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 音响体验室-高清">
+<url>http://webcam.kenricksound.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 天空149">
+<url>http://220.110.180.230/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 水稻田-高清">
+<url>http://suke-farm.ddo.jp:10002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 山林美景153">
+<url>http://virahp-camera2.osarika.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 交通视频154">
+<url>http://www.networkcamera.mydns.jp:60155/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 未知178">
+<url>http://madoy-shinbashi.ddo.jp:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 179">
+<url>http://networkcamera.ddo.jp:60153/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 大厦188">
+<url>http://mtc1.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本东京 日本 东京 Tokyo 海边风景194">
+<url>http://www.kantan.dyndns.org:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理工厂  -普清">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理工厂  -高清">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka工地  -普清">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka 工地  -高清">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka二本松办公室  -普清">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka二本松办公室  -高清">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="日本 神奈川 Yokohama天台摄像头  -普清">
+<url>http://camera.16g.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama天台摄像头  -高清">
+<url>http://camera.16g.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="日本 神奈川 Yokohama运动场  -普清">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama运动场  -高清">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Fujisawa马路  -普清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Fujisawa马路  -高清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama停车场  -高清">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokosuka停车场  -普清">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理厂  -普清">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理厂  -高清">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 日本冈崎精工 办公室 -普清">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 日本冈崎精工 办公室 -高清">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城 -普清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城 -高清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城2 -普清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城2 -高清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 名古屋 停车场 -高清">
+<url>http://frontier.aa5.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 Ichinomiya  f6工厂 -普清">
+<url>http://221.189.255.11:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 Ichinomiya  f6工厂 -高清">
+<url>http://221.189.255.11:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 宫市  f2工厂南侧门 -普清">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 宫市  f2工厂南侧门 -高清">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 Nishio  海边浪涌 -普清">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 Nishio  海边浪涌 -高清">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 丰田公司  窗外 -普清">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 爱知 丰田公司  窗外 -高清">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="日本 北海道 海道银行  -普清">
+<url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 海道银行 -高清">
+<url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="日本 北海道 Sapporo海边岛屿 -高清">
+<url>http://shiretoko.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Bibai海边马路2 -普清">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Bibai海边马路2 -高清">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Sapporo海边码头 -普清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Sapporo海边码头 -高清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Chuo停车场 -普清">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Chuo停车场 -高清">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Sapporo大棚农场 -普清">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="日本 北海道 Sapporo大棚农场 -高清">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
