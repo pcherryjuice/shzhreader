@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="波兰" order="CI" >
+<city name="波兰2" type="1888" order="B" >	
+
+<video name="琴斯托霍瓦 塔2">
+<url>http://212.87.237.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科沙林住宅区4">
+<url>http://62.108.171.67/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Stargard Szczecinski Zachodniopomorskie 西滨海球场">
+<url>http://213.199.197.133:5000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Zachodniopomorskie Trzeszczyn 海港">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Lubelskie Chelmiec 山坡">
+<url>http://czerwienne.dyndns.org:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="仓库9">
+<url>http://85.219.227.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Slaskie Katowice 卡托维兹郊外">
+<url>http://placowka.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="楼顶11">
+<url>http://178.219.29.149/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="小波兰省  克拉科夫水库闸门4">
+<url>http://dwstanislawa.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="小波兰省 克拉科夫 房屋与马路7">
+<url>http://83.13.235.50:550/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="凯尔采 户外">
+<url>http://kamera.wseip.edu.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pila Czarnkuw 排屋2">
+<url>http://87.204.161.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="比亚威斯托克 3">
+<url>http://83.175.144.131:8888/image?speed=2</url>
+</video>
+
+<video name="Warminsko-Mazurskie Olsztyn 城市风景">
+<url>http://213.184.21.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="小波兰省 Polska 2 乡村小河">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338044395430</url>
+</video>
+
+<video name="小波兰省 Polska 2 乡村小河2">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1338044395430</url>
+</video>
+
+<video name="城市风景3">
+<url>http://217.153.4.163/image?speed=2::1;resolution=352x240</url>
+</video>
+
+<video name="城市风景4">
+<url>http://217.144.203.103/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="城市风景5">
+<url>http://80.245.179.170/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338044900488</url>
+</video>
+
+<video name="Zachodniopomorskie Szczecin 未知摄像头3">
+<url>http://axis-86c9fe.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pomorskie Gdynia 码头">
+<url>http://194.150.246.3:88/cgi-bin/mjpg/video.cgi?1338044981595</url>
+</video>
+
+<video name="Zachodniopomorskie Tymien 灯塔入口">
+<url>http://kam01.eez.pl/image?speed=0</url>
+</video>
+
+<video name="广场8">
+<url>http://195.200.199.42/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338045148290</url>
+</video>
+
+<video name="Lubelskie Terespol 野外游乐场">
+<url>http://94.40.18.62/image?speed=1</url>
+</video>
+
+<video name="小波兰省  码头分光4-高清">
+<url>http://217.153.19.3/image?speed=5</url>
+</video>
+
+<video name="华沙 城市交通路口">
+<url>http://195.74.79.83:30/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Dolnoslaskie Karpacz 古城堡">
+<url>http://wang.dyndns.org/axis-cgi/mjpg/video.cgi?resolution=320x240</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

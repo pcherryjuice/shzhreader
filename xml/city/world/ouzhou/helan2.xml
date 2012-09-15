@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="荷兰" order="DA" >
+<city name="荷兰2" type="1888" order="B" >	
+
+<video name="荷兰.上艾瑟尔 Zwolle 兹沃勒特色建筑">
+<url>http://bouwcam.windesheim.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Almelo 阿尔默洛陈物柜2">
+<url>http://188.204.246.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Lettele 农场">
+<url>http://62.132.88.201:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 恩斯赫德室内7">
+<url>http://gw-ozlab-cam9.gw.utwente.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Heino 海诺街道">
+<url>http://kulturhus.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Almelo 阿尔默洛公路4">
+<url>http://86.94.55.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Utrecht 乌得勒支室内">
+<url>http://145.89.196.199/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Utrecht 乌得勒支大楼俯瞰2">
+<url>http://antonius.mediq.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Breukelen 布勒克伦旋转摄像头">
+<url>http://87.215.200.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Breukelen 布勒克伦工地2">
+<url>http://188.201.33.65:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Ijsselstein 艾瑟尔斯泰恩小院一角">
+<url>http://olbert.xs4all.nl:563/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.乌德勒支 Uithoorn 遥望田野">
+<url>http://80.126.7.201/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.乌德勒支 De Bilt  欧罗巴洲小院一角">
+<url>http://145.99.217.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.泽兰省 Aardenburg 阿尔登堡遥望大海">
+<url>http://strandheuvelrouter.dhis.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.泽兰省 Vrouwenpolder 弗劳文波尔德露天停车场">
+<url>http://92.70.106.164:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Delft 代尔夫特水池">
+<url>http://tuincam.bt.tudelft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Sliedrecht 河边上的建筑">
+<url>http://camera.sliedrecht.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Zoetermeer 祖特梅尔海边旋转摄像头">
+<url>http://snmcamera.xs4all.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Delft 代尔夫特会议室2">
+<url>http://cam-cityhall1.delft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Ridderkerk 里德凯尔克湖边美景">
+<url>http://92.254.52.236/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.南荷兰省 Woerden 武尔登桥头监控">
+<url>http://83.160.69.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Brielle 布里勒餐厅">
+<url>http://188.203.193.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Rotterdam 鹿特丹田野3">
+<url>http://wscr.mine.nu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Voorburg 福尔堡郊外">
+<url>http://82.93.241.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Voorburg 福尔堡 路口2">
+<url>http://82.93.241.220:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Zoetermeer 祖特梅尔溜冰场2">
+<url>http://87.213.108.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.德伦特省 Havelte 城堡鸟瞰（高清）">
+<url>http://heetenkerk.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.德伦特省 Havelte 教堂2（高清）">
+<url>http://koorheeten.viewnetcam.com:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Oisterwijk 停车场（高清）">
+<url>http://webcam.parelnet.nl/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 码头（高清）">
+<url>http://81.204.25.231/image?speed=0</url>
+</video>
+
+<!--video name="荷兰.北荷兰省 Limmen 建筑工地（实时图片）">
+<url>http://easyonnet.viewnetcam.com/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video-->
+
+<video name="荷兰.北荷兰省 Hoorn 海边沙滩（高清）">
+<url>http://84.80.145.179:4000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 大学校园9">
+<url>http://62.21.250.51/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.北荷兰省 Haarlem 码头2（高清）">
+<url>http://webcam.kogeka.nl/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 未知摄像头">
+<url>http://gw-ozlab-cam2.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158590451</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室3">
+<url>http://gw-ozlab-cam4.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158630634</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室4">
+<url>http://gw-ozlab-cam5.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158835977</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室5">
+<url>http://gw-ozlab-cam6.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158882832</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室6">
+<url>http://gw-ozlab-cam7.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158916753</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Almelo 乡村小桥">
+<url>http://194.45.93.19/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室12">
+<url>http://gw-ozlab-cam8.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342159298360</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 电教室8">
+<url>http://gw-ozlab-cam3.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342159454887</url>
+</video>
+
+<video name="荷兰.乌德勒支 Utrecht 农场2">
+<url>http://webcamleeuwarden.aocfriesland.nl/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video>
+
+
+<video name="荷兰.南荷兰省 Vlaardingen 未知摄像头">
+<url>http://86.83.249.76/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Woubrugge 建筑工地（高清）">
+<url>http://213.247.125.242/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰南荷兰省 Hoek Van Holland  码头（高清）">
+<url>http://31.160.70.190/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.南荷兰省 Leiden 高楼（高清）">
+<url>http://132.229.166.30:666/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.南荷兰省 Gorinchem 城市风景（高清）">
+<url>http://webcam.spijksepoort.nl/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.南荷兰省 Delft 天线3">
+<url>http://delficam.ewi.tudelft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.南荷兰省 Delft 教堂4">
+<url>http://cam-cityhall2.delft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Oudemirdum 灯塔">
+<url>http://80.101.167.243/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰弗里斯兰省 Sint Nicolaasga 停车场2">
+<url>http://webcam.depoort.nl:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Franeker 广场2">
+<url>http://213.197.215.109:60005/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Doorwerth 停车场2（高清）4">
+<url>http://www.bwired.nl:89/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Arnhem 大风车（高清）">
+<url>http://87.209.17.220/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰海尔德兰省 De Glind 运动场">
+<url>http://82.92.48.123:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Nijmegen 未知摄像头">
+<url>http://131.174.53.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Wageningen 窗外建筑工地3">
+<url>http://fel-cam.science.ru.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342161090419</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Arnhem 运动场的设备3">
+<url>http://citant.xs4all.nl:8081/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="荷兰.林堡省 Lemiers 游乐园">
+<url>http://lemiers2.24-secure.nl/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="荷兰.林堡省 Ottersum 古城堡2">
+<url>http://212.178.137.124/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342161478256</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Boxmeer 未知摄像头2">
+<url>http://62.132.206.116/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

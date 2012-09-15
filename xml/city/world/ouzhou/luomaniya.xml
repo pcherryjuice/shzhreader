@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="罗马尼亚" order="DI" >
+<city name="罗马尼亚" type="1888" order="A" >	
+
+<video name="罗马尼亚 Arad Arad 市中心">
+<url>http://webcam2.primariaarad.ro:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 Arad Arad 政府大楼2">
+<url>http://webcam1.primariaarad.ro:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 路边停车场">
+<url>http://194.88.238.16/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 广场石桌-高清">
+<url>http://86.35.24.45:8208/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 购物大楼-高清">
+<url>http://86.127.117.153:50000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arad Orastie 交通路口-高清">
+<url>http://89.120.220.133/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Dolj Craiova 喷泉广场-高清">
+<url>http://82.77.65.43:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Brasov Brasov 交通路口2">
+<url>http://ru-auto.unitbv.ro/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 大楼风景2-高清">
+<url>http://86.123.165.154/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 公园石门3-高清">
+<url>http://86.35.24.45:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Tulcea Tulcea 市中心广场-高清1080p">
+<url>http://85.204.149.242:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 交通路口4-高清">
+<url>http://141.85.0.88:8083/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 城市风貌3-高清">
+<url>http://86.122.68.20:5678/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arad Salonta 城市风貌-高清1080p">
+<url>http://82.77.143.33/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 广场2-高清">
+<url>http://86.122.68.20:6789/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 游乐园-高清">
+<url>http://86.122.68.20:46537/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 园林-高清1080p">
+<url>http://skela.emvatelecom.ro:1000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Mures Sovata 公园小湖-高清">
+<url>http://89.36.175.102/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 2 林中小路-高清">
+<url>http://86.127.117.116/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 2路边停车场-高清">
+<url>http://skela.emvatelecom.ro:1001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 游乐场5-高清">
+<url>http://93.113.207.253/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 山顶观光台3-高清">
+<url>http://92.86.1.90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Brasov Brasov 2 高山风貌-高清">
+<url>http://86.125.80.200/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Buzau Buzau 3 城市风貌4-高清">
+<url>http://86.127.117.29/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Dolj Craiova 城市中心广场2-高清">
+<url>http://82.77.65.43:8208/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 4 高速路口">
+<url>http://195.182.198.2/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 5 购物广场-高清">
+<url>http://89.238.221.138/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 古城风貌6-高清">
+<url>http://86.123.165.155/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Odorheiu Secuiesc Harghita 罗马尼亚 花店-高清">
+<url>http://m-holding.com:1026/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 Iasi Iasi Unirea酒店-高清">
+<url>http://82.208.151.106:8053/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Mehedinti Petrosani 游乐场-高清">
+<url>http://www.orasuluricani.ro:9080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bistrita-Nasaud Bistrita 工厂监控摄像头-高清">
+<url>http://85.186.111.19/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 停车场入口7-高清">
+<url>http://141.85.0.88:8082/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 镇中心广场6">
+<url>http://213.177.1.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 城市风貌8-高清">
+<url>http://89.120.64.80/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Targu Jiu Gorj 罗马尼亚 公园草地-高清">
+<url>http://86.127.69.82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 公路大转盘7-高清">
+<url>http://86.123.230.156/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Ilfov Crevedia 渡轮码头-高清">
+<url>http://89.122.192.137:40000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Ilfov Crevedia 渡轮码头2-高清">
+<url>http://89.122.192.137:40003/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Timis Timisoara 交通路口2-高清">
+<url>http://89.35.149.78/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Alba Iulia Alba  交通路口">
+<url>http://193.231.246.7/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗马尼亚 Galati Galati 花卉市场3-高清">
+<url>http://floricultura.dyndns.info/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Arges Mioveni 交通路口6-高清">
+<url>http://86.122.68.20:27482/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗马尼亚 Bucuresti Bucharest 广场13-高清">
+<url>http://93.113.207.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞典" order="DB" >
+<city name="瑞典2" type="1888" order="B" >	
+
+
+<video name="瑞典-卡尔马 Borgholm  小镇集市（高清）">
+<url>http://194.218.96.92/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-卡尔马 Vimmerby  城市广场">
+<url>http://195.67.26.73/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-卡尔马 Vimmerby  城市广场（高清）">
+<url>http://195.67.26.73/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm 城镇集市2">
+<url>http://194.218.96.93/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm 城镇集市2（高清）">
+<url>http://194.218.96.93/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm 城市广场3">
+<url>http://194.218.96.90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm 城市广场3（高清）">
+<url>http://194.218.96.90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm 游艇码头4">
+<url>http://194.218.96.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Arjeplog 城市风貌">
+<url>http://194.103.218.15/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞典-北博滕 Arjeplog 城市风貌（高清）">
+<url>http://194.103.218.15/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞典-北博滕 酒吧内景（高清）">
+<url>http://bonzerosa.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-北博滕 宾馆外景2（高清）">
+<url>http://bonzerosa.dyndns.org:1024/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 城市风貌2">
+<url>http://193.45.231.73/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 城市风貌2（高清）">
+<url>http://193.45.231.73/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 Pajala 城市风貌3">
+<url>http://195.196.36.242/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Pajala 城市风貌3（高清）">
+<url>http://195.196.36.242/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 Kalix 河边小码头">
+<url>http://www.stugan.dnsalias.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Kalix 河边小码头（高清）">
+<url>http://www.stugan.dnsalias.net:8000/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 城市风貌4">
+<url>http://193.45.228.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 城市风貌4（高清）">
+<url>http://193.45.228.92/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 路边旅馆">
+<url>http://194.117.188.37/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 路边旅馆（高清）">
+<url>http://194.117.188.37/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 山林美景5">
+<url>http://83.150.146.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 河流2">
+<url>http://194.117.186.205/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-北博滕 Kiruna 高山平湖5">
+<url>http://83.150.146.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 城市大街3">
+<url>http://webkamera.overtornea.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 城市大街3（高清）">
+<url>http://webkamera.overtornea.se/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-北博滕 Haparanda 城市观光旋转摄像头">
+<url>http://194.117.170.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-北博滕 Haparanda 城市观光旋转摄像头（高清）">
+<url>http://194.117.170.14/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-北博滕 Pajala 飞机场2">
+<url>http://195.196.35.91/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-厄勒布鲁 Karlskoga  市中心广场2">
+<url>http://195.22.74.63/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-厄勒布鲁 Karlskoga  市中心广场2（高清）">
+<url>http://195.22.74.63/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-厄勒布鲁 Karlskoga 停车场2">
+<url>http://bilkamera.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-厄勒布鲁 大厦广场">
+<url>http://webbkamera.ljusnarsberg.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-厄勒布鲁 大厦广场（高清）">
+<url>http://webbkamera.ljusnarsberg.se/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型">
+<url>http://extcam-5.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 江边风景">
+<url>http://217.211.159.251:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型2">
+<url>http://extcam-2.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型3">
+<url>http://extcam-7.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 公园">
+<url>http://webbkamera.engelholm.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Helsingborg 乡村景色3（高清）">
+<url>http://bjorka.no-ip.org:81/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342281483248</url>
+</video>
+
+<video name="瑞典-斯科耐 Kristianstad 停车场3">
+<url>http://yachtklubb.dynalias.com:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 小花园">
+<url>http://stentoftacam1.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 小花园（高清）">
+<url>http://stentoftacam1.axiscam.net/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景7">
+<url>http://extcam-3.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景7（高清1080p）">
+<url>http://extcam-3.se.axis.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景11">
+<url>http://extcam-6.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Vitaby 田野">
+<url>http://stentoftacam2.axiscam.net:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Vitaby 田野（高清）">
+<url>http://stentoftacam2.axiscam.net:81/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型12">
+<url>http://extcam-10.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型13">
+<url>http://extcam-16.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Vitaby 私家花园2">
+<url>http://stentoftacam2.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 城市风景2">
+<url>http://194.68.33.208/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 城市风景2（高清）">
+<url>http://194.68.33.208/mjpg/video.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

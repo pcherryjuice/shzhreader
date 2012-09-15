@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="西班牙" order="DC" >
+<city name="西班牙" type="1" order="A" >	
+
+
+<video name="西班牙.安达路西亚  小镇风景">
+<url>http://150.214.222.100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  路口">
+<url>http://88.2.164.213:8086/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Roquetas De Mar 罗克塔斯天空与湖">
+<url>http://83.61.22.4:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Marbella 马尔韦利亚游泳池">
+<url>http://217.126.29.11:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 格拉纳达楼顶天台">
+<url>http://jmirallas.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 塞维利亚小镇风光2">
+<url>http://80.59.58.50:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Algodonales 阿尔戈多纳莱斯郊外">
+<url>http://80.38.183.149:2000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  郊外3">
+<url>http://150.214.222.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  郊外4">
+<url>http://150.214.222.102/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  墙5">
+<url>http://bisobodega.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 草与天空4">
+<url>http://161.111.233.168/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 小型飞机场">
+<url>http://aerodromo.redirectme.net:5051/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 郊外的公路4">
+<url>http://150.214.222.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Gelves 湖泊上的船">
+<url>http://webcampuntilla.dnsalias.com:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Algodonales 露天泳池2">
+<url>http://80.38.180.52:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Baeza 巴埃萨教堂">
+<url>http://89.140.32.19:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Baeza 俯瞰山林2">
+<url>http://89.140.32.19:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿拉贡 Huesca 韦斯卡山林">
+<url>http://80.26.18.160:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿拉贡 Zaragoza 萨拉戈萨十字路口">
+<url>http://80.34.88.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 奥维耶多球场2">
+<url>http://156.35.98.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Cangas De  小食店门口">
+<url>http://r3.axiscam.net:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Tarajalejo 瞭望海滩">
+<url>http://camara-niza.serveftp.com:8060/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Las Palmas  海岸">
+<url>http://miplaya2.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Las Palmas  海岸2">
+<url>http://penalavieja.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santander 桑坦德鸟瞰">
+<url>http://webcamsantander.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santa Cruz  公路一角">
+<url>http://trafico.sctfe.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santander 桑坦德海滩4">
+<url>http://80.36.62.47:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Bembibre Castillay  本比夫雷山下的民房">
+<url>http://80.34.10.53:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Valladolid Castillay  巴利亚多利德海中岛">
+<url>http://80.36.124.72:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Segovia Castillay  塞哥维亚海湾">
+<url>http://80.38.191.70:5900/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Burgos Castillay  布尔戈斯大楼门口">
+<url>http://88.2.219.69:8003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂  Carucedo Castillay 卡鲁塞多树林">
+<url>http://grichandana.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Cuenca 昆卡街景">
+<url>http://195.235.198.107:3346/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Albacete 阿尔瓦塞特院子">
+<url>http://hoyagonzalo.dyndns.tv/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Albacete 阿尔瓦塞特山脉2">
+<url>http://213.96.108.142:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Cuenca 昆卡街景2">
+<url>http://195.235.198.107:3344/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="西班牙.加泰罗尼亚 Agramunt 阿格拉蒙特与天空">
+<url>http://217.125.97.245:3333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那蛋糕店">
+<url>http://lechuga.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Igualada 伊瓜拉达山景">
+<url>http://88.2.215.73:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那街边小食店2">
+<url>http://212.170.22.153:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 La Bisbal  加泰罗尼港湾">
+<url>http://217.126.89.102:8020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚  山间公路">
+<url>http://www.tecmun.cat:50000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Lleida 列伊达草坪">
+<url>http://mollerusa.axiscam.net:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Llorens 草牙.安达路西亚 Roquetas De Mar 罗克塔斯天空与湖">
+<url>http://83.61.22.4:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Marbella 马尔韦利亚游泳池">
+<url>http://217.126.29.11:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 格拉纳达楼顶天台">
+<url>http://jmirallas.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 塞维利亚小镇风光2">
+<url>http://80.59.58.50:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Algodonales 阿尔戈多纳莱斯郊外">
+<url>http://80.38.183.149:2000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  郊外3">
+<url>http://150.214.222.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  郊外4">
+<url>http://150.214.222.102/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚  墙5">
+<url>http://bisobodega.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="西班牙.安达路西亚 Sevilla 草与天空4">
+<url>http://161.111.233.168/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 小型飞机场">
+<url>http://aerodromo.redirectme.net:5051/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Granada 郊外的公路4">
+<url>http://150.214.222.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Gelves 湖泊上的船">
+<url>http://webcampuntilla.dnsalias.com:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Algodonales 露天泳池2">
+<url>http://80.38.180.52:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Baeza 巴埃萨教堂">
+<url>http://89.140.32.19:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.安达路西亚 Baeza 俯瞰山林2">
+<url>http://89.140.32.19:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿拉贡 Huesca 韦斯卡山林">
+<url>http://80.26.18.160:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿拉贡 Zaragoza 萨拉戈萨十字路口">
+<url>http://80.34.88.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 奥维耶多球场2">
+<url>http://156.35.98.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Cangas De  小食店门口">
+<url>http://r3.axiscam.net:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Tarajalejo 瞭望海滩">
+<url>http://camara-niza.serveftp.com:8060/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Las Palmas  海岸">
+<url>http://miplaya2.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Las Palmas  海岸2">
+<url>http://penalavieja.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santander 桑坦德鸟瞰">
+<url>http://webcamsantander.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santa Cruz  公路一角">
+<url>http://trafico.sctfe.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.坎塔布里亚 Santander 桑坦德海滩4">
+<url>http://80.36.62.47:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Bembibre Castillay  本比夫雷山下的民房">
+<url>http://80.34.10.53:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Valladolid Castillay  巴利亚多利德海中岛">
+<url>http://80.36.124.72:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Segovia Castillay  塞哥维亚海湾">
+<url>http://80.38.191.70:5900/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂 Burgos Castillay  布尔戈斯大楼门口">
+<url>http://88.2.219.69:8003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.莱昂  Carucedo Castillay 卡鲁塞多树林">
+<url>http://grichandana.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Cuenca 昆卡街景">
+<url>http://195.235.198.107:3346/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Albacete 阿尔瓦塞特院子">
+<url>http://hoyagonzalo.dyndns.tv/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Albacete 阿尔瓦塞特山脉2">
+<url>http://213.96.108.142:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.卡斯蒂利亚-拉曼恰 Cuenca 昆卡街景2">
+<url>http://195.235.198.107:3344/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="西班牙.加泰罗尼亚 Agramunt 阿格拉蒙特与天空">
+<url>http://217.125.97.245:3333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那蛋糕店">
+<url>http://lechuga.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Igualada 伊瓜拉达山景">
+<url>http://88.2.215.73:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那街边小食店2">
+<url>http://212.170.22.153:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 La Bisbal  加泰罗尼港湾">
+<url>http://217.126.89.102:8020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚  山间公路">
+<url>http://www.tecmun.cat:50000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Lleida 列伊达草坪">
+<url>http://mollerusa.axiscam.net:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Llorens 草坡">
+<url>http://bellcam2.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Igualada 伊瓜拉达小巷2">
+<url>http://88.2.215.148:6666/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那民宅广场3">
+<url>http://213.4.39.6:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Central 金鱼馆">
+<url>http://83.175.209.26:94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Castellet 民宅广场">
+<url>http://212.121.228.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Gualba 钟楼侧面">
+<url>http://meteomontalt.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Navata 沙滩">
+<url>http://217.126.88.175:221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

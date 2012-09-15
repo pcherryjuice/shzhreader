@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="奥地利" order="CC" >
+<city name="奥地利4" type="1888" order="D" >	
+
+<video name="奥地利 萨尔茨堡 Schwarzach高尔夫球场-D  -普清">
+<url>http://83.215.88.195:15080/mjpg/4/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg风景4  -普清">
+<url>http://195.70.117.15/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="奥地利 萨尔茨堡 Salzburg风景4   -高清">
+<url>http://195.70.117.15/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+
+<video name="奥地利 蒂罗尔州 Hall In Tiro街道 -普清">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 蒂罗尔州 Hall In Tiro街道 -高清">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Hall In Tiro街道 -普清">
+<url>http://87.247.196.237:62023/jpg/image.jpg?resolution=352x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Hall In Tiro街道 -高清">
+<url>http://87.247.196.237:62023/jpg/image.jpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Gurtis街道2 -普清">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Gurtis街道2 -高清">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Feldkirch雪山 -普清">
+<url>http://88.116.117.219/jpg/1/image.jpg?resolution=352x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Feldkirch雪山 -高清">
+<url>http://88.116.117.219/jpg/1/image.jpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Feldkirch碧草绿林 -普清">
+<url>http://88.116.112.202/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Feldkirch碧草绿林 -高清">
+<url>http://88.116.112.202/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+ 
+<video name="奥地利 福拉尔贝格州 Dornbirn gemma宾馆 -普清">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Dornbirn gemma宾馆 -高清">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Bregenz秀色可餐 -普清">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Bregenz秀色可餐 -高清">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 福拉尔贝格州 Bregenz秀色可餐 -普清">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Bregenz秀色可餐 -高清">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna自行车店 -普清">
+<url>http://83.64.164.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna自行车店 -高清">
+<url>rtsp://83.64.164.6:554/axis-media/media.amp</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna自行车店 -普清">
+<url>http://212.108.45.50/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna自行车店 -高清">
+<url>rtsp://83.64.164.6:554/axis-media/media.amp</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna自行车店 -普清">
+<url>http://192.168.1.190:554/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna自行车店 -高清">
+<url>rtsp://83.64.164.6:554/axis-media/media.amp</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna宾馆外 -普清">
+<url>http://212.108.45.50/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna宾馆外 -高清">
+<url>http://212.108.45.50/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna山景（旋转摄像头） -普清">
+<url>http://62.47.124.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna山景（旋转摄像头） -高清">
+<url>rtsp://62.47.124.22/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna室内 -普清">
+<url>http://213.129.248.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna室内 -高清">
+<url>http://213.129.248.131/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna厨房 -普清">
+<url>http://78.142.179.112:90/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna厨房 -高清">
+<url>http://78.142.179.112:90/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna厨房2 -普清">
+<url>http://86.59.9.236:90/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna厨房2 -高清">
+<url>http://86.59.9.236:90/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna宾馆窗外 -普清">
+<url>http://radvis.astro.univie.ac.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna宾馆窗外 -高清">
+<url>http://radvis.astro.univie.ac.at/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna宾馆教堂 -普清">
+<url>http://131.130.66.202/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna宾馆教堂 -高清">
+<url>http://131.130.66.202/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="奥地利 维也纳 Vienna室内2 -普清">
+<url>http://78.142.179.123:90/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna室内2 -高清">
+<url>http://78.142.179.123:90/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 维也纳 Vienna街景 -普清">
+<url>http://83.64.164.4/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna街景 -高清">
+<url>http://83.64.164.4/mjpg/video.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>

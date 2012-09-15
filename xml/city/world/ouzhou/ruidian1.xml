@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞典" order="DB" >
+<city name="瑞典" type="1888" order="A" >	
+
+<video name="瑞典布莱金厄省 Karlshamn 广场（高清）">
+<url>http://webkamera.karlshamn.se/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342274099946</url>
+</video>
+
+<video name="瑞典布莱金厄省 Karlshamn 广场（普清）">
+<url>http://webkamera.karlshamn.se/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1342274099946</url>
+</video>
+
+<video name="瑞典布莱金厄省  海边2">
+<url>http://torso.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典布莱金厄省 Slvesborg  海边2（高清）">
+<url>http://torso.axiscam.net/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-达拉纳省 Falun  山坡草地2">
+<url>http://85.89.69.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-达拉纳省 Falun  山坡草地2（高清）">
+<url>http://85.89.69.112/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-达拉纳省 Falun  矿山3">
+<url>http://webmail.falugruva.se:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-达拉纳省 Falun  矿山3">
+<url>http://webmail.falugruva.se:8080/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-达拉纳省 Gesunda 观光索道">
+<url>http://212.181.38.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞典-达拉纳省 Gesunda 观光索道（高清）">
+<url>http://212.181.38.110/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="瑞典-耶夫勒堡 Marmaverken  山里草地（高清）">
+<url>http://81.94.68.36/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="瑞典-耶夫勒堡  古城堡（高清）">
+<url>http://81.94.77.18/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="瑞典-耶夫勒堡  江边美景（高清）">
+<url>http://62.108.201.7/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="瑞典-哥得兰 Visby  直播间">
+<url>http://axis-7cca2awebcam2.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰 Visby直播间（高清）">
+<url>http://axis-7cca2awebcam2.axiscam.net/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="瑞典-哥得兰 Visby直播间2">
+<url>http://axis-7c5ffbwebcam3.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰 Visby直播间2（高清）">
+<url>http://axis-7c5ffbwebcam3.axiscam.net:9000/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-哥得兰Varberg  山林美景2">
+<url>http://217.73.101.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰Varberg  山林美景2(高清)">
+<url>http://217.73.101.60/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-哥得兰Falkenberg  河滨沙滩">
+<url>http://212.162.177.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰Falkenberg  河滨沙滩（高清）">
+<url>http://212.162.177.75/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-哥得兰 气候监测站-草地树林">
+<url>http://stromsnasbruk.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰 气候监测站-草地树林（高清）">
+<url>http://stromsnasbruk.axiscam.net:8080/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-哥得兰 Varberg 山林美景3">
+<url>http://webcam01.varbergenergi.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰 Varberg 山林美景3（高清）">
+<url>http://webcam01.varbergenergi.se/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-哥得兰 Halmstad 市中心广场（高清）">
+<url>http://62.181.210.148/image?speed=0</url>
+</video>
+
+<video name="瑞典-哥得兰 Halmstad 海边沙滩2">
+<url>http://strandgarden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-哥得兰 Halmstad 海边沙滩2（高清）">
+<url>http://strandgarden.dyndns.org/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-耶姆特兰 河滨城市风景">
+<url>http://195.84.98.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-耶姆特兰 河滨城市风景（高清）">
+<url>http://195.84.98.142/mjpg/video.mjpg?resolution=704x576</url>
+</video>
+
+<video name="瑞典-耶姆特兰 Oviken 半山坡宾馆摄像头（高清1080p）">
+<url>http://213.164.213.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-耶姆特兰 山林宾馆">
+<url>http://78.69.114.49/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-耶姆特兰 山林宾馆（高清）">
+<url>http://78.69.114.49/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="瑞典-耶姆特兰 江滨城市鸟瞰2（高清）">
+<url>http://195.84.98.146/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="瑞典-耶姆特兰 江滨城市鸟瞰3（高清）">
+<url>http://195.84.98.145/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="瑞典-耶姆特兰 宾馆当地时钟4">
+<url>http://195.84.98.147/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-延雪平 室内书房">
+<url>http://80.84.34.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-卡尔马 Borgholm  小镇集市">
+<url>http://194.218.96.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="瑞典-斯科耐 Lerberget 游乐场实景1">
+<url>http://bk-kc-cam1.bastad.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景2">
+<url>http://extcam-8.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景2（高清1080p）">
+<url>http://extcam-8.se.axis.com/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="瑞典-斯科耐 Lund 游乐场实景3">
+<url>http://extcam-14.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景3（高清1080p）">
+<url>http://extcam-14.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景4">
+<url>http://extcam-11.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景4（高清1080p）">
+<url>http://extcam-11.se.axis.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Helsingborg 海边码头">
+<url>http://80.89.160.77/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Kristianstad 海洋公园2">
+<url>http://dammen.no-ip.info:8044/image?speed=0</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景5">
+<url>http://extcam-12.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景5（1080p）">
+<url>http://extcam-12.se.axis.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景6">
+<url>http://extcam-4.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场实景6（高清1080p）">
+<url>http://extcam-4.se.axis.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Lund 游乐场模型5">
+<url>http://extcam-9.se.axis.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Tomelilla 高尔夫球场">
+<url>http://83.183.216.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Tomelilla 高尔夫球场（高清）">
+<url>http://83.183.216.182/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 城市风景">
+<url>http://194.68.33.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 城市风景（高清）">
+<url>http://194.68.33.209/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Helsingborg 江边景色2（高清）">
+<url>http://astrom.dyndns.org:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Helsingborg 江边景色2（高清）">
+<url>http://astrom.dyndns.org:81/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯科耐 Landskrona 气象监测摄像头">
+<url>http://legoelektronik.homeip.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯科耐 Helsingborg 乡村景色3">
+<url>http://bjorka.no-ip.org:81/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1342281483248</url>
+</video>
+
+
+<video name="瑞典-西博滕 Flarken 草地上的雕像">
+<url>http://81.8.158.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 Flarken 草地上的雕像（高清）">
+<url>http://81.8.158.58/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西博滕 运动场2">
+<url>http://nydalakameran.net.umea.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 足球场3">
+<url>http://gammliakameran.net.umea.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

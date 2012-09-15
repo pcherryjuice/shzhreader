@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="拉脱维亚" order="EA" >
+<city name="拉脱维亚" type="1888" order="A" >	
+
+<video name="拉脱维亚 Rezekne Rezekne 古城堡（高清）">
+<url>http://81.198.119.13/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 城市交通（高清）">
+<url>http://80.81.48.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚  观光索道（高清）">
+<url>http://87.226.15.38/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉脱维亚 Ventspils Ventspils 观光索道2（高清）">
+<url>http://62.122.19.110/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 高速公路（高清）">
+<url>http://80.81.48.4/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 Tukuma Centrs 海边（高清）">
+<url>http://212.70.178.18/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 Ventspils Ventspils 观光索道3（高清）">
+<url>http://62.122.19.111/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 Limbazu Limbazi 山林美景">
+<url>http://93.177.235.201/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="拉脱维亚 小码头（高清）">
+<url>http://80.232.164.37:86/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="拉脱维亚 高速公路2">
+<url>http://91.193.65.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉脱维亚 山林美景（高清）">
+<url>http://91.190.32.50/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 楼下花圃（高清）">
+<url>http://95.130.32.18/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 公园（高清）">
+<url>http://81.198.187.6/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉脱维亚 Riga Riga 2">
+<url>http://87.246.140.51:85/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

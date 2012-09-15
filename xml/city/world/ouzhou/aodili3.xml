@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="奥地利" order="CC" >
+<city name="奥地利3" type="1888" order="C" >
+		
+<video name="奥地利 上奥地利 Steyr 市区实景 -高清">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Wels 未知 -普清">
+<url>http://81.10.228.94/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 Wels 未知 -高清">
+<url>http://81.10.228.94/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Linz大转盘 -普清">
+<url>http://86.56.185.42/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337180114238</url>
+</video>
+
+<video name="奥地利 上奥地利 Linz大转盘 -高清">
+<url>http://86.56.185.42/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x576::1;1337180114238</url>
+</video>
+
+<video name="奥地利 上奥地利 Linz草地1 -普清">
+<url>http://86.56.185.46/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337180230990</url>
+</video>
+
+<video name="奥地利 上奥地利 Linz草地1 -高清">
+<url>http://86.56.185.46/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x576::1;1337180230990</url>
+</video>
+
+<video name="奥地利 上奥地利 Neuhofen河流  -普清">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 Neuhofen河流  -高清">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Neufelden小牧场  -普清">
+<url>http://88.116.17.211/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337180663460</url>
+</video>
+
+<video name="奥地利 上奥地利 Neufelden小牧场  -高清">
+<url>http://88.116.17.211/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1337180663460</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Fuschl雪山小屋  -普清">
+<url>http://saalfeldencam.xlink.at/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Fuschl雪山小屋  -高清">
+<url>rtsp://85.199.24.194:554/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg餐厅  -普清">
+<url>http://213.153.54.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg餐厅  -高清">
+<url>http://213.153.54.136/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Wals山涧小溪  -高清">
+<url>http://85.199.39.250/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=94270</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg村中小院   -普清">
+<url>http://83.215.240.65/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg村中小院  -高清">
+<url>http://213.153.54.136/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 lowz山景2   -普清">
+<url>http://83.215.242.228/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 lowz山景2  -高清">
+<url>http://213.153.54.136/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg餐厅2   -普清">
+<url>http://213.153.54.139/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337189896454</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Grödig风景2    -普清">
+<url>http://janvonk.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Grödig风景2   -高清">
+<url>http://janvonk.axiscam.net/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg风景3    -普清">
+<url>http://mfc-kraiwiesen.dyndns.org:2499/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Salzburg风景3   -高清">
+<url>http://mfc-kraiwiesen.dyndns.org:2499/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Schwarzach高尔夫球场    -普清">
+<url>http://83.215.88.195:15080/mjpg/quad/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Schwarzach高尔夫球场-A    -普清">
+<url>http://83.215.88.195:15080/mjpg/1/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Schwarzach高尔夫球场-B    -普清">
+<url>http://83.215.88.195:15080/mjpg/2/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 Schwarzach高尔夫球场-C    -普清">
+<url>http://83.215.88.195:15080/mjpg/3/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

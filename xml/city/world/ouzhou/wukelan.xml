@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="乌克兰" order="DG" >
+<city name="乌克兰" type="1888" order="A" >	
+
+<video name="Ukraine 喷泉广场">
+<url>http://cam.ic.km.ua/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Rivne Rivnens'ka Oblast' Ukraine 市中心广场">
+<url>http://77.120.86.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ukraine 城市风貌2">
+<url>http://82.207.68.254/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 露天游泳池">
+<url>http://213.179.238.39/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Ukraine 市中心广场2">
+<url>http://195.5.39.15/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 鸟瞰大厦广场">
+<url>http://94.74.71.103:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 雕像">
+<url>http://195.5.6.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 办公室内景">
+<url>http://193.46.210.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Ukraine 马路8">
+<url>http://195.214.198.226:8181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Poltava Poltavs'ka Oblast' Ukraine 城市风景（高清）">
+<url>http://unitop.poltava.ua:8034/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+
+
+<video name="Lutsk Volyns'ka Oblast' Ukraine 雕像广场">
+<url>http://193.109.145.158/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1342110954491</url>
+</video>
+
+
+
+<video name="Ukraine 交通摄像头">
+<url>http://195.5.16.71/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Ukraine 交通摄像头2">
+<url>http://195.5.21.185/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+<video name="Ukraine 城市风貌">
+<url>http://195.5.16.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 城市风貌2">
+<url>http://sun.hm.ukrtel.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+<video name="Ukraine 交通摄像头3">
+<url>http://webcam.zp.ukrtel.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Ukraine 小广场">
+<url>http://213.179.245.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+<video name="Ukraine 城市风貌3">
+<url>http://213.179.246.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+
+
+
+
+</city>
+</province>
+</provinces>

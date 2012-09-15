@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="西班牙" order="DC" >
+<city name="西班牙" type="1" order="A" >	
+
+
+<video name="Spain Andalucia  小镇风景">
+<url>http://150.214.222.100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia  路口">
+<url>http://88.2.164.213:8086/mjpg/video.mjpg?resolution=352x288</url>
+<url>http://88.2.164.213:8086/axis-cgi/mjpg/video.cgi?resolution=352x288&data=v.mjpg</url>
+</video>
+
+<video name="Roquetas De Mar Andalucia Spain 罗克塔斯天空与湖">
+<url>http://83.61.22.4:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Marbella 马尔韦利亚游泳池">
+<url>http://217.126.29.11:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Granada 格拉纳达楼顶天台">
+<url>http://jmirallas.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Spain Andalucia Sevilla 塞维利亚小镇风光2">
+<url>http://80.59.58.50:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Algodonales 阿尔戈多纳莱斯郊外">
+<url>http://80.38.183.149:2000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia  郊外3">
+<url>http://150.214.222.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia  郊外4">
+<url>http://150.214.222.102/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia  墙5">
+<url>http://bisobodega.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Spain Andalucia Sevilla 草与天空4">
+<url>http://161.111.233.168/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia 小型飞机场">
+<url>http://aerodromo.redirectme.net:5051/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Andalucia Granada 郊外的公路4">
+<url>http://150.214.222.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Gelves 湖泊上的船">
+<url>http://webcampuntilla.dnsalias.com:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Algodonales 露天泳池2">
+<url>http://80.38.180.52:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Andalucia Baeza 巴埃萨教堂">
+<url>http://89.140.32.19:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Andalucia Baeza 俯瞰山林2">
+<url>http://89.140.32.19:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Aragon Huesca 韦斯卡山林">
+<url>http://80.26.18.160:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Aragon Zaragoza 萨拉戈萨十字路口">
+<url>http://80.34.88.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Asturias Oviedo 奥维耶多球场2">
+<url>http://156.35.98.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Cangas De On��s Asturias Spain 小食店门口">
+<url>http://r3.axiscam.net:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Canarias Tarajalejo 瞭望海滩">
+<url>http://camara-niza.serveftp.com:8060/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Las Palmas Canarias Spain 海岸">
+<url>http://miplaya2.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Las Palmas Canarias Spain 海岸2">
+<url>http://penalavieja.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Spain Cantabria Santander 桑坦德鸟瞰">
+<url>http://webcamsantander.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Santa Cruz Cantabria Spain 公路一角">
+<url>http://trafico.sctfe.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Spain Cantabria Santander 桑坦德海滩4">
+<url>http://80.36.62.47:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Bembibre Castilla y Leon Spain 本比夫雷山下的民房">
+<url>http://80.34.10.53:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Valladolid Castilla y Leon Spain 巴利亚多利德海中岛">
+<url>http://80.36.124.72:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Segovia Castilla y Leon Spain 塞哥维亚海湾">
+<url>http://80.38.191.70:5900/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Burgos Castilla y Leon Spain 布尔戈斯大楼门口">
+<url>http://88.2.219.69:8003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Carucedo Castilla y Leon Spain 卡鲁塞多树林">
+<url>http://grichandana.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Cuenca Castilla-La Mancha Spain 昆卡街景">
+<url>http://195.235.198.107:3346/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Albacete Castilla-La Mancha Spain 阿尔瓦塞特院子">
+<url>http://hoyagonzalo.dyndns.tv/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Albacete Castilla-La Mancha Spain 阿尔瓦塞特山脉2">
+<url>http://213.96.108.142:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Cuenca Castilla-La Mancha Spain 昆卡街景2">
+<url>http://195.235.198.107:3344/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia Agramunt 阿格拉蒙特与天空">
+<url>http://217.125.97.245:3333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那蛋糕店">
+<url>http://lechuga.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Igualada 伊瓜拉达山景">
+<url>http://88.2.215.73:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那街边小食店2">
+<url>http://212.170.22.153:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="La Bisbal Catalonia Spain 加泰罗尼港湾">
+<url>http://217.126.89.102:8020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Llans�� 山间公路">
+<url>http://www.tecmun.cat:50000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Lleida 列伊达草坪">
+<url>http://mollerusa.axiscam.net:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Llorens 草坡">
+<url>http://bellcam2.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Spain Catalonia Igualada 伊瓜拉达小巷2">
+<url>http://88.2.215.148:6666/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那民宅广场3">
+<url>http://213.4.39.6:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Central 金鱼馆">
+<url>http://83.175.209.26:94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Castellet 民宅广场">
+<url>http://212.121.228.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Gualba 钟楼侧面">
+<url>http://meteomontalt.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia Navata 沙滩">
+<url>http://217.126.88.175:221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Masnou 广场小店">
+<url>http://81.33.25.60:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia Barcelona 巴塞罗那电路板4">
+<url>http://147.83.134.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那墙角5">
+<url>http://213.96.24.148:80/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Spain Catalonia 野外山坡">
+<url>http://meteofabra.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="La Bisbal Catalonia Spain 海港2">
+<url>http://217.126.89.102:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Arenys De Mar Catalonia Spain 私家快艇码头">
+<url>http://217.126.49.50:4002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="La Bisbal Catalonia Spain 私家快艇码头3">
+<url>http://217.126.89.102:8040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Mollet Del Vall��s Catalonia Spain 仰望天空">
+<url>http://meteosantfost.axiscam.net:3333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Playa 无敌海景">
+<url>http://telecentre.no-ip.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia  天空">
+<url>http://meteopremiamar.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="De Mar Catalonia Spain 海边景色">
+<url>http://217.126.51.10:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Ripoll 山景">
+<url>http://80.24.26.85:10080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia Barcelona 巴塞罗那教堂10">
+<url>http://88.2.47.141:70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="La Bisbal Catalonia Spain 海港4">
+<url>http://217.126.89.102:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Catalonia Vilallonga 比拉利翁加码头">
+<url>http://telecentre.no-ip.org:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那餐厅13">
+<url>http://oviso.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+<video name="La Bisbal Catalonia Spain 海湾5">
+<url>http://217.126.89.102:8050/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那特色建筑17">
+<url>http://meteosg.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 巴塞罗那鸟瞰屋顶18">
+<url>http://meteobunyol.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Santa Coloma Catalonia Spain 海边草场2">
+<url>http://194.224.71.18:6081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Santa Coloma Catalonia Spain 美丽的海滨3">
+<url>http://194.224.71.18:6082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Valencia Comunidad Valenciana Spain 树与天空">
+<url>http://meteomontserrat.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 阿利坎特海港">
+<url>http://80.36.143.69:8088/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 阿利坎特球场一角2">
+<url>http://websitecam91110.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 阿利坎特海港3">
+<url>http://80.36.143.69:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Valencia Comunidad Valenciana Spain 巴伦西亚海港2">
+<url>http://217.125.47.107:4545/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 巴伦西亚海港5">
+<url>http://80.36.142.77:2000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Valencia Comunidad Valenciana Spain 巴伦西亚鸟瞰5">
+<url>http://ontimet.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Extremadura  古建筑外墙">
+<url>http://217.124.178.6:8206/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Extremadura  古楼2">
+<url>http://217.124.178.6:8205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="A Coru?a Galicia Spain 湖边的人行道">
+<url>http://79.148.102.132:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Galicia Vigo 海浪">
+<url>http://80.33.34.168:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Galicia Coir��s 民宅广场">
+<url>http://concelloallariz.no-ip.info:1614/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Cala Ratjada Islas Baleares Spain 海岸">
+<url>http://80.32.204.149:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pollensa Islas Baleares Spain 波连萨海滨">
+<url>http://sailsurf.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Mah��n Islas Baleares Spain 天空">
+<url>http://meteoibiza.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Logro?o La Rioja Spain 住宅小巷">
+<url>http://santurde.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Madrid Madrid 马德里沙滩2">
+<url>http://80.25.152.115:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Spain Madrid Madrid 马德里山中古楼5">
+<url>http://80.26.18.150:8002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+<video name="Spain Madrid Madrid 马德里住宅门口9">
+<url>http://212.170.62.164:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Madrid Madrid 马德里风情10">
+<url>http://88.26.193.234/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+
+
+<video name="Spain Madrid Madrid 马德里郊外11">
+<url>http://212.170.62.182:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Madrid Madrid 马德里山脉14">
+<url>http://80.26.18.150:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain Madrid Madrid 马德里山脚下的小镇20">
+<url>http://aytotazacorte.dyndns.org:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name=" Ardoz Madrid Spain 马德里公路">
+<url>http://axis-7857f8.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain Madrid Madrid 马德里建筑工地27">
+<url>http://88.26.206.145:7779/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain Murcia Murcia 马德里联排3">
+<url>http://meteosantomera.axiscam.net:1100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Islas Pais Vasco Spain 野外的设备">
+<url>http://webcam.magic.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Tolosa Pais Vasco Spain 托洛萨海滩">
+<url>http://217.126.198.162:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas Pais Vasco Spain 山顶雷达站2">
+<url>http://iris.not.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas Pais Vasco Spain 山上的接收站3">
+<url>http://extwebcam2.magic.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Nanclares De La Oca Pais Vasco Spain 海边泳池">
+<url>http://79.148.108.205:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Bilbao Pais Vasco Spain 海与山">
+<url>http://62.99.77.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas Pais Vasco Spain 山顶建筑4">
+<url>http://161.72.22.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Fuenterrab��a Pais Vasco Spain 海边浴场">
+<url>http://abba-londres.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Basauri Pais Vasco Spain 小镇三叉路口">
+<url>http://217.127.128.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Algorta Pais Vasco Spain 海边风景2">
+<url>http://80.36.76.101/-wvhttp-01-/getoneshot?v=320&frame_count=300&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Spain Madrid Madrid 出入口6">
+<url>http://campinggavin.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Aragon Barbastro 高山平湖">
+<url>http://94.228.13.44:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Catalonia Barcelona 海边游泳场6">
+<url>http://80.37.190.208:1500/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Catalonia Barcelona 未知摄像头7">
+<url>http://213.96.29.238:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Arcos De La Frontera Andalucia Spain 海边游艇码头">
+<url>http://88.2.221.154/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Andalucia Aguadulce 酒店游泳池（实时图片）">
+<url>http://alquitara.ath.cx/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal&Count=-378839509</url>
+</video>
+
+<video name="Spain Andalucia Sevilla 足球场">
+<url>http://meteosantiponce.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Andalucia Sevilla 游泳池">
+<url>http://hoteloasismango.dyndns.org:1028/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Andalucia Granada 气象天文台">
+<url>http://150.214.93.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Granada 天文望远镜">
+<url>http://150.214.93.55/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Andalucia Huelva 未知摄像头">
+<url>http://webcam1.ujaen.es/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342012432896</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 海边游泳场8">
+<url>http://213.96.40.237:8081/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Pobla De Montorn��s Catalonia Spain 海边泳池">
+<url>http://212.145.212.209:8092/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Arenys De Mar Catalonia Spain 游艇码头2">
+<url>http://webcam.cnelbalis.com/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 山顶摄像头9">
+<url>http://188.119.194.36/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+<video name="Spain Catalonia Barcelona 交通路口11">
+<url>http://eudaldcarrera.dynalias.org:1024/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 乡村风光12">
+<url>http://meteosalvador.dvrdns.org:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Palma Islas Baleares Spain 乡村风光2">
+<url>http://sanpedro.dyndns.biz/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Extremadura Serradilla 酒吧">
+<url>http://217.125.138.27:81/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342012947181</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 城市风景">
+<url>http://gocanaria.ath.cx:8000/nphMotionJpeg?Resolution=320x240&Quality=Motion&data=v.mjpg</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 海边小码头8">
+<url>http://dulcinea01.homeunix.org/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Catalonia Tarragona 未知摄像头">
+<url>http://80.35.1.69:6666/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Catalonia Tarragona 路边小城堡2">
+<url>http://80.32.56.48:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Alicante Comunidad Valenciana Spain 窗外城市风景4">
+<url>http://89.29.219.145:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Catalonia Vic 酒吧（不稳定）">
+<url>http://80.24.18.35:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Barcelona 路边城堡16">
+<url>http://80.39.113.72:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Palma Islas Baleares Spain 城市风景3">
+<url>http://meteoibiza.dyndns.biz/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342013661432</url>
+</video>
+
+
+<video name="Marratxi Islas Baleares Spain 游艇（高清）">
+<url>http://217.127.254.155:8088/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Palma Islas Baleares Spain 海边气象监测站">
+<url>http://87.235.150.79/image?speed=0</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边泳场3">
+<url>http://webcamubet.dyndns.org:8081/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边游泳场4（高清）">
+<url>http://212.145.204.167:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边泳池停车场（高清）">
+<url>http://alcalatf.dyndns.org:8082/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边游泳场7（高清）">
+<url>http://212.145.204.191:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Aranjuez 海边风光（高清）">
+<url>http://87.235.206.90:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边风光12（高清）">
+<url>http://liesecam.dyndns.tv:8089/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边风光13（高清）">
+<url>http://212.145.204.225:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边游泳池15（高清）">
+<url>http://212.145.204.101:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Madrid Madrid 海边风光17（高清）">
+<url>http://212.145.204.172:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Madrid Madrid 海边风光18">
+<url>http://212.170.96.240:8091/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边城市风光19（高清）">
+<url>http://88.26.207.3:2000/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Madrid Madrid 小广场21">
+<url>http://80.26.69.138:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边浴场22（高清）">
+<url>http://80.38.156.36:1500/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Madrid 海边浴场23（高清）">
+<url>http://81.43.101.81:8001/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Madrid Brunete 城市风光（高清）">
+<url>http://cercemeteo.dyndns.org:1026/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Spain Murcia Murcia 乡村景色">
+<url>http://80.32.194.6:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Murcia Murcia 乡村旅馆2">
+<url>http://monte-mar.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Murcia Lorca 城镇风光">
+<url>http://80.32.201.15:8001/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Islas Pais Vasco Spain 高楼5">
+<url>http://161.72.129.178/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+<video name="Vitoria Pais Vasco Spain 城市风光（高清）">
+<url>http://meteogasteiz.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+
+<video name="Islas Pais Vasco Spain 天文台望远镜7">
+<url>http://161.72.20.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+
+<video name="Islas Pais Vasco Spain 路边小山坡8">
+<url>http://161.72.5.27/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342015475411</url>
+</video>
+
+
+
+<video name="Islas Pais Vasco Spain 路边海景9">
+<url>http://iris2.not.iac.es/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342015520345</url>
+</video>
+
+
+<video name="Spain Asturias Oviedo 学校实验室7">
+<url>http://156.35.159.142/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342015625952</url>
+</video>
+<video name="Spain Aragon Zaragoza 办公室2">
+<url>http://80.34.81.8:8000/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342015686815</url>
+</video>
+
+
+<video name="Spain Asturias Oviedo 学校电脑教室">
+<url>http://156.35.159.144/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1342015760387</url>
+</video>
+<video name="Santa Cruz De Tenerife Canarias Spain 美丽的海边风景（高清）">
+<url>http://tpglasgalletas.dyndns.org/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="San Miguel Canarias Spain 海边旅馆的游泳池（高清）">
+<url>http://constanzacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Santa Cruz De Tenerife Canarias Spain 海边浴场2（高清）">
+<url>http://csf4utnf.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="San Sebasti��n De La Gomera Canarias Spain 美丽的海边浴场">
+<url>http://playafanabe.dyndns.org:1225/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Spain Canarias Arona 海边城镇风光">
+<url>http://reinekecam.dyndns.info/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Granadilla De Abona Canarias Spain 度假村风光（高清）">
+<url>http://chayofacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Icod De Los Vinos Canarias Spain 海边沙滩（高清）">
+<url>http://88.26.178.142:4343/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Icod De Los Vinos Canarias Spain 海边浴场2">
+<url>http://88.26.178.142:4344/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="La Laguna Canarias Spain 小花坛">
+<url>http://217.127.27.199:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Santa Cruz De Tenerife Canarias Spain 海边风光3（高清）">
+<url>http://bodegasmonje.dyndns.org:1240/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+<video name="Santa Cruz De Tenerife Canarias Spain 葡萄庄园4">
+<url>http://bodegasmonje.dyndns.org:1250/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+
+
+<video name="��vila Castilla y Leon Spain 乡村马路（高清）">
+<url>http://barelcruce.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+<video name="Palencia Castilla y Leon Spain 乡村风景">
+<url>http://80.24.205.249:8080/cgi-bin/faststream.jpg?stream=full&fps=5&rand=439357&quality=60&size=320x240</url>
+</video>
+
+
+
+<video name="Valladolid Castilla y Leon Spain 室内摄像头2">
+<url>http://157.88.202.56/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Spain Catalonia Sabadell 海边沙滩">
+<url>http://80.32.91.134:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain Catalonia Manresa 一个鸟窝">
+<url>http://meteollauri.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

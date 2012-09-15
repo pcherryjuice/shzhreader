@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="希腊" order="DH" >
+<city name="希腊" type="1888" order="A" >	
+
+<video name="希腊 Thessaloniki 城市风貌">
+<url>http://paysilipos.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边小岛">
+<url>http://84.205.233.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="希腊 Attiki Athens 教堂内景">
+<url>http://84.205.229.52:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="希腊 Attiki Athens 窗外风景">
+<url>http://85.72.52.108:72/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="希腊 Thessaloniki  运动场（高清）">
+<url>http://camera1.it.teithe.gr/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 广场（高清）">
+<url>http://84.205.237.90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="希腊 Attiki Athens 公园（高清）">
+<url>http://194.219.126.92:1024/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 教堂内景2（高清）">
+<url>http://skopel07.static.otenet.gr:8090/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 游艇码头（高清）">
+<url>http://tinos.dyndns.tv:60041/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 海边浴场">
+<url>http://zorbas2.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 露天实验室设备">
+<url>http://195.130.108.105:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="希腊 Attiki Athens 海边观光台（高清）">
+<url>http://absolutehtl.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+
+<video name="希腊 Korinthia Corinth 海边风景（高清）">
+<url>http://kalogria.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+
+<video name="希腊 Messinia 海边风景2(高清)">
+<url>http://maniapartments.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="希腊 Attiki  游艇码头（高清）">
+<url>http://79.129.0.247:8021/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边风景3（高清）">
+<url>http://aliaclub.dyndns.org:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="希腊 Attiki Athens 海边风景4（高清）">
+<url>http://skopel07.static.otenet.gr:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="希腊 Korinthia  海边观光摄像头">
+<url>http://62.103.214.128:10000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
