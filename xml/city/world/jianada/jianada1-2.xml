@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="加拿大" order="AD" >
+<city name="加拿大2" type="1888" order="B" >	
+	
+
+<video name="英属哥伦比亚-温哥华 实验室1 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  实验室1 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336902488423</url>
+</video>
+ 
+<video name="英属哥伦比亚-温哥华 实验室2 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  实验室2 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336902488423</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华 实验室3 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=704x480::1;1336902488423</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  实验室3 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1336902488423</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华 实验室4 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=704x480::1;1336902488423</url>
+</video>
+<video name="英属哥伦比亚-温哥华  实验室4 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336902488423</url>
+</video>
+
+<video name="魁北克-Edmundston 新布伦瑞克大学 -高清">
+<url>http://psl600-sonyipcam.ci.umce.ca/image?speed=0</url>
+</video>
+
+<video name="纽芬兰-Saint John's  hubber valley -普清">
+<url>http://axis-a6e474.axiscam.net:8080/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="纽芬兰-Saint John's  hubber valley -高清">
+<url>http://axis-a6e474.axiscam.net:8080/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="新斯科舍省-哈里法克斯  机房 -普清">
+<url>http://axis-cam-1.cs.dal.ca/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336903319676</url>
+</video>
+
+<video name="新斯科舍省-哈里法克斯  机房 -高清">
+<url>http://axis-cam-1.cs.dal.ca/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1336903319676</url>
+</video>
+
+<video name="安大略-布兰普顿  房子 -普清">
+<url>http://192.82.150.11:8083/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240</url>
+</video>
+
+<video name="安大略-布兰普顿  房子 -高清">
+<url>http://192.82.150.11:8083/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480</url>
+</video>
+
+<video name="安大略-Kingston   马路风景 -普清">
+<url>http://130.15.110.15/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略-Kingston   马路风景 -高清">
+<url>http://130.15.110.15/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="安大略-North Bay   烟囱 -普清">
+<url>http://camera1.fisherwavy.com/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336903963283</url>
+</video>
+
+<video name="安大略-North Bay   烟囱 -高清">
+<url>http://camera1.fisherwavy.com/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1336903963283</url>
+</video>
+
+<video name="安大略-萨德伯里  湖边2 -普清">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略-萨德伯里  湖边2 -高清">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="新不伦瑞克省-弗雷德里克顿  广场 -高清">
+<url>http://205.174.168.131/image?speed=1</url>
+</video>
+
+<video name="安大略-米西索加  广场地铁口 -普清">
+<url>http://142.240.200.10:1205/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略-米西索加  广场地铁口 -高清">
+<url>http://142.240.200.10:1205/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="阿尔伯达-雷德迪尔  Sylvan Lake 湖边 -普清">
+<url>http://sylvanlake.com/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="阿尔伯达-雷德迪尔  Sylvan Lake 湖边 -高清">
+<url>http://sylvanlake.com/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  Sylvan Lake 湖边 -普清">
+<url>http://64.114.238.141/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336914761941</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  Sylvan Lake 湖边 -高清">
+<url>http://64.114.238.141/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336914761941</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  Sylvan Lake 湖边 风景区 -普清">
+<url>http://142.103.183.237/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336915286021</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  Sylvan Lake 湖边 风景区 -高清">
+<url>http://142.103.183.237/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1336915286021</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

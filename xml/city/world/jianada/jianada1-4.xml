@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="加拿大" order="AD" >
+<city name="加拿大4" type="1888" order="D" >	
+	
+
+
+
+<video name="安大略省-萨德伯里  碧波平湖 -高清">
+<url>rtsp://70.49.231.169/axis-media/media.amp?videocodec=h264::1;streamprofile=Bandwidth</url>
+</video>
+
+
+<video name="安大略省-布兰普顿  大树婆娑 -普清">
+<url>http://192.82.150.11:8086/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240</url>
+</video>
+
+<video name="安大略省-布兰普顿   大树婆娑 -高清">
+<url>http://192.82.150.11:8086/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480</url>
+</video>
+
+<video name="安大略省-布Lansdowne   huck marine河滨码头 -普清">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="安大略省-Lansdowne    huck marine河滨码头 -高清">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="安大略省-多伦多 汉博学院校园1 -普清">
+<url>http://192.75.71.60/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="安大略省-多伦多 汉博学院校园1 -高清">
+<url>http://192.75.71.60/mjpg/video.mjpg</url>
+</video>
+
+<video name="安大略省-Barrie  露天实验室 -高清">
+<url>http://208.80.99.248:3385/image?speed=6</url>
+</video>
+
+<video name="安大略省-贝尔维尔  平湖碧波2 -高清">
+<url>rtsp://68.69.17.165:554/mpeg4/media.amp</url>
+</video>
+
+<video name="安大略省-奥克威尔 游艇码头 -普清">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-奥克威尔 游艇码头 -高清">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+
+<video name="安大略省-North Bay 乡村路口 -普清">
+<url>http://199.212.44.19/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1337093053841</url>
+</video>
+
+<video name="安大略省-North Bay 乡村路口 -高清">
+<url>http://199.212.44.19/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1337093053841</url>
+</video>
+
+
+<video name="安大略省-奥克维尔 游艇码头2 -普清">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-奥克维尔 游艇码头2 -高清">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-Barrie  草地2 -高清">
+<url>http://208.80.99.248:3383/image?speed=3</url>
+</video>
+
+<video name="安大略省-欧文桑德  海边风景 -普清">
+<url>http://216.183.137.241/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+
+<video name="安大略省-滑铁卢市  交通路口1 -普清">
+<url>http://southeast.axiscam.net/mjpg/quad/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略省-滑铁卢市  交通路口1-A -普清">
+<url>http://southeast.axiscam.net/mjpg/1/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略省-滑铁卢市  交通路口1-B -普清">
+<url>http://southeast.axiscam.net/mjpg/2/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略省-滑铁卢市  交通路口1-C -普清">
+<url>http://southeast.axiscam.net/mjpg/3/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="魁北克-Dolbeau  碧海蓝天 -普清">
+<url>http://216.113.117.232/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="魁北克-Dolbeau  碧海蓝天 -高清">
+<url>http://216.113.117.232/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

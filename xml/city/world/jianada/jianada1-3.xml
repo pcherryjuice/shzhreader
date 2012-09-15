@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="加拿大" order="AD" >
+<city name="加拿大3" type="1888" order="C" >	
+	
+
+
+<video name="英属哥伦比亚-温哥华 工业区2  -高清">
+<url>http://142.71.9.2/cgi-bin/faststream.jpg?stream=full::1;fps=2::1;rand=494379</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  游艇码头 -普清">
+<url>http://pr_nh_webcam.axiscam.net:8000/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="英属哥伦比亚-温哥华  游艇码头 -高清">
+<url>http://pr_nh_webcam.axiscam.net:8000/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="英属哥伦比亚-维多利亚tatlla lake 风景 -普清">
+<url>http://142.29.203.232/cgi-bin/mjpg/video.cgi?resolution=352x240</url>
+</video>
+
+<video name="英属哥伦比亚-维多利亚tatlla lake 风景 -高清">
+<url>http://142.29.203.232/cgi-bin/mjpg/video.cgi?resolution=704x480</url>
+</video>
+
+<video name="英属哥伦比亚-North Vancouver lake 窗外 -普清">
+<url>http://cnvcam.cnv.org/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="英属哥伦比亚-North Vancouver lake 窗外 -高清">
+<url>http://cnvcam.cnv.org/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="英属哥伦比亚-Mansons Landing Hernando岛屿码头 -普清">
+<url>http://207.34.129.5/cgi-bin/mjpg/video.cgi?1336916263880::1;resolution=352x240</url>
+</video>
+
+<video name="英属哥伦比亚-Mansons Landing Hernando岛屿码头 -高清">
+<url>http://207.34.129.5/cgi-bin/mjpg/video.cgi?1336916263880::1;resolution=704x480</url>
+</video>
+
+<video name="曼尼托巴-温尼伯 马路边01 -普清">
+<url>http://130.179.249.1/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336916653331</url>
+</video>
+
+<video name="曼尼托巴-温尼伯 马路边01 -高清">
+<url>http://130.179.249.1/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1336916653331</url>
+</video>
+
+<video name="纽芬兰-Saint John's 山林风景 -普清">
+<url>http://142.163.209.60/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="纽芬兰-Saint John's 山林风景 -高清">
+<url>http://142.163.209.60/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="新斯科舍省-哈利法克斯 马路边02 -普清">
+<url>http://axis-cam-4.cs.dal.ca/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1337008557788</url>
+</video>
+
+<video name="新斯科舍省-哈利法克斯 马路边02 -高清">
+<url>http://axis-cam-4.cs.dal.ca/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1337008557788</url>
+</video>
+
+<video name="新斯科舍省-哈利法克斯 马路边02 -普清">
+<url>http://swellings.no-ip.info:81/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="新斯科舍省-哈利法克斯 马路边02 -高清">
+<url>http://swellings.no-ip.info:81/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="西北领地-黄刀镇 小村庄 -普清">
+<url>http://216.108.22.146:8848/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="西北领地-黄刀镇 小村庄 -高清">
+<url>http://216.108.22.146:8848/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="安大略省-温莎华 交通路口01 -普清">
+<url>http://216.8.159.21/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="安大略省-温莎华 交通路口01 -高清">
+<url>http://216.8.159.21/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="安大略省-奥克维尔 路口松树01 -普清">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-奥克维尔 路口松树01 -高清">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-普雷斯科特 岛屿风景 -高清">
+<url>http://gam1935.dyndns.org/mjpg/video.mjpg</url>
+</video>
+
+<video name="安大略省-Flesherton  山林风景03 -普清">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="安大略省-Flesherton  山林风景03 -高清">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="安大略省-布兰普顿  马路边01 -普清">
+<url>http://192.82.150.11:8084/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240</url>
+</video>
+
+<video name="安大略省-布兰普顿  马路边01 -高清">
+<url>http://192.82.150.11:8084/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480</url>
+</video>
+
+<video name="安大略省-Orillia   平湖树影 -普清">
+<url>http://boatcam1.viewnetcam.com:50004/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="安大略省-Orillia   平湖树影 -高清">
+<url>http://boatcam1.viewnetcam.com:50004/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

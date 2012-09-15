@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="南美洲" order="AH" >
+<city name="南美洲" type="1888" order="A" >	
+
+<video name="南美洲 牙买加 海滨浴场4 -普清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 牙买加 海滨浴场4 -高清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 马提尼克岛 交通路口1 -高清">
+<url>http://81.248.1.10/cgi-bin/faststream.jpg?stream=full::1;fps=2::1;rand=557620::1;data=v.mjpg</url>
+</video>
+
+<video name="南美洲 马提尼克岛 交通路口2 -高清">
+<url>http://81.248.1.13/record/current.jpg?rand=273220::1;data=v.mjpg</url>
+</video>
+
+<video name="南美洲 巴西 北里奥格兰德州 海边">
+<url>http://187.60.78.14/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="南美洲 巴西 北里奥格兰德州 海边（高清）">
+<url>http://187.60.78.14/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="南美洲 荷属安地列斯 未知 -普清">
+<url>http://islandcam.columbiasussex.com/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 荷属安地列斯 未知 -高清">
+<url>http://islandcam.columbiasussex.com/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 尼加拉瓜 教室 -普清">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲 尼加拉瓜 教室 -高清">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲 美属维京群岛 岛屿风景 -高清">
+<url>http://66.185.42.7/record/current.jpg?rand=3803216::1;data=v.mjpg</url>
+</video>
+
+<video name="南美洲 美属维京群岛 海岛远景 -低分辨率">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=160x120::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -普清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -高清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="阿根廷 海边-高清">
+<url>http://200.59.36.195/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+
+<!--test>
+http://www.bariloche.com.ar/cgi-bin/faststream.jpg?stream=full&fps=2&rand=557620
+http://camaravarese.dyndns.org:1025/mjpg/video.mjpg?Resolution=320x240
+http://camaraonda.homelinux.com:82/mjpg/video.mjpg?Resolution=320x240
+http://200.61.9.124/mjpg/video.mjpg?Resolution=320x240
+<test-->
+
+
+</city>
+</province>
+</provinces>
