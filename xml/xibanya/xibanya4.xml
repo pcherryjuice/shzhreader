@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="西班牙" order="BH" >
+<city name="西班牙4" type="1888" order="D" >
+		
+<video name="西班牙.马德里 Brunete 城市风光（高清）">
+<url>http://cercemeteo.dyndns.org:1026/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.穆尔西亚 乡村景色">
+<url>http://80.32.194.6:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.穆尔西亚 乡村旅馆2">
+<url>http://monte-mar.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.穆尔西亚 Lorca 城镇风光">
+<url>http://80.32.201.15:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 高楼5">
+<url>http://161.72.129.178/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Vitoria 城市风光（高清）">
+<url>http://meteogasteiz.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 天文台望远镜7">
+<url>http://161.72.20.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 路边小山坡8">
+<url>http://161.72.5.27/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015475411</url>
+</video>
+
+<video name="西班牙.巴斯克自治区 Islas 路边海景9">
+<url>http://iris2.not.iac.es/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015520345</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 学校实验室7">
+<url>http://156.35.159.142/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015625952</url>
+</video>
+
+<video name="西班牙.阿拉贡 Zaragoza 办公室2">
+<url>http://80.34.81.8:8000/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015686815</url>
+</video>
+
+<video name="西班牙.阿斯杜里亞 Oviedo 学校电脑教室">
+<url>http://156.35.159.144/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015760387</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  美丽的海边风景（高清）">
+<url>http://tpglasgalletas.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 San Miguel  海边旅馆的游泳池（高清）">
+<url>http://constanzacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  海边浴场2（高清）">
+<url>http://csf4utnf.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 De La Gomera  美丽的海边浴场">
+<url>http://playafanabe.dyndns.org:1225/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Arona 海边城镇风光">
+<url>http://reinekecam.dyndns.info/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Granadilla De Abona  度假村风光（高清）">
+<url>http://chayofacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Icod De Los Vinos  海边沙滩（高清）">
+<url>http://88.26.178.142:4343/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Icod De Los Vinos  海边浴场2">
+<url>http://88.26.178.142:4344/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 La Laguna  小花坛">
+<url>http://217.127.27.199:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  海边风光3（高清）">
+<url>http://bodegasmonje.dyndns.org:1240/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.加那利群岛 Santa Cruz De Tenerife  葡萄庄园4">
+<url>http://bodegasmonje.dyndns.org:1250/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.莱昂  Castilla y  乡村马路（高清）">
+<url>http://barelcruce.dyndns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.莱昂 Palencia Castilla y  乡村风景">
+<url>http://80.24.205.249:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西班牙.莱昂 Valladolid Castillay  室内摄像头2">
+<url>http://157.88.202.56/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Sabadell 海边沙滩">
+<url>http://80.32.91.134:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Manresa 一个鸟窝">
+<url>http://meteollauri.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="西班牙" order="BH" >
+<city name="西班牙2" type="1888" order="B" >
+		
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那实验室4">
+<url>http://147.83.134.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那墙角5">
+<url>http://213.96.24.148:80/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 野外山坡">
+<url>http://meteofabra.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 La Bisbal  海港2">
+<url>http://217.126.89.102:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="尼亚 Arenys De Mar 西班牙.加泰罗 游艇码头">
+<url>http://217.126.49.50:4002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 La Bisbal  游艇码头3">
+<url>http://217.126.89.102:8040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Mollet Del   仰望天空">
+<url>http://meteosantfost.axiscam.net:3333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Playa 无敌海景">
+<url>http://telecentre.no-ip.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚  天空">
+<url>http://meteopremiamar.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 De Mar  海边景色">
+<url>http://217.126.51.10:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Ripoll 山景">
+<url>http://80.24.26.85:10080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那教堂10">
+<url>http://88.2.47.141:70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="La Bisbal 西班牙.加泰罗尼亚 海港4">
+<url>http://217.126.89.102:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Vilallonga 比拉利翁加码头">
+<url>http://telecentre.no-ip.org:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那餐厅13">
+<url>http://oviso.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 La Bisbal  海湾5">
+<url>http://217.126.89.102:8050/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那特色建筑17">
+<url>http://meteosg.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Barcelona 巴塞罗那鸟瞰屋顶18">
+<url>http://meteobunyol.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Santa Coloma  海边草场2">
+<url>http://194.224.71.18:6081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加泰罗尼亚 Santa Coloma  美丽的海滨3">
+<url>http://194.224.71.18:6082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Valencia Comunidad  树与天空">
+<url>http://meteomontserrat.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 阿利坎特海港">
+<url>http://80.36.143.69:8088/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 阿利坎特球场一角2">
+<url>http://websitecam91110.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 阿利坎特海港3">
+<url>http://80.36.143.69:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Valencia Comunidad  巴伦西亚海港2">
+<url>http://217.125.47.107:4545/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 巴伦西亚海港5">
+<url>http://80.36.142.77:2000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.瓦伦西亚 Valencia Comunidad  巴伦西亚鸟瞰5">
+<url>http://ontimet.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.埃斯特雷马杜拉  古建筑外墙">
+<url>http://217.124.178.6:8206/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.埃斯特雷马杜拉  古楼2">
+<url>http://217.124.178.6:8205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.加利西亚 湖边的人行道">
+<url>http://79.148.102.132:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加利西亚 Vigo 海浪">
+<url>http://80.33.34.168:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.加利西亚 Coir��s 民宅广场">
+<url>http://concelloallariz.no-ip.info:1614/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Cala Ratjada 西班牙.巴利阿里群岛 海岸">
+<url>http://80.32.204.149:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pollensa 西班牙.巴利阿里群岛 波连萨海滨">
+<url>http://sailsurf.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Mah��n 西班牙.巴利阿里群岛 天空">
+<url>http://meteoibiza.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Logro?o La Rioja Spain 住宅小巷">
+<url>http://santurde.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里沙滩2">
+<url>http://80.25.152.115:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里山中古楼5">
+<url>http://80.26.18.150:8002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里住宅门口9">
+<url>http://212.170.62.164:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里风情10">
+<url>http://88.26.193.234/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西班牙.马德里 马德里郊外11">
+<url>http://212.170.62.182:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里山脉14">
+<url>http://80.26.18.150:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里山脚下的小镇20">
+<url>http://aytotazacorte.dyndns.org:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" Ardoz Madrid Spain 马德里公路">
+<url>http://axis-7857f8.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.马德里 马德里建筑工地27">
+<url>http://88.26.206.145:7779/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西班牙.穆尔西亚 马德里联排3">
+<url>http://meteosantomera.axiscam.net:1100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 野外的设备">
+<url>http://webcam.magic.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Tolosa 西班牙.巴斯克自治区 托洛萨海滩">
+<url>http://217.126.198.162:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山顶雷达站2">
+<url>http://iris.not.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Islas 西班牙.巴斯克自治区 山上的接收站3">
+<url>http://extwebcam2.magic.iac.es/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
