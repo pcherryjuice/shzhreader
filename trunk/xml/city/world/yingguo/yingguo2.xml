@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="英国" order="BH" >
+<city name="英国2" type="1888" order="B" >	
+	
+<video name="德比海上游轮">
+<url>http://81.130.200.130/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦敦德里湖泊">
+<url>http://81.143.3.126/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Beaworthy 德文郡 比沃西会议室">
+<url>http://dsgc.dyndns.org:20800/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德文郡 Buckfastleigh 巴克法斯特利湖边别墅">
+<url>http://eilandonan.selfip.com:2220/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱丁堡 爱丁堡楼宇入口">
+<url>http://129.215.167.60/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="盖茨黑德 盖茨黑德运河">
+<url>http://217.23.231.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="格拉斯哥 格拉斯哥教堂2">
+<url>http://gretnaweddings.viewnetcam.com:2220/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="格鲁斯特市Lechlade 莱奇莱德码头与游艇">
+<url>http://82.153.20.10:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Fleet 汉普郡 弗利特的小屋">
+<url>http://84.45.136.56/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哈罗 哈罗小镇的农田">
+<url>http://81.137.200.67:8042/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="赫特福德Watford 沃特福德停车场">
+<url>http://81.134.6.122/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="赫特福德Watford 沃特福德码头与天空2">
+<url>http://88.97.35.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="赫特福德Northchurch 赫特福德猫窝">
+<url>http://eriador.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="奥斯特里 豪恩斯洛海边沙滩">
+<url>http://80.176.94.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯特Chatham 肯特海景">
+<url>http://213.123.185.68/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="柯克利思Huddersfield 哈德斯菲尔德猪圈">
+<url>http://62.254.171.181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="兰开夏郡Rawtenstall 罗滕斯托尔海滨">
+<url>http://fuscos.dyndns.tv:1234/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="莱斯特郡Lutterworth 爱尔兰东部海港">
+<url>http://82.69.41.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="林肯郡Stamford 斯坦福德海港">
+<url>http://195.54.250.138:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦郊外的小屋">
+<url>http://84.92.224.138:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦小路3">
+<url>http://81.137.208.77:1024/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦动物园企鹅馆4">
+<url>http://213.120.175.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦海港6">
+<url>http://213.123.217.219:2220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦草坡7">
+<url>http://212.159.103.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦楼顶8">
+<url>http://85.90.40.29/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦高尔夫球场9">
+<url>http://91.85.203.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦田野风光10">
+<url>http://82.71.22.62:8070/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦敦 湖边小镇12">
+<url>http://ferrymans.plus.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦敦 伦敦海边14">
+<url>http://axis79ba5e.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦马路15">
+<url>http://burnhamonsea.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦办公室16">
+<url>http://videostream.mdh-insurance.co.uk:207/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

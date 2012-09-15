@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="英国" order="BH" >
+    <city name="英国1" type="1" order="A" >	
+			<video name="# 英国1(单击加载)">
+				<url>city/yingguo/yingguo1.xml</url>
+			</video>
+		</city>	
+		<city name="英国2" type="1" order="B" >	
+			<video name="# 英国2(单击加载)">
+				<url>city/yingguo/yingguo2.xml</url>
+			</video>
+		</city>	
+		<city name="英国3" type="1" order="C" >	
+			<video name="# 英国3(单击加载)">
+				<url>city/yingguo/yingguo3.xml</url>
+			</video>
+		</city>	
+		<city name="英国4" type="1" order="D" >	
+			<video name="# 英国4(单击加载)">
+				<url>city/yingguo/yingguo4.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+</provinces> 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="英国" order="BH" >
+<city name="英国4" type="1888" order="D" >	
+	
+
+
+<video name="利兹 小区停车场-高清720p">
+<url>http://cam3.nmtf.co.uk/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="伦敦 伦敦街道2-高清720p">
+<url>http://195.172.38.35/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="埃塞克斯Chelmsford 码头-高清">
+<url>http://81.149.193.114/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="埃塞克斯Colchester 街道2-高清720p">
+<url>http://217.41.61.97:2221/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="埃塞克斯Colchester 街道2-高清">
+<url>http://217.41.61.97:2220/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="柴郡Congleton 未知">
+<url>http://81.149.174.214:8002/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="布莱顿霍夫 码头-高清">
+<url>http://194.164.144.234/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="白金汉Chorleywood 工厂2-高清1080p">
+<url>http://212.44.13.125/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="伦敦 别墅监控-高清">
+<url>http://zapcam.viewnetcam.com:12077/SnapshotJPEG?Resolution=640x480&Quality=Standard&View=Normal</url>
+</video>
+
+<video name="伦敦 游艇码头-高清">
+<url>http://217.35.88.239:8081/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="伦敦 游艇码头2-高清">
+<url>http://217.35.88.239:8080/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="诺丁汉 交通路口2-高清">
+<url>http://128.243.100.18/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="奥尔德姆 海边沙滩2-高清">
+<url>http://81.136.130.7:1024/record/current.jpg?rand=7898483</url>
+</video>
+
+
+<video name="牛津郡Banbury 大转盘-高清1080p">
+<url>http://a41sandwell.dyndns.org:8888/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="雷德布里奇Ilford 海边小码头-高清">
+<url>http://81.149.57.227:90/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="斯坦福德基尔市Tamworth 厂房仓库监控-高清">
+<url>http://fostercentre.southstaffs.ac.uk/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="斯托克 山野美景">
+<url>http://activuswebcam1.dyndns.org/record/current.jpg?rand=7898483</url>
+</video>
+
+<video name="华威郡Warwick 场馆门口-高清1280p">
+<url>http://roofcam.warwick.ac.uk/record/current.jpg?rand=7898483</url>
+</video>
+
+
+
+<video name="伍斯特郡Kidderminster 人行马路-高清">
+<url>http://195.12.20.166/oneshotimage.jpg</url>
+</video>
+
+
+<video name="约克Knaresborough 场馆门口3-高清">
+<url>http://217.35.111.253:8082/record/current.jpg?rand=7898483</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

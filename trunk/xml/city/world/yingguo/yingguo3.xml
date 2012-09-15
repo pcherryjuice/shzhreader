@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="英国" order="BH" >
+<city name="英国3" type="1888" order="C" >	
+<video name="伦敦 伦敦拐弯小路18">
+<url>http://91.85.66.222:3000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦窗外的景色21">
+<url>http://hudgell.viewnetcam.com:443/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦敦 伦敦办公室22">
+<url>http://videostream.mdh-insurance.co.uk:208/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦草坪23">
+<url>http://82.152.71.153:62943/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦港湾24">
+<url>http://ardfernyacht.axiscam.net:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦港湾25">
+<url>http://conistonsailingclub.axiscam.net:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦楼宇入口26">
+<url>http://85.90.40.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="曼彻斯特 曼彻斯特汽修厂">
+<url>http://217.37.180.233:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="曼彻斯特 曼彻斯特港湾2">
+<url>http://217.36.122.47/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="曼彻斯特 曼彻斯特楼宇3">
+<url>http://130.88.132.245/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="中洛锡安Dalkeith 达尔基斯车库">
+<url>http://lucs.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="诺福King's Lynn 诺福克鸟巢">
+<url>http://interfacesecurity.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="诺福King's Lynn  诺福克山水2">
+<url>http://77.68.4.56:8100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾尔郡度假村">
+<url>http://selkirk.axiscam.net:9211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北安普敦郡 北安普敦车库">
+<url>http://axis-6dc47f.axiscam.net:33999/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="牛津建筑工地">
+<url>http://161.73.114.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿宾登河畔">
+<url>http://91.143.176.52/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="彭布罗克郡的桥">
+<url>http://81.171.193.42/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雷丁古屋3">
+<url>http://217.169.5.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗奇代尔海边度假村">
+<url>http://housel.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="埃德尔斯顿度假村">
+<url>http://kingy.viewnetcam.com/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="汤顿广场">
+<url>http://studio25.viewnetcam.com:7641/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒂普顿河边的十字路口">
+<url>http://88.96.209.46:2220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布赖尔利河边垂钓">
+<url>http://80.229.149.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="斯托克波特街景">
+<url>http://194.82.4.59/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="森德兰办公室">
+<url>http://cyclops.sunderland.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="森德兰户外2">
+<url>http://itacs-neteye-1.sunderland.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="米彻姆金鱼池">
+<url>http://93.97.191.209:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="埃格姆小路">
+<url>http://mbewebcam.rhul.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯旺西楼宇">
+<url>http://137.44.28.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯旺西会议室2">
+<url>http://webcam2.swansea.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯旺西会议室3">
+<url>http://webcam1.swansea.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>	
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="英国" order="BH" >
+<city name="英国1" type="1888" order="A" >	
+	
+<video name="诺丁汉 工厂监控3-高清720p">
+<url>http://128.243.250.44/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="诺丁汉 奥运场馆1-高清720p">
+<url>http://128.243.35.102/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="诺丁汉 奥运场馆2-高清720p">
+<url>http://128.243.35.103/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="诺丁汉 奥运场馆3-高清720p">
+<url>http://128.243.93.20/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="奥尔德姆 跑道-高清">
+<url>http://webcam.oxfordairport.co.uk/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="阿伯丁 阿伯丁足球场2">
+<url>http://backoffice.afc.co.uk:1055/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="安格斯郡 Kirriemuir 郊外的天空与草坪">
+<url>http://deesidegliding.dnsdojo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伯明翰 伯明翰鸟窝">
+<url>http://81.149.153.123:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布拉克内尔  布拉克内尔码头">
+<url>http://fybmovecam1.axiscam.net:8194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布拉克内尔  布拉克内尔海滨2">
+<url>http://dalemoorings.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布拉克内尔  布拉克内尔码头3">
+<url>http://fybmovecam2.axiscam.net:8194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布拉克内尔  布拉克内尔码头4">
+<url>http://fybmovecam2.axiscam.net:8196/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布拉克内尔  布拉克内尔码头5">
+<url>http://fybmovewebcam3.axiscam.net:8196/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="白金汉郡河滩">
+<url>http://88.212.140.157/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="白金汉郡河畔">
+<url>http://81.136.146.45:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡古楼">
+<url>http://131.111.125.248/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡公路2">
+<url>http://80.4.121.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡钟楼3">
+<url>http://131.111.133.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡卫星信号接收塔4">
+<url>http://131.111.48.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡卫星信号接收塔5">
+<url>http://amilaweb.ra.phy.cam.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡古楼6">
+<url>http://ispy.corpus.cam.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥郡卫星信号接收塔7">
+<url>http://amiweb.ra.phy.cam.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="诺斯威奇野外">
+<url>http://81.149.234.33:7001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="朗科恩桥">
+<url>http://bridgecam2.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="朗科恩高速公路2">
+<url>http://bridgecam6.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="朗科恩高速公路5">
+<url>http://bridgecam5.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="朗科恩公路6">
+<url>http://bridgecam1.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特鲁罗街景">
+<url>http://212.219.113.227/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽基漂亮的海岸2">
+<url>http://87.86.203.3:2221/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="考文工厂卸货区">
+<url>http://ecb.coventry.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="考文美丽的古楼2">
+<url>http://webcam.hexhamnet.co.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="英国" order="BH" >
+<city name="英国4" type="1888" order="D" >	
+	
+<video name="Stratford-upon-avon 华威郡 沃里克郡室外">
+<url>http://81.149.225.181:63716/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Perivale Windsor and Maidenhead 梅登黑德小狗幼儿园"> 
+<url>http://78.105.15.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Perivale Windsor and Maidenhead 梅登黑德小狗幼儿园2">
+<url>http://78.105.15.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Maidenhead Windsor and Maidenhead 梅登黑德小镇">
+<url>http://catbells.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伍斯特郡Worcester 伍斯特户外">
+<url>http://a3bd1f.axiscam.net:8088/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="约克Brockholes 布罗克霍尔斯猫头鹰">
+<url>http://kestrelnym.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="利兹 小区停车场-高清720p">
+<url>http://cam3.nmtf.co.uk/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="赫特福德Radlett 窗外园林2">
+<url>http://feedercam.axiscam.net:8081/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="赫特福德Radlett 窗外园林3">
+<url>http://78.143.211.215:8090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦敦 伦敦街道2-高清720p">
+<url>http://195.172.38.35/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="埃塞克斯Chelmsford 码头-高清">
+<url>http://81.149.193.114/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="埃塞克斯Colchester 街道2-高清720p">
+<url>http://217.41.61.97:2221/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="埃塞克斯Colchester 街道2-高清">
+<url>http://217.41.61.97:2220/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="康沃尔Camborne 牧场-高清">
+<url>http://webcam.brit-int.co.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康沃尔Newquay 酒吧">
+<url>http://87.86.203.2:2220/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="柴郡Congleton 未知">
+<url>http://81.149.174.214:8002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="柴郡Runcorn 桥3">
+<url>http://bridgecam3.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="柴郡Runcorn 交通路口4">
+<url>http://bridgecam4.halton.gov.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="布莱顿霍夫 码头-高清">
+<url>http://194.164.144.234/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="白金汉Chorleywood 工厂2-高清1080p">
+<url>http://212.44.13.125/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="伦敦 别墅监控-高清">
+<url>http://zapcam.viewnetcam.com:12077/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦敦 游艇码头-高清">
+<url>http://217.35.88.239:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦敦 游艇码头2-高清">
+<url>http://217.35.88.239:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="伦敦 教室">
+<url>http://mail.tokyodiner.com:704/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="诺丁汉 交通路口2-高清">
+<url>http://128.243.100.18/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="奥尔德姆 海边沙滩2-高清">
+<url>http://81.136.130.7:1024/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="牛津郡Banbury 大转盘-高清1080p">
+<url>http://a41sandwell.dyndns.org:8888/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="瑞丁 未知摄像头2">
+<url>http://84.92.66.114:55276/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雷德布里奇Ilford 海边小码头-高清">
+<url>http://81.149.57.227:90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="索利赫尔 私家车库">
+<url>http://keitho.no-ip.com/axis-cgi/mjpg/video.cgi?camera=::1;Resolution=320x240::1;1338022485343</url>
+</video>
+
+<video name="斯坦福德基尔市Tamworth 厂房仓库监控-高清">
+<url>http://fostercentre.southstaffs.ac.uk/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="斯托克 山野美景">
+<url>http://activuswebcam1.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="华威郡Warwick 场馆门口-高清1280p">
+<url>http://roofcam.warwick.ac.uk/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="华威郡Warwick 办公室内2">
+<url>http://137.205.178.109/axis-cgi/mjpg/video.cgi?camera=::1;Resolution=640x480::1;1338022994817</url>
+</video>
+
+<video name="伍斯特郡Kidderminster 人行马路-高清">
+<url>http://195.12.20.166/image?speed=6</url>
+</video>
+
+<video name="伍斯特郡Worcester 足球场3">
+<url>http://83.105.104.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="约克Knaresborough 场馆门口3-高清">
+<url>http://217.35.111.253:8082/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
