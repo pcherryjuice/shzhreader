@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利5" type="1888" order="E" >	
+
+<video name="西西里 Palermo 海滨山色2">
+<url>http://89.97.64.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西西里 Ragusa 海边小码头2-高清1080p">
+<url>http://95.227.153.206:5000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西西里 Paceco 海滨浴场19-高清1080p">
+<url>http://79.5.175.198:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西西里 Castellammare Del Golfo 海边浴场20-高清">
+<url>http://mediterraneowebcam.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西西里 Balestrate 海边小码头3-高清">
+<url>http://82.107.87.169/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西西里 Cinquefrondi 未知摄像头6">
+<url>http://webcamtropea.dyndns.biz:8180/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Florence 游泳池2">
+<url>http://hparis.dyndns.org:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Viareggio 海滨浴场21">
+<url>http://91.143.205.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Pisa 古楼大街4-高清1080p">
+<url>http://82.91.106.72:84/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Grassina 乡村风景2-高清">
+<url>http://79.14.27.202/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="托斯卡纳 Coreglia Antelminelli 楼下停车场2-高清">
+<url>http://79.4.151.9:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Massarosa 工厂监控2-高清1080p">
+<url>http://87.247.237.226:8002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Pisa 山间小镇2-高清">
+<url>http://82.91.106.72:86/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Pisa 游泳池3">
+<url>http://93.66.88.33/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="托斯卡纳 Castel Del Piano 广场2">
+<url>http://85.43.154.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Leghorn 小区监控摄像头">
+<url>http://mascagni.axiscam.net:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Leghorn 家庭监控摄像头2">
+<url>http://mascagni.axiscam.net:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Pisa 小区监控摄像头4">
+<url>http://82.91.106.72:85/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Florence 未知摄像头2">
+<url>http://88.149.155.68/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Florence 葡萄园">
+<url>http://webcam.ornellaia.it/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-托斯卡纳 Arezzo 跑道2-高清1080p">
+<url>http://87.29.152.186/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Lucca 海景山色2-高清">
+<url>http://webcam.isoladelba.ca/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Massarosa 停车场监控2-高清1080p">
+<url>http://87.247.237.226:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Ponsacco 工厂监控7-高清">
+<url>http://87.247.237.226:8003/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-托斯卡纳 Florence 城市鸟瞰4">
+<url>http://82.89.168.179/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="托斯卡纳 San Piero A Sieve 海边浴场22-高清">
+<url>http://82.90.182.43/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="托斯卡纳 San Piero A Sieve 海边浴场23-高清">
+<url>http://82.90.182.42/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Merano Trentino-Alto Adige山林美景2">
+<url>http://busadeisbrase.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Trento Trentino-Alto Adige鸟瞰乡村">
+<url>http://94.84.187.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Molveno Trentino-Alto Adige海边游泳池">
+<url>http://79.137.113.130:210/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+</city>
+</province>
+</provinces>

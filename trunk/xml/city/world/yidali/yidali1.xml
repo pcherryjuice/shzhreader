@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利1" type="1888" order="A" >	
+
+<video name="测试">
+<url>rtsp://205.157.152.230/axis-media/media.amp</url>
+</video>
+<video name="测试2">
+<url>rtsp://205.157.152.238/axis-media/media.amp</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Montesilvano 海滨浴场-高清">
+<url>http://offshore.dyndns.tv/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Lanciano 城市风景">
+<url>http://87.24.167.176:8005/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Pescara 度假村">
+<url>http://212.43.123.19/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Pescara 游泳池">
+<url>http://212.43.123.243/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Pescara 未知摄像头">
+<url>http://astaonline.mercatoittico.pescara.it:8080/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Isola 碧海银沙-高清">
+<url>http://91.214.62.106/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Giulianova 海边浴场2-高清">
+<url>http://82.143.37.138/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Pescara 未知摄像头2">
+<url>http://195.32.90.3/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="雷焦卡拉布里亚 楼下停车场">
+<url>http://78.5.57.10:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-雷焦卡拉布里亚 Albergo 海边浴场3">
+<url>http://88.34.205.146:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雷焦卡拉布里亚 海滨城市风景">
+<url>http://78.5.57.10:8982/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雷焦卡拉布里亚 海边运动场">
+<url>http://78.5.57.10:8981/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="卡拉布里亚 Soveria Mannelli 古楼大街">
+<url>http://109.168.28.102:21000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雷焦卡拉布里亚 海滨风景">
+<url>http://78.5.57.10:8980/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Caserta 美丽的海边城市-高清">
+<url>http://85.18.249.229/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Anacapri 交通路口">
+<url>http://82.89.169.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Vico Equense Campania海天一色">
+<url>http://77.94.95.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Salento 海景山色-高清">
+<url>http://79.5.160.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Battipaglia 温泉">
+<url>http://79.15.101.186:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Naples 古楼大街2">
+<url>http://webcam.hotelchiaia.com:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Caserta 美丽的海滨城市2-高清">
+<url>http://85.18.249.228/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="摩德纳省-罗马涅-艾米利亚 古楼大街3-高清">
+<url>http://webcam1.carpidiem.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="费拉拉省-罗马涅-艾米利亚 园林风景-高清1080p">
+<url>http://camorto.unife.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Igea Marina Emilia-Romagna海滨浴场4">
+<url>http://82.91.127.162/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利Emilia-Romagna Abetone 度假村">
+<url>http://94.89.237.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利Emilia-Romagna Urbino 教堂远景-高清">
+<url>http://90.147.3.208/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Savignano Sul Rubicone Emilia-Romagna海边景色">
+<url>http://cvcogoleto.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利Emilia-Romagna Cesenatico 人行马路">
+<url>http://82.189.107.234/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利Emilia-Romagna Modena 海边浴场4">
+<url>http://89.97.40.143/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利Emilia-Romagna Bologna 山城景色">
+<url>http://loicam1.bo.astro.it/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
