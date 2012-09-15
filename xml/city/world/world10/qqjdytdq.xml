@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球景点" order="a" >
+		<city name="亚太地区" type="1" order="E" >
+			<video name=" 以色列特拉维夫海豚馆海滩实况">
+			<url>mmsh://82.80.248.191:80/rtdolphinrt</url>
+			</video>
+			<video name="以色列特拉维夫海滩实况影像">
+			<url>mmsh://82.80.248.191:80/rthiltonrt</url>
+			</video>
+		  <video name="韩国江原道春川">
+			<url>mmsh://222.113.53.4/nalsi</url>
+			</video>
+			<video name="捷克PLAY电台直播间">
+			<url>mmsh://netshow.play.cz/impulswebcam</url>
+			</video>
+			<video name="澳大利亚.维多利亚.毒蜘蛛">
+			<url>mmsh://mvmedia.museum.vic.gov.au/TarantulaWebCam?MSWMExt=.asf </url>
+			</video>
+			<video name="新加坡流行音乐电台直播">
+			<url>mmst://202.172.226.208/WEBCAM933a</url>
+			</video>
+			<video name="韩国首尔交通实时监控104 不稳定">
+			<url>rtsp://211.252.223.179/0104</url>
+			</video>
+					<video name="韩国首尔交通实时监控110 不稳定">
+			<url>mms://211.252.223.178/0110 </url>
+			</video>
+			<video name="新加坡FM987电台直播间 不稳定">
+			<url>mms://202.172.226.208/WEBCAM987a</url>
+			</video>
+			<video name="澳大利亚.维多利亚.墨尔本 http ">
+			<url>http://www.coastalwatch.com/asx/melbourne.asx</url>
+			</video>
+			<video name="泰国.HOT FM915电台演播室 不稳定">
+			<url>mms://real.atimemedia.com/hotwave</url>
+			</video>
+						<video name="俄罗斯.莫斯科.RSN直播间 不稳定">
+			<url>mms://video.corbina.tv/radio</url>
+			</video>
+						<video name="泰国.芭堤雅.噪音酒吧 不稳定">
+			<url>mms://live.camstreams.com/csNoisBar</url>
+			</video>
+						<video name="澳大利亚悉尼港 不稳定">
+			<url>mms://strm-wm-03.coastalwatch.com/cstopera_broadband</url>
+			</video>
+						<video name="泰国.苏梅岛.拉麦海滩 不稳定">
+			<url>mms://wms.th66.com/Livecam194</url>
+			</video>
+
+						<video name="泰国.95.5 Virgin Hitz电台演播室 不稳定">
+			<url>mms://202.44.54.179/Webcam_hitz2</url>
+			</video>
+
+			<video name="新加坡Class 95FM电台直播间 不稳定">
+			<url>mms://202.172.226.208/WEBCAM950a</url>
+			</video>
+
+			<video name="俄罗斯PCH电台演播室 不稳定">
+			<url>mms://wms.th66.com/Livecam203</url>
+			</video>
+		 <video name="泰国95.5 Virgin Hitz电台演播室 不稳定">
+			<url>mms://202.44.54.179/Webcam_Hitz</url>
+			</video>
+			<video name="以色列.太巴列.加利利湖 http 不稳定">
+			<url>http://70.87.194.178/galilee</url>
+			</video>
+			<video name="菲律宾.马尼拉.奎松 http 不稳定">
+			<url>http://sss-server1.dyndns.org:8088</url>
+			</video>
+			<video name="澳大利亚.艾丽斯斯普林斯.酒吧 不稳定">
+			<url>mms://media3.shiftreload.com.au/bojangles</url>
+			</video>
+			<video name="泰国.苏梅岛.拉麦海滩路 不稳定">
+			<url>mms://wms.th66.com/Livecam218</url>
+			</video>
+			<video name="泰国.HOT FM915直播间 不稳定">
+			<url>mms://real.atimemedia.com/hotwave</url>
+			</video>
+			<video name="澳大利亚昆士兰Miami 不稳定">
+			<url>mms://strm-wm-03.coastalwatch.com/cstmiami_broadband</url>
+			</video>
+			<video name="澳大利亚.昆士兰.国王海滩 不稳定">
+			<url>mms://wms.2977.edgecastcdn.net/202977/cw_kings</url>
+			</video>
+			<video name="巴勒斯坦.耶路撒冷.哭墙 不稳定">
+			<url>mms://www.po-ip.co.il/kotel</url>
+			</video>
+
+			
+			<video name="韩国首尔交通实时监控115 不稳定">
+			<url>mms://211.252.223.178/0115</url>
+			</video>
+			<video name="韩国首尔交通实时监控109 不稳定">
+			<url>mms://211.252.223.178/0109</url>
+			</video>
+			<video name="韩国首尔交通实时监控111 不稳定">
+			<url>mms://211.252.223.178/0111</url>
+			</video>
+			<video name="韩国首尔交通实时监控108 不稳定">
+			<url>mms://211.252.223.178/0108</url>
+			</video>
+			<video name="韩国首尔交通实时监控107 不稳定">
+			<url>mms://211.252.223.178/0107</url>
+			</video>
+			<video name="韩国首尔交通实时监控112 不稳定">
+			<url>mms://211.252.223.178/0112</url>
+			</video>
+			<video name="韩国首尔交通实时监控105 不稳定">
+			<url>mms://211.252.223.178/0105</url>
+			</video>
+						<video name="韩国首尔交通实时监控113 不稳定">
+			<url>mms://211.252.223.178/0113</url>
+			</video>
+						<video name="韩国首尔交通实时监控202 不稳定">
+			<url>mms://211.252.223.178/0202</url>
+			</video>
+						<video name="韩国首尔交通实时监控203 不稳定">
+			<url>mms://211.252.223.178/0203</url>
+			</video>
+						<video name="韩国首尔交通实时监控101 不稳定">
+			<url>mms://211.252.223.178/0101</url>
+			</video>
+						<video name="韩国首尔交通实时监控102 不稳定">
+			<url>mms://211.252.223.178/0102</url>
+			</video>
+						<video name="韩国首尔交通实时监控116 不稳定">
+			<url>mms://211.252.223.178/0116</url>
+			</video>
+						<video name="韩国首尔交通实时监控106 不稳定">
+			<url>mms://211.252.223.178/0106</url>
+			</video>
+						<video name="韩国首尔交通实时监控201 不稳定">
+			<url>mms://211.252.223.178/0201</url>
+			</video>
+			
+		</city>
+	</province>
+</provinces> 

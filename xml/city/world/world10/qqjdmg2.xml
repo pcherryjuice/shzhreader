@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美国" order="a" >
+		<city name="美国1" type="1" order="B" >
+			<video name="国家航空航天局.国际空间站1">
+			<url>mmsh://a1709.l1856953708.c18569.g.lm.akamaistream.net/D/1709/18569/v0001/reflector:53708</url>
+			</video>			
+			<video name="佛罗里达.野猪气息酒吧">
+			<url>mmst://alt.floridakeysmedia.com/hogsbarcam</url>
+			</video>
+			<video name="佛罗里达.牛仔比尔酒吧二">
+			<url>mmst://alt.floridakeysmedia.com/cowboybillsstage</url>
+			</video>
+			<video name="佛罗里达.玻璃底船">
+			<url>mmst://alt.floridakeysmedia.com/furyglassbottomboat</url>
+			</video>
+			<video name="佛罗里达.电车">
+			<url>mmst://alt.floridakeysmedia.com/oldtowntrolley</url>
+			</video>
+			<video name="佛罗里达.码头">
+			<url>mmst://alt.floridakeysmedia.com/islandfish</url>
+			</video>
+			<video name="美国佛罗里达切萨皮克度假村①">
+			<url>mmst://alt.floridakeysmedia.com/parrotdise</url>
+			</video>
+			<video name="佐治亚州.亚特兰大.蜂巢">
+			<url>mmsh://live.camstreams.com/csbeeman?MSWMExt=.asf</url>
+			</video>
+			<video name="北卡罗来纳.野鹿">
+			<url>mmsh://live.camstreams.com/cskf6wax?MSWMExt=.asf</url>
+			</video>
+			<video name="佛罗里达.两个朋友餐馆">
+			<url>mmst://alt.floridakeysmedia.com/twofriends</url>
+			</video>
+			<video name="佛罗里达.帆船码头酒吧">
+			<url>mmst://alt.floridakeysmedia.com/schoonerwharf</url>
+			</video>
+			<video name="佛罗里达.杜瓦尔街">
+			<url>mmst://origin.floridakeysmedia.com/liveduvalstreet</url>
+			</video>
+			<video name="加利福尼亚.博尔德克里克">
+			<url>mmst://live.camstreams.com/csRacheed</url>
+			</video>
+			<video name="佛罗里达.斯劳皮·乔酒吧">
+			<url>mmst://alt.floridakeysmedia.com/sloppys</url>
+			</video>		
+			<video name="美国佛罗里达海底二">
+			<url>mmst://alt.floridakeysmedia.com/teens4oceans2</url>
+			</video>
+			<video name="美国.俄亥俄.花园">
+			<url>mmsh://live.camstreams.com/csOhioLutes?MSWMExt=.asf</url>
+			</video>
+			<video name=" 美国.俄勒冈.波特兰.哥伦比亚河">
+			<url>mmst://live.camstreams.com/cszappers</url>
+			</video>
+			<video name="波多黎各.水族馆.珊瑚礁">
+			<url>mmsh://luisgoreefcam.dyndns.tv:1946/</url>
+			</video>
+			<video name="美国.密歇根.卡尔卡斯卡.野外">
+			<url>mmsh://live.camstreams.com/csnorthtroll</url>
+			</video>   
+			<video name="美国.田纳西.查塔努加.直播间②">
+			<url>mmsh://media2.cha.aicmail.net/wgowenc2</url>
+			</video>
+		  <video name=" 美国.田纳西.查塔努加.直播间①">
+			<url>mmsh://media2.cha.aicmail.net/wgowenc1</url>
+			</video>
+			<video name="美国.佛罗里达.旅游列车">
+			<url>mmst://alt.floridakeysmedia.com/tourtrain</url>
+			</video>
+			<video name="美国.佛罗里达.切萨皮克度假村②">
+			<url>mmst://alt.floridakeysmedia.com/chesapeake</url>
+			</video>
+			<video name=" 美国.佛罗里达.牛仔比尔酒吧①">
+			<url>mmst://origin.floridakeysmedia.com/cowboybillsbullride</url>
+			</video>
+			<video name="美国.佛罗里达.牛仔比尔酒吧②">
+			<url>mmst://alt.floridakeysmedia.com/cowboybillsstage</url>
+			</video>
+			<video name="佛罗里达.绿鹦鹉酒吧">
+			<url>mmst://alt.floridakeysmedia.com/greenparrot</url>
+			</video>
+			<video name="美国.佛罗里达.提基酒吧">
+			<url>mmst://alt.floridakeysmedia.com/tikibar</url>
+			</video>
+			<video name="美国.佛罗里达.海底②">
+			<url>mmst://alt.floridakeysmedia.com/teens4oceans2</url>
+			</video>
+			<video name=" 美国.佛罗里达.斯劳皮·乔酒吧">
+			<url>mmst://alt.floridakeysmedia.com/sloppys</url>
+			</video>
+			<video name="美国.宾夕法尼亚.Leesport.公路">
+			<url>mmsh://live.camstreams.com/csvignet?MSWMExt=.asf</url>
+			</video>
+			<video name="美国.印第安纳波利斯.地下室或窗前">
+			<url>mmsh://live.camstreams.com/csbarnacles?MSWMExt=.asf</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

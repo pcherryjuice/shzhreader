@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="a" >
+		<city name="全球精选" type="1" order="A" >
+			<video name="中国.上海.黄浦江(精选)">
+			<url>mmst://www.onedir.com/Cam3</url>
+			</video>						
+			<video name="中国.上海.浦东新区(精选)">
+			<url>mmst://www.onedir.com/Cam4</url>
+			</video>
+			<video name="中国.新疆.巴州博斯腾湖广场(精选)">
+			<url>rtmp://124.117.226.122/live/CAP11009001</url>
+			</video>
+			<video name="中国.新疆库尔勒孔雀河(精选)">
+			<url>rtmp://124.117.226.122/live/CAP11008601</url>
+			</video>						
+			<video name="中国.湖南.张家界.迷魂台(白天才可以看)">
+			<url>mmsh://220.168.204.82:8081</url>
+			</video>												
+			<video name="中国.湖南.张家界.水绕四门(白天才可以看)">
+			<url>mmsh://220.168.204.83:8081</url>
+			</video>									
+			<video name="中国.湖南.张家界.天桥遗墩(白天才可以看)">
+			<url>mmsh://220.168.204.82:8082/ms005.wmv?w=620|450</url>
+			</video>							
+			<video name="美国国家航空航天局.国际空间站1(信号中断时黑屏)">
+			<url>mmsh://a1709.l1856953708.c18569.g.lm.akamaistream.net/D/1709/18569/v0001/reflector:53708</url>
+			</video>
+			<video name="日本.大阪.圣诞树(精选)">
+			<url>mmst://live1.iam.ne.jp/skybldg4</url>
+			</video>			
+			<video name="美国.佛罗里达.野猪气息酒吧(精选)">
+			<url>mmst://alt.floridakeysmedia.com/hogsbarcam</url>
+			</video>			
+			<video name="加拿大.安大略.尼亚加拉瀑布(精选)">
+			<url>mmst://webcams.niagarafallshotels.com/CNH-Stream2</url>
+			</video>
+			<video name="奥地利 卡林西亚 湖光山色(精选)">
+			<url>mmsh://gcssrv.pkf.speednet.at/WSX/panorama_ktn_live</url>
+			</video>
+			<video name="以色列特拉维夫海豚馆海滩实况(精选)">
+			<url>mmsh://82.80.248.191:80/rtdolphinrt</url>
+			</video>
+		  <video name="英国.南昆斯费里.福斯桥(精选)">
+			<url>mmsh://live.camstreams.com/cs4btraffic</url>
+			</video>
+			<video name="苏格兰.格拉斯哥.克莱德河(精选)">
+			<url>mmsh://live.camstreams.com/cssaitek1?MSWMExt=.asf</url>
+			</video>
+			<video name="英国.西萨塞克斯.沃辛.海滨(精选)">
+			<url>mmsh://live.camstreams.com/csWeatherCam?MSWMExt=.asf</url>
+			</video>
+			<video name="日本福岛核电站现场实况影像(精选)">
+			<url>mmsh://a46.l12738052045.c127380.a.lm.akamaistream.net/D/46/127380/v0001/reflector:52045</url>
+			</video>
+			<video name="日本东京彩虹大桥(精选)">
+			<url>mmsh://fujitv-wmt.stream.co.jp/fujitv-ds</url>
+			</video>
+		  <video name="日本.大阪.鸟瞰(精选)">
+			<url>mmst://live1.iam.ne.jp/skybldg1</url>
+			</video>
+			<video name="日本.富山.鱼津.海市蜃楼②(精选)">
+			<url>mmsh://www2.city.uozu.toyama.jp/side-k</url>
+			</video>
+			<video name="日本.湘南海滩(精选)">
+			<url>mmst://simul.freebit.net/shonanbeachfm</url>
+			</video>
+	    <video name="美国.佛罗里达.杜瓦尔街(精选)">
+			<url>mmst://origin.floridakeysmedia.com/liveduvalstreet</url>
+			</video>
+			<video name="美国佛罗里达切萨皮克度假村(精选)">
+			<url>mmst://alt.floridakeysmedia.com/parrotdise</url>
+			</video>		
+			<video name="日本.岐阜.白川乡.合掌造村落(精选)">
+			<url>mmsh://210.172.199.29/live</url>
+			</video>
+			<video name="日本.吉野川.岩津桥(精选)">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco4/</url>
+			</video>
+			<video name="日本.吉野川.三好大桥(精选)">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco5/</url>
+			</video> 			
+			<video name="中国.台湾垦丁海底珊瑚#1(白天才可以看)">
+			<url>mmsh://140.110.17.47:9860</url>
+			</video>				
+			<video name="中国.台湾垦丁海底珊瑚#2(白天才可以看)">
+			<url>mmsh://140.110.17.47:9870</url>
+			</video>	
+			<video name="中国.台湾垦丁海底珊瑚#3(白天才可以看)">
+			<url>mmsh://140.110.17.47:9880</url>
+			</video>	
+			<video name="中国.台湾垦丁海底珊瑚#4(白天才可以看)">
+			<url>mmsh://140.110.17.47:9890	</url>
+			</video>	
+		</city>
+	</province>
+</provinces> 
