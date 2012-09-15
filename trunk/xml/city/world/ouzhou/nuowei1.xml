@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="挪威" order="DC" >
+<city name="挪威" type="1888" order="A" >	
+
+<video name="挪威.阿克什胡斯郡Kolbotn 游艇码头">
+<url>http://62.101.230.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.阿克什胡斯郡Skytta 度假村风景">
+<url>http://212.62.245.38:83/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.阿克什胡斯郡Kolbotn 游艇码头2">
+<url>http://62.101.230.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.东阿格德尔 Arendal 小码头">
+<url>http://kirkegaten12.com:3142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.东阿格德尔 Furvik 游艇码头">
+<url>http://havnegaten15.com:3150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.布斯克鲁德 Tranby 古楼风貌">
+<url>http://81.167.204.10:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.布斯克鲁德 Drammen 观光索道">
+<url>http://81.167.44.38/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 海边景色">
+<url>http://hvg.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Hammerfest 城市风貌-旋转摄像头">
+<url>http://62.63.51.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Alta 建设中的机场">
+<url>http://77.222.181.11:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Hav?ysund 海边风景2">
+<url>http://honningsvag.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Hammerfest 码头风光2">
+<url>http://213.161.172.115/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Vads 城市风光2-旋转摄像头">
+<url>http://62.63.28.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Snefjord 湖光山色">
+<url>http://seiland.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 郊野风情">
+<url>http://82.147.33.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 山林美景2-高清">
+<url>http://87.248.15.2/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 郊野公园3-高清">
+<url>http://82.147.33.164/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.海德马克 Hamar 观光索道4-高清">
+<url>http://82.147.33.165/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.霍达兰 Lofthus 小码头2">
+<url>http://84.205.39.225/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.霍达兰 Granvin 海底摄像头">
+<url>http://84.205.34.130/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.罗斯达尔 Aalesund More og 游艇码头4">
+<url>http://213.184.212.230:44442/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔 Aalesund More og 游艇码头5">
+<url>http://213.184.212.230:44441/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔 More og 路边小屋">
+<url>http://webcam.idavoll.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 屋顶摄像头">
+<url>http://195.204.240.59/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 屋顶摄像头2">
+<url>http://213.161.226.178:1111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔  More og 跨海大桥">
+<url>http://194.248.190.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔 Stranda More og 乡村小屋">
+<url>http://83.243.150.175/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔 Volda More og 摩尔德高等学院2-校外景色">
+<url>http://luvar.himolde.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.罗斯达尔 More og 雪山美景2">
+<url>http://195.204.240.73/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Gravdal 河边风景">
+<url>http://bjarneweb.hopto.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Sortland 跨海大桥2">
+<url>http://213.167.121.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Mo I Rana  宾馆外停车场">
+<url>http://84.202.156.54:9092/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡  乡村马路">
+<url>http://193.201.74.160/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Narvik 山顶摄像头">
+<url>http://webcam01.nordkraft.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 码头8">
+<url>http://193.201.74.114/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 沿海公路">
+<url>http://158.39.101.247/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Mo I Rana 江边风景2-高清">
+<url>http://feiselbakken.homeip.net/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 Fauske 山林美景（高清）">
+<url>http://77.110.215.173/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="挪威.奥普兰 Dokka 路边小屋2">
+<url>http://77.106.185.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥普兰 Jaren 停车场3-高清">
+<url>http://213.167.124.54/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 石头山上的村庄">
+<url>http://skolten.info:2024/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 江边风景2">
+<url>http://skolten.info:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="挪威.奥斯陆 码头监控摄像头4">
+<url>http://193.213.25.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 高速路入口5">
+<url>http://82.147.35.50/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 6 城镇风景">
+<url>http://193.213.21.217:60040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 路边小乡村">
+<url>http://axis-6ef6b5.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 挪威泰利马科学院-校园">
+<url>http://128.39.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 马路9">
+<url>http://193.213.21.217:60042/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 草坪10">
+<url>http://kirkerudcam.axiscam.net:500/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.奥斯陆 城市风景">
+<url>http://cam.linpro.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

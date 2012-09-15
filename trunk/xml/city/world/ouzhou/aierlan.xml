@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="爱尔兰" order="CL" >
+<city name="爱尔兰" type="1888" order="A" >	
+
+
+
+<video name="Ireland Cork Cork">
+<url>http://92.60.192.245/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Dublin Dublin 都柏林教堂">
+<url>http://95.45.248.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Dublin Dublin 都柏林河岸2">
+<url>http://87.232.128.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Wexford Wexford 韦克斯福德湖滨小镇">
+<url>http://93.92.12.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Cork Cork 科克湖边2">
+<url>http://143.239.64.21/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Tipperary Nenagh 室内花园">
+<url>http://portroe.the-leonards.org:8080/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338052411268</url>
+</video>
+
+<video name="Ireland Kerry Listowel 凯里.利斯托尔海岸">
+<url>http://tramoresurfshop.dyndns-ip.com:3774/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Ireland Offaly Tara 花园-高清2048p">
+<url>http://195.7.62.8/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Ireland Tipperary Nenagh 室内花园2">
+<url>http://portroe.the-leonards.org:8082/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="Ireland Dublin Dublin 停车场-高清">
+<url>http://86.47.91.86:8089/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Ireland Dublin Dublin 马路">
+<url>http://95.45.245.105:89/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Ireland Tipperary Nenagh 我的电脑3">
+<url>http://portroe.the-leonards.org:8081/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

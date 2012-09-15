@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="荷兰" order="DA" >
+<city name="荷兰" type="1888" order="A" >	
+
+<video name="荷兰.德伦特省 Hoogeveen 霍赫芬广场">
+<url>http://92.66.4.219:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.德伦特省 Eelde 海边旋转摄像头">
+<url>http://cameradtp.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗莱福兰省 Almere 阿尔默勒广场">
+<url>http://90.145.4.49:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Gorredijk 霍勒代克运河">
+<url>http://brugburdaard.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Zwaagwesteinde 兹瓦赫韦斯泰恩德港口">
+<url>http://62.131.113.213:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Leeuwarden 吕伐登鸟窝">
+<url>http://webcamsneek.aocfriesland.nl/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Oldeberkoop 奥尔德伯科普海边">
+<url>http://83.161.221.160:3000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.弗里斯兰省 Koudum 考德姆湖边">
+<url>http://195.73.15.148:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.弗里斯兰省 Wolvega 沃尔弗哈庭院">
+<url>http://217.120.175.178:1024/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.弗里斯兰省 Bolsward 博尔斯瓦德私家机场">
+<url>http://82.151.42.188:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Leeuwarden 吕伐登餐厅一角2">
+<url>http://tandartsmoonen.com:604/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Doorwerth 机器人实验室">
+<url>http://bwired.nl:88/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩 门口">
+<url>http://137.224.128.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Arnhem 阿纳姆桥">
+<url>http://81.175.116.204/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.海尔德兰省 Emst 埃姆斯特马棚">
+<url>http://86.88.160.143:8031/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Emst 埃姆斯特马棚2">
+<url>http://86.88.160.143:8033/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Hattem 哈特姆码头">
+<url>http://92.67.241.217/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="荷兰.海尔德兰省 Harderwijk 哈尔德韦克码头">
+<url>http://mx.impression.nl:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.海尔德兰省 Dieren 小屋">
+<url>http://weercamsdieren.mijnveluwezoom.nl:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩休闲场2">
+<url>http://93.125.157.72:5506/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.格罗宁根 Groningen 格罗宁根教堂">
+<url>http://129.125.136.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.林堡省 Venray 码头">
+<url>http://89.146.32.96:60000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.林堡省 Gennep 亨讷普小村屋顶">
+<url>http://webcam.gennep.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 's-hertogenbosch 院子">
+<url>http://peterspages.net:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Oss 奥斯海滨度假村">
+<url>http://80.101.164.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Drimmelen 德里默伦户外">
+<url>http://92.64.26.161:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Etten 埃滕户外">
+<url>http://82.92.66.203:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eindhoven 鸟瞰厂房">
+<url>http://131.155.70.187/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Nuenen 尼厄嫩休闲树林">
+<url>http://88.159.164.167:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eersel 埃尔瑟尔转盘">
+<url>http://82.92.166.224:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬公园人工湖2">
+<url>http://131.155.18.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="荷兰.北布拉班特省 Tilburg 蒂尔堡一角">
+<url>http://62.132.55.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬小公路3">
+<url>http://87.213.192.191/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬河岸4">
+<url>http://87.213.192.208/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 's-hertogenbosch 小院一角2">
+<url>http://ptzcam.peterspages.net:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Breda 杂志">
+<url>http://boterbloem.xs4all.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Sambeek 狗狗户外活动室">
+<url>http://81.204.247.130:6112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Sambeek 桑比克羊圈2">
+<url>http://81.204.247.130:60000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬户外活动场5">
+<url>http://93.125.157.72:5503/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amstelveen 阿姆斯特尔芬广场">
+<url>http://mozart.amadeus-hotel.com:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Zandvoort 赞德福特室外餐厅">
+<url>http://92.67.19.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Hilversum 希尔弗瑟姆塔楼">
+<url>http://82.95.100.25/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Enkhuizen 恩克赫伊曾港湾">
+<url>http://server002.compagnieshaven.nl:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹小巷3">
+<url>http://82.161.43.147:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹建筑顶楼4">
+<url>http://212.123.205.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹建筑顶楼岔路口5">
+<url>http://82.95.47.232:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹小巷 6">
+<url>http://82.161.43.147:8083/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹交通路口7">
+<url>http://82.95.47.232:8020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 未知8">
+<url>http://taftronic.dyndns.org:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹交通路口10">
+<url>http://82.95.47.232:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹交通路口11">
+<url>http://incoma.xs4all.nl:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Naarden 纳尔登室内物架">
+<url>http://camera.sterrenwacht.nl:11011/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Oudeschild 奥德斯希尔德码头">
+<url>http://82.151.35.229:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北荷兰省 Limmen 利门室内2">
+<url>http://62.216.19.241:42080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Almelo 阿尔默洛公司室内">
+<url>http://webcam.oa-systems.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Enschede 恩斯赫德室内">
+<url>http://130.89.153.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="奥地利" order="CC" >
+<city name="奥地利1" type="1888" order="A" >	
+
+
+<video name="奥地利 城堡-高清">
+<url>rtsp://goiserncam.weti.net/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 广场-高清">
+<url>rtsp://cam1.rauris.net/axis-media/media.amp</url>
+</video>
+
+<video name="奥地利 萨尔茨堡 山林-高清">
+<url>rtsp://almcam.xlink.at/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 湖">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 湖-高清">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg</url>
+</video>
+
+<video name="奥地利 蒂罗尔州 Kufstein 酒店 -普清">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=352x240</url>
+</video>
+
+<video name="奥地利 蒂罗尔州 Kufstein 酒店 -高清">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=704x480</url>
+</video>
+
+<video name="奥地利 蒂罗尔州 Kufstein 城市鸟瞰 -高清">
+<url>rtsp://193.33.210.30:554/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 蒂罗尔州 Kufstein 鸟窝 -普清">
+<url>http://falke.webcam.cnh.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 蒂罗尔州 Kufstein 鸟窝 -高清">
+<url>http://falke.webcam.cnh.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 布尔根兰 Deutschkreutz 山村风景 -普清">
+<url>http://webcam.introplan.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 布尔根兰 Deutschkreutz 山村风景 -高清">
+<url>http://webcam.introplan.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 山村风景2 -普清">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 山村风景2 -高清">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站 -普清">
+<url>http://93.83.92.30/mjpg/quad/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站 -高清">
+<url>http://93.83.92.30/mjpg/quad/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站-A -普清">
+<url>http://93.83.92.30/mjpg/1/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站-B -普清">
+<url>http://93.83.92.30/mjpg/2/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站-C -普清">
+<url>http://93.83.92.30/mjpg/3/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Klagenfurt 发电站-D -普清">
+<url>http://93.83.92.30/mjpg/4/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Liebenfels 绿林美景 -普清">
+<url>http://93.83.76.170:60003/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 卡尔滕 Liebenfels 绿林美景 -高清">
+<url>http://93.83.76.170:60003/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Baden 交通路口 -高清">
+<url>http://80.121.230.194/control/faststream.jpg?stream=full::1;fps=4::1;rand=199786</url>
+</video>
+
+<video name="奥地利 下奥地利 Korneuburg 广场 -高清">
+<url>http://62.40.151.172/cgi-bin/faststream.jpg?stream=full::1;fps=2::1;rand=934482</url>
+</video>
+
+<video name="奥地利 下奥地利 林茨的主广场 -普清">
+<url>http://80.120.146.2:1509/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 林茨的主广场 -高清">
+<url>http://80.120.146.2:1509/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Wilhelmsburg 停车场 -普清">
+<url>http://62.40.139.230/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Wilhelmsburg 停车场 -高清">
+<url>http://62.40.139.230/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 绿林美景 -普清">
+<url>http://62.93.76.201/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 绿林美景 -高清">
+<url>http://62.93.76.201/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Echsenbach 雪林 -普清">
+<url>http://webcam.berghotel.at/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337171533779</url>
+</video>
+
+<video name="奥地利 下奥地利 Echsenbach 雪琳 -高清">
+<url>http://webcam.berghotel.at/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x576::1;1337171533779</url>
+</video>
+
+</city>
+</province>
+</provinces>

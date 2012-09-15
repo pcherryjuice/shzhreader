@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="匈牙利" order="DH" >
+<city name="匈牙利" type="1888" order="A" >	
+
+<video name="Hungary Budapest Budapest 仓库">
+<url>http://81.183.216.23/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Szeged Szeged 江边摄像头">
+<url>http://91.82.196.8:40080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 城市景色">
+<url>http://cam.oroshaza.hu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bekes Gyomaendrod 酒吧">
+<url>http://213.157.112.12:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bekes 商场大厅">
+<url>http://213.157.98.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bacs-Kiskun 城市景色2">
+<url>http://77.221.39.163/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 湖边酒店">
+<url>http://193.227.196.100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bekes Szarvas 古城堡">
+<url>http://87.101.127.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Budapest Budapest 大门口">
+<url>http://195.228.199.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bekes 马路">
+<url>http://mail.bekescsaba.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Budapest Budapest 停车场出口">
+<url>http://195.228.199.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Pest 美食广场（高清）">
+<url>http://webkamera.tujvaros.hu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Hungary 实验室">
+<url>http://cam03.deninet.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Pest 广场">
+<url>http://89.148.93.13/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 马路5">
+<url>http://91.83.160.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 实验室2">
+<url>http://cam2.tilb.sze.hu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bacs-Kiskun  市中心广场">
+<url>http://77.221.39.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Miskolc Miskolc 城堡2">
+<url>http://85.119.14.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bacs-Kiskun  路边广场">
+<url>http://77.221.39.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Tolna 广场雕像">
+<url>http://webcam.csatolna.hu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 铁索桥">
+<url>http://mail.atikovizig.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Budapest Budapest 大楼广场（高清）">
+<url>http://81.182.242.245:10002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Hungary 城市风景3">
+<url>http://82.141.158.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Hungary 机房">
+<url>http://cam06.deninet.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Bacs-Kiskun 市中心广场 4">
+<url>http://77.221.39.165/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Budapest Budapest 超市监控摄像头">
+<url>http://81.183.216.23:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 交通摄像头2">
+<url>http://46.35.192.100:8891/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 交通摄像头3">
+<url>http://82.141.158.61/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Hungary 喷泉广场">
+<url>http://91.144.100.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 城市风景4">
+<url>http://212.24.177.174:8092/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 交通摄像头4">
+<url>http://46.35.192.100:8890/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 交通摄像头5">
+<url>http://82.141.158.59/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Hungary Csongrad 室内游泳池">
+<url>http://hivatal.morahalom.hu:5026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary Budapest Budapest 城市风景5">
+<url>http://81.183.219.237:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hungary 城市风貌6">
+<url>http://budapest.dyndns.tv/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Hungary Budapest Budapest 室内摄像头">
+<url>http://81.183.219.237/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞典" order="DB" >
+<city name="瑞典3" type="1888" order="C" >	
+
+<video name="瑞典-西博滕 Vilhelmina 城市风貌">
+<url>http://webcam3.vilhelmina.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 Vilhelmina 城市风貌2">
+<url>http://webcam1.vilhelmina.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 足球场（高清）">
+<url>http://109.124.180.67/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-西博滕 观光缆车4">
+<url>http://brantbergskameran.net.umea.se/mjpg/video.mjpg?resolution=352x288</url>
+</video> 
+<video name="瑞典-西博滕 窗外草地5">
+<url>http://kamera1.vfp.slu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 停车场6">
+<url>http://kamera4.vfp.slu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Gran? 瑞典-西博滕 湖光山色">
+<url>http://81.8.143.33/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 湖光山色（高清）">
+<url>http://81.8.143.33/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西博滕 Storuman 湖边小码头">
+<url>http://81.8.153.166:6589/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="瑞典-西博滕 高尔夫球场7">
+<url>http://norrmjole-golf.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 山林中宾馆8">
+<url>http://kamera2.vfp.slu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 山林中宾馆9">
+<url>http://kamera3.vfp.slu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 山林中宾馆9（高清）">
+<url>http://kamera3.vfp.slu.se/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西博滕 Vilhelmina 湖光山色3">
+<url>http://webcam2.vilhelmina.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕 Vilhelmina 湖光山色3（高清）">
+<url>http://webcam2.vilhelmina.se/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西博滕 野营草地（高清）">
+<url>http://109.124.180.68/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-西约特兰 海洋馆">
+<url>http://webcam.universeum.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 海洋馆（高清）">
+<url>http://webcam.universeum.se/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 游艇码头">
+<url>http://hunnebostrand.mine.nu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 未知摄像头2">
+<url>http://zool17579.zool.gu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 湖边码头3">
+<url>http://130.241.163.130/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 湖边码头3（高清）">
+<url>http://130.241.163.130/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 Lysekil 湖">
+<url>http://smogen.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 Lysekil 湖（高清）">
+<url>http://smogen.axiscam.net/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 湖边城市景色">
+<url>http://webcam2.stromstad.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 湖边城市景色（高清）">
+<url>http://webcam2.stromstad.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 高尔夫球场5">
+<url>http://90.230.253.154:8007/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 高尔夫球场5（高清）">
+<url>http://90.230.253.154:8007/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 高尔夫球场6">
+<url>http://90.230.253.154:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 高尔夫球场6（高清）">
+<url>http://90.230.253.154:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 运动场7">
+<url>http://axis-a5e1a5.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 Bengtsfors 城市风貌">
+<url>http://194.17.153.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 Bengtsfors 城市风貌（高清）">
+<url>http://194.17.153.12/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 Uddevalla 高尔夫球场（高清）">
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞典-西约特兰 小码头11">
+<url>http://tmblmac109.tmbl.gu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西约特兰 小码头11（高清）">
+<url>http://tmblmac109.tmbl.gu.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-南曼兰 Styckebruk 后花园">
+<url>http://tangvagen.axiscam.net:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 Stockholm 马路">
+<url>http://odencam.surbrunn.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 别墅停车场">
+<url>http://82.182.132.51:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 别墅停车场（高清）">
+<url>http://82.182.132.51:81/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 Stockholm 阳台2">
+<url>http://axis-719646.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 Stockholm 市中心大厦（高清）">
+<url>http://213.66.167.72/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 城市风景">
+<url>http://213.185.226.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 乡村小路">
+<url>http://pagla.mine.nu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 Vaxholm 江边风景">
+<url>http://hansnilsson.axiscam.net:4000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-斯德哥尔摩 Vaxholm 江边风景（高清）">
+<url>http://hansnilsson.axiscam.net:4000/mjpg/video.mjpg</url>
+</video>
+
+<video name="瑞典-乌普萨拉 野外游乐场">
+<url>http://212.112.43.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-乌普萨拉 Uppsala 未知摄像头">
+<url>http://130.238.20.224/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-乌普萨拉 Uppsala 天文台设备2">
+<url>http://130.238.20.222/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-韦姆兰 Torsby 交通摄像头">
+<url>http://194.23.40.224/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-韦姆兰 Kristinehamn 广场">
+<url>http://webkamera.kristinehamn.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-韦姆兰 Karlstad 工厂（高清1080p）">
+<url>http://sundstabadhus.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞典-韦姆兰 Kristinehamn 室内设备监控3">
+<url>http://axis-aae35d.axiscam.net:9080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞典-西博滕?  球场">
+<url>http://noliakameran.net.umea.se/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

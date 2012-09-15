@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="欧洲其他" order="EI" >
+<city name="欧洲其他" type="1888" order="A" >	
+
+<video name="斯洛伐克 Nova Bana Nitra  市中心广场">
+<url>http://85.248.54.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Zilina Bystrica 观光索道">
+<url>http://188.123.106.238/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Zilina Bystrica 观光索道2">
+<url>http://188.123.106.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Zilina Bystrica 屋顶摄像头3">
+<url>http://188.123.106.231/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Bratislava Bratislava 餐厅内景">
+<url>http://axis-90bdc0.axiscam.net:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Zilina Bystrica 观光索道4">
+<url>http://188.123.106.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Bratislava Bratislava 场馆内景">
+<url>http://80.94.55.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Bratislava Bratislava 酒吧内景">
+<url>http://axis-90bdc0.axiscam.net:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Bratislava Bratislava 游戏机室内">
+<url>http://axis-90bdc0.axiscam.net:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Bratislava Bratislava 咖啡厅6">
+<url>http://axis-90bdc0.axiscam.net:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 大楼停车场-高清">
+<url>http://81.92.254.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛伐克 Zilina Zilina 阅览室2">
+<url>http://158.193.80.15/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="卢森堡 Diekirch Ermsdorf 游艇码头-高清">
+<url>http://ycl-cam.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="卢森堡  Gosseldange 城市景色（高清）">
+<url>http://webcambsit.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<!--video name="卢森堡  Larochette 未知（实时图片）">
+<url>http://martje.is-a-chef.com:8080/cam_1.jpg?uniq=0.4573624613648255</url>
+</video-->
+
+<video name="卢森堡 Diekirch Diekirch 监控仪表">
+<url>http://158.64.62.234/cgi-bin/hugesize.jpg?motion=0::1;dummy=1338535132613</url>
+</video>
+
+<video name="葡萄牙 Rio Maior Santarem  城市风貌-旋转摄像头">
+<url>http://62.28.103.70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="葡萄牙 Lisboa Lisbon 城市海景-高清">
+<url>http://jchome.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="葡萄牙 Lisboa Lisboa 城市街道">
+<url>http://fotogermanoviseu.dyndns.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="葡萄牙 Lisboa Lisboa 城镇鸟瞰2">
+<url>http://rcswebcam.no-ip.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="葡萄牙 Lisboa Lisbon 江边景色2">
+<url>http://ccvtav.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Belgrade  市中心广场-高清1080p">
+<url>http://212.200.25.130/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Belgrade  停车场2-高清">
+<url>http://89.216.23.100/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Novi Sad Vojvodina  江滨广场">
+<url>http://212.200.143.179/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="塞尔维亚 Beograd  铁索大桥">
+<url>http://93.87.16.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="塞尔维亚 Beograd  铁索大桥2">
+<url>http://93.87.16.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="塞尔维亚 Vojvodina Zrenjanin 雕像广场">
+<url>http://109.94.228.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="塞尔维亚 Ada  交通摄像头">
+<url>http://91.102.231.82:8000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Ada  城市交通摄像头2-高清">
+<url>http://91.102.231.82:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Ada  停车场监控-全景（高清）">
+<url>http://91.102.231.82:8004/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 观光缆车-高清">
+<url>http://79.101.21.4/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Ada  城市交通摄像头4">
+<url>http://91.102.231.82:8002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 观光缆车入口2-高清">
+<url>http://79.101.21.7/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 观光缆车3-高清">
+<url>http://79.101.21.3/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 观光缆车4-高清">
+<url>http://79.101.21.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Belgrade  停车场监控1080p（高清）">
+<url>http://89.216.23.100:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="塞尔维亚 Beograd  天空">
+<url>http://93.87.16.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="斯洛文尼亚 Bohinj Trzin 石头海岸">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="斯洛文尼亚 Brezovica Celje 城市风景（高清）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="斯洛文尼亚 Bohinj Ljubljana 机场（高清）">
+<url>http://193.77.102.184:8088/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<!--video name="Slovenia Bohinj Secovlje 飞机场（实时图片）">
+<url>http://213.253.80.120/still.jpg?StillSno=00000199</url>
+</video>
+
+<video name="Slovenia Bohinj Ljubljana 气象观测站（高清1080p）">
+<url>http://193.77.151.113/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Slovenia Bohinj Koper 乡村风景（实时图片）">
+<url>http://bovecwebcam.viewnetcam.com:50001/SnapshotJPEG?Resolution=640x480::1;Quality=Standard::1;View=Normal::1;Count=-378839509</url>
+</video-->
+
+<video name="泽西岛 Helier Saint 海边风景">
+<url>http://212.9.31.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="泽西岛 未知摄像头">
+<url>http://212.9.30.37:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="泽西岛 John Saint 未知摄像头2">
+<url>http://87.244.76.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马其顿共和国 市中心广场">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="立陶宛 Vilnius Vilniaus Apskritis 政府大楼广场（高清）">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="立陶宛 Marijampole Marijampoles Apskritis 市中心广场（高清）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="列支敦斯登 Schellenberg Schellenberg 农场（旋转摄像头）-高清">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="列支敦斯登 Vaduz Vaduz 度假村">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="曼岛 Douglas Isle of Man 窗外">
+<url>http://scarletttower.dyndns-web.com:8082/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马耳他 Malta 海边观光摄像头">
+<url>http://webcam1.timesofmalta.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

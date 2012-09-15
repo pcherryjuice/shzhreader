@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="奥地利" order="CC" >
+<city name="奥地利2" type="1888" order="B" >
+		
+<video name="奥地利 下奥地利 Amstetten 卫星接收站 -普清">
+<url>http://62.93.76.203/mjpg/quad/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 卫星接收站-A -普清">
+<url>http://62.93.76.203/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 卫星接收站-B -普清">
+<url>http://62.93.76.203/mjpg/2/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 卫星接收站-D -普清">
+<url>http://62.93.76.203/mjpg/4/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Rappottenstein 小农场 -普清">
+<url>http://91.114.39.154/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Rappottenstein 小农场 -高清">
+<url>http://91.114.39.154/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf  小山坡 -普清">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf  小山坡 -高清">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf  索道 -普清">
+<url>http://80.75.241.227/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf  索道 -高清">
+<url>rtsp://80.75.241.227:554/mpeg4/media.amp</url>
+</video>
+
+<video name="奥地利 下奥地利 Leopoldsdorf 大门口 -普清">
+<url>http://62.40.153.122:8000/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf 大门口 -高清">
+<url>http://62.40.153.122:8000/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Wilhelmsburg 高架桥 -普清">
+<url>http://62.40.139.37/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Wilhelmsburg 高架桥 -高清">
+<url>http://62.40.139.37/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 小花园 -普清">
+<url>http://austro.axiscam.net/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="奥地利 下奥地利 Amstetten 小花园 -高清">
+<url>http://austro.axiscam.net/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="奥地利 下奥地利 Oberolberndorf 小区 -普清">
+<url>http://panoramacamping.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337172933375</url>
+</video>
+
+<video name="奥地利 下奥地利 Oberolberndorf 小区 -高清">
+<url>http://panoramacamping.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x576::1;1337172933375</url>
+</video>
+
+<video name="奥地利 下奥地利 Ybbs 河边美景 -高清">
+<url>http://85.255.144.143/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=641024</url>
+</video>
+
+<video name="奥地利 下奥地利 Urschendorf 小农场2 -高清">
+<url>http://80.75.242.30/image?speed=4</url>
+</video>
+
+<video name="奥地利 上奥地利 Pfarrkirchen 山林美景 -普清">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 Pfarrkirchen 山林美景 -高清">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Schörfling Cafe Eichhorn -普清">
+<url>http://217.16.116.45:8081/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 Schörfling Cafe Eichhorn -高清">
+<url>http://217.16.116.45:8081/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Eberschwang 大风车 -普清">
+<url>http://213.174.252.115:4007/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 Eberschwang 大风车 -高清">
+<url>http://213.174.252.115:4007/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Zell Am Moos 雪山泳池 -普清">
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284::1;resolution=352x288</url>
+</video>
+
+<video name="奥地利 上奥地利 Zell Am Moos 雪山泳池 -高清">
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284</url>
+</video>
+
+<video name="奥地利 上奥地利 SanktMartin 码头 -普清">
+<url>http://fischlham.dvrdns.org:7070/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利 上奥地利 SanktMartin 码头 -高清">
+<url>http://fischlham.dvrdns.org:7070/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="奥地利 上奥地利 Steyr 市区实景 -普清">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

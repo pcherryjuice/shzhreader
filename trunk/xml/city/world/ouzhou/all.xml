@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="波兰" order="CI" >
+	
+  <city name="波兰" type="1" order="A" >	
+		<video name="# 波兰(单击加载)">
+			<url>city/world/ouzhou1/polan1.xml</url>
+		</video>
+	</city>	
+  <city name="波兰2" type="1" order="B" >	
+		<video name="# 波兰2(单击加载)">
+			<url>city/world/ouzhou1/polan2.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="冰岛" order="CK" >
+<city name="冰岛" type="1" order="A" >	
+	<video name="# 冰岛(单击加载)">
+			<url>city/world/ouzhou1/bingdao.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="爱尔兰" order="CL" >
+<city name="爱尔兰" type="1" order="A" >	
+	<video name="# 爱尔兰(单击加载)">
+			<url>city/world/ouzhou1/aierlan.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="荷兰" order="DA" >
+  <city name="荷兰" type="1" order="A" >	
+	 <video name="# 荷兰(单击加载)">
+			<url>city/world/ouzhou1/helan1.xml</url>
+		</video>
+	</city>	
+	<city name="荷兰2" type="1" order="B" >	
+	  <video name="# 荷兰2(单击加载)">
+			<url>city/world/ouzhou1/helan2.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="瑞典" order="DB" >
+  <city name="瑞典" type="1" order="A" >	<video name="# 瑞典(单击加载)"><url>city/world/ouzhou1/ruidian1.xml</url></video></city>
+  <city name="瑞典2" type="1" order="B" >	<video name="# 瑞典2(单击加载)"><url>city/world/ouzhou1/ruidian2.xml</url></video></city>	
+  <city name="瑞典3" type="1" order="C" >	<video name="# 瑞典3(单击加载)"><url>city/world/ouzhou1/ruidian3.xml</url></video></city>	
+</province>
+
+<province name="挪威" order="DC" >
+  <city name="挪威" type="1" order="A" >	
+    <video name="# 挪威(单击加载)">
+			<url>city/world/ouzhou1/nuowei1.xml</url>
+		</video>
+	</city>	
+  <city name="挪威2" type="1" order="B" >	
+    <video name="# 挪威2(单击加载)">
+			<url>city/world/ouzhou1/nuowei2.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="乌克兰" order="DG" >
+  <city name="乌克兰" type="1" order="A" >	
+    <video name="# 乌克兰(单击加载)">
+			<url>city/world/ouzhou1/wukelan.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="希腊" order="DH" >
+  <city name="希腊" type="1" order="A" >	
+    <video name="# 希腊(单击加载)">
+			<url>city/world/ouzhou1/xila.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="罗马尼亚" order="DI" >
+  <city name="罗马尼亚" type="1" order="A" >	
+    <video name="# 罗马尼亚(单击加载)">
+			<url>city/world/ouzhou1/luomaniya.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="欧洲其他" order="EI" >
+  <city name="欧洲其他" type="1" order="A" >	
+	  <video name="# 欧洲其他(单击加载)">
+			<url>city/world/ouzhou1/ozqita.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="拉脱维亚" order="EA" >
+<city name="拉脱维亚" type="1" order="A" >	
+	<video name="# 拉脱维亚(单击加载)">
+			<url>city/world/ouzhou1/latuoweiya.xml</url>
+		</video>
+	</city>	
+</province>
+
+<province name="匈牙利" order="DH" >
+  <city name="匈牙利" type="1888" order="A" >	
+	 <video name="# 匈牙利(单击加载)">
+			<url>city/world/ouzhou1/xiongyali.xml</url>
+		</video>
+	</city>	
+</province>
+
+</provinces>

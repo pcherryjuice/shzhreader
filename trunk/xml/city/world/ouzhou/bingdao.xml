@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="冰岛" order="CK" >
+<city name="冰岛" type="1888" order="A" >	
+
+<video name="冰岛鸟瞰">
+<url>http://vefmyndavel.or.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛鸟瞰2">
+<url>http://vefmyndavel.akureyri.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛.雷克雅未克户外停车场">
+<url>http://myndavel.hve.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛.阿克雷里小型飞机跑道">
+<url>http://217.171.212.63/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛.雷克雅未克码头2">
+<url>http://webcam-1.faxa.rvk.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" 冰山城市">
+<url>http://webcam.isafjordur.is/image?speed=0</url>
+</video>
+
+<video name="冰岛.雷克雅未 码头3">
+<url>http://157.157.215.231/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="码头4-高清">
+<url>http://157.157.61.21/image?speed=0</url>
+</video>
+
+<video name="Gullbringusysla Reykjavuk 海边小码头-高清">
+<url>http://157.157.79.9/image?speed=0</url>
+</video>
+
+<video name=" Gullbringusysla Reykjavik 冰岛.雷克雅未 雪山5">
+<url>http://157.157.79.85:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛户外5">
+<url>http://157.157.89.198:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" Gullbringusysla Reykjavik 冰岛.雷克雅未田野6">
+<url>http://212.30.214.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" Myrasysla Borgarnes 博尔加内斯停车场">
+<url>http://194.105.250.197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="雪山景色-高清">
+<url>http://213.167.135.129/image?speed=0</url>
+</video>
+
+<video name=" Gullbringusysla Reykjavik 冰岛.雷克雅未转盘7">
+<url>http://194.144.216.149/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="海岸监控7-高清">
+<url>http://82.148.72.2:60000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="冰岛.海德拉原野">
+<url>http://81.15.36.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛高尔夫8">
+<url>http://157.157.89.198:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="未知9">
+<url>http://157.157.89.198:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="城市风景1">
+<url>http://vefmyndavel.verkis.is/image?speed=0</url>
+</video>
+
+<video name="冰岛室内运动室">
+<url>http://157.157.89.198/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Gullbringusysla Reykjavik 城市风景2-高清1080p">
+<url>http://perlukor.dyndns.tv:88/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name=" Gullbringusysla Reykjavik 海边码头">
+<url>http://cam.stykk.is/image?speed=0</url>
+</video>
+
+<video name="Hellissandur Snafellsnes- og Hnappadalssysla  冰岛.海德利桑德 天空与山坡">
+<url>http://93.95.74.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" 冰岛室内14">
+<url>http://157.157.89.198:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" 海边码头2-高清720p">
+<url>http://vefmynd.sksiglo.is:8080/image?speed=0</url>
+</video>
+
+<video name=" 冰岛室内16">
+<url>http://157.157.89.198:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" Gullbringusysla Reykjavik 冰岛.雷克雅未 鸟瞰湖泊12">
+<url>http://157.157.77.163:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" 冰岛原野17">
+<url>http://157.157.90.207/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name=" Gullbringusysla Keflavik 海边码头">
+<url>http://213.181.98.110/image?speed=0</url>
+</video>
+
+<video name=" 冰岛港湾18">
+<url>http://213.190.124.40:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
