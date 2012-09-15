@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选" order="b" >
+		<city name="美洲精选4" type="1888" order="D" >
+			
+<video name="美国 洛杉矶 加州 加州大学洛杉矶分校">
+<url>http://camera1.clicc.ucla.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Fort Myers 校园监控-高清">
+<url>http://208.78.132.152/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Miami 迈阿密大学-校园鸟瞰">
+<url>http://129.171.176.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Hollywood 城市风貌">
+<url>http://63.138.232.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Tampa 会议室2-高清">
+<url>http://131.247.8.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Clearwater lido沙滩">
+<url>http://96.252.133.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Niceville 小码头">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 佛罗里达州 Hollywood 酒店外的海边沙滩3">
+<url>http://beachcam.sagamorehotel.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Miami Beach 游泳池2-高清">
+<url>http://mail.bluegreendiamond.net:8084/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="美国 佛罗里达州 Miami 市中心交通路口5">
+<url>http://webcam6.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 New Smyrna Beach 海边沙滩2">
+<url>http://24.227.115.174:8000/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 佛罗里达州 Tampa 海洋公园水底摄像头">
+<url>http://24.227.51.155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Niceville 海边沙滩5">
+<url>http://72.215.137.17:8091/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Tampa 广播电台室内">
+<url>http://198.92.97.174/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Gainesville 佛罗里达大学4">
+<url>http://kennedy.nerdc.ufl.edu/cgi-bin/mjpg/video.cgi?resolution=352x288::1;1338801027547::1;data=v.mjpg</url>
+</video>
+<video name="美国 佛罗里达州 Lady Lake 公园2">
+<url>http://camera1.thevillages.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Miami 游泳池全景-高清8">
+<url>http://216.199.194.134:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="美国 佛罗里达州 Miami 迈阿密大学米勒医学院2">
+<url>http://webcam4.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Santa Rosa Beach 海滨浴场2">
+<url>http://mooncreek5.axiscam.net:6109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Pensacola 海滨浴场6-高清">
+<url>http://beach.sandestinwebcam.com/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+<video name="美国 佛罗里达州 Cape Coral 海滨浴场近景（有美女出现）-高清">
+<url>http://75.151.40.42/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 佛罗里达州 Miami 迈阿密医科大学-校园">
+<url>http://webcam3.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 科罗拉多大学-松林草地">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州  布莱肯里奇主大街2">
+<url>http://72.165.31.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Aspen 小猫宠物屋">
+<url>http://dogsaspen.dyndns.org:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Gunnison  科罗拉多西部州立学院 校园">
+<url>http://webcam1.western.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 米沙州立学院-校园3">
+<url>http://webcam6.mesastate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Gunnison 乡村马路2-高清">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 科罗拉多州 Longmont 乡村马路3">
+<url>http://173.164.52.97:5633/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Ophir 城镇街道">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 科罗拉多州 Vail 观光索道">
+<url>http://65.38.144.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 北卡罗莱纳 Sylva  城市风貌">
+<url>http://cam.thesylvaherald.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 北卡罗莱纳 Raleigh  教学大楼">
+<url>http://152.1.130.216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

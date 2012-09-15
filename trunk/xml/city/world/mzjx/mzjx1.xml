@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选" order="b" >
+		<city name="美洲精选" type="1888" order="A" >
+			
+<video name="美国 哥伦比亚 开罗美国大学-未知摄像头9">
+<url>http://webcam.american.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 哥伦比亚 开罗美国大学14">
+<url>http://cyclops.american.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 乔治亚州Marietta 教堂内景">
+<url>http://216.79.143.251/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 乔治亚州Marietta 教堂内景2">
+<url>http://216.79.143.252/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 乔治亚州Athens 哥伦布州立大学-钟楼">
+<url>http://webcam01.columbusstate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 乔治亚州Atlanta 室内篮球场2">
+<url>http://70.151.231.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 乔治亚州Demorest 茶餐厅-高清">
+<url>http://hofers.dyndns.tv/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 康涅狄格州 康涅狄格大学-校园">
+<url>http://avptcam.uconn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 康涅狄格州 Wallingford 自助餐厅">
+<url>http://65.75.37.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 康涅狄格州 West Hartford哈特福德大学 MWD实验室">
+<url>http://cam2.mwd.hartford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 康涅狄格州 Glastonbury 城镇大街">
+<url>http://24.249.24.110:2001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 阿肯色州 Fayetteville 阿肯色大学实验室-高清">
+<url>http://robocam.ineg.uark.edu/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 阿肯色州 Fayetteville 阿肯色大学校园2">
+<url>http://uaf7753.ddns.uark.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 阿肯色州 Fayetteville 阿肯色大学餐厅">
+<url>http://uaf21931.ddns.uark.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 特拉华州 Newark 特拉华大学-校园">
+<url>http://mallcam.ums.udel.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 康涅狄格州 West Hartford 哈特福德大学-校园4">
+<url>http://webcam-2.hartford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 爱达荷州 Newdale 高山探险">
+<url>http://69.20.165.23/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 爱达荷州 Osburn 室内游乐园">
+<url>http://208.81.156.72/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 爱达荷州 Pocatello 室内办公室-高清">
+<url>http://134.50.64.35/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 加州 San Francisco海边景色">
+<url>http://173.8.132.58/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 加州 San Luis Obispo实验室机器2">
+<url>http://129.65.126.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 半月沙滩">
+<url>http://samcam.samschowderhouse.com:8333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 San Luis Obispo办公室5">
+<url>http://21-09cam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 尼亚圣芭芭拉大学喷泉">
+<url>http://129.210.84.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 Stockton 学校湖边">
+<url>http://cos-netcam-1.ci.stockton.ca.us/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 加州 加州大学圣地亚哥分校-服务器机房">
+<url>http://calit2-1101-1.ucsd.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 加州 洛杉矶 校园景色5">
+<url>http://lioncam2.lmu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 Malibu 学校门口">
+<url>http://137.159.36.77/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 加州 San Luis Obispo加州立理工大学实验室">
+<url>http://hangercam.me.calpoly.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 San Marcos 州立大学圣马科斯分校-建筑工地">
+<url>http://pdc-cam.csusm.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 
