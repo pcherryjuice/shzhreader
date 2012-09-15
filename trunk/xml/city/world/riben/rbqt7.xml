@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本二" order="DC" >
+<city name="福冈" type="1888" order="C" >	
+	
+<video name="日本 福冈 Nogata 餐厅 -普清">
+<url>http://cam5911151.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Nogata 餐厅 -高清">
+<url>http://cam5911151.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 福冈 Kurume  小舞台 -高清">
+<url>http://202.55.192.2/image?speed=10</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 遥控车赛馆 -普清">
+<url>http://stepup.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 遥控车赛馆 -高清">
+<url>http://stepup.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 会客厅 -普清">
+<url>http://cam17704.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 会客厅 -高清">
+<url>http://cam17704.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Kitakyushu 超市内 -普清">
+<url>http://michinoeki-ukiha.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Kitakyushu 超市内 -高清">
+<url>http://michinoeki-ukiha.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 市区鸟瞰 -普清">
+<url>http://220.98.195.44/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 市区鸟瞰 -高清">
+<url>http://220.98.195.44/-wvhttp-01-/getoneshot?v=640::1;frame_count=300::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 海岸线 -普清">
+<url>http://58.92.247.56/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 海岸线 -高清">
+<url>http://58.92.247.56/-wvhttp-01-/getoneshot?v=640::1;frame_count=300::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 福冈 Fukuoka 机房 -普清">
+<url>http://133.5.70.129/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 机房 -高清">
+<url>http://133.5.70.129/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Kurume 超市内2 -普清">
+<url>http://cam114434.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Kurume 超市内2 -高清">
+<url>http://cam114434.miemasu.net:83/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Omuta 集会场 -普清">
+<url>http://petreienfukuoka.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Omuta 集会场 -高清">
+<url>http://petreienfukuoka.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 小河边 -普清">
+<url>http://realwave.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 小河边 -高清">
+<url>http://realwave.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Kitakyushu 超市内3 -普清">
+<url>http://michinoeki-ukiha.miemasu.net:60004/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Kitakyushu 超市内3 -高清">
+<url>http://michinoeki-ukiha.miemasu.net:60004/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 高尔夫球场 -普清">
+<url>http://110.54.43.20:888/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 高尔夫球场 -高清">
+<url>http://110.54.43.20:888/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 门口监控 -普清">
+<url>http://fknbtikushi.aa0.netvolante.jp:50052/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 门口监控 -高清">
+<url>http://fknbtikushi.aa0.netvolante.jp:50052/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 交款路口01 -普清">
+<url>http://fknbtikushi.aa0.netvolante.jp:50053/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福冈 Fukuoka 交通路口01 -高清">
+<url>http://fknbtikushi.aa0.netvolante.jp:50053/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福冈 Fukuoka 河边2 -普清">
+<url>http://nobita.bf1.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 福冈 Fukuoka 河边2 -高清">
+<url>http://nobita.bf1.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 福井市 Tsuruga  rcn屋顶 -高清">
+<url>http://210.143.245.104/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+<video name="日本 福井市 Tsuruga  敦贺港 -高清">
+<url>http://210.143.245.106/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+</city>
+</province>
+</provinces>

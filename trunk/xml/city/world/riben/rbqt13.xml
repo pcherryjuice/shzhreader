@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本三" order="DD" >
+<city name="长野" type="1888" order="A" >	
+	
+<video name="日本 长野 Matsumoto海滨  -普清">
+<url>http://61.208.228.204/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Matsumoto海滨  -高清">
+<url>http://61.208.228.204/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点-全景  -普清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/quad/video.mjpg?resolution=352x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano温泉景点-全景  -高清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/quad/video.mjpg?resolution=704x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点1  -普清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/1/video.mjpg?resolution=352x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano温泉景点1  -高清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/1/video.mjpg?resolution=704x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点2  -普清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/2/video.mjpg?resolution=352x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano温泉景点2  -高清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/2/video.mjpg?resolution=704x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点3  -普清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/3/video.mjpg?resolution=352x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano温泉景点3  -高清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/3/video.mjpg?resolution=704x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano温泉景点4  -普清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/4/video.mjpg?resolution=352x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano温泉景点4  -高清">
+<url>http://mjpeg1.tendam.go.jp/mjpg/4/video.mjpg?resolution=704x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Ueda小山坡  -普清">
+<url>http://220.254.50.144/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Ueda小山坡  -高清">
+<url>http://220.254.50.144/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Okaya黑姬山  -普清">
+<url>http://kurohime.homeip.net:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Okaya黑姬山  -高清">
+<url>http://kurohime.homeip.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano山景  -普清">
+<url>http://220.254.108.163:1024/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano山景  -高清">
+<url>http://220.254.108.163:1024/mjpg/video.mjpg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano高铁  -普清">
+<url>http://yashiro-live.valley.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 长野 Nagano高铁  -高清">
+<url>http://yashiro-live.valley.ne.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 长野 Shiojiri市区鸟瞰  -普清">
+<url>http://panorama-camera.city.shiojiri.nagano.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Shiojiri市区鸟瞰  -高清">
+<url>http://panorama-camera.city.shiojiri.nagano.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Matsumoto楼下  -普清">
+<url>http://61.208.228.203/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Matsumoto楼下  -高清">
+<url>http://61.208.228.203/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Ueda景区  -普清">
+<url>http://220.254.35.222/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Ueda景区  -高清">
+<url>http://220.254.35.222/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano山中小村  -普清">
+<url>http://220.254.107.215:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Nagano山中小村  -高清">
+<url>http://220.254.107.215:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 长野 Nagano小村球场  -普清">
+<url>http://lc2.iiyama-catv.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 长野 Nagano小村球场  -高清">
+<url>http://lc2.iiyama-catv.ne.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 长野 Nagano交通路口  -普清">
+<url>http://lc3.iiyama-catv.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 长野 Nagano交通路口  -高清">
+<url>http://lc3.iiyama-catv.ne.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 长野 Nagano 交通路口2  -普清">
+<url>http://202.222.136.126/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 长野 Nagano交通路口2  -高清">
+<url>http://202.222.136.126/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 长野 Shiojiri市区鸟瞰  -普清">
+<url>http://203.141.196.64/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 长野 Shiojiri市区鸟瞰  -高清">
+<url>http://203.141.196.64/nphMotionJpeg?resolution=640x240::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

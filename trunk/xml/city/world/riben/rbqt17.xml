@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本三" order="DD" >
+<city name="其他4" type="1888" order="D" >	
+	
+<video name="日本 鹿儿岛 Tarumizu市区鸟瞰   -普清">
+<url>http://camera19.city.tarumizu.kagoshima.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 鹿儿岛 Tarumizu市区鸟瞰   -高清">
+<url>http://camera19.city.tarumizu.kagoshima.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 鹿儿岛 Kagoshima大钟   -普清">
+<url>http://studiokagawa.axiscam.net/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 鹿儿岛 Kagoshima大钟   -高清">
+<url>http://studiokagawa.axiscam.net/mjpg/video.mjpg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 鹿儿岛 Kanoya乡村小屋   -普清">
+<url>http://k-yama.dyndns.org/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 鹿儿岛 Kanoya乡村小屋    -高清">
+<url>http://k-yama.dyndns.org/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 鹿儿岛 Kagoshima码头2   -普清">
+<url>http://anbou.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 鹿儿岛 Kagoshima码头2    -高清">
+<url>http://anbou.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 鹿儿岛 Kagoshima海边   -普清">
+<url>http://sandan.mydns.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion</url>
+</video>
+<video name="日本 鹿儿岛 Kagoshima海边    -高清">
+<url>http://sandan.mydns.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300::1;Quality=Motion</url>
+</video>
+
+<video name="日本 鹿儿岛 Kagoshima交通路口   -普清">
+<url>http://johsei.dyndns.info/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 鹿儿岛 Kagoshima交通路口    -高清">
+<url>http://johsei.dyndns.info/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 高知 Kochi桥  -普清">
+<url>http://yosakoi.selfip.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 高知 Kochi桥  -高清">
+<url>http://yosakoi.selfip.com/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 熊本 Kumamoto扇形小屋  -普清">
+<url>http://cm3.town.yamato.kumamoto.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kumamoto扇形小屋  -高清">
+<url>http://cm3.town.yamato.kumamoto.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kumamoto江边风景  -普清">
+<url>http://suiranrou.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kumamoto江边风景  -高清">
+<url>http://suiranrou.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto风车  -普清">
+<url>http://60.56.214.8/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto风车  -高清">
+<url>http://60.56.214.8/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto停车场  -普清">
+<url>http://cam57365.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto停车场  -高清">
+<url>http://cam57365.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto风景  -普清">
+<url>http://130.54.34.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 熊本 Kyoto风景  -高清">
+<url>http://130.54.34.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 熊本 Kyoto花店  -普清">
+<url>http://azumiya.miemasu.net:8741/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto花店  -高清">
+<url>http://azumiya.miemasu.net:8741/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto幼儿园  -普清">
+<url>http://oharano.miemasu.net:60010/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto幼儿园  -高清">
+<url>http://oharano.miemasu.net:60010/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto交通路口  -普清">
+<url>http://oharano.miemasu.net:60011/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto交通路口  -高清">
+<url>http://oharano.miemasu.net:60011/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Yawata未知   -普清">
+<url>http://strawhat.axiscam.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Yawata未知   -高清">
+<url>http://strawhat.axiscam.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 熊本 Kyoto气象监测台   -普清">
+<url>http://ikuta-sanki.ddo.jp:8080/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 熊本 Kyoto气象监测台   -高清">
+<url>http://ikuta-sanki.ddo.jp:8080/mjpg/video.mjpg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本东京" order="DA" >
+<city name="日本东京4" type="1888" order="D" >	
+	
+
+<video name="日本 东京 Tokyo 神台72-高清">
+<url>http://kisyoujinjya.miemasu.net/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 路边小屋73">
+<url>http://mm.aa7.netvolante.jp:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 绿林山景74">
+<url>http://p8056-ipadfx21hodogaya.kanagawa.ocn.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 路边停车场76">
+<url>http://tagutec8232.ddo.jp:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 城市景色77">
+<url>http://121.2.68.167:60160/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 绿林美景78">
+<url>http://124.155.127.253/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 高铁79">
+<url>http://219.160.161.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 海岛80">
+<url>http://219.160.161.71/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 城市景色81">
+<url>http://60.43.39.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 浪涌海滩82">
+<url>http://61.115.116.30/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 浪涌海滩82-高清">
+<url>http://61.115.116.30/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 小庭院83">
+<url>http://ikujien.miemasu.net:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 卧室84">
+<url>http://mikoromo.dyndns.org/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 绿林山景86">
+<url>http://p8053-ipadfx21hodogaya.kanagawa.ocn.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 碧海银沙87">
+<url>http://takeyahotel.mydns.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 碧海银沙87-高清">
+<url>http://takeyahotel.mydns.jp/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 后花园89">
+<url>http://to-tsu-nasu.ipcam.jp:8001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 山林景色90">
+<url>http://weathercaster.miemasu.net:60015/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 交通视频91">
+<url>http://www.networkcamera.mydns.jp:60160/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Komae 山林美景6">
+<url>http://210.157.213.36/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Setagaya 野营13">
+<url>http://bunanomi.sun.ddns.vc:85/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 交通路口93">
+<url>http://218.219.210.174:85/mjpg/video.mjpg?resolution=352x288</url>
+<url>http://218.219.210.174:85/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 山林美景94">
+<url>http://220.106.141.214/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+
+<video name="日本 东京 Tokyo 碎石海边96">
+<url>http://61.205.224.211/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 山坡草场97">
+<url>http://61.214.209.254/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 停车场98">
+<url>http://cam302300.miemasu.net:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 废品处理站99">
+<url>http://cam302300.miemasu.net:60003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 神庙100">
+<url>http://cam6289850.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="日本 东京 Tokyo 小石桥101">
+<url>http://p8052-ipadfx21hodogaya.kanagawa.ocn.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="日本 东京 Kodaira 海边">
+<url>http://218.225.209.173/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

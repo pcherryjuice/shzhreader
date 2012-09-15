@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="兵库" type="1888" order="F" >	
+	
+<video name="日本 兵库 Nishinomiya钢琴商场   -普清">
+<url>http://takemoto.miemasu.net:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Nishinomiya钢琴商场  -高清">
+<url>http://takemoto.miemasu.net:82/nphMotionJpeg?resolution=640x480::1;::1;Quality=Motion</url>
+</video>
+
+<!--video name="日本 兵库 Nishinomiya办公室   -普清">
+<url>http://cam79756.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Nishinomiya办公室  -高清">
+<url>http://cam79756.miemasu.net/nphMotionJpeg?resolution=640x480::1;::1;Quality=Motion</url>
+</video-->
+
+<video name="日本 兵库 Toyooka山坡小屋   -普清">
+<url>http://kitakabe.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Toyooka山坡小屋  -高清">
+<url>http://kitakabe.miemasu.net/nphMotionJpeg?resolution=640x480::1;::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Haramura市区鸟瞰   -普清">
+<url>http://202.122.198.3/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 兵库 Haramura市区鸟瞰   -高清">
+<url>http://202.122.198.3/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 兵库 Kobe寺庙    -普清">
+<url>http://sogenji.dip.jp:8060/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kobe寺庙   -高清">
+<url>http://sogenji.dip.jp:8060/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Kobe寺庙外景    -普清">
+<url>http://sogenji.dip.jp:8083/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kobe寺庙外景   -高清">
+<url>http://sogenji.dip.jp:8083/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Kobe猫屋    -普清">
+<url>http://dellamore.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kobe猫屋   -高清">
+<url>http://dellamore.miemasu.net:83/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Haramura山景   -普清">
+<url>http://202.122.198.2/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 兵库 Haramura山景   -高清">
+<url>http://202.122.198.2/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 兵库 Kibi山村景色 -普清">
+<url>http://118.103.129.27/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 兵库 Kibi山村景色 -高清">
+<url>http://118.103.129.27/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 兵库 Kibi山村景色2 -普清">
+<url>http://tajima-airportterm.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kibi山村景色2 -高清">
+<url>http://tajima-airportterm.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Kibi山村景色3 -普清">
+<url>http://cam6850879.miemasu.net:60004/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kibi山村景色3 -高清">
+<url>http://cam6850879.miemasu.net:60004/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Kibi山村景色4 -普清">
+<url>http://cam6850879.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Kibi山村景色4 -高清">
+<url>http://cam6850879.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Toyooka乡村景色5  -高清">
+<url>http://kinosaki.dyndns.tv/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Himeji大楼 -普清">
+<url>http://116.193.97.222/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Himeji大楼 -高清">
+<url>http://116.193.97.222/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Itami未知  -普清">
+<url>http://livingcamera.aa0.netvolante.jp:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Itami未知  -高清">
+<url>http://livingcamera.aa0.netvolante.jp:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 兵库 Itami牛肉店  -普清">
+<url>http://cam102201.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 兵库 Itami牛肉店  -高清">
+<url>http://cam102201.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

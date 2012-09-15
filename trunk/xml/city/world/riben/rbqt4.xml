@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="爱知县" type="1888" order="D" >	
+	
+<video name="日本 爱知 日本冈崎精工 办公室 -普清">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 日本冈崎精工 办公室 -高清">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋 风景1 -高清">
+<url>http://www.shinmura.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 常滑市 时装商城 -普清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城 -高清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 常滑市 时装商城2 -普清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 常滑市 时装商城2 -高清">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 栄枝市 nagoya酒店 -高清">
+<url>http://daijyouji.aa0.netvolante.jp:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+ 
+<video name="日本 爱知 名古屋 停车场 -高清">
+<url>http://frontier.aa5.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video> 
+
+<video name="日本 爱知 Ichinomiya  f6工厂 -普清">
+<url>http://221.189.255.11:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 Ichinomiya  f6工厂 -高清">
+<url>http://221.189.255.11:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 Ichinomiya  mamezo摄像头1 -高清">
+<url>http://mamezo1.jpn.ph:8002/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋  未知 -普清">
+<url>http://city-ginowan-okinawa.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 名古屋  未知 -高清">
+<url>http://city-ginowan-okinawa.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋  田野 -普清">
+<url>http://sola.innocentdoll.jp:90/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 名古屋  田野 -高清">
+<url>http://sola.innocentdoll.jp:90/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 宫市  f2工厂南侧门 -普清">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 宫市  f2工厂南侧门 -高清">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 对马群岛  村庄 -普清">
+<url>http://nyamof.dyndns-blog.com:50002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 对马群岛  村庄 -高清">
+<url>http://nyamof.dyndns-blog.com:50002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 对马群岛  小岛看市区 -普清">
+<url>http://122.20.253.39/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 爱知 对马群岛  小岛看市区 -高清">
+<url>http://122.20.253.39/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 爱知 Nishio  海边浪涌 -普清">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 Nishio  海边浪涌 -高清">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋  江滨美景 -普清">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 名古屋  江滨美景 -高清">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 爱知 名古屋  鸟瞰市区 -高清">
+<url>http://nakayamacam.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 丰田公司  窗外 -普清">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱知 丰田公司  窗外 -高清">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

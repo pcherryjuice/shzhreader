@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+<province name="日本东京" order="DA" >
+  <city name="日本东京1" type="1" order="A" >	
+      <video name="# 日本东京1(单击加载)">
+				<url>city/world5/rbdj1.xml</url>
+			</video>
+  </city>		
+  
+  <city name="日本东京2" type="1" order="B" >	
+      <video name="# 日本东京2(单击加载)">
+				<url>city/world5/rbdj2.xml</url>
+			</video>
+  </city>
+  
+  <city name="日本东京3" type="1" order="C" >	
+      <video name="# 日本东京3(单击加载)">
+				<url>city/world5/rbdj3.xml</url>
+			</video>
+  </city>
+  
+  <city name="日本东京4" type="1" order="D" >	
+      <video name="# 日本东京4(单击加载)">
+				<url>city/world5/rbdj4.xml</url>
+			</video>
+  </city>
+  
+  <city name="日本东京5" type="1" order="E" >	
+      <video name="# 日本东京5(单击加载)">
+				<url>city/world5/rbdj5.xml</url>
+			</video>
+  </city>
+  
+  <city name="日本东京6" type="1" order="F" >	
+      <video name="# 日本东京6(单击加载)">
+				<url>city/world5/rbdj6.xml</url>
+			</video>
+  </city>				
+</province>
+
+</provinces> 

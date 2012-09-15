@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="神奈川3" type="1888" order="C" >	
+	
+<video name="日本 神奈川 Shibuya木屋  -普清">
+<url>http://iyashi-webcam.st.wakwak.ne.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Shibuya木屋  -高清">
+<url>http://iyashi-webcam.st.wakwak.ne.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Zushi海边  -普清">
+<url>http://cam6067746.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Zushi海边  -高清">
+<url>http://cam6067746.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama停车场  -普清">
+<url>http://121.1.132.51:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama停车场  -高清">
+<url>http://121.1.132.51:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama店内  -普清">
+<url>http://sakae.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama店内  -高清">
+<url>http://sakae.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 神奈川 Yokosuka停车场  -普清">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama停车场  -高清">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 神奈川 Kawasaki停车场2  -普清">
+<url>http://121.1.253.123:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kawasaki停车场2  -高清">
+<url>http://121.1.253.123:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama室内  -普清">
+<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama室内  -高清">
+<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama交通路口  -普清">
+<url>http://hyobandos.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama交通路口  -高清">
+<url>http://hyobandos.miemasu.net:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama室内2  -普清">
+<url>http://joyfriends.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama室内2  -高清">
+<url>http://joyfriends.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama宠物店  -普清">
+<url>http://joyfriends.miemasu.net:50001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama宠物店  -高清">
+<url>http://joyfriends.miemasu.net:50001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 神奈川 Kawasaki高铁2  -普清">
+<url>http://netcam-cs0333.ath.cx:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kawasaki高铁2  -高清">
+<url>http://netcam-cs0333.ath.cx:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama废纸处理厂  -普清">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理厂  -高清">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

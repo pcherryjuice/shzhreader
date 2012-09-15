@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本三" order="DD" >
+<city name="大阪" type="1888" order="B" >	
+	
+<video name="日本 大阪 Osaka 室内">
+<url>http://cyonmage.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 运动场">
+<url>http://kandai-koyukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 马路">
+<url>http://ksc.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 大阪 Osaka 马路-高清">
+<url>http://ksc.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 办公桌前">
+<url>http://219.117.254.33:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 黑潮市场-高清">
+<url>http://kuroshioichiba.miemasu.net:50001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 宾馆内景">
+<url>http://211.11.143.77:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 宾馆服务台">
+<url>http://amuse.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 幼儿游乐园">
+<url>http://kinomi.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 大阪 Osaka 幼儿游乐园-高清">
+<url>http://kinomi.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Takatsuki 室内2">
+<url>http://203.189.38.246/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 大阪 Takatsuki 室内2-高清">
+<url>http://203.189.38.246/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 窗外">
+<url>http://osaka.ath.cx:8181/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 红色小屋">
+<url>http://hkcenter.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 大阪 Osaka 寺庙（推荐）">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 大阪 Osaka 寺庙（推荐）-高清">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+http://kamigou.iobb.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion
+
+<video name="日本 大阪 Osaka 室内">
+<url>http://saboten.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 大阪 Osaka 宠物猫">
+<url>http://welsh-corgi.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 大阪 Sakai 山村景色5-高清">
+<url>http://220.97.66.51/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Sakuragawa 废品处理站4">
+<url>http://cam52251.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 农家园林">
+<url>http://mtidc.aa0.netvolante.jp/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="日本 大阪 Osaka 室内球场-高清">
+<url>http://axis-ae9f59.axiscam.net/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Toyonaka 园林2-高清">
+<url>http://kurogi-ofuji.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 田野">
+<url>http://ishigaki.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 大棚作物">
+<url>http://seiji-yamamoto.plala.jp:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 农田气候监测台-高清">
+<url>http://x211239.ppp.asahi-net.or.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 仓库">
+<url>http://takemoto.miemasu.net:84/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 大阪 Hirakata 私家园林（推荐）-高清">
+<url>http://taiko-en.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 动物园-狗">
+<url>http://211.129.182.125/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 大阪 Osaka 农家门前田地">
+<url>http://tagutec8232.ddo.jp:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 天台小鸟">
+<url>http://animal.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 幼儿园操场">
+<url>http://takarayouchien.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 挖土机停车场">
+<url>http://yamachu-miki.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 停车场">
+<url>http://60.45.200.119/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 大阪 Osaka 林中小路-高清">
+<url>http://benten.miru.cc/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 牧羊山坡">
+<url>http://ojiro.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Takatsuki 停车场-高清">
+<url>http://amuse.miemasu.net:50082/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Kishiwada 停车场">
+<url>http://ipc_torigiku01.fip.nk.dococame.com:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 未知">
+<url>http://219.117.254.33:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 海边8（推荐）">
+<url>http://mielive09.iobb.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 大阪 Suita 高速公路">
+<url>http://camera1.global-ltd.co.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Takatsuki 停车场-高清">
+<url>http://amuse.miemasu.net:50081/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>
