@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利4" type="1888" order="D" >	
+
+<video name="伦巴第 Milan 海边小屋9">
+<url>http://webcam.eurcamping.it/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伦巴第 Brescia 乡村景色2">
+<url>http://janet.ing.unibs.it/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马尔凯 Pesaro 海边浴场10-高清">
+<url>http://82.104.250.105/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="马尔凯 Monteprandone 海边浴场11-高清">
+<url>http://grottammare.topnet.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="马尔凯 Montegranaro 海边景色6">
+<url>http://webcamsbt.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="马尔凯 Belmonte Piceno 海滨浴场12">
+<url>http://87.25.129.20:8090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马尔凯 Macerata 乡村景色7">
+<url>http://94.86.192.168/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马尔凯 Castelfidardo 田野-高清1080p">
+<url>http://meteoconero.dnsalias.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="马尔凯 Montecosaro 海滨浴场14">
+<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="皮埃蒙特 Turin 观光缆车-高清">
+<url>http://79.14.147.53/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="皮埃蒙特 Borgosesia 浴场监控摄像头">
+<url>http://87.30.9.81:8155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="皮埃蒙特 Turin 城镇大街1-高清">
+<url>http://rotary.hopto.org:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="皮埃蒙特 Saluzzo 城镇大街2-高清">
+<url>http://rotary.hopto.org:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Bari 海边游乐场2">
+<url>http://79.5.151.145/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Bari  椰树海边2-高清">
+<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Trinitapoli 海边浴场16">
+<url>http://82.104.73.14/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Taranto 码头4">
+<url>http://saturn.tct-it.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普利亚大区 Brindisi 海边游艇码头-高清">
+<url>http://torrevado.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Trinitapoli 海边码头2">
+<url>http://meteoprocida.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普利亚大区 Santa Cesarea 石头海岸-高清">
+<url>http://80.23.120.98:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Taranto 浪涌海边-高清">
+<url>http://82.63.254.131/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Santa Cesarea 海岸城市2-高清">
+<url>http://80.23.120.98:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="撒丁岛 Cagliari 城市鸟瞰-高清">
+<url>http://79.29.122.28/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="撒丁岛 Cagliari 游艇码头3">
+<url>http://79.39.118.217/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="撒丁岛 Oristano 乡村景色3-高清">
+<url>http://meteosanluri.dnsalias.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="撒丁岛 Arbus 海滨浴场17-高清">
+<url>http://217.133.20.159:8885/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="西西里 Noto 教堂广场">
+<url>http://88.53.197.250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西西里 Catania 园林2">
+<url>http://151.97.160.7/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西西里 Paceco 海边浴场18-高清">
+<url>http://79.5.175.198/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan 未知8">
+<url>http://87.22.80.97/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

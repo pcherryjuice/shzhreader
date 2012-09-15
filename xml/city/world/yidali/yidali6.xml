@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利6" type="1888" order="F" >	
+
+<video name="Molveno Trentino-Alto Adige停车场8">
+<url>http://79.137.113.130:230/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利Umbria Foligno 海滨浴场24-高清">
+<url>http://79.4.138.186/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Limena 海滨浴场25-高清">
+<url>http://webcam.bagnorudy.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Vicenza 教堂4">
+<url>http://webcam.comune.vicenza.it/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Asiago 马路5">
+<url>http://93.185.120.202:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Bussolengo 山峰">
+<url>http://87.22.15.62/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托Marano Di Valpolicella 阳台">
+<url>http://109.237.166.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托Ponte Nelle Alpi 未知摄像头7">
+<url>http://79.28.121.70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托Badia Polesine 海滨浴场">
+<url>http://82.105.247.139:8889/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托Badia Polesine 私家入户花园2">
+<url>http://bcdv.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Malo 广场5">
+<url>http://213.178.194.210:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Negrar 钟楼-高清">
+<url>http://meteoarzignanolive.dynalias.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Belluno 面包烤箱">
+<url>http://89.118.68.253:5101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Bussolengo 海边浴场27-高清">
+<url>http://79.38.26.212/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Bussolengo 家庭监控3">
+<url>http://sembe79.dyndns.info:8002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Cadoneghe 天空-高清">
+<url>http://82.90.109.212:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Cattai 海滨浴场28-高清1080p">
+<url>http://89.96.145.90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Conegliano 海滨浴场29-1080p">
+<url>http://82.106.241.83/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Montebelluna 山顶摄像头-高清1080p">
+<url>http://88.149.230.203:69/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Padova 位置摄像头8">
+<url>http://95.226.185.14:1180/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338111700811</url>
+</video>
+
+<video name="威尼托 Centro 办公室监控">
+<url>http://webcam.europegarden.it/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="威尼托 Limena 海边浴场30">
+<url>http://79.38.27.45/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="威尼托 Salvatronda 雪山风景-高清">
+<url>http://82.106.181.26/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Stra 雪山风景2-高清">
+<url>http://87.28.180.181/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="威尼托 Canazei 雪山缆车">
+<url>http://213.21.138.149/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+</city>
+</province>
+</provinces>

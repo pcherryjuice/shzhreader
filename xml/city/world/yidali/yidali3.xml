@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利3" type="1888" order="C" >	
+<video name="利古利亚 热那亚省小区游泳池-高清">
+<url>http://87.23.17.62/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="利古利亚 拉斯佩齐亚省 码头">
+<url>http://genoawebcam.dyndns.org:2400/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338098810627</url>
+</video>
+
+<video name="利古利亚 热那亚省乡村美景2">
+<url>http://87.23.17.62:83/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Venegono Superiore Lombardia湖光山色">
+<url>http://217.133.71.10/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Busto Arsizio Lombardia Italy">
+<url>http://87.25.7.159/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan 海景山林">
+<url>http://95.240.102.15:150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Stezzano 停车场监控2-高清">
+<url>http://87.28.238.114/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan 教堂2-高清">
+<url>http://77.43.99.102/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Zandobbio 私家停车场-高清1080p">
+<url>http://83.211.125.229:10082/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Darfo 养鸡场">
+<url>http://tancredi.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Milan 路边小屋-高清">
+<url>http://87.25.58.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Bergamo 湖光山色-高清-1080p">
+<url>http://sebino.selfip.org:6201/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan 乡村马路4">
+<url>http://webcam.lazzate.org:8882/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Montichiari 家庭监控摄像头-高清1080p">
+<url>http://82.90.132.59/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Stezzano 停车场监控3-高清1080p">
+<url>http://mobotix.rpierre.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Arosio 邻家别墅-高清720p">
+<url>http://87.23.17.62:85/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Cinisello Balsamo Lombardiagrande宾馆">
+<url>http://public_cam_hng.axiscam.net:9080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Montichiari 门前马路2-高清1080p">
+<url>http://82.90.132.60/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Brescia 停车场5-高清">
+<url>http://82.56.232.130/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Ferno 城镇景色3-高清">
+<url>http://213.199.30.114/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Milan  未知摄像头5-高清">
+<url>http://eye.cu.mi.it/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Milan 停车场6">
+<url>http://webcam.lazzate.org:8881/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伦巴第 Padenghe Sul Garda 小型飞机俱乐部">
+<url>http://mantovavds.dyndns.tv/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Venegono Inferiore 小型飞机俱乐部2">
+<url>http://webcam.aeroclubvarese.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Venegono Superiore 乡村景色2">
+<url>http://217.133.71.10:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Zandobbio 发电厂2-高清1080p">
+<url>http://83.211.125.229:10081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Zandobbio 山村马路3-高清">
+<url>http://fraciscio.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Arosio 私家监控3-高清">
+<url>http://87.23.17.62:84/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Bergamo 湖光山色5-高清1080p">
+<url>http://sebino.selfip.org:6200/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伦巴第 Castel Mella 云海山林">
+<url>http://87.28.145.161/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+<province name="意大利" order="BH" >
+    <city name="意大利1" type="1" order="A" >	
+			<video name="# 意大利1(单击加载)">
+				<url>city/yidali/yidali1.xml</url>
+			</video>
+		</city>	
+		<city name="意大利2" type="1" order="A" >	
+			<video name="# 意大利2(单击加载)">
+				<url>city/yidali/yidali2.xml</url>
+			</video>
+		</city>	
+		<city name="意大利3" type="1" order="A" >	
+			<video name="# 意大利3(单击加载)">
+				<url>city/yidali/yidali3.xml</url>
+			</video>
+		</city>	
+		<city name="意大利4" type="1" order="A" >	
+			<video name="# 意大利4(单击加载)">
+				<url>city/yidali/yidali4.xml</url>
+			</video>
+		</city>	
+		<city name="意大利5" type="1" order="A" >	
+			<video name="# 意大利5(单击加载)">
+				<url>city/yidali/yidali5.xml</url>
+			</video>
+		</city>	
+		<city name="意大利6" type="1" order="A" >	
+			<video name="# 意大利6(单击加载)">
+				<url>city/yidali/yidali6.xml</url>
+			</video>
+		</city>	
+</province>
+
+</provinces> 

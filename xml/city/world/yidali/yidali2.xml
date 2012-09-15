@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="意大利" order="BH" >
+<city name="意大利2" type="1888" order="B" >	
+
+<video name="Misano Adriatico Emilia-Romagna高速马路">
+<url>http://webcam2.misanocircuit.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利Emilia-Romagna Bagnacavallo 海边浴场5">
+<url>http://bagni32.dyndns.org/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="意大利Emilia-Romagna Cesena 海边游乐场-高清1080p">
+<url>http://109.238.112.214:8003/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利Emilia-Romagna Modena 度假村2">
+<url>http://195.62.173.154/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利Emilia-Romagna Santarcangelo 海边景色2">
+<url>http://hotelariella.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利Emilia-Romagna Senigallia 高楼监控">
+<url>http://80.19.143.197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利Emilia-Romagna Bologna 海滨浴场6-高清1080p">
+<url>http://82.63.241.167:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="弗留利-威尼斯朱利亚-里雅斯特省 教堂广场">
+<url>http://94.81.137.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗留利-威尼斯朱利亚 乌迪内省 小区停车场1-高清">
+<url>http://109.168.12.74/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="弗留利-威尼斯 朱利亚大区  度假村景色-高清">
+<url>http://meteogemona.dnsalias.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="弗留利-威尼斯 朱利亚大区  Italy-山村美景-高清1080p">
+<url>http://79.38.107.56/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="弗留利-威尼斯 朱利亚大区 小型飞机场-高清">
+<url>http://avrowebcam.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 乡村景色2-高清">
+<url>http://carlocantoni.dynalias.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 皮包商店">
+<url>http://adsl.goinfoteam.it:83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 运动场3">
+<url>http://193.204.162.36/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 Sabaudia 山城美景3">
+<url>http://desulo.dyndns.org:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 马路4">
+<url>http://89.97.5.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 未知5">
+<url>http://80.183.235.134/axis-cgi/mjpg/video.cgi?resolution=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="拉齐奥 山村景色6-高清1080p">
+<url>http://217.133.72.56/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 厂房内7">
+<url>http://85.18.195.114:3001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 海滨浴场8-高清">
+<url>http://95.240.239.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 城镇风景9">
+<url>http://80.183.224.152/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 海滨景色-高清">
+<url>http://85.18.195.13/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 Aprilia 城市美景-高清">
+<url>http://79.5.44.53/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="拉齐奥 交通路口3">
+<url>http://95.240.226.104:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="拉齐奥 小区园林">
+<url>http://95.240.226.104:9002/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="利古利亚 因佩里亚省  海滨浴场7">
+<url>http://213.204.2.199:5901/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马萨-卡拉拉省 停车场3">
+<url>http://94.91.160.65/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="利古利亚 因佩里亚省  海滨浴场9">
+<url>http://213.204.2.199:5903/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="坎帕尼亚 卡塞塔省 未知摄像头3">
+<url>http://195.110.139.100/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>
