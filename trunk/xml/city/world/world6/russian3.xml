@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="俄罗斯" order="CB" >
+<city name="俄罗斯3" type="1888" order="C" >	
+	
+<video name="俄罗斯 车里雅宾斯克 Satka  公园7">
+<url>http://213.110.31.62/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Moskovskiy Moskva 新楼盘2">
+<url>http://87.245.185.147:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 游乐园5">
+<url>http://95.161.27.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 路边的楼房6">
+<url>http://doma-invest.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 墙角7">
+<url>http://rost-spb.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄罗斯 秋明 原野5">
+<url>http://webcam5.ttknet.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 13 未知摄像头">
+<url>http://158.250.33.102/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="俄罗斯 网吧14">
+<url>http://212.42.54.136:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Barnaul Altaisky krai 大厦广场">
+<url>http://79.122.181.94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka  公寓8">
+<url>http://213.110.31.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 建筑20">
+<url>http://217.70.21.197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 楼宇8">
+<url>http://95.161.27.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Vladimir Vladimir 户外风景">
+<url>http://avocam1.avo.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Vologda Vologda 十字路口2">
+<url>http://213.154.169.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Vologda Vologda 户外停车场3">
+<url>http://213.154.169.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 大广场16">
+<url>http://195.54.9.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 17 未知摄像头">
+<url>http://62.117.68.199:8061/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 远眺18">
+<url>http://old.vladimir-city.ru:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Barnaul Altaisky krai 工地2">
+<url>http://188.133.146.206/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 工地23">
+<url>http://camera1.mgsu.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 城市鸟瞰25">
+<url>http://www.vladimir-city.ru:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克 广场5">
+<url>http://campus.tusur.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Perm Perm' 仓库">
+<url>http://46.146.240.198:3100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 原野33">
+<url>http://213.177.110.27/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Belgorod Belgorod 前台">
+<url>http://94.232.8.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Magadan Magadan 郊外的小屋2">
+<url>http://89.28.252.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 城市鸟瞰32">
+<url>http://portal.kurkino.net.ru:801/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 Stavropol Stavropol' 广场">
+<url>http://212.96.116.27/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 19 高楼远景-（高清1080p）">
+<url>http://194.67.48.110/cgi-bin/faststream.jpg?stream=full::1;fps=20::1;rand=439357::1;quality=60</url>
+</video>
+
+
+<video name="俄罗斯 20 未知-（高清1080p）">
+<url>http://212.119.196.210/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="俄罗斯 21 田野">
+<url>http://213.177.110.26/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="俄罗斯 22 未知-（高清1080p）">
+<url>http://77.35.104.40/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="俄罗斯 23 铁塔（高清1080p）">
+<url>http://62.141.120.196:90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="俄罗斯 24 城市美景">
+<url>http://vladimir-city.ru:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
