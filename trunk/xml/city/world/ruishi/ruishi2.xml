@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞士" order="BM" >
+<city name="苏黎世" type="1888" order="B" >	
+
+<video name="瑞士苏黎世 Zurich 自助餐厅">
+<url>http://webcam-mensa-hpr.ethz.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 城市风貌2">
+<url>http://213.3.23.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Rafz 室内沙滩球场-高清">
+<url>http://62.12.144.159/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Bassersdorf 会客厅">
+<url>http://217.11.34.7:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 城市马路3">
+<url>http://cam002.ethz.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Eschenbach 草地">
+<url>http://cam1.sgow.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Bruttisellen 高速公路">
+<url>http://194.209.27.11/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Hittnau 办公室内景">
+<url>http://94.100.144.141:8090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Pfuffikon 未知摄像头">
+<url>http://lesmartinets.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Pfuffikon 室内停车场2">
+<url>http://lesmartinets.dyndns.org:55181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 城市风貌5">
+<url>http://fsg-kaisten.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Bassersdorf 小花店2-高清">
+<url>http://217.11.34.117:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Bassersdorf 山野小屋3">
+<url>http://217.11.34.7:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Bubikon 小码头-高清">
+<url>http://webcam.sscro.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 海关大楼6">
+<url>http://212.41.199.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 田野7">
+<url>http://46.14.239.243:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Au 小鸟屋">
+<url>http://aps-m.axiscam.net:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Bruttisellen 高速公路2">
+<url>http://webcam1.paninfo.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Ruti 未知摄像头">
+<url>http://emer.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 窗外雪山8">
+<url>http://alpedeschaux.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士苏黎世 Niederweningen 城市小巷">
+<url>http://212.90.203.39/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Pfuffikon 田野3">
+<url>http://lesmartinets.dyndns.org:55182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Uster 园林2-高清">
+<url>http://217.162.79.92:666/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 鸽子窝9">
+<url>http://46.14.234.221:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 古楼风光10-高清">
+<url>http://cam.mitnet.ch:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zollikon 未知摄像头">
+<url>http://stoere.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Bruttisellen 高速公路3">
+<url>http://194.209.27.12/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 大楼11-高清">
+<url>http://129.132.107.21/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 排污管道监控12-高清">
+<url>http://213.3.11.253:50001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 观光缆车13-高清">
+<url>http://81.221.14.233/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 屋顶直升飞机场14-高清1080p">
+<url>http://regacam.usz.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Rumlang 小码头4">
+<url>http://alp.comtronic.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Uetikon Am See Zurich Switzerland 乡镇马路">
+<url>http://81.221.123.70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 未知摄像头8">
+<url>http://stierva.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Obfelden 小码头5">
+<url>http://212.59.162.17:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士苏黎世 Dietikon 未知摄像头">
+<url>http://eischen-app.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 农场23">
+<url>http://flyingranch.dyndns.org:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

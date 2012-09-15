@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="瑞士" order="BM" >
+<city name="其他3" type="1888" order="E" >	
+
+<video name="瑞士上瓦尔登州 Giswil 湖光山色4">
+<url>http://lago-mio.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士上瓦尔登州 Engelberg 酒店前台">
+<url>http://195.43.56.144/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士上瓦尔登州 Engelberg 未知摄像头5">
+<url>http://195.43.56.49/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338949009431</url>
+</video>
+
+<video name="瑞士上瓦尔登州 Engelberg 未知摄像头6">
+<url>http://cam2.tep.ch/axis-cgi/mjpg/video.cgi?Resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士圣加仑 城市风貌2">
+<url>http://130.82.102.72/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士圣加仑 酒吧3">
+<url>http://87.245.118.88:81/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+
+<video name="瑞士圣加仑 圣加仑-大学校园4">
+<url>http://axis1.unisg.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士圣加仑 教堂5">
+<url>http://klosterplatz.selfip.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士沙夫豪森 Schaffhausen 路边旅馆">
+<url>http://212.254.193.136:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士施维茨 Lachen 城镇风景-高清1080p">
+<url>http://mobotix.homelinux.com:44445/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="瑞士索洛图恩 Olten 小城堡-高清">
+<url>http://80.254.180.196/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士索洛图恩 Solothurn 球场">
+<url>http://axis_tcwangen.axiscam.net:8099/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士图尔高 Aadorf 田野-高清">
+<url>http://haeseli.pointclark.net:8383/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士图尔高 Kreuzlingen 雪山宾馆2-高清">
+<url>http://77.59.194.178/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士提契诺州 Pregassona 广场">
+<url>http://webcam01.lugano.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士提契诺州 Pregassona 楼下停车场2-高清1080p">
+<url>http://webcam01.lugano.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士提契诺州 Locarno 雪山风景3">
+<url>http://195.144.40.170:8083/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士提契诺州 Lugano 湖边码头">
+<url>http://webcam02.lugano.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士提契诺州 Someo 山脚宾馆">
+<url>http://alcensocam.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士提契诺州 Sementina 未知摄像头7">
+<url>http://hb9mzi.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-Uri Seedorf 古楼大街">
+<url>http://194.56.218.240:3294/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士瓦莱州 Monthey 楼下喷泉-高清">
+<url>http://213.221.150.11/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士瓦莱州 Monthey 风力发电站2">
+<url>http://213.221.150.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士瓦莱州 Saint-jean 雪山下的别墅-高清">
+<url>http://grimloc.dnsalias.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士瓦莱州 Martigny 雪山下的别墅2-高清">
+<url>http://213.221.142.195:8888/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士瓦莱州 Montana 山林美景-高清">
+<url>http://217.192.142.18/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士瓦莱州 Monthey 江边小码头3-高清">
+<url>http://fwag.homeip.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士-沃州 Lausanne 宾馆前台-高清">
+<url>http://213.221.138.98/img/video.mjpeg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Vevey 酒店窗外">
+<url>http://webcam.etvj.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Lausanne 2 观光台-高清">
+<url>http://213.3.47.128:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士-沃州 Pully 小码头2">
+<url>http://laterrasse.stvs.ch:10023/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Les Avants 小超市">
+<url>http://axis-207.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Nyon 办公室内">
+<url>http://nautique.ath.cx:10000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士-沃州 Nyon 码头观光摄像头2">
+<url>http://nautique.ath.cx:10003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
