@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国" order="BB" >
+<city name="加州5" type="1888" order="E" >	
+	
+
+<video name="加州 Wofford Heights 石头山路">
+<url>http://bullrun2.viewnetcam.com:60003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Juan Capistrano 残疾人起专用停车点">
+<url>http://democam1.iqeye.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="洛杉矶 加州 加州大学校园14-高清">
+<url>http://webcam.calstatela.edu/image?speed=0</url>
+</video>
+
+<video name="加州 Sacramento 车库2-高清">
+<url>http://70.88.55.122:10001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="加州 Antelope 海边码头">
+<url>http://99.174.159.110/image?speed=0</url>
+</video>
+
+<video name="洛杉矶 加州 加州大学洛杉矶分校">
+<url>http://camera1.clicc.ucla.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Pasadena  未知摄像头4">
+<url>http://128.171.86.103/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338216183101</url>
+</video>
+
+<video name="加州 圣地牙哥加州大学 学校讨论室11">
+<url>http://cvrr-axis0.ucsd.edu/axis-cgi/mjpg/video.cgi?resolution=fullsize::1;camera=1::1;compression=50</url>
+</video>
+
+<video name="加州 La Mesa  停车场">
+<url>http://kevin619.viewnetcam.com:443/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Rancho Palos Verdes 校园景色">
+<url>http://ptvicente.dnsdojo.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Stockton 野外停车场2">
+<url>http://nineofharts.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Pasadena 未知摄像头5">
+<url>http://128.171.86.104/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338216923053</url>
+</video>
+
+<video name="加州 Pasadena 未知摄像头6">
+<url>http://128.171.86.105/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338216981566</url>
+</video>
+
+<video name="加州 Riverside 松林小屋4">
+<url>http://138.23.53.49/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

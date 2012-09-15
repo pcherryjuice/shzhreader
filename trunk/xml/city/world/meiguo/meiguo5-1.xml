@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国11" order="BM" >
+<city name="哥伦比亚" type="1888" order="A" >	
+	
+
+<video name="哥伦比亚 家庭监控8">
+<url>http://68.239.81.153:1026/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="哥伦比亚 未知摄像头3">
+<url>http://64.203.238.95/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 楼前4">
+<url>http://149.119.81.124/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338259692031</url>
+</video>
+
+<video name="哥伦比亚 家庭监控2">
+<url>http://raddi.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="哥伦比亚 开罗美国大学-未知摄像头9">
+<url>http://webcam.american.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 存物间10">
+<url>http://webcam.oldetownepetresort.com:9270/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚  窗外风景12">
+<url>http://141.161.129.38/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="哥伦比亚 未知摄像头13">
+<url>http://asla.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="哥伦比亚 开罗美国大学14">
+<url>http://cyclops.american.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 宠物宿舍15">
+<url>http://webcam.oldetownepetresort.com:9223/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 宠物宿舍16">
+<url>http://webcam.oldetownepetresort.com:9234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 201宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9201/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 217宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9217/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 220宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 231宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9231/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 232宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9232/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 233宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9233/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 235宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 238宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9238/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="哥伦比亚 未知摄像头25">
+<url>http://wpotc.kpdsb.on.ca/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="哥伦比亚 236宠物宿舍">
+<url>http://webcam.oldetownepetresort.com:9236/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国4" order="BE" >
+	
+<city name="麻萨诸塞" type="1888" order="A" >	
+	
+<video name="麻萨诸塞州 Revere 码头4">
+<url>http://75.144.144.237/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Boston 办公室2">
+<url>http://128.197.58.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Boston 城市风景2-高清">
+<url>http://168.122.98.2/image?speed=0</url>
+</video>
+
+<video name="麻萨诸塞州 Everett 江边监控摄像头2">
+<url>http://72.72.76.48/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Amherst 窗外球场">
+<url>http://148.85.35.65/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Boston 未知摄像头3">
+<url>http://155.41.145.37/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 North Dartmouth 停车场2-高清">
+<url>http://arsbccam2.viewnetcam.com:8324/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Provincetown 海边码头3">
+<url>http://flyersboats.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Burlington 未知摄像头-高清">
+<url>http://75.147.21.83/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="麻萨诸塞州 Cambridge 麻省理工学院媒体实验室-阅览室">
+<url>http://foodcam.media.mit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Cambridge 美国哈佛大学-校园2（高清）">
+<url>http://sciencecentercam.fas.harvard.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Concord 游艇码头4">
+<url>http://70.22.152.96/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Northampton 校园中心">
+<url>http://131.229.128.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Monson 海边摄像头">
+<url>http://74.92.4.154/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Northampton 太阳能发电设备2">
+<url>http://131.229.80.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Rutland 游艇码头5">
+<url>http://shipshops.axiscam.net:8181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 West Roxbury 路边宾馆">
+<url>http://173.14.190.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Amherst 小树林2">
+<url>http://148.85.35.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Canton 工厂监控摄像头-高清">
+<url>http://12.16.75.121:8080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Leominster 门前监控摄像头">
+<url>http://ghr.dyndns.org:8002/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Lowell 门口摄像头">
+<url>http://saloncreations.axiscam.net:3001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Medford 咖啡厅">
+<url>http://74.92.3.186:12022/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Woods Hole 伍兹霍尔海洋研究所-实验室2">
+<url>http://el2cam.whoi.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Beverly 私家停车场">
+<url>http://home.tom.org:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 East Dennis 马栏">
+<url>http://nickienetcam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Hingham 宠物屋">
+<url>http://70.88.199.133/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Newburyport 海边观光台">
+<url>http://plumisland.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Norwood 公司办公室1">
+<url>http://209.113.157.25/cgi-bin/fullsize.jpg?camera=1::1;motion=0</url>
+</video>
+
+<video name="麻萨诸塞州 Norwood 公司办公室2">
+<url>http://209.113.157.25/cgi-bin/fullsize.jpg?camera=2::1;motion=0</url>
+</video>
+
+<video name="麻萨诸塞州 Norwood 公司办公室3">
+<url>http://209.113.157.25/cgi-bin/fullsize.jpg?camera=3::1;motion=0</url>
+</video>
+
+<video name="麻萨诸塞州 Norwood 公司办公室4">
+<url>http://209.113.157.25/cgi-bin/fullsize.jpg?camera=4::1;motion=0</url>
+</video>
+
+<video name="麻萨诸塞州 Sheffield 伯克夏中学-校园（高清）">
+<url>http://bsnwebcam1.berkshireschool.org/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Sheffield 实验室6">
+<url>http://128.128.17.158/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 South Hadley 蒙特赫里约克学院-教学大楼">
+<url>http://scicam.mtholyoke.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Tewksbury webster湖">
+<url>http://lakeview.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Waltham 布兰迪斯大学-实验室2">
+<url>http://wbrs.campusctr.brandeis.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 Hingham 未知摄像头2">
+<url>http://70.88.199.133:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Scituate 海边风景2-高清">
+<url>http://timkelley.no-ip.info:14798/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="麻萨诸塞州 Hingham 家中摄像头3">
+<url>http://70.88.199.133:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="麻萨诸塞州 Lowell 小动物巢穴2">
+<url>http://fox-axistv.uml.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="麻萨诸塞州 New Bedford 小岛气象监测摄像头">
+<url>http://westislandweather.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

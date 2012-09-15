@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国2" order="BC" >
+<city name="佛罗里达3" type="1888" order="C" >	
+	
+<video name="佛罗里达州 Miami 迈阿密大学米勒医学院2">
+<url>http://webcam4.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Naples 家庭监控-门口2">
+<url>http://benshome.dyndns.org:6082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 North Port 家庭监控-门口2">
+<url>http://billslawn89d.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Odessa 木工作坊">
+<url>http://apollocam.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Oviedo 杂物间2-高清">
+<url>http://atsphones.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Panama City 高速路2">
+<url>http://tmc.baycountyfl.gov:2309/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Santa Rosa Beach 海边沙滩6">
+<url>http://mooncreek3.axiscam.net:6009/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Stuart 未知摄像头2">
+<url>http://loblollycams.homedns.org:2082/image?speed=0</url>
+</video>
+
+<video name="佛罗里达州 Tallahassee 草坪喷泉">
+<url>http://128.186.64.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tallahassee 等候间2">
+<url>http://renegade2.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Tampa 数据处理中心机房9-高清">
+<url>http://198.92.142.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tampa 报废车处理中心10-高清">
+<url>http://71.180.171.96:1600/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 办公室5">
+<url>http://72.236.125.34:217/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 底下停车场8-高清">
+<url>http://173.12.69.54:84/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 地下停车场9-高清1080p">
+<url>http://173.12.69.54:85/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 工艺品商店">
+<url>http://216.199.212.170/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 道路指示牌">
+<url>http://7-milemarina.com/image?speed=5</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 加油站5-高清1080p">
+<url>http://70.147.7.171/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Orlando 训练场">
+<url>http://cam5098567.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Pensacola 海滨浴场-高清">
+<url>http://eastdestinbeachcam.destinresorts.com/image?speed=0::1;v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Santa Rosa Beach 海滨浴场2">
+<url>http://mooncreek5.axiscam.net:6109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tampa 一楼大厅11">
+<url>http://131.247.176.63/image?speed=0</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 地下停车场12-高清">
+<url>http://173.12.69.54:86/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Homestead 私家车库3">
+<url>http://allansmiamigarage.axiscam.net:5000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Jacksonville 滑板商店2">
+<url>http://74.93.171.150:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Marathon 小码头4-高清">
+<url>http://grassykey.viewnetcam.com:1028/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Saint Petersburg 小码头5">
+<url>http://24.73.175.142:8081/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Pensacola 海滨浴场6-高清">
+<url>http://beach.sandestinwebcam.com/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+
+<video name="佛罗里达州 Bonita Springs 酒吧2">
+<url>http://buffalochips1.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Cape Coral 海滨浴场近景（有美女出现）-高清">
+<url>http://75.151.40.42/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 房间内景14-高清1080p">
+<url>http://173.12.69.54:82/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈阿密医科大学-校园">
+<url>http://webcam3.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Milton 海滨浴场7（自动旋转调焦）-高清">
+<url>http://70.167.229.2/image?speed=0</url>
+</video>
+
+<video name="佛罗里达州 Saint Petersburg 海边浴场8-高清">
+<url>http://uphambeach.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tampa 十字架14">
+<url>http://66.14.118.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Miami 工厂生产线17">
+<url>http://74.238.54.36:8090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

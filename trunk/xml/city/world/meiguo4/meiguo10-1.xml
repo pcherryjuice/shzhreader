@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国10" order="BN" >
+	
+<city name="其他" type="1888" order="B" >	
+	
+<video name="内华达州Washoe Valley  内华达室外">
+<url>http://206.105.213.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州Washoe Valley  内华达室外2">
+<url>http://206.105.213.53/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州Washoe Valley  内华达设备室3">
+<url>http://206.105.213.37/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Fernley 内华达室外设备">
+<url>http://206.159.119.8/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Las Vegas  美國沙漠研究所">
+<url>http://bcwebcam.dri.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="内华达州 Reno 服务器机房">
+<url>http://206.158.4.16/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 内华达雪山2">
+<url>http://206.230.61.85:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 内华达室外3">
+<url>http://24.180.37.226:8160/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 内华达室外4">
+<url>http://24.180.37.226:8250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 内华达大学校园">
+<url>http://quadcam.unrfound.unr.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 内华达矿山路上6">
+<url>http://206.230.61.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 里诺矿山8">
+<url>http://206.230.61.55/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 里诺未知9">
+<url>http://206.230.61.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内华达州 Reno 里诺野外11">
+<url>http://206.158.4.15:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新罕布什尔州  Hanover 达特茅斯学院校园">
+<url>http://wc2.dartmouth.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新罕布什尔州 Epsom  游艇码头">
+<url>http://65.175.138.198/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新罕布什尔州 Keene  汉普夏湖泊">
+<url>http://canadalakestore.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新罕布什尔州 Rumney  汉普夏河流">
+<url>http://bruhawachet2.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Riverton  泽西 桥">
+<url>http://74.94.55.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Linden  泽西 服务台">
+<url>http://cam1.starofdavidmemorial.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Blairstown  泽西室内2">
+<url>http://198.182.247.191/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Fair Haven  泽西私家小花园">
+<url>http://71.127.249.32:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Lanoka Harbor  泽西大排档">
+<url>http://martellsbayville.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Paterson  未知">
+<url>http://njhirailersnj.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新泽西州 Edison  泽西公路">
+<url>http://daycam01.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新泽西州 Paterson  公路2">
+<url>http://njhirailersnj.viewnetcam.com:60004/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新泽西州 Andover  泽西水池">
+<url>http://mypond.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="新泽西州 Livingston  泽西花园">
+<url>http://presbygardens.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新泽西州 Paterson  泽西室内建筑模型3">
+<url>http://njhirailersnj.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新泽西州 Paterson  泽西室内建筑模型4">
+<url>http://njhirailersnj.viewnetcam.com:60003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

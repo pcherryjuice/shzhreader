@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国" order="BB" >
+<city name="加州1" type="1888" order="A" >	
+	
+
+<video name="加州 加利福尼亚大学洛杉矶校区-实验室1">
+<url>http://128.97.43.214/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Soledad 卵石滩">
+<url>http://rachleff.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州  Arrowbear湖">
+<url>http://arrowbear.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 La Jolla 塔楼-高清1080p">
+<url>http://137.110.165.21/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Goleta 城市风景">
+<url>http://webcam1.sbyc.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Palo Alto马路">
+<url>http://fremontca.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 La Jolla未知摄像头2">
+<url>http://132.239.8.4/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 La Jolla塔楼3-高清">
+<url>http://137.110.165.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Palo Alto卧室梳妆台2">
+<url>http://camera.britta.com:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo木材商场">
+<url>http://129.65.126.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 El Cajon家庭影院-高清">
+<url>http://209.242.172.131:200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Jose海市蜃楼">
+<url>http://cam.wannman.com:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Sunnyvale 雷达探测站">
+<url>http://199.1.195.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Costa Mesa 蓝色小房">
+<url>http://69.224.130.149/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 洛杉矶 人行走道2">
+<url>http://lioncam1.lmu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Placerville 别墅花园">
+<url>http://98.238.252.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Francisco海边景色">
+<url>http://173.8.132.58/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Luis Obispo实验室机器2">
+<url>http://129.65.126.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo储物间3">
+<url>http://129.65.141.148/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo窗外4">
+<url>http://129.65.37.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Sunnyvale 实验楼2">
+<url>http://173.164.239.206/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Angwin 小型飞机场">
+<url>http://airportcam.puc.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Canoga Park室内未知摄像头">
+<url>http://store04.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Fresno 小型飞机场2">
+<url>http://soaravenal2.viewnetcam.com:8090/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Garden Grove校时时钟2">
+<url>http://108.0.241.50:85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 半月沙滩">
+<url>http://samcam.samschowderhouse.com:8333/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 La Jolla室内监控摄像头4">
+<url>http://gallerycam.ucsd.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Diego海洋实验室">
+<url>http://130.191.227.248/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Jose埃施朗办公室">
+<url>http://12.191.57.22/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338130425866</url>
+</video>
+
+<video name="加州 San Luis Obispo办公室5">
+<url>http://21-09cam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

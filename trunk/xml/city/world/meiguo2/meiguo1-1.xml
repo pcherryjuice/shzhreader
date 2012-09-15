@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国1" order="BBB" >
+	
+<city name="纽约1" type="1888" order="A" >	
+	
+<video name="纽约 Ithaca 海边公园">
+<url>http://www.boydsnest-ti.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Liverpool 利物浦实验室外景">
+<url>http://webcam1.lpl.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hicksville 校园">
+<url>http://108.58.154.186/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Rhinebeck 未知摄像头">
+<url>http://theoldplace.homeip.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约州罗切斯特市  罗切斯特理工大学-实验室">
+<url>http://vlsicam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamilton 高露洁大学-校园">
+<url>http://149.43.156.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路">
+<url>http://12.154.129.248/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 New Paltz 建筑工地">
+<url>http://137.140.64.225/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamilton 高露洁大学-校园2">
+<url>http://149.43.156.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Potsdam  克拉克森大学-工程学院">
+<url>http://studentcenter2.construction.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Buffalo 布法罗大学校园">
+<url>http://128.205.54.65/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Canton 校园3">
+<url>http://69.6.98.250/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约  哥伦比亚大学-教学楼">
+<url>http://160.39.101.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 自由女神-高清">
+<url>http://24.39.139.182:4080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="纽约 Rochester  纽约州罗彻斯特大学-校园">
+<url>http://128.151.54.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Syracuse  城市风景">
+<url>http://axis-9fa05b.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Alfred  阿尔弗雷德大学-校园内景">
+<url>http://webcam3.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Oswego 纽约大学奥斯威戈分校-校园">
+<url>http://web-cam-2.oswego.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Rochester 罗切斯特理工大学-实验室4">
+<url>http://harriscam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamilton 高露洁大学-校园3">
+<url>http://149.43.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路3">
+<url>http://12.154.129.245/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Alfred 校园5-高清">
+<url>http://149.84.160.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Bronx 室内盆景-高清">
+<url>http://148.84.57.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  交通路口4">
+<url>http://12.154.129.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  交通摄像头5">
+<url>http://12.154.129.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  交通摄像头6">
+<url>http://12.154.129.247/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  交通摄像头7">
+<url>http://12.154.142.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Jamestown  校园7">
+<url>http://143.67.94.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 校园8">
+<url>http://69.64.220.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 码头4">
+<url>http://pinesmarina.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

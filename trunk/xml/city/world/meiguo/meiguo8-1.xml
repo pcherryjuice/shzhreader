@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国11" order="BM" >
+<city name="乔治亚州" type="1888" order="C" >	
+	
+<video name="乔治亚州Marietta 教堂内景">
+<url>http://216.79.143.251/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Marietta 教堂内景2">
+<url>http://216.79.143.252/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州 Rabun Gap未知摄像头1">
+<url>http://gapcam.dyndns.org:8081/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="乔治亚州 Avondale Estates 窗外风景">
+<url>http://70.155.93.6:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Commerce 郊野宾馆">
+<url>http://apeatlantacam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Marietta 礼堂3">
+<url>http://216.79.143.250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Savannah 海边浴场">
+<url>http://173.12.209.42/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Athens 哥伦布州立大学-钟楼">
+<url>http://webcam01.columbusstate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Atlanta 楼下停车场-高清">
+<url>http://131.96.76.164/image?speed=0</url>
+</video>
+
+<video name="乔治亚州Atlanta 室内篮球场2">
+<url>http://70.151.231.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Duluth 宠物宿舍">
+<url>http://cam4231202.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="乔治亚州Peachtree City  野外休闲亭">
+<url>http://216.130.129.107:86/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Thomasville 停车场">
+<url>http://72.242.95.170:8883/image?speed=0</url>
+</video>
+
+<video name="乔治亚州Duluth 动物园2">
+<url>http://camera.formetco.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Milledgeville 门口监控摄像头 未知摄像头">
+<url>http://168.16.203.247/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="乔治亚州Snellville 未知摄像头2">
+<url>http://68.157.188.173:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="乔治亚州Thomasville 车库2">
+<url>http://72.242.95.170:8882/image?speed=0</url>
+</video>
+
+<video name="乔治亚州Thomasville 汽车修理店3-高清">
+<url>http://72.242.95.170:8884/image?speed=0</url>
+</video>
+
+<video name="乔治亚州Demorest 茶餐厅-高清">
+<url>http://hofers.dyndns.tv/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

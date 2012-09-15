@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国9" order="BL" >
+	
+<city name="密歇根州" type="1888" order="B" >	
+
+<video name="密歇根州 Ann Arbor 密歇根大学校园">
+<url>http://shapiro.cam.lib.umich.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Wyoming 怀俄明泳池">
+<url>http://sjryc.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔绿荫路">
+<url>http://148.61.97.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔咖啡厅2">
+<url>http://148.61.171.201/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔住宅小区3">
+<url>http://148.61.151.202/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor  密歇根大学-实验室">
+<url>http://141.213.21.88/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ironwood 密歇根山坡树林">
+<url>http://24.213.36.254:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山校园4">
+<url>http://148.61.142.228/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山户外5">
+<url>http://148.61.161.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山户外6">
+<url>http://148.61.253.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ewen CVB办公室">
+<url>http://24.213.39.122/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Troy 密歇根山生产车间">
+<url>http://208.72.103.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山户外7">
+<url>http://148.61.63.218/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Petoskey 密歇根山室内泳池">
+<url>http://webcam02.boynemountain.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山公寓楼下8">
+<url>http://148.61.134.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山户外景色9">
+<url>http://148.61.229.201/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Allendale 密歇根山校园10">
+<url>http://148.61.37.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室">
+<url>http://141.213.21.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor  密歇根大学-实验室2">
+<url>http://141.213.21.87/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室3">
+<url>http://141.213.21.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Cadillac 密歇根山海边">
+<url>http://71.13.68.126/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 East Lansing  密歇根山公司内部">
+<url>http://35.9.170.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Holland 密歇根山休闲区">
+<url>http://redmooselodgebaldwin.axiscam.net:5700/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Interlochen 密歇根山园林小亭">
+<url>http://mcwwebcam.interlochen.org/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Kalamazoo 密歇根山楼宇">
+<url>http://fmwmu-1.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Linwood 室内未知">
+<url>http://mypoodlecam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Ludington 湖泊鸟瞰">
+<url>http://ludingtonharbor.axiscam.net:5700/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Muskegon 未知">
+<url>http://fishercam2250.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Otsego 密歇根山小河">
+<url>http://hvmmarinacam.viewnetcam.com:60030/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Petoskey 皮托斯基湖边草坪2">
+<url>http://webcam03.boynemountain.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>	
+
+
+</city>
+</province>
+</provinces>

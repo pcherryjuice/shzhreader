@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国2" order="BC" >
+<city name="佛罗里达" type="1888" order="A" >	
+	
+<video name="佛罗里达州 Tampa 未知摄像头">
+<url>http://24.73.219.222/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="佛罗里达州 Fort Myers 校园监控-高清">
+<url>http://208.78.132.152/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Miami 迈阿密大学-校园鸟瞰">
+<url>http://129.171.176.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Fort Myers sanibel假日酒店2">
+<url>http://72.236.138.36/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Panama City 高速公路">
+<url>http://tmc.baycountyfl.gov:2306/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Titusville 岛上蒙特瑞酒店">
+<url>http://65.41.26.8:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Fort Myers 海边木板路">
+<url>http://204.215.38.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 城市风貌">
+<url>http://63.138.232.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Spring Hill 斯坦哈奇河口">
+<url>http://70.155.177.184/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tampa 会议室2-高清">
+<url>http://131.247.8.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Daytona Beach 大楼门口">
+<url>http://72.236.125.34:211/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Clearwater lido沙滩">
+<url>http://96.252.133.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Niceville 小码头">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Orlando 海边浴场2">
+<url>http://coralsandsinn.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Fort Lauderdale 游泳池-高清1080p">
+<url>http://173.12.69.54:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Hollywood 酒店外的海边沙滩3">
+<url>http://beachcam.sagamorehotel.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Homestead 园林">
+<url>http://allansmiamicam4.axiscam.net:8400/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Miami 窗外花圃3">
+<url>http://74.164.25.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Miami 城市风景4-高清">
+<url>http://webcam5.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Miami Beach 游泳池2-高清">
+<url>http://mail.bluegreendiamond.net:8084/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Tampa 数据中心机房3">
+<url>http://198.92.142.140/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Tampa 室内角落4">
+<url>http://72.91.84.123:4000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Delray Beach 商场">
+<url>http://72.17.163.242/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Gainesville 汽车轮毂商店">
+<url>http://97.67.17.235/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Homestead 跑车仓库2">
+<url>http://65.7.199.200:5000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 Jacksonville 窗外草地">
+<url>http://cam6461078.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="佛罗里达州 Miami 市中心交通路口5">
+<url>http://webcam6.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="佛罗里达州 New Smyrna Beach 海边沙滩2">
+<url>http://24.227.115.174:8000/image?speed=0</url>
+</video>
+
+<video name="佛罗里达州 Oviedo 游泳池3-高清">
+<url>http://97.79.15.119:49200/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="佛罗里达州 Santa Rosa Beach 海边沙滩4">
+<url>http://mooncreek1.axiscam.net:6109/mjpg/video.mjpg?resolution=352x288</url>
+</video>	
+
+</city>
+</province>
+</provinces>

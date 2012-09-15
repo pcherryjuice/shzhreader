@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国11" order="BM" >
+<city name="其他" type="1888" order="E" >	
+	
+<video name="阿肯色州 温泉村庄">
+<url>http://hsvpoa.org:9501/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿肯色州 Rogers 乡村停车场">
+<url>http://cwtcam.nwacc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿肯色州 Fayetteville 阿肯色大学实验室-高清">
+<url>http://robocam.ineg.uark.edu/image?speed=0</url>
+</video>
+
+<video name="阿肯色州 Fayetteville 阿肯色大学校园2">
+<url>http://uaf7753.ddns.uark.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="阿肯色州 Fayetteville 阿肯色大学实验室3-高清">
+<url>http://130.184.158.44/image?speed=0</url>
+</video>
+
+<video name="阿肯色州 Fayetteville 阿肯色大学餐厅">
+<url>http://uaf21931.ddns.uark.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="阿肯色大学校园4">
+<url>http://147.97.67.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿肯色州Mountain Home 未知室内">
+<url>http://apex.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Newark 特拉华大学-校园">
+<url>http://mallcam.ums.udel.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Georgetown 未知摄像头16">
+<url>http://ppcam.gotdns.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 未知摄像头">
+<url>http://limestone-office.homeunix.net:9050/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 监听监控2">
+<url>http://limestone-office.homeunix.net:9051/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 家庭监控3">
+<url>http://limestone-office.homeunix.net:9055/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 家庭监控4">
+<url>http://limestone-office.homeunix.net:9056/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 家庭监控5">
+<url>http://limestone-office.homeunix.net:9057/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 家庭监控6">
+<url>http://limestone-office.homeunix.net:9053/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="特拉华州 Hockessin 家庭监控7">
+<url>http://limestone-office.homeunix.net:9054/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Greenwich 马路2">
+<url>http://norwalk.axiscam.net:2222/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 West Hartford 哈特福德大学-校园4">
+<url>http://webcam-2.hartford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="爱达荷州 Newdale 高山探险">
+<url>http://69.20.165.23/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="爱达荷州 Osburn 室内游乐园">
+<url>http://208.81.156.72/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="爱达荷州 Blackfoot 气候监测摄像头">
+<url>http://idaho.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱达荷州 Saint Maries  岛上小码头2">
+<url>http://207.32.195.187/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱达荷州 Bonners Ferry  未知摄像头5">
+<url>http://208.81.155.245/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱达荷州 Caldwell 山野草地">
+<url>http://71.39.117.211/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱达荷州 Pocatello 室内办公室-高清">
+<url>http://134.50.64.35/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="爱达荷州 Saint Maries  未知摄像头3">
+<url>http://harrisonridge.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="爱达荷州 Twin Falls  城市风貌2-高清">
+<url>http://204.134.224.200/image?speed=0</url>
+</video>
+
+<video name="爱达荷州 Mccall 小岛监控摄像头-旋转">
+<url>http://74.41.163.234:8088/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

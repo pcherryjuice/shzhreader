@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="美国5" order="BF" >
+   <city name="宾州1" type="1" order="A" >	
+			<video name="# 宾州1(单击加载)">
+				<url>city/meiguo3/meiguo1-1.xml</url>
+			</video>
+		</city>	
+		<city name="宾州2" type="1" order="B" >
+			<video name="# 宾州2(单击加载)">
+				<url>city/meiguo3/meiguo1-2.xml</url>
+			</video>
+		</city>	
+
+		<city name="南卡罗来纳" type="1" order="C" >
+    	<video name="# 南卡罗来纳(单击加载)">
+				<url>city/meiguo3/meiguo2-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="其他" type="1" order="D" >	
+    	<video name="# 其他(单击加载)">
+				<url>city/meiguo3/meiguo3-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+<province name="美国6" order="BG" >
+   <city name="田纳西州" type="1" order="A" >	
+			<video name="# 田纳西州(单击加载)">
+				<url>city/meiguo3/meiguo4-1.xml</url>
+			</video>
+		</city>	
+		<city name="得克萨斯" type="1" order="B" >	
+			<video name="# 得克萨斯州(单击加载)">
+				<url>city/meiguo3/meiguo5-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="弗吉尼亚" type="1888" order="C" >	
+		   <video name="# 弗吉尼亚(单击加载)">
+				  <url>city/meiguo3/meiguo6-1.xml</url>
+			 </video>
+		</city>	
+		
+		<city name="其他" type="1" order="D" >	
+			<video name="# 其他(单击加载)">
+				<url>city/meiguo3/meiguo7-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+<province name="美国7" order="BH" >
+	
+   <city name="华盛顿" type="1" order="A" >		
+			<video name="# 华盛顿(单击加载)">
+				<url>city/meiguo3/meiguo8-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="威斯康辛" type="1888" order="B" >		
+			<video name="# 威斯康辛(单击加载)">
+				<url>city/meiguo3/meiguo9-1.xml</url>
+			</video>
+		</city>	
+	
+		<city name="其他" type="1" order="E" >		
+			<video name="# 其他(单击加载)">
+				<url>city/meiguo3/meiguo10-1.xml</url>
+			</video>
+		</city>	
+		
+</province>
+
+</provinces> 

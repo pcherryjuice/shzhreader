@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国1" order="BBB" >
+<city name="纽约3" type="1888" order="C" >	
+	
+<video name="纽约 Hauppauge 交通摄像头9">
+<url>http://12.154.134.185/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 公路公路17">
+<url>http://12.154.134.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 未知摄像头6">
+<url>http://12.154.134.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路19">
+<url>http://12.154.142.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头20">
+<url>http://12.154.142.223/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hempstead  大学校园3">
+<url>http://147.4.73.99/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338572975975</url>
+</video>
+
+<video name="纽约 Lima  运动场">
+<url>http://65.73.192.171/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="纽约 Lowville  马路2">
+<url>http://monaco1.axiscam.net:8002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Potsdam  纽约州克拉克森大学3">
+<url>http://128.153.6.43/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Rochester 纽约州立大学门罗社区学院7">
+<url>http://wc01b.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Rochester 罗彻斯特理工学院8">
+<url>http://webcam01.rit.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Southampton  园林2">
+<url>http://hopes.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Adams  森林小屋">
+<url>http://monaco1.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Alfred  阿尔弗雷德大学4-高清">
+<url>http://webcam1.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Bethpage  未知摄像头7">
+<url>http://cam.maritimeaquarium.org:8181/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Burnt Hills 小码头2">
+<url>http://24.97.25.202:8883/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Burnt Hills 停车场2">
+<url>http://24.97.25.202:8884/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Geneseo  小树林">
+<url>http://137.238.0.68/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamilton 美国 Colgate大学5">
+<url>http://149.43.156.108/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamlin  海边景色">
+<url>http://byc.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头21">
+<url>http://12.154.129.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头22">
+<url>http://12.154.129.233/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 未知摄像头23">
+<url>http://12.154.129.241/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头24">
+<url>http://12.154.129.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头25">
+<url>http://12.154.129.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头26">
+<url>http://12.154.129.250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 交通摄像头27">
+<url>http://12.154.134.183/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速路28">
+<url>http://12.154.134.184/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速路29">
+<url>http://12.154.134.213/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速路30">
+<url>http://12.154.142.170/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

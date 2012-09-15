@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+
+<province name="美国8" order="BK" >
+   <city name="伊利诺伊" type="1" order="A" >
+			<video name="# 伊利诺伊(单击加载)">
+				<url>city/meiguo4/meiguo1-1.xml</url>
+			</video>
+		</city>	
+		<city name="印第安纳" type="1" order="B" >	
+			<video name="# 印第安纳(单击加载)">
+				<url>city/meiguo4/meiguo2-1.xml</url>
+			</video>
+		</city>	
+		<city name="肯塔基州" type="1" order="C" >	
+    	<video name="# 肯塔基州(单击加载)">
+				<url>city/meiguo4/meiguo3-1.xml</url>
+			</video>
+		</city>	
+		<city name="其他" type="1" order="D" >		
+    	<video name="# 其他(单击加载)">
+				<url>city/meiguo4/meiguo4-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+	
+
+	
+<province name="美国9" order="BL" >
+   <city name="明尼苏达" type="1" order="A" >	
+			<video name="# 明尼苏达(单击加载)">
+				<url>city/meiguo4/meiguo5-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="密歇根州" type="1" order="B" >	
+			<video name="# 密歇根州(单击加载)">
+				<url>city/meiguo4/meiguo6-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="密歇根州2" type="1" order="C" >	
+    	<video name="# 密歇根州2(单击加载)">
+				<url>city/meiguo4/meiguo7-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="其他" type="1" order="D" >		
+    	<video name="# 其他(单击加载)">
+				<url>city/meiguo4/meiguo8-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+<province name="美国10" order="BN" >
+   <city name="蒙大拿州" type="1" order="A" >	
+			<video name="# 蒙大拿州(单击加载)">
+				<url>city/meiguo4/meiguo9-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="其他" type="1" order="B" >		
+			<video name="# 其他(单击加载)">
+				<url>city/meiguo4/meiguo10-1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="其他2" type="1" order="C" >	
+    	<video name="# 其他2(单击加载)">
+				<url>city/meiguo4/meiguo11-1.xml</url>
+			</video>
+		</city>	
+</province>
+
+</provinces> 

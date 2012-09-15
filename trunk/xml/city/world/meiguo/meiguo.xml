@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+	
+<province name="美国" order="BB" >
+    <city name="加州1" type="1" order="A" >	
+			<video name="# 加利福尼亚1(单击加载)">
+				<url>city/meiguo/meiguo1-1.xml</url>
+			</video>
+		</city>	
+    <city name="加州2" type="1" order="B" >	
+    	<video name="# 加利福尼亚2(单击加载)">
+				<url>city/meiguo/meiguo1-2.xml</url>
+			</video>
+		</city>	
+		<city name="加州3" type="1" order="C" >	
+    	<video name="# 加利福尼亚3(单击加载)">
+				<url>city/meiguo/meiguo1-3.xml</url>
+			</video>
+		</city>	
+		<city name="加州4" type="1" order="D" >	
+    	<video name="# 加利福尼亚4(单击加载)">
+				<url>city/meiguo/meiguo1-4.xml</url>
+			</video>
+		</city>	
+		<city name="加州5" type="1" order="E" >	
+    	<video name="# 加利福尼亚5(单击加载)">
+				<url>city/meiguo/meiguo1-5.xml</url>
+			</video>
+		</city>	
+</province>
+
+
+ <province name="美国2" order="BC">
+- <city name="佛罗里达" type="1" order="A" >	
+- <video name="# 佛罗里达(单击加载)">
+  <url>city/meiguo/meiguo6-1.xml</url> 
+  </video>
+  </city>
+- <city name="佛罗里达2" type="1" order="B">
+- <video name="# 佛罗里达2(单击加载)">
+  <url>city/meiguo/meiguo6-2.xml</url> 
+  </video>
+  </city>
+- <city name="佛罗里达3" type="1" order="C">
+- <video name="# 乔治亚州(单击加载)">
+  <url>city/meiguo/meiguo6-3.xml</url> 
+  </video>
+  </city>
+- <city name="科罗拉多州" type="1" order="D">
+- <video name="# 科罗拉多州(单击加载)">
+  <url>city/meiguo/meiguo3-1.xml</url> 
+  </video>
+  </city>
+  </province>
+
+<province name="美国11" order="BM" >
+    <city name="哥伦比亚" type="1" order="A" ><video name="# 哥伦比亚(单击加载)"><url>city/meiguo/meiguo5-1.xml</url></video></city>
+    <city name="夏威夷" type="1" order="B" ><video name="# 夏威夷(单击加载)"><url>city/meiguo/meiguo7-1.xml</url></video></city>		
+    <city name="乔治亚州" type="1" order="C" ><video name="# 乔治亚州(单击加载)"><url>city/meiguo/meiguo8-1.xml</url></video></city>	
+    <city name="康涅狄格" type="1" order="D" ><video name="# 康涅狄格(单击加载)"><url>city/meiguo/meiguo4-1.xml</url></video></city>	
+    <city name="其他" type="1" order="E" ><video name="# 其他(单击加载)"><url>city/meiguo/qita1.xml</url></video></city>	
+</province>
+
+</provinces> 

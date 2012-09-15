@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国7" order="BH" >
+	
+<city name="华盛顿" type="1888" order="A" >	
+	
+<video name="美国华盛顿 Pasco 交通摄像头">
+<url>http://www.whitmancounty.org:3001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 西华盛顿大学-实验室">
+<url>http://cf405wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Kennewick 水果打包流水线-高清">
+<url>http://myapplecam.com/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Everett 室外滑板训练场">
+<url>http://75.151.103.26/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="美国华盛顿 Kirkland 大学校园">
+<url>http://epiphany.xuserver.com:9011/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Everett 海边码头">
+<url>http://webcam.heraldnet.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 大学实验室2">
+<url>http://140.160.141.187/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Winthrop 甜品店">
+<url>http://64.139.100.67:60001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 西华盛顿大学-大学实验室3">
+<url>http://cf418wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Olympia 森特罗利亚学院-校园">
+<url>http://eastcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Olympia 森特罗利亚学院-校园2">
+<url>http://westcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Tacoma 西华盛顿大学-校园3">
+<url>http://128.208.252.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Toledo 考利茨河">
+<url>http://208.70.51.156:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Vancouver 河边旋转摄像头">
+<url>http://207.202.157.37/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Walla  惠特曼学院-学校餐厅">
+<url>http://sub-cam.whitman.edu/image?speed=0</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 学校实验室4">
+<url>http://140.160.141.186/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 门后5">
+<url>http://140.160.141.188/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Edmonds 小码头">
+<url>http://launch.axiscam.net:53435/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Lopez Island  海边旋转摄像头-高清">
+<url>http://64.119.5.59/image?speed=0</url>
+</video>
+
+<video name="美国华盛顿 Yakima 自选商场">
+<url>http://68.116.20.194:302/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellingham 红色广场6">
+<url>http://140.160.161.198/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Edmonds 交通摄像头2">
+<url>http://launch.axiscam.net:44846/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Gig Harbor  未知室内摄像头">
+<url>http://pearlbaker.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Seattle 华盛顿大学-校园5">
+<url>http://128.95.43.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Seattle 华盛顿大学-实验室机房-高清">
+<url>http://140.142.24.43:4625/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Seattle 城市交通摄像头4">
+<url>http://173.10.83.217/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Stevenson 湖滨公园-高清">
+<url>http://206.58.237.153/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="美国华盛顿 Tacoma 海边监控摄像头2-高清">
+<url>http://63.224.58.69/image?speed=0</url>
+</video>
+
+<video name="美国华盛顿 Walla Walla  惠特曼学院-校园2">
+<url>http://olin-cam.whitman.edu/image?speed=0</url>
+</video>
+
+<video name="美国华盛顿 Wenatchee 海边监控摄像头3">
+<url>http://65.74.17.34/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Kennewick 郊野风景2">
+<url>http://198.237.71.47/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="美国华盛顿 Seattle 华盛顿大学-校园6">
+<url>http://128.95.46.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Spokane 未知摄像头4">
+<url>http://largedog.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Stevenson 江边景色2">
+<url>http://scenic.saw.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Yakima 木材市场2">
+<url>http://68.116.20.194:301/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 East Wenatchee  荒漠大桥">
+<url>http://63.142.208.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Oak Harbor  湖光山色">
+<url>http://martysplace.dnsalias.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Renton 湖光山色2">
+<url>http://whcam.homeip.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Seattle 802的门口">
+<url>http://140.142.24.44:4625/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Yakima 木材市场2">
+<url>http://68.116.20.194:303/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Yakima 市场大门">
+<url>http://68.116.20.194:300/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Yakima 市场停车场">
+<url>http://68.116.20.194:304/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Seattle 办公室1">
+<url>http://12.171.37.115/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Bellevue 码头3">
+<url>http://206.63.218.7/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国华盛顿 Olympia 游艇码头3">
+<url>http://209.206.253.98/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国华盛顿 Spokane west pole-高清">
+<url>http://168.103.21.244:25902/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

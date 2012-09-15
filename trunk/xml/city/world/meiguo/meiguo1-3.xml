@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国" order="BB" >
+<city name="加州3" type="1888" order="C" >	
+	
+
+<video name="加州 Sacramento 储物间2">
+<url>http://12.185.156.78:8183/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Luis Obispo工具房">
+<url>http://129.65.126.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo加州立理工大学实验室">
+<url>http://hangercam.me.calpoly.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Marcos 州立大学圣马科斯分校-建筑工地">
+<url>http://pdc-cam.csusm.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Santa Clara 圣塔克拉拉大学校园">
+<url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Santa Monica 办公室3">
+<url>http://173.196.142.254:172/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Stanford 建筑工地2">
+<url>http://soeccam.stanford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Folsom 校园4-高清">
+<url>http://70.88.55.122:10002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Folsom 交通路口2">
+<url>http://truckeewebcam.gotdns.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Fremont 工厂内景2">
+<url>http://12.184.110.78:8186/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Hanford 草4">
+<url>http://soaravenal.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Irvine 服务器机房2">
+<url>http://webcam.wti.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 La Jolla 轮船内部7">
+<url>http://137.110.165.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 La Jolla 海边风景8-高清">
+<url>http://jcsg-video2.sdsc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="洛杉矶 加州 室内金鱼缸6-高清">
+<url>http://74.62.193.106:1111/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Menlo Park 门口摄像头">
+<url>http://yjlee.homeserver.com:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Palo Alto 仓库内景3">
+<url>http://westernstatesglass.com:8183/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Pasadena 未知室内摄像头2">
+<url>http://store80.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Rancho Cucamonga 实验室仓库-高清">
+<url>http://trinityshopcam.viewnetcam.com:50101/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Diego 未知摄像头9">
+<url>http://198.129.105.84:8098/image?speed=0</url>
+</video>
+
+<video name="加州 San Diego 海边监控摄像头3">
+<url>http://68.224.171.35/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Francisco 未知室内摄像头3">
+<url>http://fcd.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Francisco 网球场-高清">
+<url>http://seascape.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Jose 激光地球仪4">
+<url>http://66.243.43.111/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Luis Obispo办公室9">
+<url>http://129.65.126.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo 码头10-高清">
+<url>http://199.36.177.234/image?speed=0</url>
+</video>
+
+<video name="加州 San Rafael 窗外树林">
+<url>http://tamcam.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Ramon 未知摄像头10">
+<url>http://99.180.46.235/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Solana Beach 马路5-高清">
+<url>http://76.199.182.221/image?speed=0</url>
+</video>
+
+<video name="加州 西点军校 山中小木屋">
+<url>http://newtree.axiscam.net:8003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 阿拉米达市 海边景色">
+<url>http://axis-9f6578.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Livermore 网球场-高清">
+<url>http://72.18.232.138/image?speed=0</url>
+</video>
+
+</city>
+</province>
+</provinces>

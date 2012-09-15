@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国9" order="BL" >
+	
+<city name="明尼苏达" type="1888" order="A" >	
+	
+<video name="明尼苏达州 Saint Paul  私家飞机场">
+<url>http://134.29.208.43/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Cambridge 飞机场">
+<url>http://208.38.71.22:88/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="明尼苏达州 Eagle Lake  小屋树林">
+<url>http://mallcam.mlc-wels.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Superior National Forest  明尼苏达州山林">
+<url>http://216.70.32.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Detroit Lakes  明尼苏达州公路树林">
+<url>http://205.241.135.70/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼苏达州公园里的树">
+<url>http://mallcam.morris.umn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 未知2">
+<url>http://webcam3180.ima.umn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Duluth 德卢斯室内">
+<url>http://webcam.css.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Spring Grove  明尼苏达州公路">
+<url>http://204.248.124.202/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Spring Grove  明尼苏达州公路2">
+<url>http://204.248.124.203/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Mankato 明尼苏达州湖边2">
+<url>http://68.232.253.194/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼阿波利斯实验室6">
+<url>http://128.101.105.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Moorhead 明尼苏达州户外">
+<url>http://136.234.15.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Hutchinson 哈钦森厂房门口">
+<url>http://hangar.navalaviationmuseum.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼阿波利斯会议室7">
+<url>http://134.84.117.226/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼阿波利斯 湖9">
+<url>http://glacam.glaquarium.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Rosemount 明尼阿波利斯 户外">
+<url>http://blizzard.buckhill.com:22222/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="明尼苏达州 Saint Paul  明尼阿波利斯 画廊5">
+<url>http://64.122.208.241:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Excelsior 小码头">
+<url>http://minnetonkawebcam.gotdns.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 未知摄像头4">
+<url>http://66.173.5.117/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Saint Paul  厂房内">
+<url>http://134.29.251.176/image?speed=0</url>
+</video>
+
+<video name="明尼苏达州 Mankato 未知摄像头3">
+<url>http://68.232.253.193/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="明尼苏达州 Minneapolis 明尼苏达大学实验室">
+<url>http://146.57.180.10/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Saint Paul  生产设备">
+<url>http://134.29.162.41/image?speed=0</url>
+</video>
+
+<video name="明尼苏达州 Saint Paul  停车场">
+<url>http://64.122.208.241:8001/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="明尼苏达州 Mankato 贝森尼路德学院校园-高清">
+<url>http://68.232.253.196/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+</city>
+</province>
+</provinces>

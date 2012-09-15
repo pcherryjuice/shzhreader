@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国4" order="BE" >
+	
+<city name="俄勒冈州" type="1888" order="C" >	
+	
+
+
+<video name="俄勒冈州 Eugene 俄勒冈大学校园">
+<url>http://webcam.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Portland 马路">
+<url>http://salemnaz.net:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Salem 小狗训练场4">
+<url>http://watch.sniffdoghotel.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Eugene 俄勒冈大学-教室">
+<url>http://151cam.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Eugene 俄勒冈大学校园3">
+<url>http://128.223.164.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Eugene 气象监测站4">
+<url>http://128.223.164.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Beaverton 窗外园林">
+<url>http://m2inor.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Corvallis 交通路口">
+<url>http://128.193.182.25/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Monmouth 学校校园">
+<url>http://140.211.116.31/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Riddle 学校展示室">
+<url>http://cam7077625.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Cascade Locks  树林2-高清">
+<url>http://205.162.201.246/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Eugene 俄勒冈大学校园6-高清">
+<url>http://pmovid24.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Medford 未知摄像头">
+<url>http://68.116.33.170:4002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Portland 海边浪涌3">
+<url>http://67.42.144.201/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Albany 海边沙滩">
+<url>http://207.224.31.229/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Albany 球场2">
+<url>http://jcmsweather.509j.net/image?speed=0</url>
+</video>
+
+<video name="俄勒冈州 Bend 小山路">
+<url>http://samcosbend.homeip.net:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Medford 垃圾处理处2">
+<url>http://68.116.33.170:4003/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Medford 垃圾处理处3">
+<url>http://68.116.33.170:4004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Oregon City  山林美景">
+<url>http://wsweather.509j.net/image?speed=0</url>
+</video>
+
+<video name="俄勒冈州 Cascade Locks 小村庄-高清">
+<url>http://205.162.201.47/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="俄勒冈州 Corvallis 俄勒冈州立大学校园2">
+<url>http://mu.webcam.oregonstate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Grants Pass  码头">
+<url>http://68.185.19.92/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Hood River 未知摄像头">
+<url>http://209.216.176.147:80/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄勒冈州 Oregon City 路边小广场2">
+<url>http://mhsweather.509j.net/image?speed=0</url>
+</video>
+
+<video name="俄勒冈州 Seaside 海边监控摄像头2">
+<url>http://axis-738783.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄勒冈州 Eugene 赖恩学院9">
+<url>http://cam-rg.dev.lane.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

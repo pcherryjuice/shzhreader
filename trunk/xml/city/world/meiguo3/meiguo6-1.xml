@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国6" order="BG" >
+	
+<city name="弗吉尼亚" type="1888" order="C" >	
+	
+
+<video name="弗吉尼亚州 Locust Hill 海边摄像头">
+<url>http://jacksoncreek.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Lynchburg 足球场">
+<url>http://161.115.4.53/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Hampden Sydney  教学大楼">
+<url>http://72.10.224.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 小狗训练场">
+<url>http://webcam.oldetownepetresort.com:9276/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Blacksburg 维吉尼亚理工大学-学校草坪">
+<url>http://128.173.201.214/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Blacksburg 维吉尼亚理工大学-学校远景2">
+<url>http://198.82.159.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Alexandria 教堂内景">
+<url>http://24.249.248.178/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Lexington 学校广场">
+<url>http://144.75.184.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Radford 瑞德福大学-室内运动场">
+<url>http://peters-cam1.radford.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 交通摄像头">
+<url>http://128.172.115.9/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 城市景色">
+<url>http://128.172.175.14/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Blacksburg 培训教室3">
+<url>http://128.173.44.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Blacksburg 城市景色2">
+<url>http://198.82.159.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Front Royal  城市街道2-高清">
+<url>http://173.15.200.54/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Fairfax 游艇码头3">
+<url>http://70.88.152.30:9999/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Newport News  海边摄像头2">
+<url>http://norfwebcam1.norfolk.gov/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 城市景色3">
+<url>http://128.172.149.146/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园">
+<url>http://128.172.153.194/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园2">
+<url>http://128.172.163.55/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园3">
+<url>http://128.172.93.27/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Blacksburg 电教机房5">
+<url>http://128.173.44.107/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园4">
+<url>http://128.172.121.11/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园5">
+<url>http://128.172.142.62/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园6">
+<url>http://128.172.175.13/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Richmond 弗吉尼亚联邦大学校园7">
+<url>http://128.172.178.130/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 里士满大学校园">
+<url>http://rylandwebcam1.richmond.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Farmville">
+<url>http://159.230.4.119/image?speed=0</url>
+</video>
+
+<video name="弗吉尼亚州 Farmville Longwood大学校园">
+<url>http://159.230.4.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 216套房">
+<url>http://webcam.oldetownepetresort.com:9216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 222小狗套房">
+<url>http://webcam.oldetownepetresort.com:9222/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 228小狗套房">
+<url>http://webcam.oldetownepetresort.com:9228/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 230小狗套房">
+<url>http://webcam.oldetownepetresort.com:9230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Bristol 窗外2">
+<url>http://rwd.viewnetcam.com:1020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 214小狗套房">
+<url>http://webcam.oldetownepetresort.com:9214/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 224小狗套房">
+<url>http://webcam.oldetownepetresort.com:9224/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 239小狗套房">
+<url>http://webcam.oldetownepetresort.com:9239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Manassas 240小狗套房">
+<url>http://webcam.oldetownepetresort.com:9240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Williamsburg it办公室">
+<url>http://128.239.101.125/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Lexington 第三军营">
+<url>http://144.75.185.76/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Radford 雷德福大学室内">
+<url>http://137.45.136.225/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="弗吉尼亚州 Salem 旗杆">
+<url>http://webcam.co.bedford.va.us/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

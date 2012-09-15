@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国9" order="BL" >
+	
+<city name="其他" type="1888" order="D" >	
+	
+<video name="密西西比州 Brandon 布兰登狗屋">
+<url>http://75.145.222.133:7505/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州海景">
+<url>http://beachcam.kdhnc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  圣路易斯华盛顿大学-餐厅2">
+<url>http://cafe-cam.wulib.wustl.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州餐厅3">
+<url>http://69.151.40.81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密苏里州 Joplin 欧扎克基督教学院校园">
+<url>http://webcam.occ.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Sunrise Beach  密苏里州湖上泳池">
+<url>http://www.tomhilleary.tv/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密苏里州 Gower 密苏里州海边的亭">
+<url>http://207.119.105.129:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州草坪公路4">
+<url>http://monumentcam.kdhnc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  未知5">
+<url>http://opsvideo.lambert-stl.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密苏里州 Warrensburg 沃伦斯堡街道">
+<url>http://axis-ad457a.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Lake Ozark  密苏里州餐厅">
+<url>http://franky.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  华盛顿大学校园">
+<url>http://128.252.66.242/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密苏里州 Columbia 密苏里哥伦比亚大学校园">
+<url>http://128.206.143.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密苏里州 Columbia 圣路易斯药学院校园">
+<url>http://axis-cor.stlcop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  芳邦大学校园">
+<url>http://webcam.fontbonne.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州室内15">
+<url>http://66.128.103.146:60005/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密西西比州 Saint Louis  密苏里州广场16">
+<url>http://209.50.106.51:8181/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="艾奥瓦州 Ames 爱荷华大学校园2">
+<url>http://129.186.47.239/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City   爱荷华大学校园3（高清）">
+<url>http://128.255.30.27/image?speed=0</url>
+</video>
+
+<video name="艾奥瓦州 Estherville 湖边">
+<url>http://70.58.223.162/image?speed=0</url>
+</video>
+
+<video name="艾奥瓦州 Long Grove  江边2">
+<url>http://64.22.200.68/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园（高清）">
+<url>http://hdswc-westend.housing.ksu.edu/image?speed=0</url>
+</video>
+
+<video name="堪萨斯州 Dodge City  大学电教室2">
+<url>http://209.184.47.13/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园2（高清）">
+<url>http://hdssc-jardined-1.housing.ksu.edu/image?speed=0</url>
+</video>
+
+<video name="堪萨斯州 Manhattan 堪萨斯州立大学校园3（高清）">
+<url>http://hdswc-plaza.housing.ksu.edu/image?speed=0</url>
+</video>
+
+<video name="堪萨斯州 Dodge City  湖边小码头3">
+<url>http://sunapee.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆（高清）">
+<url>http://webcam7.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="路易斯安那州 Shreveport 宠物房间4">
+<url>http://208.42.203.54:8585/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

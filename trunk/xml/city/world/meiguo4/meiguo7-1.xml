@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国9" order="BL" >
+	
+<city name="密歇根州2" type="1888" order="C" >	
+	
+<video name="密歇根州 Southfield 绍斯菲尔德室内">
+<url>http://70.91.121.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Traverse City  码头">
+<url>http://207.74.227.25/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Allendale 艾伦代尔湖中喷泉11">
+<url>http://148.61.142.227/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-实验室">
+<url>http://141.213.21.113/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-走廊">
+<url>http://141.213.21.93/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Coldwater 科尔德沃特箭楼">
+<url>http://municamera.cbpu.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Saginaw 萨吉诺海边">
+<url>http://ausable-huron.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Sebewaing 锡伯温海边">
+<url>http://skycam.sebewaing.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学校园">
+<url>http://141.211.175.226/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学-泳池">
+<url>http://poolcam.ath.umich.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Grand Rapids  风力发电场">
+<url>http://153.106.112.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Holland 屋檐与路2">
+<url>http://hartohj.axiscam.net:5700/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ironwood 艾恩伍德草坡2">
+<url>http://24.213.36.254:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Petoskey 皮托斯基树林池塘3">
+<url>http://webcam01.boynehighlands.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Petoskey 皮托斯基缆车4">
+<url>http://webcam01.boynemountain.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Scottville 儿童游乐场2">
+<url>http://24.236.250.155:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="密歇根州 East Lansing  密西根州立大学校园">
+<url>http://webcam01.news.msu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video  name="密歇根州 Interlochen 港湾2">
+<url>http://24.231.238.190/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Kalamazoo 建筑物2">
+<url>http://fmwmu-2.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Petoskey 皮托斯基庭院5">
+<url>http://bayview.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Scottville 斯科特维尔水库3">
+<url>http://24.236.250.155:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Hope 狗窝">
+<url>http://mypoodlecam.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Ludington 未知2">
+<url>http://ludingtoncam.dyndns.org:5700/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Traverse City  小屋与树林2">
+<url>http://ournorth.dlinkddns.com:9090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室">
+<url>http://141.213.21.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Utica 电器商场">
+<url>http://southbleach.axiscam.net:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室2">
+<url>http://emalvs1.geo.lsa.umich.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室3">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室4">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="密歇根州 Scottville 园林3">
+<url>http://24.236.250.155:8080/image?speed=0</url>
+</video>
+
+<video name="密歇根州 Ann Arbor 密歇根大学实验室6">
+<url>http://141.213.21.89/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密歇根州 Scottville 马路2">
+<url>http://24.236.250.155:8085/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="密苏里州 Camdenton 窗外码头-高清">
+<url>http://blueanchor.dnsalias.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="密苏里州 Chesterfield 停车场监控">
+<url>http://mobotix.cti-stl.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="密西西比州 Sunrise Beach  清澈水面-高清">
+<url>http://24.182.136.174/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

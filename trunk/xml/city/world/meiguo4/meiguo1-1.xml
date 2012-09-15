@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国8" order="BK" >
+	
+<city name="伊利诺伊" type="1888" order="A" >	
+	
+<video name="伊利诺伊 Chicago 芝加哥大学校园1">
+<url>http://buscam.uchicago.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园2">
+<url>http://c-cam.uchicago.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Aurora 奥罗拉大学-海岸">
+<url>http://lgc.aurora.edu:100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Bloomingdale 布卢明代尔狗狗乐园">
+<url>http://72.54.25.146:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥电脑室3">
+<url>http://140.192.244.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特室内">
+<url>http://146.139.72.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学校园3">
+<url>http://r-cam.uchicago.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥树林与马路5">
+<url>http://webcam.vi.wheeling.il.us/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Downers Grove  公路监控">
+<url>http://65.113.219.179/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Schaumburg 绍姆堡私家机场">
+<url>http://lefc-kpwk.dyndns.org:5020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 La Salle  洛杉矶房屋">
+<url>http://68.252.180.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室室内2">
+<url>http://146.139.72.79/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室入门处3">
+<url>http://aem065.amc.anl.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥室内6">
+<url>http://140.192.244.124/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥大学-微波接收">
+<url>http://labcam1.uchicago.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Dekalb 北伊利诺斯大学-室外">
+<url>http://131.156.107.87/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Ingleside 英格尔赛德小型飞机场">
+<url>http://lefc-kpwk.dyndns.org:5021/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Aurora 奥罗拉绿荫小路">
+<url>http://192.203.224.2:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥室内8">
+<url>http://140.192.244.125/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥公寓">
+<url>http://63.250.253.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Chicago 芝加哥室内10">
+<url>http://stay2.viewnetcam.com:85/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Downers Grove  路边楼宇2">
+<url>http://65.113.219.177/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特室内2">
+<url>http://aem060.amc.anl.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Northbrook 诺斯布鲁克汽车修理中心">
+<url>http://vhshop.cmauto.com:8001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Peoria 布拉德利大学校园">
+<url>http://136.176.70.200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特实验室内">
+<url>http://146.139.72.67/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Macomb 小楼俯瞰">
+<url>http://184.171.227.54:84/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Rock Island  奥古斯塔那学院-餐厅">
+<url>http://webcam1.augustana.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Urbana 伊利诺伊大学-草地">
+<url>http://webcam.gcrl.uiuc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Waukegan 沃基根公路">
+<url>http://tdicam5.viewnetcam.com:2070/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Lockport 洛克波特视频监控">
+<url>http://146.139.72.77/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国8" order="BK" >
+	
+<city name="肯塔基州" type="1888" order="C" >	
+	
+<video name="肯塔基州 Frankfort 法兰克福院庭">
+<url>http://camera5.buffalotrace.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福仓库2">
+<url>http://camera.buffalotrace.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州 Wilmore 威尔莫尔桥">
+<url>http://173.190.94.9/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福室内3">
+<url>http://camera3.buffalotrace.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福室内4">
+<url>http://12.154.97.251/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州 Frankfort 法兰克福未知5">
+<url>http://camera2.buffalotrace.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州 Lexington 列克星敦公司一角">
+<url>http://plottercam.wmbinc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="肯塔基州 Frankfort 法兰克福酒吧7">
+<url>http://camera6.buffalotrace.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="肯塔基州 Owensboro 欧文斯伯勒海边">
+<url>http://camera.owensboro.org/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆（高清）">
+<url>http://webcam9.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆3">
+<url>http://webcam6.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="肯塔基州 Henderson 未知摄像头">
+<url>http://axis-a1cd57.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆4">
+<url>http://delivery4.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆5">
+<url>http://delivery5.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆6">
+<url>http://delivery6.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆7">
+<url>http://delivery7.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆8">
+<url>http://webcam10.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆9">
+<url>http://webcam3.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆10">
+<url>http://webcam4.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆11">
+<url>http://delivery1.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆12">
+<url>http://delivery3.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆13">
+<url>http://delivery8.corvettemuseum.com/image?speed=0</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆14">
+<url>http://webcam1.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆15">
+<url>http://webcam5.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="肯塔基州Bowling Green 克尔维特跑车博物馆16">
+<url>http://webcam8.corvettemuseum.com/mjpg/video.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

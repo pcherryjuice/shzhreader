@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国1" order="BBB" >
+<city name="纽约2" type="1888" order="B" >	
+	
+
+<video name="纽约 山坡草地5">
+<url>http://snowbowl.dyndns.org:5518/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Southampton  未知摄像头">
+<url>http://hopes.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Syracuse  纽约Syracuse大学校园">
+<url>http://128.230.5.49/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="纽约 Syracuse  建筑工地3">
+<url>http://139.127.254.40/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Watertown  码头-A区">
+<url>http://64.19.75.229/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338571633660</url>
+</video>
+
+<video name="纽约 Watertown  码头-C区">
+<url>http://64.19.75.229/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1338571633660</url>
+</video>
+
+<video name="纽约 Cairo  马路">
+<url>http://24.148.121.105:7001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Fort Plain  小木屋">
+<url>http://monaco1.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Fredonia  大学教学楼">
+<url>http://141.238.49.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hamilton  Colgate大学校园4">
+<url>http://149.43.156.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hammondsport  小岛">
+<url>http://wanetalake.homeip.net:8081/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Hauppauge  高速公路8">
+<url>http://12.154.129.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  高速公路9">
+<url>http://12.154.129.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Ithaca 小码头3">
+<url>http://64.57.178.85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Oneonta 建筑工地4">
+<url>http://137.141.16.100/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Potsdam 停车场2">
+<url>http://webcam.cheel.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Queensbury 未知摄像头4">
+<url>http://64.179.67.243:8882/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Rochester 罗彻斯特大学教学楼5">
+<url>http://128.151.213.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Rochester  门罗社区学院校园6">
+<url>http://wc01a.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Alfred  校园9">
+<url>http://149.84.169.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Buffalo  纽约州立大学布法罗学院校园2">
+<url>http://136.183.196.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Buffalo  电台直播间3">
+<url>http://69.95.9.175/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Cairo  停车场6">
+<url>http://leeds581.viewnetcam.com:7001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Endicott  气候监测摄像头">
+<url>http://208.105.238.149:8001/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="纽约 Hauppauge  高速路入口">
+<url>http://12.154.129.227/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge  高速公路11">
+<url>http://12.154.129.232/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路12">
+<url>http://12.154.129.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路13">
+<url>http://12.154.129.236/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 高速公路14">
+<url>http://12.154.129.238/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="纽约 Hauppauge 未知摄像头5">
+<url>http://12.154.129.242/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

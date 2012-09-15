@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国3" order="BD" >
+	
+<city name="马里兰州" type="1888" order="D" >	
+	
+<video name="马里兰州 Hebron 赛里斯伯瑞学校校园-高清">
+<url>http://webcam.salisbury.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Ellicott City 马里兰大学-校园">
+<url>http://129.2.16.181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Baltimore 游艇码头-高清">
+<url>http://205.215.240.42/image?speed=0</url>
+</video>
+
+<video name="马里兰州 College Park 马里兰大学-实验室（高清）">
+<url>http://128.8.181.15/cgi-bin/hugesize.jpg?motion=0::1;dummy=1338556846688::1;resolution=352x288</url>
+</video>
+
+<video name="马里兰州 College Park 马里兰大学-学校校园3">
+<url>http://129.2.122.140/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Hagerstown 树林草坪">
+<url>http://24.49.47.102:7100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Hebron 马里兰大学-教学大楼2">
+<url>http://131.118.32.130/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Lexington Park  游艇码头2-高清">
+<url>http://bobs-farm.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Silver Spring  马里兰大学-多媒体教室">
+<url>http://128.8.138.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Solomons 马里兰大学-碰撞实验室">
+<url>http://131.118.225.80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Waldorf 小树林">
+<url>http://delcar.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Queenstown 海边别墅-高清">
+<url>http://lundbergbuilders.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Columbia 办公室内">
+<url>http://petspalaurel99.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Hagerstown  宾馆2">
+<url>http://24.49.47.102:7150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Lexington Park  草坪上的小屋2-高清">
+<url>http://bobs-farm2.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Mc Henry 公路摄像头-高清">
+<url>http://cam1.garrettcollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Mchenry 江边小村落">
+<url>http://75.151.224.1/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="马里兰州 Pasadena 别墅正门监控2">
+<url>http://ednamae.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="马里兰州 Severna Park 江边监控摄像头">
+<url>http://66.159.66.194/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

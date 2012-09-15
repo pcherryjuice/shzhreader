@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="美国1" order="BBB" >
+    <city name="纽约1" type="1" order="A" >	
+			<video name="# 纽约1(单击加载)">
+				<url>city/meiguo2/meiguo1-1.xml</url>
+			</video>
+		</city>	
+    <city name="纽约2" type="1" order="B" >	
+    	<video name="# 纽约2(单击加载)">
+				<url>city/meiguo2/meiguo1-2.xml</url>
+			</video>
+		</city>	
+		<city name="纽约3" type="1" order="C" >	
+    	<video name="# 纽约3(单击加载)">
+				<url>city/meiguo2/meiguo1-3.xml</url>
+			</video>
+		</city>	
+		<city name="纽约4" type="1" order="D" >	
+    	<video name="# 纽约4(单击加载)">
+				<url>city/meiguo2/meiguo1-4.xml</url>
+			</video>
+		</city>	
+</province>
+
+<province name="美国3" order="BD" >
+    <city name="卡罗莱纳1" type="1" order="A" >	
+			<video name="# 卡罗莱纳1(单击加载)">
+				<url>city/meiguo2/meiguo2-1.xml</url>
+			</video>
+		</city>	
+		
+    <city name="卡罗莱纳2" type="1" order="B" >	
+    	<video name="# 卡罗莱纳2(单击加载)">
+				<url>city/meiguo2/meiguo2-2.xml</url>
+			</video>
+		</city>	
+		
+		<city name="缅因州" type="1" order="C" >	
+    	<video name="# 缅因州(单击加载)">
+				<url>city/meiguo2/meiguo3-1.xml</url>
+			</video>
+		</city>
+		
+		<city name="马里兰州" type="1" order="D" >	
+    	<video name="# 马里兰州(单击加载)">
+				<url>city/meiguo2/meiguo4-1.xml</url>
+			</video>
+		</city>
+</province>
+
+<province name="美国4" order="BE" >
+		<city name="麻萨诸塞" type="1" order="A" >	
+    	<video name="# 麻萨诸塞(单击加载)">
+				<url>city/meiguo2/meiguo5-1.xml</url>
+			</video>
+		</city>
+		
+		<city name="俄亥俄州" type="1" order="B" >	
+    	<video name="# 俄亥俄州(单击加载)">
+				<url>city/meiguo2/meiguo6-1.xml</url>
+			</video>
+		</city>
+		
+		<city name="俄勒冈州" type="1" order="C" >	
+    	<video name="# 俄勒冈州(单击加载)">
+				<url>city/meiguo2/meiguo7-1.xml</url>
+			</video>
+		</city>
+		
+		<city name="其他" type="1888" order="D" >	
+    	<video name="# 其他(单击加载)">
+				<url>city/meiguo2/meiguo8-1.xml</url>
+			</video>
+		</city>
+</province>
+
+</provinces> 
