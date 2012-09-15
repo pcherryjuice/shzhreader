@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国5" order="BF" >
+	
+<city name="其他" type="1888" order="D" >	
+	
+<video name="罗得岛州 Kingston 罗得岛大学校园">
+<url>http://131.128.154.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗得岛州 Kingston 罗得岛大学校园2">
+<url>http://131.128.204.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗得岛州 Narragansett  海边沙滩2">
+<url>http://72.87.114.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗得岛州 Warwick  停车场监控-高清">
+<url>http://www.haroust.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="罗得岛州 Kingston  罗得岛大学校园3">
+<url>http://131.128.114.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗得岛州 Newport  海边风景">
+<url>http://68.15.37.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗得岛州 Kingston  罗得岛大学校园4">
+<url>http://131.128.164.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="南达科他州 Sioux Falls  家私商场">
+<url>http://24.220.44.35/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="南达科他州 Sturgis  大街">
+<url>http://209.159.224.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="南达科他州 Sturgis  室内2">
+<url>http://67.158.46.233/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="南达科他州 Rapid City  窗外风景">
+<url>http://quadcam.sdsmt.edu/image?speed</url>
+</video>
+
+<video name="南达科他州 Sioux Falls 城镇鸟瞰2">
+<url>http://216.16.99.51/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="南达科他州 Rapid City 南达科他矿业理工学院-实验室">
+<url>http://dinocam.sdsmt.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

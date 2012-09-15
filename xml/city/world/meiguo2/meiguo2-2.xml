@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国3" order="BD" >
+	
+<city name="卡罗莱纳2" type="1888" order="B" >	
+	
+
+
+<video name="北卡罗莱纳 Knightdale  大楼施工工地">
+<url>http://152.14.22.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="北卡罗莱纳 Brevard  树林草地">
+<url>http://67.58.125.209:8083/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Chapel Hill  未知摄像头">
+<url>http://152.2.182.39/image?speed=0</url>
+</video>
+
+<video name="北卡罗莱纳 Cullowhee  电台直播间">
+<url>http://152.30.169.250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Elon  依隆大学-餐厅2">
+<url>http://cam_acorn.elon.edu/cgi-bin/hugesize.jpg?motion=0::1;dummy=1338637776194</url>
+</video>
+
+
+<video name="北卡罗莱纳 Gastonia  更多厄斯金学院校园-高清">
+<url>http://circlecam.erskine.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头17">
+<url>http://trafficcam10.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 交通摄像头18">
+<url>http://trafficcam14.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 未知摄像头19">
+<url>http://trafficcam16.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 未知摄像头20">
+<url>http://trafficcam24.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 交通摄像头21">
+<url>http://trafficcam5.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Lincolnton  园林监控摄像头">
+<url>http://ivyacres.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Mebane  未知摄像头">
+<url>http://campash.brett-robinson.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 New Bern  海边小码头">
+<url>http://camphand.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="北卡罗莱纳 Newport  海边摄像头2">
+<url>http://24.199.180.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Raleigh  停车场监控摄像头6">
+<url>http://drivewaycam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Wake Forest  水池">
+<url>http://166.82.38.62/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="北卡罗莱纳 Wilmington  运动场球场-高清">
+<url>http://captnbills.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="北卡罗莱纳 Aurora  楼下停车场">
+<url>http://205.244.118.49/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Chapel Hill 教室2-高清">
+<url>http://152.2.182.19/image?speed=0</url>
+</video>
+
+<video name="北卡罗莱纳 Chapel Hill 教室讲台3-高清">
+<url>http://152.2.182.48/image?speed=0</url>
+</video>
+
+<video name="北卡罗莱纳 Chapel Hill 教室4-高清">
+<url>http://152.2.182.54/image?speed=0</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 交通摄像头22">
+<url>http://trafficcam18.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 交通摄像头23">
+<url>http://trafficcam2.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro 未知摄像头24">
+<url>http://trafficcam25.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Kitty Hawk  码头2">
+<url>http://24.177.25.30/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Charlotte  家庭监控摄像头-门口花园">
+<url>http://k3asi.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Nags Head  Manteo镇">
+<url>http://24.177.24.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Boone  比斯利广播中心">
+<url>http://152.10.10.29/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Mccutcheon Field  海边沙滩">
+<url>http://96.36.99.26:8181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Aurora  马路边的宾馆2">
+<url>http://205.244.118.50/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

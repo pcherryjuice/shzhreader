@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国6" order="BG" >
+	
+<city name="田纳西州" type="1888" order="A" >	
+	
+<video name="田纳西州 Franklin 交通摄像头">
+<url>http://Cam4.brentwood-tn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Franklin 交通摄像头2">
+<url>http://Cam1.brentwood-tn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Franklin 交通摄像头4">
+<url>http://traf1.murfreesborotn.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Franklin 交通摄像头5">
+<url>http://Cam3.brentwood-tn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Memphis 建筑工地">
+<url>http://192.55.208.114/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Memphis 建筑工地2">
+<url>http://constructioncam.stjude.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Nashville 球场">
+<url>http://68.153.49.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Nashville 范德堡大学讨论区2">
+<url>http://fghwebcam.vuse.vanderbilt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Oak Ridge 交通摄像头">
+<url>http://marinacam1.cortn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Clarksville 交通摄像头2">
+<url>http://208.88.169.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Memphis 孟菲斯大学校园">
+<url>http://141.225.28.49/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Clarksville 交通摄像头6">
+<url>http://208.88.169.207/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Kingston Springs 田纳西州">
+<url>http://squirrelcam.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Madison 荒漠">
+<url>http://cam.balloonfacility.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="田纳西州 Memphis 田纳西大学教室-高清">
+<url>http://hper142cam1.occ.utk.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Oak Ridge 田纳西州 运动场">
+<url>http://bissell.cortn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Clarksville 楼下停车场">
+<url>http://208.88.169.206/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Franklin 6">
+<url>http://webcam1.kssmotorsports.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Martin 田纳西大学马丁分校">
+<url>http://libcam1.utm.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="田纳西州 Memphis 田纳西大学电教室5">
+<url>http://160.36.10.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Nashville 范德堡大学校园">
+<url>http://quad.peabody.vanderbilt.edu:26122/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pigeon Forge 田纳西州 教学大楼">
+<url>http://204.117.196.50:65309/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="田纳西州 Memphis 田纳西大学实验室3">
+<url>http://cam7-uccs.asa.utk.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Knoxville 湖边2">
+<url>http://jjansheski.axiscam.net:8005/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Knoxville 车库3">
+<url>http://jjansheski.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Knoxville 健身房">
+<url>http://jjansheski.axiscam.net:8004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Knoxville 游泳池5">
+<url>http://jjansheski.axiscam.net:8007/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Memphis 田纳西大学室内">
+<url>http://cam2.asa.utk.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="田纳西州 Knoxville 松树6">
+<url>http://jjansheski.axiscam.net:8002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="田纳西州 Knoxville 树林2">
+<url>http://jjansheski.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国7" order="BH" >
+	
+<city name="其他" type="1888" order="E" >	
+	
+<video name="西弗吉尼亚 Buckhannon  交通路口">
+<url>http://64.135.233.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西弗吉尼亚 Huntington  马歇尔大学">
+<url>http://legocamera.marshall.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="西弗吉尼亚 Huntington  交通摄像头2">
+<url>http://206.212.61.93/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="西弗吉尼亚 Charleston  十字路口">
+<url>http://64.127.4.22/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西弗吉尼亚 Morgantown  楼下停车场">
+<url>http://cemrcam1.cemr.wvu.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="西弗吉尼亚 Charles Town  未知摄像头">
+<url>http://conquercam.dyndns.org:8092/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="怀俄明州 Casper 城市风景">
+<url>http://205.167.90.185/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="怀俄明州 Laramie 城市风景2-高清">
+<url>http://71.37.180.29/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="怀俄明州 Laramie 未知摄像头8">
+<url>http://204.132.107.196/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="怀俄明州 Worland 林中小路-高清">
+<url>http://72.36.21.200/image?speed=0</url>
+</video>
+
+<video name="怀俄明州 Afton 海边沙滩2">
+<url>http://sflcam1.axiscam.net:47211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="怀俄明州 Worland 交通摄像头3-高清">
+<url>http://72.36.21.194/image?speed=0</url>
+</video>
+
+</city>
+</province>
+</provinces>

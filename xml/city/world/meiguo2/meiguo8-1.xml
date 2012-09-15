@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国4" order="BE" >
+<city name="其他" type="1888" order="D" >	
+	
+<video name="达科他州 Wahpeton North  北达科他州立大学-学生中心摄像头">
+<url>http://134.129.32.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Devils Lake North  恶魔湖Devils Lake-主大街">
+<url>http://dlmainstreetwebcam.gondtc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Wahpeton North  北达科他州立大学2">
+<url>http://134.129.32.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Devils Lake North  湖边监控摄像头2">
+<url>http://76.10.86.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Devils Lake North  广场3">
+<url>http://66.163.131.195/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Wahpeton North  停车场4">
+<url>http://134.129.32.143/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Devils Lake North  湖边小码头4">
+<url>http://lakecam.gondtc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Fargo North  室内监控摄像头2">
+<url>http://greatplainstowers.com:8003/image?speed=0</url>
+</video>
+
+<video name="达科他州 Grand Forks North  北达科他州立大学2">
+<url>http://msn166-91.med.und.nodak.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="达科他州 Wahpeton North 北达科他州立大学校园5">
+<url>http://134.129.32.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="达科他州 Bismarck North  停车场">
+<url>http://24.111.14.118/image?speed=0</url>
+</video>
+
+
+<video name="俄克拉何马州 Stillwater 俄克拉荷马州立大学">
+<url>http://biofishcam.zo.okstate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Norman 俄克拉荷马大学校园">
+<url>http://cascam.ou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Norman 俄克拉何马大学校园2">
+<url>http://129.15.200.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Tulsa 小屋门前">
+<url>http://railroadcam2.viewnetcam.com:50003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄克拉何马州 Norman 湖边草地4">
+<url>http://192.35.96.219/image?speed=0</url>
+</video>
+
+<video name="俄克拉何马州 Oklahoma City  FrancisTuttle职业中心">
+<url>http://bis2010.francistuttle.com/image?speed=0</url>
+</video>
+
+<video name="俄克拉何马州 Owasso 湖边监控摄像头3">
+<url>http://70.184.23.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Owasso 荒野草地2">
+<url>http://brackencam.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄克拉何马州 Weatherford 西南俄克拉荷马州立大学塞尔分校">
+<url>http://lifecam.swosu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Stillwater 美国俄克拉荷马州立大学-实验室（高清）">
+<url>http://webcam2.biochem.okstate.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Tulsa 小型飞机城2">
+<url>http://70.167.70.249:7172/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄克拉何马州 Oklahoma City 公司厂房3">
+<url>http://its2010.francistuttle.com/image?speed=0</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

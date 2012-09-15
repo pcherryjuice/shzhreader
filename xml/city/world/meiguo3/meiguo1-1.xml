@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国5" order="BF" >
+	
+<city name="宾州1" type="1888" order="A" >	
+	
+<video name="宾州 Philadelphia Temple大学">
+<url>http://155.247.171.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Philadelphia Temple大学教学大楼2">
+<url>http://155.247.78.78/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 State College 原野-高清">
+<url>http://146.186.123.229/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Aston 停车场">
+<url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 West Chester 海边沙滩">
+<url>http://66.252.102.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 New Kensington 宾州立大学">
+<url>http://hncam1.hn.psu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Richland 小鸟监控">
+<url>http://birdcam.hartshornarboretum.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Bloomsburg 宾州布鲁姆斯堡大学">
+<url>http://alwebcam.bulib.bloomu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Bellefonte 宾夕法尼亚大学">
+<url>http://128.118.52.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 East Stroudsburg 大学校园">
+<url>http://206.225.101.226/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Indiana 宾夕法尼亚印第安纳大学">
+<url>http://cam01.cc.iup.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="宾州 Macungie 游艇码头">
+<url>http://axis-7e03ab.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Pittsburgh 未知摄像头">
+<url>http://128.2.53.186/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Reading 观光索道">
+<url>http://66.216.161.65/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Collegeville 乌尔辛纳斯学院运动场">
+<url>http://construction.ursinus.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 East Earl 气候监测摄像头">
+<url>http://nhpa-cam1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Indiana 宾夕法尼亚印第安纳大学机房-高清">
+<url>http://cam02.cc.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="宾州 Jamison 气候监测摄像头2-高清">
+<url>http://beadcam.d2g.com:5191/image?speed=0</url>
+</video>
+
+<video name="宾州 Philadelphia 门口花园4">
+<url>http://207.245.119.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Phoenixville 未知摄像头">
+<url>http://dh0-east.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Pittsburgh 宾州匹兹堡大学2">
+<url>http://130.49.240.237/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Wellsboro 狗的宿舍">
+<url>http://vma1.viewnetcam.com:12393/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Chester 办公室">
+<url>http://147.31.116.63/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Indiana 宾州印第安那大学3">
+<url>http://grovecam.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="宾州 Jamison 松树喂食点2">
+<url>http://beadcam.d2g.com:45099/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国" order="BB" >
+<city name="加州4" type="1888" order="D" >	
+	
+
+<video name="加州 洛杉矶 未知摄像头11">
+<url>http://blchburbank1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 洛杉矶 未知摄像头12">
+<url>http://blchburbank2.viewnetcam.com:51000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 洛杉矶 猫的乐园9">
+<url>http://blchila3.viewnetcam.com:54000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 洛杉矶  未知10">
+<url>http://camera-1.weyburn.ucla.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 洛杉矶 未知11">
+<url>http://camera.headend.csb1.ucla.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Modesto 马路">
+<url>http://japkacam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Monterey 浪涌海边">
+<url>http://videoserver1.nps.edu/cgi-bin/hugesize.jpg?camera=1::1;motion=0</url>
+</video>
+
+<video name="加州 Norwalk 实验室9">
+<url>http://store48.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Oakland 山林景色">
+<url>http://206.128.127.131/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Oakland 窗外2">
+<url>http://wood1.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Ojai 训练场">
+<url>http://208.33.95.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Palo Alto 宾馆内景4">
+<url>http://camera.britta.com:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Pomona 生产车间">
+<url>http://207.178.234.150:81/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338141472980</url>
+</video>
+
+<video name="加州 Pomona 生产车间2">
+<url>http://207.178.234.150:83/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338141585896</url>
+</video>
+
+<video name="加州 Pomona 加州理工大学帕萨迪纳分校 校园2">
+<url>http://caiman.sci.csupomona.edu/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1338213187492</url>
+</video>
+
+<video name="加州 Pomona 加州理工大学帕萨迪纳分校 校园3">
+<url>http://caiman.sci.csupomona.edu/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1338213187492</url>
+</video>
+
+<video name="加州 Riverside 加州理工大学 校园4">
+<url>http://138.23.53.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Francisco海岛5">
+<url>http://173.8.132.58:80/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Francisco跨海大桥6">
+<url>http://cams.exploratorium.edu:8010/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Jose 室内未知摄像头7">
+<url>http://208.74.177.178:8081/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338213800517</url>
+</video>
+
+<video name="加州 Santa Monica 汽车修理店3">
+<url>http://173.196.142.254:171/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Santa Monica 桌球室4">
+<url>http://waterfrontcafe-eyesitter.viewnetcam.com:50050/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Stanford 海边2">
+<url>http://palumbicam.stanford.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Yuba City 校园监控摄像头">
+<url>http://67.112.105.74/image?speed=0</url>
+</video>
+
+<video name="加州 Dublin 都柏林的老树">
+<url>http://209.172.109.142:9500/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="洛杉矶 加州 南加州大学 校园小广场12">
+<url>http://128.125.59.52/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Bernardino 未知摄像头">
+<url>http://cabincam-out.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 San Francisco 城市风景7">
+<url>http://camera.sfmx.org/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Santa Maria 城市鸟瞰">
+<url>http://mcawebcam.axiscam.net:1500/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Santa Monica 室内未知5">
+<url>http://173.196.142.254:173/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Wrightwood 路边旅馆">
+<url>http://71.116.221.146/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

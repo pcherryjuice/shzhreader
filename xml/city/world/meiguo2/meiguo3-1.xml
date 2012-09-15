@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国3" order="BD" >
+	
+<city name="缅因州" type="1888" order="C" >	
+	
+<video name="缅因州 Castine 运动场1">
+<url>http://209.222.220.165/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Portland 学校运动场">
+<url>http://webcam.sad22.us/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Rockland 游泳池">
+<url>http://72.95.127.157/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Rockland 海边游泳池2">
+<url>http://webcam.atlanticeyrielodge.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Brunswick 鲍多因学院-餐厅">
+<url>http://webcam4.bowdoin.edu:4200/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="缅因州 Brunswick 鲍多因学院-校园">
+<url>http://webcam5.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Castine 海边码头2">
+<url>http://209.222.220.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Glen Cove  书店">
+<url>http://wholebooks.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="缅因州 Portland 城市风貌2">
+<url>http://24.97.41.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 South Portland  学校实验室-高清">
+<url>http://208.233.32.8:1949/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Waterville 瀑布源头">
+<url>http://webcam.waterville-me.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Brunswick 鲍多因学院校园3-高清">
+<url>http://webcam1.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Orono 楼下停车场">
+<url>http://209.222.195.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Portland 悬崖上的松树">
+<url>http://72.224.159.99/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="缅因州 South Portland  南缅因技术学院-校园3">
+<url>http://sp-tc-cam1.smccme.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Bangor 法国人海湾">
+<url>http://207.5.168.68/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Portland 园林草地4">
+<url>http://cnccgolf.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="缅因州 Kingfield 观光索道前的小屋">
+<url>http://69.21.29.53/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="缅因州 Portland 海岸风景5">
+<url>http://24.39.19.131/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="缅因州 Presque Isle 大门摄像头（高清）">
+<url>http://74.221.67.231/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

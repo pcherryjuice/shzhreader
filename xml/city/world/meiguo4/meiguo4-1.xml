@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国8" order="BK" >
+	
+<city name="其他" type="1888" order="D" >	
+	
+<video name="艾奥瓦州 Colo 艾奥瓦草坪湖泊">
+<url>http://167.142.151.234:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City  艾奥瓦私家机场">
+<url>http://69.66.204.149/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Lake Mills  艾奥瓦内的路">
+<url>http://cam1.northiowa.org:800/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Ames 艾奥瓦马路">
+<url>http://mainstreetcam.enebraska.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Davenport 艾奥瓦海边">
+<url>http://74.84.83.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Cedar Rapids  艾奥瓦俯瞰小镇马路">
+<url>http://97.64.222.62/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City  爱荷华大学校园">
+<url>http://128.255.26.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Rudd 艾奥瓦郊外">
+<url>http://fossilcenter.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="艾奥瓦州 Ames 艾奥瓦郊外工地3">
+<url>http://129.186.12.177/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="艾奥瓦州 Bettendorf 艾奥瓦桥">
+<url>http://camera1.bettendorf.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Indianola 印第安诺拉林中小屋">
+<url>http://216.203.127.154:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="艾奥瓦州 Iowa City  爱荷华大学-大桥">
+<url>http://128.255.26.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="堪萨斯州 Colby 堪萨斯草坪">
+<url>http://164.113.38.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="堪萨斯州 Wichita 堪萨斯室内">
+<url>http://156.26.2.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="堪萨斯州 Wichita 堪萨斯鸟瞰2">
+<url>http://68.110.223.197/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="堪萨斯州 Lawrence 堪萨斯运动场">
+<url>http://hoglundcam.kuathletics.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="堪萨斯州 Pittsburg 匹兹堡州立大学校园">
+<url>http://collegio-cam.pittstate.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="堪萨斯州 Overland Park  堪萨斯餐厅">
+<url>http://edenalley.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Lafayette 拉斐特餐厅">
+<url>http://webcam.prejeans.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Shreveport 什里夫波特狗房">
+<url>http://208.42.203.54:8588/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Slidell 斯莱德尔未知">
+<url>http://tuelcam.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="路易斯安那州 Shreveport 什里夫波特狗屋2">
+<url>http://208.42.203.54:8589/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Shreveport 什里夫波特狗屋3">
+<url>http://208.42.203.54:8587/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Baton Rouge  路易斯安那州立大学教室">
+<url>http://130.39.16.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Shreveport 什里夫波特室内5">
+<url>http://208.42.203.54:8586/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 West Monroe  路易斯安那教堂">
+<url>http://72.149.206.142:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="路易斯安那州 Mandeville 曼德维尔 海">
+<url>http://204.11.13.97:8000/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Lemont 实验室仪器">
+<url>http://clio.xor.aps.anl.gov/image?speed=0</url>
+</video>
+
+<video name="伊利诺伊 Lockport 未知室内6">
+<url>http://aem076.amc.anl.gov/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="伊利诺伊 Lemont 实验室仪器2-高清">
+<url>http://melpomene.xor.aps.anl.gov/image?speed=0</url>
+</video>
+
+<video name="伊利诺伊 Dekalb 北伊利诺斯大学2">
+<url>http://131.156.70.35/cgi-bin/fullsize.jpg?camera=1::1;motion=0</url>
+</video>
+
+<video name="伊利诺伊 Lockport 未知摄像头8">
+<url>http://146.139.72.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Urbana 伊利诺伊大学">
+<url>http://cmmvideo5.mrl.uiuc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

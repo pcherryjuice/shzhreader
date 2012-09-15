@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国4" order="BE" >
+	
+<city name="俄亥俄州" type="1888" order="B" >	
+	
+
+<video name="俄亥俄州 Maumee 河马池水底摄像头">
+<url>http://72.240.51.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Maumee 蚂蚁监测摄像头2">
+<url>http://72.240.51.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Painesville 交通路口摄像头">
+<url>http://208.108.146.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Columbus 首都大学(哥伦布)校园">
+<url>http://fountain.capital.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Grove City 机房">
+<url>http://thomastool.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄亥俄州 Cedarville 塞达维尔大学-攀岩训练">
+<url>http://webcam3.cedarville.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cleveland 实验室摄像头">
+<url>http://129.22.128.83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cleveland 实验室摄像头2">
+<url>http://129.22.128.85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Maumee 小溪流3">
+<url>http://72.240.51.213/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Athens 俄亥俄大学校园">
+<url>http://132.235.24.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cedarville 塞达维尔大学校园2">
+<url>http://webcam4.cedarville.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cincinnati 宠物乐园3">
+<url>http://puppywood.mypets.ws/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cincinnati 辛辛那提大学-实验室">
+<url>http://snoop2.mie.rhod.uc.edu/cgi-bin/mjpg/video.cgi?1338643564278</url>
+</video>
+
+<video name="俄亥俄州 Saint Henry  Grand湖">
+<url>http://209.143.33.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Athens 俄亥俄大学校园2">
+<url>http://scaliacam.phy.ohiou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Celina 城市景色">
+<url>http://celi-breeze2-cs-248.wireless.bright.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Cincinnati 辛辛那提大学-实验室6（高清）">
+<url>http://snoop1.mie.rhod.uc.edu/cgi-bin/mjpg/video.cgi?1338644029357</url>
+</video>
+
+<video name="俄亥俄州 Ottawa 运动场">
+<url>http://webcam.vanwertcougars.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄亥俄州 Salem 山坡草地">
+<url>http://70.60.51.164:10197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Sandusky 铁丝网">
+<url>http://homer.zackburns.com:8007/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Sandusky 宠物笼子2">
+<url>http://homer.zackburns.com:8009/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Sandusky 铁丝网3">
+<url>http://homer.zackburns.com:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Kent 肯特州立大学校园">
+<url>http://131.123.154.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Archbold 城市大街">
+<url>http://216.201.28.231/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Solon 园林小屋">
+<url>http://bmw.dnsalias.com:8081/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Akron 小狗训练场">
+<url>http://petplanetplayroom1.axiscam.net:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Akron 小狗训练场2">
+<url>http://petplanetplayroom2.axiscam.net:1026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Canton 伊利游艇俱乐部">
+<url>http://webcam.erieyachtclub.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄亥俄州 Solon 家庭监控-入口花园2">
+<url>http://bmw.dnsalias.com:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

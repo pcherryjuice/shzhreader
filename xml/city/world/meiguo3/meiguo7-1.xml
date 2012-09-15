@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国6" order="BG" >
+	
+<city name="其他" type="1888" order="D" >	
+	
+<video name="美国犹他州 Orem 城市景色">
+<url>http://161.28.137.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Sandy TMI大街">
+<url>http://webcam.treasuremountaininn.com:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Ogden 实验室1-高清">
+<url>http://205.122.6.12/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Tooele 野外实验装置-高清">
+<url>http://206.197.88.69/image?speed=0</url>
+</video>
+
+<video name="美国犹他州 Kaysville 树林">
+<url>http://eccam.weber.k12.ut.us/image?speed=0</url>
+</video>
+
+<video name="美国犹他州 Park City  游艇码头">
+<url>http://66.29.166.174/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国犹他州 Salt Lake City  餐厅">
+<url>http://1003.thepie.com:8081/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Tooele 气候监测设备-高清">
+<url>http://206.197.88.67/image?speed=0</url>
+</video>
+
+<video name="美国犹他州 Logan 美国犹他州州立大学-实验室">
+<url>http://129.123.82.232/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Oakley 观光索道起点-高清">
+<url>http://strikelodge.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国犹他州 Provo 杨百翰大学-室内">
+<url>http://webcams.byu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Orem 城市风貌2-高清">
+<url>http://173.10.23.170/image?speed=0</url>
+</video>
+
+<video name="美国犹他州 Salt Lake City 乡村风景3">
+<url>http://208.187.252.16/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Tooele 高山摄像头-高清">
+<url>http://206.197.88.68/image?speed=0</url>
+</video>
+
+<video name="美国犹他州 Monument Valley  十字路口">
+<url>http://205.119.86.8/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Draper 游艇码头2">
+<url>http://208.110.151.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国犹他州 Salt Lake City 犹他大学校园-高清">
+<url>http://155.100.78.96/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国犹他州 Salt Lake City 山顶上的小红旗">
+<url>http://205.120.142.50/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国佛蒙特州 Bristol 山林美景">
+<url>http://madriverweathercam.com:8888/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国佛蒙特州 Cabot Valley-Grill餐厅窗外">
+<url>http://billcam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国佛蒙特州 Grafton 植物实验室">
+<url>http://66.220.231.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国佛蒙特州 Northfield 诺威治大学">
+<url>http://webcams.norwich.edu:8001/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国佛蒙特州 Montpelier 山林美景2">
+<url>http://woodchuckcentral.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

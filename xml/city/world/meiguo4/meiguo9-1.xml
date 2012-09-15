@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国10" order="BN" >
+	
+<city name="蒙大拿州" type="1888" order="A" >	
+	
+<video name="蒙大拿州 Missoula 米苏拉室外走廊">
+<url>http://216.14.254.20:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Missoula 米苏拉户外2">
+<url>http://207.196.162.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Livingston 利文斯顿河流">
+<url>http://69.146.3.114:9090/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Libby 利比 未知">
+<url>http://66.135.76.25/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 蒙大拿州立大学校园">
+<url>http://cateye-down.msu.montana.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼雪山2">
+<url>http://webcam02.bigskyresort.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Kalispell 城市鸟瞰">
+<url>http://72.250.182.126/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Saint Regis  蒙大纳湖">
+<url>http://vetter.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Big Sky  蒙大纳山景">
+<url>http://216.146.102.90:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼山顶积雪4">
+<url>http://webcam03.bigskyresort.com/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Cut Bank  蒙大拿公路">
+<url>http://69.145.163.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Helena 蒙大拿天空2">
+<url>http://mountaincam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Missoula 美国管理技术大学校园">
+<url>http://grizcam.aux.umt.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Rexford 雷克斯福德乡间小路">
+<url>http://65.19.235.66/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Big Sky  蒙大拿山下的村庄2">
+<url>http://216.146.102.90:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Bigfork 比格福克平原">
+<url>http://216.211.176.64/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼雪山下的村落5">
+<url>http://webcam01.bigskyresort.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Helena 海伦娜鸟瞰3">
+<url>http://161.7.29.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Helena 未知4">
+<url>http://mtncam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Missoula 美国管理技术大学校园2">
+<url>http://grizcam.ito.umt.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="蒙大拿州 Missoula 美国管理技术大学校园3">
+<url>http://webcam.flbs.umt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Bozeman 博兹曼动物围栏6">
+<url>http://bearsgwdc.axiscam.net:4500/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

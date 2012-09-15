@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国" order="BB" >
+<city name="加州2" type="1888" order="B" >	
+	
+
+<video name="加州  Buena Park Langsdorf-大楼2">
+<url>http://itwebcamcp700.fullerton.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Calabasas 高山远景">
+<url>http://64.160.254.59:3000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Costa Mesa 未知室内2">
+<url>http://69.224.130.147/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Costa Mesa 宠物房3">
+<url>http://69.224.130.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Costa Mesa 小狗游乐园4">
+<url>http://69.224.130.151/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Garden Grove停车场3">
+<url>http://108.0.241.50:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Hanford owens山">
+<url>http://205.157.152.226/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Hanford 工厂鸟瞰-高清2">
+<url>rtsp://205.157.152.230/axis-media/media.amp</url>
+</video>
+
+<video name="加州 Hanford 机场3-高清">
+<url>rtsp://205.157.152.238/axis-media/media.amp</url>
+</video>
+
+<video name="加州 La Jolla模型大楼5-高清">
+<url>http://137.110.165.29/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Milpitas 窗外3">
+<url>http://axis-9805c1.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Monterey 海边景色3-高清">
+<url>http://205.155.65.48/cgi-bin/hugesize.jpg?camera=1::1;motion=0</url>
+</video>
+
+<video name="加州 Riverside 小水沟">
+<url>http://138.23.241.12:8052/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Rosamond 城市鸟瞰">
+<url>http://209.221.217.7/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 San Luis Obispo203实验室">
+<url>http://13-203cam.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 尼亚圣芭芭拉大学东门">
+<url>http://eastentrance.tps.ucsb.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 尼亚圣芭芭拉大学喷泉">
+<url>http://129.210.84.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Stockton 学校湖边">
+<url>http://cos-netcam-1.ci.stockton.ca.us/image?speed=0</url>
+</video>
+
+<video name="加州 Citrus Heights马路4">
+<url>http://orovalleycam.axiscam.net:7697/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Concord 未知摄像头5">
+<url>http://67.113.251.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Garberville 信号接收站">
+<url>http://64.194.64.83/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 加州大学圣地亚哥分校-服务器机房">
+<url>http://calit2-1101-1.ucsd.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 洛杉矶 未知摄像头3">
+<url>http://198.188.13.110/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 洛杉矶 未知摄像头6">
+<url>http://camera-2.weyburn.ucla.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 洛杉矶 校园景色5">
+<url>http://lioncam2.lmu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Los Gatos小树林">
+<url>http://71.116.127.18:19328/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加州 Malibu 学校门口">
+<url>http://137.159.36.77/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Malibu 海滨城市鸟瞰2">
+<url>http://webcam1.pepperdine.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="加州 Orange 喷泉广场">
+<url>http://128.171.86.101/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338138638070</url>
+</video>
+
+<video name="加州 Pasadena 未知摄像头7">
+<url>http://128.171.86.101/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338138638070</url>
+</video>
+
+<video name="加州 Riverside 未知摄像头8">
+<url>http://12.176.153.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

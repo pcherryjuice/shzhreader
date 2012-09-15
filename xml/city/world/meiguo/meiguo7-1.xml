@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国11" order="BM" >
+<city name="夏威夷" type="1888" order="B" >	
+	
+<video name="夏威夷 Haleiwa 停车场3">
+<url>http://67.52.86.70:5008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 海边沙滩">
+<url>http://72.235.82.43/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 室内-门后2">
+<url>http://128.171.104.32/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Kamuela 椰树风景区">
+<url>http://64.75.213.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 机房监控摄像头3">
+<url>http://ancl-webcam2.ancl.hawaii.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Kihei 窗外风景2">
+<url>http://mauicam.dyndns.org:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Lahaina 椰树海滩">
+<url>http://67.52.81.205/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷Pearl City 室内训练场">
+<url>http://tails-waipio.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 游泳池4">
+<url>http://66.91.152.38/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Kealakekua 椰林海边">
+<url>http://64.75.231.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Lahaina 椰树海滩2-高清">
+<url>http://67.53.48.2/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Lihue 未知摄像头">
+<url>http://66.193.157.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 楼下游泳池5">
+<url>http://67.53.193.102/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 室内6">
+<url>http://67.53.34.94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 楼下停车场7">
+<url>http://mauifrontdoor.viewnetcam.com:85/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 沙滩8">
+<url>http://skywave-lr-rkr.skywavebroadband.net:8888/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Mililani 小狗乐园">
+<url>http://tails-ahua.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Mililani 小狗乐园2">
+<url>http://tails-ahua.viewnetcam.com:5010/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 屋顶10-高清">
+<url>http://128.171.116.64/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 海边沙滩11">
+<url>http://66.91.147.106:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Mililani 小狗乐园3">
+<url>http://tails-ahua.viewnetcam.com:5005/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 未知摄像头4">
+<url>http://132.160.98.239:8275/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 办公室12">
+<url>http://ancl-webcam3.ancl.hawaii.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="夏威夷 Honolulu 未知摄像头6">
+<url>http://67.53.199.126/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="夏威夷 Honolulu 未知摄像头7">
+<url>http://67.53.60.6:8010/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Honolulu 宾馆内景22">
+<url>http://mauigarageside.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="夏威夷 Kahuku 蔚蓝海岸">
+<url>http://72.235.113.111/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国10" order="BN" >
+	
+<city name="其他2" type="1888" order="C" >	
+	
+<video name="内布拉斯加州 Lincoln 林肯 仓库">
+<url>http://www.lincolnmachine.com:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 林肯鸟窝6">
+<url>http://164.119.54.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="内布拉斯加州 Omaha 奥马哈园林">
+<url>http://147.134.38.233/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新墨西哥州 Albuquerque  墨西哥城屋外草坪">
+<url>http://soewebcam.cs.unm.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="新墨西哥州 Rio Rancho  墨西哥城马路">
+<url>http://67.42.115.85:1752/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新墨西哥州 Rio Rancho  墨西哥城路边的小亭2">
+<url>http://taosplaza.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="新墨西哥州 Belen  墨西哥城卫星接收">
+<url>http://207.225.63.132/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="新墨西哥州 Albuquerque  墨西哥城荒原2">
+<url>http://pdogcam.unm.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="新墨西哥州 Santa Fe  墨西哥城山林">
+<url>http://67.42.115.85:1751/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Helena 草地">
+<url>http://206.127.116.63/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="蒙大拿州 Billings 野外小屋">
+<url>http://216.187.171.214/image?speed=0</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学室内">
+<url>http://ucommcam2.unl.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学校园2">
+<url>http://ucommcam1.unl.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学校园2（高清）">
+<url>http://cit-cam1.unl.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="内布拉斯加州 Lincoln 内布拉斯加大学餐厅">
+<url>http://ucommcam3.unl.edu/mjpg/video.mjpg</url>
+</video>
+
+<video name="内华达州 Reno 西内华达社区学院（高清）">
+<url>http://observatory.wnc.edu/image?speed=0</url>
+</video>
+
+<video name="新泽西州 Blairstown  树林小路（高清）">
+<url>http://198.182.247.196/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="伊利诺伊 Lemont 实验室仪器">
+<url>http://clio.xor.aps.anl.gov/image?speed=0</url>
+</video>
+
+
+<video name="伊利诺伊 Lockport 未知室内6">
+<url>http://aem076.amc.anl.gov/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+
+<video name="伊利诺伊 Lemont 实验室仪器2-高清">
+<url>http://melpomene.xor.aps.anl.gov/image?speed=0</url>
+</video>
+
+
+<video name="伊利诺伊 Dekalb 北伊利诺斯大学2">
+<url>http://131.156.70.35/cgi-bin/fullsize.jpg?camera=1::1;motion=0</url>
+</video>
+
+
+<video name="伊利诺伊 Lockport 未知摄像头8">
+<url>http://146.139.72.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="伊利诺伊 Urbana 未知摄像头">
+<url>http://cmmvideo5.mrl.uiuc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

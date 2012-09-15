@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国5" order="BF" >
+	
+<city name="宾州2" type="1888" order="B" >	
+	
+<video name="宾州 Levittown 高尔夫球场">
+<url>http://74.95.172.68:8100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Markleysburg 烧烤吧">
+<url>http://69.89.172.75/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Philadelphia Temple大学校园5">
+<url>http://155.247.171.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Phoenixville 室内监控摄像头2">
+<url>http://dho-south.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Pittsburgh 卡内基梅隆大学实验室3">
+<url>http://cam.preal.ece.cmu.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 University Park Mount-nittany监控摄像头">
+<url>http://146.186.221.252/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 University Park  大学建筑工地监控摄像头2">
+<url>http://146.186.221.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Altoona 阳台上的吊床">
+<url>http://pirate-crafty.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="East Earl 宾州 十字路口2">
+<url>http://nhpa-cam.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Erie 宾夕法尼亚大学校园">
+<url>http://128.118.18.114/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Flourtown 游乐场">
+<url>http://pmm.mainlinehobbies.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Jamison 松树喂食点2">
+<url>http://beadcam.d2g.com:42361/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="宾州 Lancaster 实验室2">
+<url>http://173.163.40.33:54546/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Reading 马路2">
+<url>http://usaphone.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 宾夕法尼亚大学实验室-高清">
+<url>http://128.118.149.98/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="宾州 Wellsboro 狗的房间-高清">
+<url>http://vma2.viewnetcam.com:12394/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="宾州 Wellsboro 狗的房间2">
+<url>http://vma3.viewnetcam.com:12395/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

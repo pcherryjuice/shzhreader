@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国11" order="BM" >
+<city name="康涅狄格" type="1888" order="D" >	
+	
+<video name="康涅狄格州 Terryville 电教室">
+<url>http://68.167.242.226/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 郊野公园监控摄像头">
+<url>http://66.212.195.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 康涅狄格大学-校园">
+<url>http://avptcam.uconn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Wallingford 自助餐厅">
+<url>http://65.75.37.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 West Hartford 未知摄像头5">
+<url>http://barefootlabradors.axiscam.net:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Milford 停车场2">
+<url>http://bjm.byy.com:8099/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Wallingford 面包店2">
+<url>http://65.75.37.115/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338258494906</url>
+</video>
+
+<video name="康涅狄格州 West Hartford哈特福德大学 MWD实验室">
+<url>http://cam2.mwd.hartford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Meriden 未知摄像头">
+<url>http://69.177.83.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="West Hartford 康涅狄格州 未知摄像头14">
+<url>http://webcam-3a.hartford.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Danbury 哈特福德大学 未知摄像头">
+<url>http://jono.dyndns.ws:50003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="康涅狄格州 Glastonbury 城镇大街">
+<url>http://24.249.24.110:2001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="康涅狄格州 Manchester 未知摄像头15">
+<url>http://watch-cam.liladelman.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Monroe 室内监控">
+<url>http://frontdoor.trumbullprofessional.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="New Haven 康涅狄格州 未知摄像头">
+<url>http://205.167.19.118/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="康涅狄格州 Greenwich 停车场-高清">
+<url>http://bsp1.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

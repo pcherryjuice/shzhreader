@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国8" order="BK" >
+	
+<city name="印第安纳" type="1888" order="B" >	
+	
+<video name="印第安纳州 Bloomington 印第安纳大学校园">
+<url>http://149.159.112.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学校园">
+<url>http://128.210.180.179/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室2">
+<url>http://128.210.72.31/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学校园3">
+<url>http://webcam01.ecn.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园2">
+<url>http://129.79.44.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 North Manchester  曼彻斯特学院校园">
+<url>http://spartancamiii.manchester.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-教学楼">
+<url>http://k133-201.mgmt.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-电教室">
+<url>http://lwsnb158-cam.cs.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  电脑室7">
+<url>http://lwsnb160-cam.cs.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 Bloomington 印第安纳大学校园3">
+<url>http://156.56.9.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 Evansville 埃文斯维尔教堂">
+<url>http://96.27.252.154/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 North Manchester  树林与草坪3">
+<url>http://192.189.3.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室2">
+<url>http://lwsnb131-cam.cs.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室3">
+<url>http://lwsnb146-cam.cs.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-绘画室">
+<url>http://k133-200.mgmt.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 West Lafayette  普渡大学-电教室4">
+<url>http://lwsnb148-cam.cs.purdue.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 Ellettsville 树林与草场">
+<url>http://webcam01pd.frenchlick.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 Indianapolis 印第安纳波利斯公路鸟瞰">
+<url>http://149.166.151.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 Indianapolis 纳波利斯大学校园">
+<url>http://webcam-kran.is.uindy.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 North Manchester  曼彻斯特学院-图书馆">
+<url>http://spartancamiv.manchester.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 Evansville 埃文斯维尔教堂2">
+<url>http://96.27.252.148/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="印第安纳州 Vincennes 温森斯大学-办公台">
+<url>http://blazercam.vinu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  印第安纳州普渡大学-室内走廊10-高清">
+<url>http://128.210.133.218/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+
+<video name="伊利诺伊 Lemont 未知摄像头3">
+<url>http://164.54.208.89/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="印第安纳州 Huntingburg 游泳池">
+<url>http://splashcam.holidayworld.com/image?speed=0</url>
+</video>
+
+<video name="印第安纳州 West Lafayette  普渡大学-实验室11">
+<url>http://bowncamsrv1.ecn.purdue.edu/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国2" order="BC" >
+<city name="科罗拉多州" type="1888" order="D" >	
+	
+<video name="科罗拉多州 Englewood 办公室内">
+<url>http://206.69.208.65/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 科罗拉多大学-松林草地">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Carbondale 林中鸟屋">
+<url>http://216.237.87.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州  布莱肯里奇主大街2">
+<url>http://72.165.31.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Edwards 山间小村">
+<url>http://204.10.24.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 本地小餐厅3">
+<url>http://71.216.195.8:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Littleton 教堂">
+<url>http://216.136.6.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 门前马路">
+<url>http://itwebcam.mesastate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Arvada 美国国家公园-史登堡湖">
+<url>http://165.127.23.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Aspen 小猫宠物屋">
+<url>http://dogsaspen.dyndns.org:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Denver 国家公园2">
+<url>http://cam.smallin.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Florissant 训练场">
+<url>http://72.19.157.114:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 汽车修理店2-高清">
+<url>http://69.146.254.226/mjpg/video.mjpg</url>
+</video>
+
+<video name="科罗拉多州 Gunnison  科罗拉多西部州立学院 校园">
+<url>http://webcam1.western.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Kiowa 加油站">
+<url>http://74.93.232.138:5631/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Aspen 家庭监控-后花园2">
+<url>http://dogsaspen.dyndns.org:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Basalt 牧场1">
+<url>http://24.9.206.236/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Florissant 窗外松林2-高清">
+<url>http://divide-webcam.viewnetcam.com:120/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 米沙州立学院-校园3">
+<url>http://webcam6.mesastate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Littleton 山林小屋2">
+<url>http://173.8.226.241/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Aspen 石头篱笆3">
+<url>http://dogsaspen.dyndns.org:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Denver 郊野公园2">
+<url>http://8150.bathgate.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 藏车库4">
+<url>http://69.146.254.227/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338219062562</url>
+</video>
+
+<video name="科罗拉多州 Grand Junction 米沙州立学院-球场5">
+<url>http://webcam2.mesastate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Gunnison 乡村马路2-高清">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 Longmont 乡村马路3">
+<url>http://173.164.52.97:5633/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Greeley 未知摄像头11">
+<url>http://138.86.104.249/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Leadville 广场停车场">
+<url>http://pbville.ajmiller.org:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 Boulder 乡村马路3">
+<url>http://204.144.190.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Ophir 城镇街道">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 Vail 观光索道">
+<url>http://65.38.144.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="科罗拉多州 Loveland 森林公园">
+<url>http://wildbasin.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 Ophir 城镇街道2-高清">
+<url>http://telluridemountainproperties-west.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="科罗拉多州 室内花卉4">
+<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

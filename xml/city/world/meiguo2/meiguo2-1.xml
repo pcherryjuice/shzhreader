@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="美国3" order="BD" >
+	
+<city name="卡罗莱纳1" type="1888" order="A" >	
+	
+<video name="北卡罗莱纳 Sylva  城市风貌">
+<url>http://cam.thesylvaherald.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Raleigh  教学大楼">
+<url>http://152.1.130.216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Raleigh  高楼2">
+<url>http://152.1.131.177/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Supply  原野">
+<url>http://216.99.116.145/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Durham  码头">
+<url>http://152.3.114.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头">
+<url>http://trafficcam23.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Sanford  湖">
+<url>http://75.88.191.45/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头2">
+<url>http://trafficcam20.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Raleigh 大楼前停车场3">
+<url>http://152.14.48.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头3">
+<url>http://trafficcam11.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  高速公路4">
+<url>http://trafficcam3.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头5">
+<url>http://trafficcam9.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Apex  交通摄像头10">
+<url>http://webcam.apexnc.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="北卡罗莱纳 Elon  依隆大学校园喷泉">
+<url>http://alamance-webcam.elon.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  依隆大学校园2">
+<url>http://216.215.184.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头7">
+<url>http://70.60.251.90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  交通摄像头8">
+<url>http://trafficcam15.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  交通摄像头9">
+<url>http://trafficcam17.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头10">
+<url>http://trafficcam19.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头11">
+<url>http://trafficcam22.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  高速公路12">
+<url>http://trafficcam4.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Leland  海边摄像头">
+<url>http://24.199.240.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Matthews  太阳能发电设备">
+<url>http://roofcam.decisionsupport.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Pembroke  马路">
+<url>http://152.21.17.97/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Raleigh  大楼5">
+<url>http://152.1.131.180/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Shallotte  海边沙滩2">
+<url>http://216.99.115.136:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  交通路口13">
+<url>http://greensboro.carolinanet.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  交通摄像头14">
+<url>http://trafficcam13.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  未知摄像头15">
+<url>http://trafficcam21.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="北卡罗莱纳 Greensboro  交通摄像头16">
+<url>http://trafficcam8.greensboro-nc.gov/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
