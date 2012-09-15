@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="英国" order="a" >
+		<city name="英国" type="1" order="F" >
+			<video name="苏格兰.格拉斯哥.克莱德河(高清)">
+			<url>mmsh://live.camstreams.com/cssaitek1?MSWMExt=.asf</url>
+			</video>
+			<video name="西萨塞克斯.沃辛.海滨">
+			<url>mmsh://live.camstreams.com/csWeatherCam?MSWMExt=.asf</url>
+			</video>
+			<video name="谢菲尔德.天空（高清）">
+			<url>mmsh://live.camstreams.com/cssheffieldweather?MSWMExt=.asf</url>
+			</video>
+				<video name="苏格兰.Seil.喂鸟器">
+			<url>mmsh://live.camstreams.com/cssmallfeet?MSWMExt=.asf</url>
+			</video>
+		  <video name="艾尔.高尔夫球场">
+			<url>mmsh://a335.l8199030334.c81990.g.lm.akamaistream.net/D/335/81990/v0001/reflector:30334</url>
+			</video>
+			<video name="格拉斯哥.克莱德河">
+			<url>mmsh://live.camstreams.com/cssaitek1?MSWMExt=.asf</url>
+			</video>
+			<video name="爱丁堡.皇家大道 (不稳定)">
+			<url>mmsh://live.camstreams.com/cscamglobal2?MSWMExt=.asf</url>
+			</video>			
+			<video name="萨默塞特.铁路(不稳定)">
+			<url>mmsh://live.camstreams.com/cswsrailway</url>
+			</video>			
+			<video name="西萨塞克斯.Southwater.村庄(不稳定)">
+			<url>mmsh://live.camstreams.com/csianren?MSWMExt=.asf</url>
+			</video>			
+			<video name="爱丁堡.鸟瞰 (不稳定)">
+			<url>mmsh://live.camstreams.com/cscamglobal2?MSWMExt=.asf</url>
+			</video>
+			<video name="南昆斯费里.福斯桥(不稳定)">
+			<url>mmsh://live.camstreams.com/cs4btraffic</url>
+			</video>			
+			<video name="西萨赛克斯村庄(不稳定)">
+			<url>mmsh://live.camstreams.com/csianren?MSWMExt=.asf</url>
+			</video>
+			<video name="爱丁堡城堡(不稳定)">
+			<url>mmsh://live.camstreams.com/csCamvista1?MSWMExt=.asf</url>
+			</video>		
+		</city>
+	</province>
+</provinces> 

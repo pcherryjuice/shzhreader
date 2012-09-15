@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="日本" order="a" >
+		<city name="日本" type="1" order="D" >
+		
+			<video name="丰岗路口">
+			<url>mmsh://web-camera.city.toyooka.lg.jp:40005</url>
+			</video>
+			<video name="大阪鸟瞰">
+			<url>mmst://live1.iam.ne.jp/skybldg1</url>
+			</video>
+			<video name="横滨 一个猫窝">
+			<url>mmst://asahitelevision.com/bvp5</url>
+			</video>
+			<video name="丰冈.竹野浜.海滩(不稳定)">
+			<url>mmsh://web-camera.city.toyooka.lg.jp:40002</url>
+			</video>
+			<video name="岐阜.白川乡.合掌造村落">
+			<url>mmsh://210.172.199.29/live</url>
+			</video>
+			<video name="大阪.建筑">
+			<url>mmst://live1.iam.ne.jp/skybldg3</url>
+			</video>
+			<video name="大阪.建筑二">
+			<url>mmst://live1.iam.ne.jp/skybldg4</url>
+			</video>
+			<video name="京都.福知山.三段池公园">
+			<url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_sandan</url>
+			</video>
+			<video name="京都.福知山.由良川">
+			<url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_fukuchiyama1</url>
+			</video>
+			<video name="京都.福知山.福知山站">
+			<url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_fukuchiyama2</url>
+			</video>
+			<video name="横滨.ATV.猫窝">
+			<url>mmst://asahitelevision.com/bvp5</url>
+			</video>
+			<video name="横滨.ATV.猫窝二">
+			<url>mmst://asahitelevision.com/bvp2</url>
+			</video>
+			<video name="横滨.ATV.阳台">
+			<url>mmst://asahitelevision.com/bvp6</url>
+			</video>
+			<video name="日本福岛核电站现场实况影像">
+			<url>mmsh://a46.l12738052045.c127380.a.lm.akamaistream.net/D/46/127380/v0001/reflector:52045</url>
+			</video> 
+			<video name="日本岐阜白川乡">
+			<url>mmsh://210.172.199.29/live</url>
+			</video> 
+			<video name=" 日本五条市宇智小学">
+			<url>mmsh://www3.city.gojo.lg.jp:40003</url>
+			</video> 
+			<video name="日本东京彩虹大桥">
+			<url>mmsh://fujitv-wmt.stream.co.jp/fujitv-ds</url>
+			</video> 
+			<video name="日本福岛县净土平">
+			<url>mmsh://media.fmclip.jp/jodo</url>
+			</video> 
+			<video name="日本丰冈神锅高原小学">
+			<url>mmsh://web-camera.city.toyooka.lg.jp:40003</url>
+			</video> 
+						<video name="日本丰冈市城崎温泉">
+			<url>mmsh://web-camera.city.toyooka.lg.jp:40004</url>
+			</video> 
+			<video name="日本五条市历史博物馆② http">
+			<url>mmsh://www3.city.gojo.lg.jp:40005</url>
+			</video> 
+			<video name="日本五条市历史博物馆①">
+			<url>mmsh://www3.city.gojo.lg.jp:40006</url>
+			</video> 
+			<video name=" 日本五条市民俗博物馆②">
+			<url>mmsh://www3.city.gojo.lg.jp:40002</url>
+			</video> 
+			<video name="日本五条市民俗博物馆①">
+			<url>mmsh://www3.city.gojo.lg.jp:40001</url>
+			</video> 
+			<video name="日本东京高速公路三号线(不稳定)">
+			<url>mmsh://192.168.1.235:80/live?MSWMExt=.asf</url>
+			</video> 
+			<video name="日本神奈川鹄沼海岸(不稳定)">
+			<url>mmsh://www2.kanagawa-umi.jp/SurfVillage1</url>
+			</video> 
+			<video name="日本.湘南海滩">
+			<url>mmst://simul.freebit.net/shonanbeachfm</url>
+			</video> 
+			<video name="日本.吉野川.三好大桥">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco5/</url>
+			</video> 
+			<video name="日本.吉野川.岩津桥">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco4/</url>
+			</video> 
+			<video name="日本.吉野川.中央桥">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco3/</url>
+			</video> 
+			<video name=" 日本.吉野川.第十堰">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco2/</url>
+			</video> 
+			<video name="日本.吉野川.吉野川桥">
+			<url>mmsh://str.toku-mlit.go.jp:443/enco1/</url>
+			</video> 
+			<video name="日本.大阪.新梅田城①">
+			<url>mmst://live1.iam.ne.jp/skybldg3</url>
+			</video> 
+			<video name="日本.富山.鱼津.海市蜃楼②">
+			<url>mmsh://www2.city.uozu.toyama.jp/side-k</url>
+			</video> 
+			<video name="日本.富山.鱼津.海市蜃楼①">
+			<url>mmsh://www2.city.uozu.toyama.jp/side-t</url>
+			</video> 
+			<video name="日本.爱媛.松山.锦町">
+			<url>mmsh://shuhoudou.net:8080</url>
+			</video> 
+			<video name="日本.京都.城阳.24国道">
+			<url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_fukuchiyama2</url>
+			</video>  
+			<video name="日本.岐阜.白川乡.合掌造村落">
+			<url>mmsh://210.172.199.29/live</url>
+			</video> 
+			<video name="日本.丰冈.路口">
+			<url>mmsh://web-camera.city.toyooka.lg.jp:40005</url>
+			</video> 
+			<video name="日本.大阪.建筑">
+			<url>mmst://live1.iam.ne.jp/skybldg3</url>
+			</video>   
+		</city>
+	</province>
+</provinces> 

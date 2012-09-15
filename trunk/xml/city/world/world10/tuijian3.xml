@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="a" >
+		<city name="全球精选4" type="1888" order="D" >
+			
+<video name="泰国 水库-普清">
+<url>http://cctvvrk.egat.com/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+
+<video name="韩国-室内（韩国阿姨卧室）">
+<url>http://aassd.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="印度-电教室-普清">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="越南-胡志明市 工厂内-普清">
+<url>http://dnnguyenquoctuan.viewnetcam.com:81/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="越南-Hanoi / Dac Lac 特产专卖店">
+<url>http://mynghehaianh.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="新加坡-交通路口 1-B">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="新加坡-交通路口 1-C">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="新加坡-交通路口 1-D">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="俄罗斯 网吧">
+<url>http://212.42.54.137:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Sochi Krasnodar 海边游泳池">
+<url>http://62.182.141.132/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 健身室10">
+<url>http://195.239.51.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 纹身室11(推荐)">
+<url>http://77.239.244.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 宇航员训练室7（推荐）">
+<url>http://83.69.197.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="香港 街道-普清">
+<url>http://ebdemo.8800.org:65305/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="香港交通 九龙地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/kltd.rm</url>
+</video>		
+										
+<video name="香港交通 香港地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/hktd.rm </url>
+</video>		
+		
+<video name="香港交通 荃湾地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/twtd.rm</url>
+</video>	
+		
+<video name="香港交通 屯门">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/tmtd.rm</url>
+</video>			
+
+
+<video name="意大利-阿布鲁佐 Pescara 游泳池">
+<url>http://212.43.123.243/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利-阿布鲁佐 Lanciano 城市风景">
+<url>http://87.24.167.176:8005/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="意大利-坎帕尼亚 Caserta 美丽的海边城市-高清">
+<url>http://85.18.249.229/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="马尔凯 Montecosaro 海滨浴场14">
+<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="普利亚大区 Bari  椰树海边2-高清">
+<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="布拉克内尔  布拉克内尔码头">
+<url>http://fybmovecam1.axiscam.net:8194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="剑桥大学教学大楼">
+<url>http://131.111.125.248/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="剑桥大学教学大楼2">
+<url>http://131.111.133.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="剑桥大学教学-信号接收器">
+<url>http://131.111.48.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="下诺曼底 Caen 诺曼底卡昂政府广场">
+<url>http://62.160.78.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 沙滩排球39">
+<url>http://217.128.18.18/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>		
+		</city>
+	</province>
+</provinces> 

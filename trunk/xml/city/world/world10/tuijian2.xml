@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="a" >
+		<city name="全球精选3" type="1888" order="C" >
+			
+			<video name="日本 东京 Tokyo 商业街（旋转摄像头）">
+			<url>http://shibuya.ipcam.jp:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 商业街2-高清">
+			<url>http://c74id1i.corede.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Japan Tokyo Hachioji 宠物护理店2（有时会关闭）">
+			<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Japan Tokyo Hachioji 宠物护理店2-高清">
+			<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Japan Tokyo Tokyo 山涧小溪（有点卡）">
+			<url>http://kawauchi.st.wakwak.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 私家室内3">
+			<url>http://fut-ku.miemasu.net:83/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Setagaya 商业街2">
+			<url>http://61.119.240.136/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 瀑布6-高清">
+			<url>http://125.206.50.172:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 室内10">
+			<url>http://61.115.119.85:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Setagaya 商业街3">
+			<url>http://61.119.240.91/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 摩天轮监控">
+			<url>http://01002demo.hsd.shell.link-life.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 喷泉广场37（有点卡）">
+			<url>http://yubatake.st.wakwak.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 35 林中天桥">
+			<url>http://61.214.208.121:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 东京塔楼">
+			<url>http://219.167.255.154/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 城市景色81">
+			<url>http://60.43.39.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 碧海银沙87">
+			<url>http://takeyahotel.mydns.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 碎石海边96">
+			<url>http://61.205.224.211/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 东京 Tokyo 海景144">
+			<url>http://painter-k.aa1.netvolante.jp:8005/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="日本 神奈川 Yokosuka沿海马路  -普清">
+			<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 神奈川 Odawara城市景色  -普清">
+			<url>http://60.39.234.210/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+			</video>
+			
+			<video name="日本 神奈川 Odawara城市景色  -高清">
+			<url>http://60.39.234.210/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+			</video>
+			
+			<video name="日本 神奈川 Yokohama林中天桥  -普清">
+			<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 神奈川 Yokohama林中天桥  -高清">
+			<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 神奈川 Yokohama室内  -普清">
+			<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 神奈川 Yokohama室内  -高清">
+			<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 爱知 常滑市 时装商城 -普清">
+			<url>http://makeit-dhstore-hamamatsu.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 爱知 Ichinomiya  f6工厂 -普清">
+			<url>http://221.189.255.11:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 爱知 Ichinomiya  f6工厂 -高清">
+			<url>http://221.189.255.11:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 爱知 Nishio  海边浪涌 -普清">
+			<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="日本 爱知 Nishio  海边浪涌 -高清">
+			<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
