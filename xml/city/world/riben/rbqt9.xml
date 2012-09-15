@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="北海道" type="1888" order="A" >	
+	
+<video name="日本 北海道 Kitami酒店 -普清">
+<url>http://iiyudana.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Kitami酒店 -高清">
+<url>http://iiyudana.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo 海边 -普清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8004/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo 海边 -高清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8004/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 海道银行  -普清">
+<url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 海道银行 -高清">
+<url>http://camera.hakodate.or.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Shiraoi 花园  -普清">
+<url>http://zelb.plala.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 北海道 Shiraoi 花园 -高清">
+<url>http://zelb.plala.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 北海道 北杜市 村庄1 -高清">
+<url>http://camera.town.kiyosato.hokkaido.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Kaga 飞机场 -普清">
+<url>http://mielive08.iobb.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 北海道 Kaga 飞机场 -高清">
+<url>http://mielive08.iobb.net/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边岛屿 -高清">
+<url>http://shiretoko.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Bibai海边马路2 -普清">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Bibai海边马路2 -高清">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边码头 -普清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo海边码头 -高清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Chuo停车场 -普清">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Chuo停车场 -高清">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo小礼堂 -普清">
+<url>http://cam.sbg-camera.mydns.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo小礼堂 -高清">
+<url>http://cam.sbg-camera.mydns.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo小礼堂 -普清">
+<url>http://fujimaru.ddo.jp:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo小礼堂 -高清">
+<url>http://fujimaru.ddo.jp:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边 -普清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8003/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo海边 -高清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8003/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Kiyosato窗外3 -普清">
+<url>http://camera.town.kiyosato.hokkaido.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Kiyosato窗外3 -高清">
+<url>http://camera.town.kiyosato.hokkaido.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo大棚农场 -普清">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo大棚农场 -高清">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 北海道 Tobetsu窗外4  -普清">
+<url>http://tb-cam1.town.tobetsu.hokkaido.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Tobetsu窗外4  -高清">
+<url>http://tb-cam1.town.tobetsu.hokkaido.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边码头5  -普清">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo未知02  -普清">
+<url>http://yuyujuku.homeip.net:1234/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo未知02  -高清">
+<url>http://yuyujuku.homeip.net:1234/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo入海河道   -普清">
+<url>http://k-noble.miemasu.net:50006/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo入海河道  -高清">
+<url>http://k-noble.miemasu.net:50006/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 北海道 Sapporo海景2   -普清">
+<url>http://seanabb.iobb.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo海景2  -高清">
+<url>http://seanabb.iobb.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边码头3  -普清">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Sapporo海边码头3  -高清">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Miyagi天空  -普清">
+<url>http://geocam.miyakyo-u.ac.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 北海道 Miyagi天空  -高清">
+<url>http://geocam.miyakyo-u.ac.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

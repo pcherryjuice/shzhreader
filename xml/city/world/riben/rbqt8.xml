@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="其他1" type="1888" order="G" >	
+	
+<video name="日本 秋田 Odate机场   外景 -普清">
+<url>http://shirakami.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 秋田 Odate机场   外景 -高清">
+<url>http://shirakami.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 秋田 Odate机场   内景 -普清">
+<url>http://hatiryumaru.miemasu.net:91/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 秋田 Odate机场   内景 -高清">
+<url>http://hatiryumaru.miemasu.net:91/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 秋田 驿前町  路边野花 -普清">
+<url>http://wspcojp.zenno.info/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 秋田 驿前町  路边野花 -高清">
+<url>http://wspcojp.zenno.info/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 青森县  灯塔 -普清">
+<url>http://61.12.249.234/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 青森县  灯塔 -高清">
+<url>http://61.12.249.234/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 青森县  汤野滨温泉海岸 -普清">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+<video name="日本 青森县  汤野滨温泉海岸 -高清">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 青森县  办公室内（有美女出没） -普清">
+<url>http://blackone.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 青森县  办公室内（有美女出没） -高清">
+<url>http://blackone.miemasu.net/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱媛 Uwajima 交通路口1 -普清">
+<url>http://webcam00.city.uwajima.ehime.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 Uwajima 交通路口1 -高清">
+<url>http://webcam00.city.uwajima.ehime.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱媛 Uwajima 竹岛 -普清">
+<url>http://webcam06.city.uwajima.ehime.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 Uwajima 竹岛 -高清">
+<url>http://webcam06.city.uwajima.ehime.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱媛 Matsuyama  海景 -普清">
+<url>http://horiemarine.ddo.jp:500/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 Matsuyama  海景 -高清">
+<url>http://horiemarine.ddo.jp:500/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱媛 Uwajima 海景2 -普清">
+<url>http://webcam05.city.uwajima.ehime.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 Uwajima 海景2 -高清">
+<url>http://webcam05.city.uwajima.ehime.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱媛 Uwajima 铁路 -普清">
+<url>http://sunq.jp:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 Uwajima 铁路 -高清">
+<url>http://sunq.jp:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福井市 Tsuruga  大机器 -高清">
+<url>http://210.143.245.109/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+<video name="日本 福井市 Tsuruga 冈山路口 -高清">
+<url>http://210.143.245.107/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+<video name="日本 福井市 Tsuruga 水岛 -高清">
+<url>http://210.143.245.108/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+<video name="日本 福井市 Tsuruga 笙村 -高清">
+<url>http://210.143.245.105/-wvhttp-01-/GetOneShot?frame_count=100</url>
+</video>
+
+<video name="日本 爱媛 越前市 蓬莱町 -普清">
+<url>http://sanyo-fk.aa0.cdl1.careplus.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 爱媛 越前市 蓬莱町 -高清">
+<url>http://sanyo-fk.aa0.cdl1.careplus.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

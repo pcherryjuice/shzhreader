@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本二" order="DC" >
+<city name="其他3" type="1888" order="G" >	
+	
+<video name="日本 广岛 Hiroshima 超市内 -普清">
+<url>http://cam114434.miemasu.net:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 广岛 Hiroshima 超市内 -高清">
+<url>http://cam114434.miemasu.net:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 门口 -普清">
+<url>http://cam5881767.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 广岛 Hiroshima 门口 -高清">
+<url>http://cam5881767.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 潜艇 -普清">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 广岛 Hiroshima 潜艇 -高清">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 高架桥 -普清">
+<url>http://onomichieki.iobb.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 广岛 Hiroshima 高架桥 -高清">
+<url>http://onomichieki.iobb.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 宾馆窗外 -高清">
+<url>http://miyajimalivecam.miemasu.net:50003/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 茨城 Yuki码头  -普清">
+<url>http://61.199.210.229/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 茨城 Yuki码头  -高清">
+<url>http://61.199.210.229/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 茨城 Oarai古寺   -普清">
+<url>http://kanmuri.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 茨城 Oarai古寺   -高清">
+<url>http://kanmuri.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 茨城 Kuji天桥   -普清">
+<url>http://cam4.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 茨城 Kuji天桥   -高清">
+<url>http://cam4.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 茨城 Kuji码头2   -普清">
+<url>http://cam2.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 茨城 Kuji码头2   -高清">
+<url>http://cam2.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 茨城 Kuji阳台   -普清">
+<url>http://cam1.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 茨城 Kuji阳台   -高清">
+<url>http://cam1.city.kuji.iwate.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 石川 Nanao动物园   -普清">
+<url>http://cmr2.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 石川 Nanao动物园   -高清">
+<url>http://cmr2.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 石川 Kanazawa停车场   -普清">
+<url>http://ciao171069.miemasu.net/mobile/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 石川 Kanazawa停车场   -高清">
+<url>http://ciao171069.miemasu.net/mobile/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 石川 Nanao码头2   -普清">
+<url>http://cmr1.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 石川 Nanao码头2   -高清">
+<url>http://cmr1.city.nanao.ishikawa.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 石川 Kanazawa停车场2   -普清">
+<url>http://ciao171069.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 石川 Kanazawa停车场2   -高清">
+<url>http://ciao171069.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岩手 Hanamaki路边小屋   -普清">
+<url>http://to-tsu-nasu.ipcam.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岩手 Hanamaki路边小屋   -高清">
+<url>http://to-tsu-nasu.ipcam.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岩手 Morioka未知    -普清">
+<url>http://jr7mlx.dip.jp:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岩手 Morioka未知    -高清">
+<url>http://jr7mlx.dip.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岩手 Morioka十字路口    -普清">
+<url>http://tanko.mydns.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岩手 Morioka十字路口    -高清">
+<url>http://tanko.mydns.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岩手 Morioka收废站   -普清">
+<url>http://cam54159.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岩手 Morioka收废站   -高清">
+<url>http://cam54159.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

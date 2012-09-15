@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本三" order="DD" >
+<city name="其他5" type="1888" order="E" >	
+	
+<video name="日本 三重县 Nabari小岛   -普清">
+<url>http://mielive05.iobb.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 三重县 Nabar小岛   -高清">
+<url>http://mielive05.iobb.net/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 三重县 Suzuka码头   -普清">
+<url>http://mielive02.iobb.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 三重县 Suzuka码头   -高清">
+<url>http://mielive02.iobb.net/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 三重县 Hazu椰树   -普清">
+<url>http://shimodaminato.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 三重县 Hazu椰树   -高清">
+<url>http://shimodaminato.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 三重县 Suzuka游艇码头   -普清">
+<url>http://ogotoyc.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 三重县 Suzuka游艇码头   -高清">
+<url>http://ogotoyc.miemasu.net:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 三重县 Matsusaka养牛场   -普清">
+<url>http://chodaya01.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 三重县 Matsusaka养牛场   -高清">
+<url>http://chodaya01.miemasu.net:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫城 Sendai马路  -普清">
+<url>http://cam52819.miemasu.net:60003/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫城 Sendai马路  -高清">
+<url>http://cam52819.miemasu.net:60003/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫城 Sendai洗衣店  -普清">
+<url>http://arau-takasago03.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫城 Sendai洗衣店  -高清">
+<url>http://arau-takasago03.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫城 Sendai洗衣店2  -普清">
+<url>http://arau-takasago03.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫城 Sendai洗衣店2  -高清">
+<url>http://arau-takasago03.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫城 Sendai卸货区  -普清">
+<url>http://cam52819.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫城 Sendai卸货区  -高清">
+<url>http://cam52819.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园  -普清">
+<url>http://iozoonc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园  -高清">
+<url>http://iozoonc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+
+
+
+
+<video name="日本 冲绳 Shika 实验室">
+<url>http://210.172.93.252/axis-cgi/mjpg/video.cgi?1337321007725</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边小屋">
+<url>http://kuroshima.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 冲绳 Shika 办公室">
+<url>http://210.172.93.245/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="日本 冲绳 Naha 交通路口">
+<url>http://simpro.mydns.jp:84/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边风景">
+<url>http://takemori-inn.mydns.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 冲绳 Okinawa 海边风景-高清">
+<url>http://takemori-inn.mydns.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 冲绳 Shika 海景">
+<url>http://210.142.144.5/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 冲绳 Shika 海景2-高清">
+<url>http://cam6047295.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+
+<video name="日本 黑潮本镇 海边-高清">
+<url>http://honjin1.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 黑潮本镇 Daito 浮标-高清">
+<url>http://60.56.193.47/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+
+<video name="日本 佐贺市 停车场全景">
+<url>http://atsn0001.axiscam.net:81/mjpg/quad/video.mjpg?resolution=320x240::1;quality=Motion</url>
+</video>
+<video name="日本 佐贺市 停车场-A">
+<url>http://atsn0001.axiscam.net:81/mjpg/1/video.mjpg?resolution=320x240::1;quality=Motion</url>
+</video>
+<video name="日本 佐贺市 停车场-B">
+<url>http://atsn0001.axiscam.net:81/mjpg/3/video.mjpg?resolution=320x240::1;quality=Motion</url>
+</video>
+
+<video name="日本 佐贺市 Yobuko 绿林碧海-B">
+<url>http://61.7.96.45/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 佐贺市 花圃">
+<url>http://lebouquet.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 佐贺市 花圃-高清">
+<url>http://lebouquet.miemasu.net:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 佐贺市 松树">
+<url>http://tencam.saga-s.co.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 佐贺市 Karatsu 庙宇（推荐）">
+<url>http://61.7.34.34/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+</city>
+</province>
+</provinces>

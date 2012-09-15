@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本二" order="DC" >
+<city name="宫崎县" type="1888" order="E" >	
+	
+<video name="日本 宫崎县 Miyazaki江边停车场  -普清">
+<url>http://ioctync1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki江边停车场  -高清">
+<url>http://ioctync1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园2  -普清">
+<url>http://218.216.63.248/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园2  -高清">
+<url>http://218.216.63.248/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园小植物  -普清">
+<url>http://iofrtnc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园小植物  -高清">
+<url>http://iofrtnc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园骆驼  -普清">
+<url>http://iozoonc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园骆驼  -高清">
+<url>http://iozoonc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园丹顶鹤  -普清">
+<url>http://218.216.63.252/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园丹顶鹤  -高清">
+<url>http://218.216.63.252/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园花圃  -普清">
+<url>http://iofrtnc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园花圃  -高清">
+<url>http://iofrtnc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园斑马  -普清">
+<url>http://iozoonc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园斑马  -高清">
+<url>http://iozoonc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 宫崎县 Miyazaki公园火鸡  -普清">
+<url>http://iozoonc4.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园火鸡  -高清">
+<url>http://iozoonc4.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园河马  -普清">
+<url>http://iozoonc7.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园河马  -高清">
+<url>http://iozoonc7.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园烈火鸟  -普清">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园烈火鸟  -高清">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园金鱼  -普清">
+<url>http://210.172.201.69/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园金鱼  -高清">
+<url>http://210.172.201.69/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Kawashima市区景色  -普清">
+<url>http://camera1.city.kobayashi.lg.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 宫崎县 Kawashima市区景色  -高清">
+<url>http://camera1.city.kobayashi.lg.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园小路  -普清">
+<url>http://iofrtnc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园小路  -高清">
+<url>http://iofrtnc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园马圈  -普清">
+<url>http://218.216.63.246/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 宫崎县 Miyazaki公园马圈  -高清">
+<url>http://218.216.63.246/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki古树  -普清">
+<url>http://camera2.city.kobayashi.lg.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 宫崎县 Miyazaki古树  -高清">
+<url>http://camera2.city.kobayashi.lg.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+</city>
+</province>
+</provinces>

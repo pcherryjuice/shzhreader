@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本二" order="DC" >
+<city name="千叶" type="1888" order="A" >	
+	
+<video name="日本 千叶  Asahi 鸟笼 -普清">
+<url>http://scorpius.jp:8484/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Asahi 鸟笼 -高清">
+<url>http://scorpius.jp:8484/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶  Narita  十字路口 -普清">
+<url>http://hdt.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Narita  十字路口 -高清">
+<url>http://hdt.miemasu.net/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶  Asahi   路口视频 -普清">
+<url>http://220.157.178.58:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Asahi   路口视频 -高清">
+<url>http://220.157.178.58:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶  Asahi  路边停车场 -普清">
+<url>http://220.157.184.206:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Asahi  路边停车场 -高清">
+<url>http://220.157.184.206:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶  Ichihara  高速路 -普清">
+<url>http://219.119.71.18/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Ichihara  高速路 -高清">
+<url>http://219.119.71.18/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶  Asahi   停车场2 -普清">
+<url>http://220.157.184.198:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶  Asahi   停车场2 -高清">
+<url>http://220.157.184.198:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 市区鸟瞰 -普清">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 市区鸟瞰 -高清">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Narashino 上野中通商品街 -普清">
+<url>http://122.249.240.100:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Narashino 上野中通商品街 -高清">
+<url>http://122.249.240.100:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 停车场3 -普清">
+<url>http://220.157.184.174:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 停车场3 -高清">
+<url>http://220.157.184.174:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 婴儿监护室 -普清">
+<url>http://pu-cam.mydns.jp:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 婴儿监护室 -高清">
+<url>http://pu-cam.mydns.jp:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 停车场4 -普清">
+<url>http://220.157.184.181:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 停车场4 -高清">
+<url>http://220.157.184.181:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Narita飞机场 -普清">
+<url>http://219.127.83.130/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Narita飞机场 -高清">
+<url>http://219.127.83.130/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 海滨鸟瞰 -普清">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 海滨鸟瞰 -高清">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 鲤鱼水池 -普清">
+<url>http://kameno.bne.jp:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Asahi 鲤鱼水池 -高清">
+<url>http://kameno.bne.jp:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Chiba 停车场5 -普清">
+<url>http://210.155.196.122/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Chiba 停车场5 -高清">
+<url>http://210.155.196.122/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Narita 设备监控系统 -普清">
+<url>http://yokohamafarm.miemasu.net:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 千叶 Chiba 设备监控系统 -高清">
+<url>http://yokohamafarm.miemasu.net:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

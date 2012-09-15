@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本三" order="DD" >
+<city name="岛根县" type="1888" order="C" >	
+	
+<video name="日本 岛根县 Otsuka 发廊">
+<url>http://222.230.183.173:82/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 岛根县 Izumo 高速路口">
+<url>http://shima0004.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 窗外">
+<url>http://isapa.info:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Fuji 城市景色">
+<url>http://61.117.146.129/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 室内-高清">
+<url>http://122.249.200.177/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 园圃-高清">
+<url>http://keidai.miemasu.net:86/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 岛根县 Iwata 海鲜店">
+<url>http://michinoeki-ukiha.miemasu.net:60005/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 海边风景">
+<url>http://cam98462.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场">
+<url>http://cam6075917.miemasu.net:50002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Oyama 城市看雪山">
+<url>http://220.216.115.249/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Fuji 城市风景（自动旋转镜头）">
+<url>http://61.117.146.5/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 岛根县 Hamamatsu 超市">
+<url>http://219.114.70.205:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场">
+<url>http://cam6075917.miemasu.net:50005/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 未知-高清">
+<url>http://bell.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场3">
+<url>http://cam6075917.miemasu.net:50003/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Numazu 养牛场4">
+<url>http://cam6075917.miemasu.net:50004/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 风景">
+<url>http://cizolw53.corede.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 养牛场1">
+<url>http://cam6075917.miemasu.net:50001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岛根县 Otsuka 海边（不稳定）">
+<url>http://mw-otaru.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

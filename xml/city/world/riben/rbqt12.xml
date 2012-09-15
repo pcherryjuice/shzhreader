@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本二" order="DC" >
+<city name="其他2" type="1888" order="F" >	
+	
+<video name="日本 福岛 Fukushima 海边 -普清">
+<url>http://dake.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福岛 Fukushima 海边 -高清">
+<url>http://dake.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福岛 Koriyama 小店内 -普清">
+<url>http://yoursys22.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福岛 Koriyama 小店内 -高清">
+<url>http://yoursys22.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+<video name="日本 福岛 Iwaki 未知 -普清">
+<url>http://cam53059.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福岛 Iwaki 未知 -高清">
+<url>http://cam53059.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 福岛 Iwaki 山村美景 -普清">
+<url>http://minioze.aa0.netvolante.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 福岛 Iwaki 山村美景 -高清">
+<url>http://minioze.aa0.netvolante.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 福岛 Yamato 路边停车场 -普清">
+<url>http://wajima001.bf1.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 福岛 Yamato 路边停车场 -高清">
+<url>http://wajima001.bf1.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 岐阜 Gifu 路边小摊 -高清">
+<url>http://tsuchimaya-m.ddo.jp:8002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岐阜 Kami 海边小岛 -普清">
+<url>http://imago-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 岐阜 Kami 海边小岛 -高清">
+<url>http://imago-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 岐阜 Gifu 荒野小屋 -普清">
+<url>http://tsuchimaya-m.ddo.jp:8010/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岐阜 Gifu 荒野小屋 -高清">
+<url>http://tsuchimaya-m.ddo.jp:8010/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岐阜 Gero 小作坊 -普清">
+<url>http://syoukei.ipcam.jp:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岐阜 Gero 小作坊 -高清">
+<url>http://syoukei.ipcam.jp:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岐阜 Kami 小球场 -普清">
+<url>http://yadagawa-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 岐阜 Kami 小球场 -高清">
+<url>http://yadagawa-cam.town.mikata-kami.lg.jp/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 岐阜 Mizunami 马路边 -普清">
+<url>http://isk.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岐阜 Mizunami 马路边 -高清">
+<url>http://isk.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岐阜 Gero 海边 -普清">
+<url>http://tenchikaku.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 岐阜 Gero 海边 -高清">
+<url>http://tenchikaku.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 岐阜 Gifu 鼠笼 -普清">
+<url>http://219.54.214.55/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337154210589</url>
+</video>
+<video name="日本 岐阜 Gifu 鼠笼 -高清">
+<url>http://219.54.214.55/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1337154210589</url>
+</video>
+
+<video name="日本 群马县 Shima 海边 -普清">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 群马县 Shima 海边 -高清">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 群马县 Isesaki 海边 -普清">
+<url>http://hodaigi.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 群马县 Isesaki 海边 -高清">
+<url>http://hodaigi.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 群马县 Isesaki 草地 -普清">
+<url>http://hodaigi.miemasu.net:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

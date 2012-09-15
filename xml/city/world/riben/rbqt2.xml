@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="日本一" order="DB" >
+<city name="神奈川2" type="1888" order="B" >	
+	
+<video name="日本 神奈川 Yokohama废纸处理工厂  -普清">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama废纸处理工厂  -高清">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokosuka工地  -普清">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokosuka 工地  -高清">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Hiratsuka未知  -普清">
+<url>http://150.7.49.186/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Hiratsuka未知  -高清">
+<url>http://150.7.49.186/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Kawasaki高铁  -普清">
+<url>http://210.141.253.164/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kawasaki高铁  -高清">
+<url>http://210.141.253.164/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Kawasaki大门口  -普清">
+<url>http://shome5.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kawasaki大门口  -高清">
+<url>http://shome5.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama林中天桥  -普清">
+<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama林中天桥  -高清">
+<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama风车  -普清">
+<url>http://218.47.255.39/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 神奈川 Yokohama风车  -高清">
+<url>http://218.47.255.39/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="日本 神奈川 Yokohama校时时钟  -普清">
+<url>http://www.t-ange.mydns.jp:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama校时时钟  -高清">
+<url>http://www.t-ange.mydns.jp:8001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokosuka二本松办公室  -普清">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokosuka二本松办公室  -高清">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+
+<video name="日本 神奈川 Yokohama天台摄像头  -普清">
+<url>http://camera.16g.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama天台摄像头  -高清">
+<url>http://camera.16g.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Kamakura码头  -普清">
+<url>http://211.131.248.158/-wvhttp-01-/getoneshot?v=320::1;frame_count=300Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kamakura码头  -高清">
+<url>http://211.131.248.158/-wvhttp-01-/getoneshot?v=640::1;frame_count=300Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Yokohama运动场  -普清">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Yokohama运动场  -高清">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Fujisawa马路  -普清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Fujisawa马路  -高清">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 神奈川 Kamakura码头3  -普清">
+<url>http://61.205.224.167/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+<video name="日本 神奈川 Kamakura码头3  -高清">
+<url>http://61.205.224.167/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+</video>
+
+<video name="日本 神奈川 Kawasaki停车场  -普清">
+<url>http://121.1.253.123:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="日本 神奈川 Kawasaki停车场  -高清">
+<url>http://121.1.253.123:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>
