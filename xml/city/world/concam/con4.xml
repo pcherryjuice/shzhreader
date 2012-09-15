@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="可控摄像头" order="H" >
+<city name="可控摄像头4" type="1888" order="D" >	
+
+
+<video name="西班牙.安达路西亚 Granada 格拉纳达楼顶天台">
+<url>http://jmirallas.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.安达路西亚  墙5">
+<url>http://bisobodega.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Central 金鱼馆">
+<url>http://83.175.209.26:94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 阿利坎特球场一角2">
+<url>http://websitecam91110.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 马德里建筑工地27">
+<url>http://88.26.206.145:7779/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Barcelona 未知摄像头7">
+<url>http://213.96.29.238:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.瓦伦西亚 Alicante Comunidad 城市风景">
+<url>http://gocanaria.ath.cx:8000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.巴斯克自治区 Islas 天文台望远镜7">
+<url>http://161.72.20.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 比亚威斯托克  比亚韦斯托克加油站">
+<url>http://77.79.211.12:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 比亚韦斯托克工厂周围2">
+<url>http://82.139.167.140:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 华沙 华沙外景">
+<url>http://parafiakrolewo.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="波兰 广场旋转摄像头6">
+<url>http://brodnica.eltronik.net.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Zachodniopomorskie Trzeszczyn 海港">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Slaskie Katowice 卡托维兹郊外">
+<url>http://placowka.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.德伦特省 Eelde 海边旋转摄像头">
+<url>http://cameradtp.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Zwaagwesteinde 兹瓦赫韦斯泰恩德港口">
+<url>http://62.131.113.213:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.弗里斯兰省 Bolsward 博尔斯瓦德私家机场">
+<url>http://82.151.42.188:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩 门口">
+<url>http://137.224.128.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Emst 埃姆斯特马棚">
+<url>http://86.88.160.143:8031/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Emst 埃姆斯特马棚2">
+<url>http://86.88.160.143:8033/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Hattem 哈特姆码头">
+<url>http://92.67.241.217/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.北布拉班特省 Drimmelen 德里默伦户外">
+<url>http://92.64.26.161:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Tilburg 蒂尔堡一角">
+<url>http://62.132.55.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Hilversum 希尔弗瑟姆塔楼">
+<url>http://82.95.100.25/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Oudeschild 奥德斯希尔德码头">
+<url>http://82.151.35.229:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.上艾瑟尔 Heino 海诺街道">
+<url>http://kulturhus.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.乌德勒支 Breukelen 布勒克伦旋转摄像头">
+<url>http://87.215.200.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Zoetermeer 祖特梅尔海边旋转摄像头">
+<url>http://snmcamera.xs4all.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Ridderkerk 里德凯尔克湖边美景">
+<url>http://92.254.52.236/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.南荷兰省 Woerden 武尔登桥头监控">
+<url>http://83.160.69.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Voorburg 福尔堡 路口2">
+<url>http://82.93.241.220:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.德伦特省 Havelte 城堡鸟瞰（高清）">
+<url>http://heetenkerk.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.海德马克 Hamar 郊野风情">
+<url>http://82.147.33.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.泰勒马克 Gautefall 观光摄像头">
+<url>http://109.109.79.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.泰勒马克 Gautefall 河边景色2">
+<url>http://109.109.79.124/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Szeged Szeged 江边摄像头">
+<url>http://91.82.196.8:40080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="欧洲其他 斯洛伐克 大楼停车场-高清">
+<url>http://81.92.254.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -低分辨率">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=160x120::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -普清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="南美洲 美属维京群岛 海岛远景 -高清">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+</city>
+</province>
+</provinces>

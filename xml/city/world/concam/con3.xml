@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="可控摄像头" order="H" >
+<city name="可控摄像头3" type="1888" order="C" >	
+
+<video name="德国-下萨克森州 Osnabruck 大转盘-高清">
+<url>http://85.8.92.254:333/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="德国-巴登-符腾堡州 Friedrichshafen 农田">
+<url>http://slashcam.doubleslash.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-下萨克森州 Clausthal 工厂内-高清">
+<url>http://139.174.156.201/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-柏林  实验室4">
+<url>http://141.20.31.128/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国 梅克伦堡-前波莫瑞 Wusterhusen 海边风景">
+<url>http://thiessow-lotsen.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-北莱茵-威斯特法伦州 Essen 旧大楼">
+<url>http://217.78.137.43/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-北莱茵-威斯特法伦州 Unna 实验室6">
+<url>http://dmz.bab-tec.de:83/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-拜耳 Regensburg 城市风光9">
+<url>http://eye3.medicdat.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国 梅克伦堡-前波莫瑞 Ziemitz 城中马路2">
+<url>http://seepark.homeip.net:4000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="美国-佛罗里达州 Daytona Beach 大楼门口">
+<url>http://72.236.125.34:211/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Niceville 小码头">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Miami 城市风景4-高清">
+<url>http://webcam5.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-佛罗里达州 Venice 停车场2">
+<url>http://meridianllc.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-佛罗里达州 Clearwater 交通路口2">
+<url>http://75.76.82.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-佛罗里达州 Bonita Springs 酒吧">
+<url>http://buffalochips3.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Oviedo 杂物间2-高清">
+<url>http://atsphones.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Orlando 训练场">
+<url>http://cam5098567.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Marathon 小码头4-高清">
+<url>http://grassykey.viewnetcam.com:1028/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-佛罗里达州 Bonita Springs 酒吧2">
+<url>http://buffalochips1.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-科罗拉多州 科罗拉多大学-松林草地">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-科罗拉多州 Florissant 窗外松林2-高清">
+<url>http://divide-webcam.viewnetcam.com:120/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-科罗拉多州 Ophir 城镇街道">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-科罗拉多州 Ophir 城镇街道2-高清">
+<url>http://telluridemountainproperties-west.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-科罗拉多州 室内花卉4">
+<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-北卡罗莱纳 Raleigh 大楼前停车场3">
+<url>http://152.14.48.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-北卡罗莱纳 Matthews  太阳能发电设备">
+<url>http://roofcam.decisionsupport.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-北卡罗莱纳 Knightdale  大楼施工工地">
+<url>http://152.14.22.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-北卡罗莱纳 Wilmington  运动场球场-高清">
+<url>http://captnbills.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-缅因州 Brunswick 鲍多因学院-校园">
+<url>http://webcam5.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-缅因州 Glen Cove  书店">
+<url>http://wholebooks.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-缅因州 Portland 城市风貌2">
+<url>http://24.97.41.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-马里兰州 Hebron 赛里斯伯瑞学校校园-高清">
+<url>http://webcam.salisbury.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国-马里兰州 Lexington Park  游艇码头2-高清">
+<url>http://bobs-farm.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-马里兰州 Solomons 马里兰大学-碰撞实验室">
+<url>http://131.118.225.80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-马里兰州 Waldorf 小树林">
+<url>http://delcar.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-马里兰州 Queenstown 海边别墅-高清">
+<url>http://lundbergbuilders.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-马里兰州 Columbia 办公室内">
+<url>http://petspalaurel99.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-马里兰州 Lexington Park  草坪上的小屋2-高清">
+<url>http://bobs-farm2.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 North Dartmouth 停车场2-高清">
+<url>http://arsbccam2.viewnetcam.com:8324/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 Woods Hole 伍兹霍尔海洋研究所-实验室2">
+<url>http://el2cam.whoi.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 East Dennis 马栏">
+<url>http://nickienetcam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 Hingham 宠物屋">
+<url>http://70.88.199.133/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 Sheffield 实验室6">
+<url>http://128.128.17.158/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 Hingham 未知摄像头2">
+<url>http://70.88.199.133:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-麻萨诸塞州 Hingham 家中摄像头3">
+<url>http://70.88.199.133:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-俄勒冈州 Portland 马路">
+<url>http://salemnaz.net:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-俄勒冈州 Riddle 学校展示室">
+<url>http://cam7077625.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-俄勒冈州 Eugene 赖恩学院9">
+<url>http://cam-rg.dev.lane.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-俄克拉何马州 Tulsa 小屋门前">
+<url>http://railroadcam2.viewnetcam.com:50003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-俄克拉何马州 Owasso 荒野草地2">
+<url>http://brackencam.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-哥伦比亚 未知摄像头13">
+<url>http://asla.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-夏威夷 Kamuela 椰树风景区">
+<url>http://64.75.213.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-夏威夷 Kihei 窗外风景2">
+<url>http://mauicam.dyndns.org:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-夏威夷 Honolulu 沙滩8">
+<url>http://skywave-lr-rkr.skywavebroadband.net:8888/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-夏威夷 Honolulu 宾馆内景22">
+<url>http://mauigarageside.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-康涅狄格州 康涅狄格大学-校园">
+<url>http://avptcam.uconn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-康涅狄格州 Meriden 未知摄像头">
+<url>http://69.177.83.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-康涅狄格州 Glastonbury 城镇大街">
+<url>http://24.249.24.110:2001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-特拉华州 Georgetown 未知摄像头16">
+<url>http://ppcam.gotdns.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-爱达荷州 Blackfoot 气候监测摄像头">
+<url>http://idaho.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="法国 阿基坦 Vallier 2">
+<url>http://192.134.16.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-明尼苏达州 Saint Paul  私家飞机场">
+<url>http://134.29.208.43/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-明尼苏达州 Cambridge 飞机场">
+<url>http://208.38.71.22:88/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-明尼苏达州 Rosemount 明尼阿波利斯 户外">
+<url>http://blizzard.buckhill.com:22222/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Holland 密歇根山休闲区">
+<url>http://redmooselodgebaldwin.axiscam.net:5700/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-密歇根州 Linwood 室内未知">
+<url>http://mypoodlecam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Otsego 密歇根山小河">
+<url>http://hvmmarinacam.viewnetcam.com:60030/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Petoskey 皮托斯基庭院5">
+<url>http://bayview.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Hope 狗窝">
+<url>http://mypoodlecam.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Ann Arbor 密歇根大学实验室3">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="美国-密歇根州 Ann Arbor 密歇根大学实验室4">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="美国-密西西比州 Brandon 布兰登狗屋">
+<url>http://75.145.222.133:7505/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-密西西比州 Saint Louis  未知5">
+<url>http://opsvideo.lambert-stl.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-密西西比州 Saint Louis  密苏里州广场16">
+<url>http://209.50.106.51:8181/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 服务器机房2">
+<url>http://cam3.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 办公桌前4">
+<url>http://62.2.213.149/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 窗外花圃-高清">
+<url>http://cam5.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Munsingen 山脚下的宾馆-高清">
+<url>http://clausenrc5.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 服务器机房7">
+<url>http://cam4.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 服务器机房8">
+<url>http://domecam.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Bolligen 杂物间">
+<url>http://cam6.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Biel 客户数据中心">
+<url>http://webcam.sec101.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士苏黎世 Ruti 未知摄像头">
+<url>http://emer.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士苏黎世 Rumlang 小码头4">
+<url>http://alp.comtronic.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 巴塞尔城市半州 Basel 利德阿尔卑斯山-artfurrer宾馆3">
+<url>http://hotel-riederfurka.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士卢塞恩 Luzern 鸟窝">
+<url>http://webcam.wauwilermoos.lu.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士卢塞恩 Luzern 电子商务实验室5">
+<url>http://s0014.dmz008.enterpriselab.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士-楚格 Steinhausen 牧羊农场-高清">
+<url>http://80.254.191.189:1024/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="瑞士-沃州 Lausanne 2 观光台-高清">
+<url>http://213.3.47.128:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-蒙大拿州 Missoula 米苏拉室外走廊">
+<url>http://216.14.254.20:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-蒙大拿州 Missoula 米苏拉户外2">
+<url>http://207.196.162.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-蒙大拿州 Helena 蒙大拿天空2">
+<url>http://mountaincam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-蒙大拿州 Helena 海伦娜鸟瞰3">
+<url>http://161.7.29.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-蒙大拿州 Helena 未知4">
+<url>http://mtncam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-蒙大拿州 Missoula 美国管理技术大学校园3">
+<url>http://webcam.flbs.umt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-新罕布什尔州 Keene  汉普夏湖泊">
+<url>http://canadalakestore.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-新泽西州 Paterson  未知">
+<url>http://njhirailersnj.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-新泽西州 Paterson  公路2">
+<url>http://njhirailersnj.viewnetcam.com:60004/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略-Lansdowne 海边码头 -普清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="加拿大 安大略-Lansdowne 海边码头 -高清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  实验室 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?quad=1::1;resolution=704x576::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室1 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  实验室1 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室2 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  实验室2 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室3 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  实验室3 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华 实验室4 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 英属哥伦比亚-温哥华  实验室4 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克维尔 路口松树01 -普清">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克维尔 路口松树01 -高清">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-Flesherton  山林风景03 -普清">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加拿大 安大略省-Flesherton  山林风景03 -高清">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="加拿大 安大略省-布Lansdowne   huck marine河滨码头 -普清">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="加拿大 安大略省-Lansdowne    huck marine河滨码头 -高清">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="加拿大 安大略省-奥克威尔 游艇码头 -普清">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克威尔 游艇码头 -高清">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克维尔 游艇码头2 -普清">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="加拿大 安大略省-奥克维尔 游艇码头2 -高清">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="美国-田纳西州 Franklin 6">
+<url>http://webcam1.kssmotorsports.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-得克萨斯州 Arlington 德克萨斯大学阿灵顿分校校园">
+<url>http://mallcam.uta.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-得克萨斯州 Houston 公司工作室8">
+<url>http://webcam.atomicmods.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-得克萨斯州 Coldspring 篱笆2">
+<url>http://thegetaway.no-ip.com:6024/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-弗吉尼亚州 Blacksburg 城市景色2">
+<url>http://198.82.159.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-弗吉尼亚州 Bristol 窗外2">
+<url>http://rwd.viewnetcam.com:1020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-美国犹他州 Oakley 观光索道起点-高清">
+<url>http://strikelodge.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-美国犹他州 Salt Lake City 乡村风景3">
+<url>http://208.187.252.16/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="意大利Emilia-Romagna Santarcangelo 海边景色2">
+<url>http://hotelariella.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="意大利Emilia-Romagna Senigallia 高楼监控">
+<url>http://80.19.143.197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="意大利 伦巴第 Darfo 养鸡场">
+<url>http://tancredi.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="意大利 托斯卡纳 Coreglia Antelminelli 楼下停车场2-高清">
+<url>http://79.4.151.9:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="意大利 威尼托 Bussolengo 山峰">
+<url>http://87.22.15.62/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 剑桥郡公路2">
+<url>http://80.4.121.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 兰开夏郡Rawtenstall 罗滕斯托尔海滨">
+<url>http://fuscos.dyndns.tv:1234/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 林肯郡Stamford 斯坦福德海港">
+<url>http://195.54.250.138:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 伦敦 伦敦郊外的小屋">
+<url>http://84.92.224.138:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 伦敦 伦敦田野风光10">
+<url>http://82.71.22.62:8070/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 伦敦 湖边小镇12">
+<url>http://ferrymans.plus.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 伦敦 伦敦窗外的景色21">
+<url>http://hudgell.viewnetcam.com:443/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 埃德尔斯顿度假村">
+<url>http://kingy.viewnetcam.com/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 汤顿广场">
+<url>http://studio25.viewnetcam.com:7641/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 森德兰办公室">
+<url>http://cyclops.sunderland.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 米彻姆金鱼池">
+<url>http://93.97.191.209:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 埃格姆小路">
+<url>http://mbewebcam.rhul.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="英国 Maidenhead Windsor and Maidenhead 梅登黑德小镇">
+<url>http://catbells.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="英国 瑞丁 未知摄像头2">
+<url>http://84.92.66.114:55276/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-威斯康辛州 East Troy  未知摄像头3">
+<url>http://207.118.195.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-威斯康辛州 Elcho 海边沙滩">
+<url>http://llaa.selfip.com:1207/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-西弗吉尼亚 Morgantown  楼下停车场">
+<url>http://cemrcam1.cemr.wvu.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-怀俄明州 Casper 城市风景">
+<url>http://205.167.90.185/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-怀俄明州 Afton 海边沙滩2">
+<url>http://sflcam1.axiscam.net:47211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-伊利诺伊 Aurora 奥罗拉大学-海岸">
+<url>http://lgc.aurora.edu:100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-伊利诺伊 Lockport 洛克波特室内">
+<url>http://146.139.72.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-伊利诺伊 Schaumburg 绍姆堡私家机场">
+<url>http://lefc-kpwk.dyndns.org:5020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-伊利诺伊 La Salle  洛杉矶房屋">
+<url>http://68.252.180.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-伊利诺伊 Lockport 洛克波特实验室室内2">
+<url>http://146.139.72.79/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国-伊利诺伊 Chicago 芝加哥大学-微波接收">
+<url>http://labcam1.uchicago.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国-伊利诺伊 Ingleside 英格尔赛德小型飞机场">
+<url>http://lefc-kpwk.dyndns.org:5021/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>
