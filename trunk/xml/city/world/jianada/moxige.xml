@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="墨西哥" order="AG" >
+<city name="墨西哥" type="1888" order="A" >	
+
+
+<video name="墨西哥 墨西卡利 交通路口1 -普清">
+<url>http://201.166.63.44/mjpg/1/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="墨西哥 Distrito Federal 海边浴场 -普清">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="墨西哥 Distrito Federal 海边浴场 -高清">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="墨西哥 Distrito Federal  停车场 -普清">
+<url>http://200.67.188.239/axis-cgi/mjpg/video.cgi?camera=1::1;1337097162588::1;resolution=352x240</url>
+</video>
+
+<video name="墨西哥 Distrito Federal 停车场 -高清">
+<url>http://200.67.188.239/axis-cgi/mjpg/video.cgi?camera=1::1;1337097162588::1;resolution=704x480</url>
+</video>
+
+
+<video name="墨西哥 Distrito Federal-Alvaro Obregón  居民室内 -普清">
+<url>http://ruthsenpolanco.axiscam.net:1031/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="墨西哥 Distrito Federal-Alvaro Obregón 居民室内 -高清">
+<url>http://ruthsenpolanco.axiscam.net:1031/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="墨西哥Guanajuato Distrito Irapuato   码头 -普清">
+<url>http://cimco-corp.com.mx:8003/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="墨西哥Guanajuato Distrito Irapuato  码头 -高清">
+<url>http://cimco-corp.com.mx:8003/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="墨西哥 Guerrero-Acapulco   海边码头 -普清">
+<url>http://200.33.20.35/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=240x180</url>
+</video>
+
+<video name="墨西哥 Guerrero-Acapulco  海边码头 -高清">
+<url>http://200.33.20.35/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=480x360</url>
+</video>
+
+
+<video name="墨西哥 Jalisco-Guadalajara    交通路口01 -普清">
+<url>http://freiba1.viewnetcam.com:8083/nphMotionJpeg?Resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="墨西哥 Jalisco-Guadalajara   交通路口01 -高清">
+<url>http://freiba1.viewnetcam.com:8083/nphMotionJpeg?Resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="墨西哥 Jalisco-Guadalajara    浴场 -普清">
+<url>http://freiba1.viewnetcam.com:8083/nphMotionJpeg?Resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="墨西哥 Jalisco-Guadalajara   浴场 -高清">
+<url>http://freiba1.viewnetcam.com:8083/nphMotionJpeg?Resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="墨西哥 Guerrero-Acapulco   海边浴场2 -普清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="墨西哥 Guerrero-Acapulco   海边浴场2 -高清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="墨西哥 Guerrero-Acapulco   室内走廊 -普清">
+<url>http://serviexternos.axiscam.net:8120/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="墨西哥 Guerrero-Acapulco   室内走廊 -高清">
+<url>http://serviexternos.axiscam.net:8120/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="墨西哥 Zacatecas-Nochistlán    室内走廊 -普清">
+<url>http://tepajuanjo.axiscam.net/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="墨西哥 Zacatecas-Nochistlán    室内走廊 -高清">
+<url>http://tepajuanjo.axiscam.net/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+</city>
+</province>
+</provinces>

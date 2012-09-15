@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="加拿大" order="AD" >
+<city name="加拿大1" type="1888" order="A" >	
+	
+<video name="加拿大 安大略-温莎 交通路口 -普清">
+<url>http://216.8.159.21/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240</url>
+</video>
+
+<video name="加拿大 安大略-温莎 交通路口 -高清">
+<url>http://216.8.159.21/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480</url>
+</video>
+
+<!--video name="加拿大 魁北克-蒙特利尔 风景 -普清">
+<url>http://132.216.80.34/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔 风景 -高清">
+<url>http://132.216.80.34/mjpg/video.mjpg?resolution=704x480</url>
+</video-->
+
+<video name="加拿大 安大略-Lansdowne 海边码头 -普清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="加拿大 安大略-Lansdowne 海边码头 -高清">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="加拿大 安大略-Lansdowne 屋顶 -普清">
+<url>http://ravensview.unbc.ca/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="加拿大 安大略-Lansdowne 屋顶 -高清">
+<url>http://ravensview.unbc.ca/mjpg/video.mjpg?resolution=640x320</url>
+</video>
+
+<video name="加拿大 安大略-Kingston  十字路口 -普清">
+<url>http://130.15.122.44/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="加拿大 安大略-Kingston  十字路口 -高清">
+<url>http://130.15.122.44/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="加拿大 安大略-渥太华  交通路口 -普清">
+<url>http://24.139.16.194:81/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="加拿大 安大略-渥太华  交通路口 -高清">
+<url>http://24.139.16.194:81/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+
+
+<video name="加拿大 不列颠哥伦比亚-CampbellRiver  飞机场 -普清">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="加拿大 不列颠哥伦比亚-CampbellRiver  飞机场 -高清">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="加拿大 猫的收容所 -高清">
+<url>http://204.239.12.142/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=480x360</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔  政府大楼 -普清">
+<url>http://69.70.135.38/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔  政府大楼 -高清">
+<url>http://69.70.135.38/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=640x480</url>
+</video>
+
+ 
+<video name="加拿大 魁北克-蒙特利尔  马路边 -普清">
+<url>http://69.70.220.2:1010/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔  边路边 -高清">
+<url>http://69.70.220.2:1010/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="加拿大 安大略-布兰普顿  马路边2 -普清">
+<url>http://192.82.150.11:8085/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240</url>
+</video>
+
+<video name="加拿大 安大略-布兰普顿  边路边2 -高清">
+<url>http://192.82.150.11:8085/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480</url>
+</video>
+ 
+
+<video name="加拿大 安大略-渥太华  gillies lake -普清">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+
+<video name="加拿大 安大略-渥太华  gillies lake -高清">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+
+<video name="加拿大 魁北克-La Baie 湖边2 -高清">
+<url>rtsp://209.169.132.26:554/mpeg4/media.amp</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔 openpowered数据中心 -普清">
+<url>http://67.212.67.30/axis-cgi/mjpg/video.cgi?resolution=320x240::1;dummy=1336901721213</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔  openpowered数据中心 -高清">
+<url>http://67.212.67.30/axis-cgi/mjpg/video.cgi?resolution=640x480::1;dummy=1336901721213</url>
+</video>
+
+<video name="加拿大 魁北克-蒙特利尔 openpowered数据中心2 -普清">
+<url>http://206.41.81.10/mjpg/video.mjpg?resolution=320x240::1;dummy=1336901721213</url>
+</video>
+<video name="加拿大 魁北克-蒙特利尔  openpowered数据中心2 -高清">
+<url>http://206.41.81.10/mjpg/video.mjpg?resolution=640x480::1;dummy=1336901721213</url>
+</video>
+
+<video name="加拿大 英属哥伦比亚-温哥华  实验室 -高清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?quad=1::1;resolution=704x576</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>
