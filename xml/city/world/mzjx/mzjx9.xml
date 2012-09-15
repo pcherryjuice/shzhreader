@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选2" order="c" >
+		<city name="美洲精选9" type="1888" order="I" >
+<video name="美国 美国华盛顿 Bellingham 西华盛顿大学-实验室">
+<url>http://cf405wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Kirkland 大学校园">
+<url>http://epiphany.xuserver.com:9011/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Everett 海边码头">
+<url>http://webcam.heraldnet.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Bellingham 大学实验室2">
+<url>http://140.160.141.187/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Winthrop 甜品店">
+<url>http://64.139.100.67:60001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Bellingham 西华盛顿大学-大学实验室3">
+<url>http://cf418wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Olympia 森特罗利亚学院-校园">
+<url>http://eastcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Olympia 森特罗利亚学院-校园2">
+<url>http://westcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Tacoma 西华盛顿大学-校园3">
+<url>http://128.208.252.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Walla  惠特曼学院-学校餐厅">
+<url>http://sub-cam.whitman.edu/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Edmonds 小码头">
+<url>http://launch.axiscam.net:53435/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Lopez Island  海边旋转摄像头-高清">
+<url>http://64.119.5.59/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Bellingham 红色广场6">
+<url>http://140.160.161.198/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Seattle 华盛顿大学-校园5">
+<url>http://128.95.43.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Seattle 华盛顿大学-实验室机房-高清">
+<url>http://140.142.24.43:4625/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Seattle 城市交通摄像头4">
+<url>http://173.10.83.217/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Walla Walla  惠特曼学院-校园2">
+<url>http://olin-cam.whitman.edu/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Wenatchee 海边监控摄像头3">
+<url>http://65.74.17.34/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Seattle 华盛顿大学-校园6">
+<url>http://128.95.46.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国华盛顿 Renton 湖光山色2">
+<url>http://whcam.homeip.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 美国华盛顿 Seattle 办公室1">
+<url>http://12.171.37.115/mjpg/video.mjpg?resolution=352x288</url>
+</video>			
+<video name="美国 美国犹他州 Sandy TMI大街">
+<url>http://webcam.treasuremountaininn.com:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Ogden 实验室1-高清">
+<url>http://205.122.6.12/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Salt Lake City  餐厅">
+<url>http://1003.thepie.com:8081/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Logan 美国犹他州州立大学-实验室">
+<url>http://129.123.82.232/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Provo 杨百翰大学-室内">
+<url>http://webcams.byu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Monument Valley  十字路口">
+<url>http://205.119.86.8/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国犹他州 Salt Lake City 犹他大学校园-高清">
+<url>http://155.100.78.96/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 美国佛蒙特州 Grafton 植物实验室">
+<url>http://66.220.231.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 美国佛蒙特州 Northfield 诺威治大学">
+<url>http://webcams.norwich.edu:8001/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 
