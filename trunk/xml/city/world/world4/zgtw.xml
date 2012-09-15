@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中国" order="C" >
+<city name="中国台湾1" type="1888" order="F" >	
+
+<video name="台湾 台北 学校门口 1">
+<url>http://163.17.60.23:81/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336830806593</url>
+</video>
+
+<video name="台湾 台北 学校监控 2">
+<url>http://60.248.62.139/axis-cgi/mjpg/video.cgi?camera=1::1;1336830967168</url>
+</video>
+
+<video name="台湾 台北 大楼门口 1-高清">
+<url>http://140.120.75.187/axis-cgi/mjpg/video.cgi?camera=::1;resolution=704x480::1;1336830665514</url>
+</video>
+
+<video name="台湾 台北 大楼门口 1-高清">
+<url>http://140.120.75.187/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336830665514</url>
+</video>
+
+<video name="台湾 台北 室内 1-普清">
+<url>http://140.112.168.161:50004/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="台湾 台北 室内 1-高清">
+<url>http://140.112.168.161:50004/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="台湾 台北 学校 3-高清">
+<url>http://webcam1.nhps.tp.edu.tw/image?speed=0</url>
+</video>
+<video name="台湾 台北 校园 1-普清">
+<url>http://60.249.82.121/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1336831493513</url>
+</video>
+<video name="台湾 台北 校园 1-高清">
+<url>http://60.249.82.121/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1336831493513</url>
+</video>
+<video name="台湾 台北 校园 2-普清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1336831586180</url>
+</video>
+<video name="台湾 台北 校园 2-高清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1336831586180</url>
+</video>
+<video name="台湾 台北 校园 3-普清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1336831586180</url>
+</video>
+<video name="台湾 台北 校园 3-高清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1336831586180</url>
+</video>
+
+<video name="台湾 台北 风景">
+<url>http://59.120.82.105/image?speed=0</url>
+</video>
+
+<video name="台湾 台北交通路口 3">
+<url>http://59.125.172.122/mjpg/1/video.mjpg</url>
+</video>
+
+
+<video name="台湾 台北 天文台 1-A">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-B">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-C">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-D">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336830024740</url>
+</video>
+
+
+<video name="台湾 台北 交通路口1-A">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336829256429</url>
+</video>
+<video name="台湾 台北 交通路口1-B">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336829256429</url>
+</video>
+<video name="台湾 台北 交通路口1-C">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1336829256429</url>
+</video>
+<video name="台湾 台北 交通路口1-D">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336829256429</url>
+</video>
+<video name="台湾 台北 交通路口1-全景（高清）">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=5::1;resolution=352x240::1;1336829256429</url>
+</video>
+
+<video name="台湾 台北交通路口 2-A">
+<url>http://59.125.172.50/mjpg/1/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-B">
+<url>http://59.125.172.50/mjpg/2/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-C">
+<url>http://59.125.172.50/mjpg/3/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-D">
+<url>http://59.125.172.50/mjpg/4/video.mjpg</url>
+</video>
+</city>
+</province>
+</provinces>

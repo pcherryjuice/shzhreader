@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="其他" order="P" >
+<city name="其他" type="1888" order="A" >	
+
+<video name="韩国-室内（韩国阿姨卧室）">
+<url>http://aassd.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<!--video name="韩国 室内监控1">
+<url>http://koreaccs.dyndns.org/mjpg/1/video.mjpg</url>
+</video>
+<video name="韩国 室内监控2">
+<url>http://koreaccs.dyndns.org/mjpg/2/video.mjpg</url>
+</video>
+<video name="韩国 室内监控3">
+<url>http://koreaccs.dyndns.org/mjpg/3/video.mjpg</url>
+</video>
+<video name="韩国 室内监控4">
+<url>http://koreaccs.dyndns.org/mjpg/4/video.mjpg</url>
+</video>
+<video name="韩国 室内监控全景">
+<url>http://koreaccs.dyndns.org/mjpg/quad/video.mjpg</url>
+</video-->
+
+<video name="韩国-室内监控-杂物房">
+<url>http://aassdd.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="韩国-教堂主持位-高清">
+<url>http://yjpc0.axiscam.net:8080/mjpg/video.mjpg</url>
+</video>
+
+<video name="中国-海边">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full::1;fps=12::1;rand=15271::1;data=v.mjpg</url>
+</video>
+<video name="印度-办公室-高清">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度-办公室-普清">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度-办公室-低分辨率">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=192x144::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="印度-gcc-crystal block">
+<url>http://gccblr.dyndns.org:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+<video name="越南-胡志明市 工厂内-高清">
+<url>http://dnnguyenquoctuan.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="越南-胡志明市 工厂内-普清">
+<url>http://dnnguyenquoctuan.viewnetcam.com:81/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="越南-胡志明市 工厂内大门-高清">
+<url>http://thanhchaulongan.viewnetcam.com:82/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="越南-胡志明市 工厂内大门-普清">
+<url>http://thanhchaulongan.viewnetcam.com:82/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="越南-Hanoi / Dac Lac 特产专卖店">
+<url>http://mynghehaianh.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="越南-Hanoi / Dac Lac 特产专卖店-高清">
+<url>http://mynghehaianh.viewnetcam.com:81/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="越南-胡志明市 工厂内2-普清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="越南-胡志明市 工厂内2-高清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+<video name="新加坡-交通路口 1">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x288::1;1336833690635</url>
+</video>
+<video name="新加坡-交通路口 1-B">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;1336833690635</url>
+</video>
+<video name="新加坡-交通路口 1-C">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x288::1;1336833690635</url>
+</video>
+<video name="新加坡-交通路口 1-D">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+
+
+</city>
+</province>
+</provinces>

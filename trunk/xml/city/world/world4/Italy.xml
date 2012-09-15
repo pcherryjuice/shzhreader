@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中国" order="C" >
+<city name="中国香港" type="1" order="D" >	
+<video name="香港 Central District-高清">
+<url>http://livevideo.worldicearena.com/mjpg/video.mjpg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="香港 german swiss international school">
+<url>http://weathercam.gsis.edu.hk/mjpg/video.mjpg</url>
+</video>
+<video name="香港 赛车道-低分辨率">
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="香港 赛车道-普清">
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="香港 赛车道-高清">
+<url>http://aco.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="中国 海边">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full&fps=12&rand=15271&data=v.mjpg</url>
+</video>
+<video name="印度 办公室-高清">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度 办公室-普清">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度 办公室-低分辨率">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度 gcc-crystal block">
+<url>http://gccblr.dyndns.org:8081/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+
+<video name="印度 办公室2">
+<url>http://idl.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="澳门 广场">
+<url>http://iacm-wcam1.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="澳门 学校球场">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="澳门 街道">
+<url>http://wcam3.iacm.gov.mo/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="澳门 风景区">
+<url>http://iacm-wcam4.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="澳门 广场2">
+<url>http://iacm-wcam5.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+
+
+<video name="印度尼西亚 十字路口-高清">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口-普清">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口-低分辨率">
+<url>http://itcomm-streets.viewnetcam.com:50001/nphMotionJpeg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="印度尼西亚 十字路口2-高清">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口2-普清">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 十字路口2-低分辨率">
+<url>http://125.163.177.199/nphMotionJpeg?Resolution=192x144&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="印度尼西亚 街景-高清">
+<url>http://sologalabo.viewnetcam.com/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="印度尼西亚 街景-普清">
+<url>http://sologalabo.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+
+<video name="以色列 展厅">
+<url>http://194.90.238.160/cgi-bin/faststream.jpg?stream=full&fps=1&rand=762441&data=v.mjpg</url>
+</video>
+
+<video name="以色列 拿撒勒 Nahalal/HaZafon, Israel">
+<url>http://80.179.197.227/mjpg/1/video.mjpg</url>
+</video>
+
+
+<video name="以色列 风景区 Israel">
+<url>http://212.179.81.246/cgi-bin/faststream.jpg?stream=full&fps=1&rand=218512&data=v.mjpg</url>
+</video>
+
+<video name="以色列 室内 Israel">
+<url>http://212.235.45.209/mjpg/video.mjpg</url>
+</video>
+
+<video name="以色列 海边游艇区 Israel">
+<url>http://81.218.185.2/axis-cgi/mjpg/video.cgi?camera=1&1336818239679</url>
+</video>
+
+<video name="以色列 家园监控-普清">
+<url>http://mokedsecurity.viewnetcam.com:1025/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+<video name="以色列 家园监控-普通">
+<url>http://mokedsecurity.viewnetcam.com:1025/nphMotionJpeg?Resolution=192x144&Quality=Standard</url>
+</video>
+
+<video name="以色列 Yehud / HaMerkaz, Israel-高清">
+<url>http://whitecity.dvrdns.org/cgi-bin/faststream.jpg?stream=full&fps=1&rand=777137</url>
+</video>
+
+<video name="韩国 室内（有美女出没）">
+<url>http://aassd.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+
+<video name="韩国 室内监控1">
+<url>http://koreaccs.dyndns.org/mjpg/1/video.mjpg</url>
+</video>
+<video name="韩国 室内监控2">
+<url>http://koreaccs.dyndns.org/mjpg/2/video.mjpg</url>
+</video>
+<video name="韩国 室内监控3">
+<url>http://koreaccs.dyndns.org/mjpg/3/video.mjpg</url>
+</video>
+<video name="韩国 室内监控4">
+<url>http://koreaccs.dyndns.org/mjpg/4/video.mjpg</url>
+</video>
+<video name="韩国 室内监控全景">
+<url>http://koreaccs.dyndns.org/mjpg/quad/video.mjpg</url>
+</video>
+
+<video name="韩国 室内监控-杂物房">
+<url>http://aassdd.viewnetcam.com/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+
+<video name="韩国 教堂主持位-高清">
+<url>http://yjpc0.axiscam.net:8080/mjpg/video.mjpg</url>
+</video>
+
+<video name="科威特 建筑现场-高清">
+<url>http://83.96.53.242/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="科威特 建筑现场2-高清">
+<url>http://webcam.jaberalahmadhospital.com/mjpg/video.mjpg</url>
+</video>
+
+
+
+<video name="泰国 Nonthaburi / Nonthaburi, Thailand-普清">
+<url>http://cctvsnr.egat.com/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Nonthaburi / Nonthaburi, Thailand-高清">
+<url>http://cctvsnr.egat.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="泰国 Bangkok / Krung Thep, Thailand-普清">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand-高清">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="泰国 Bangkok / Krung Thep, Thailand 2-普清">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 2-高清">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 2-低分辨率">
+<url>http://203.146.114.212/mjpg/video.mjpg?resolution=192x144</url>
+</video>
+
+
+<video name="泰国 Bangkok / Krung Thep, Thailand 3-普清">
+<url>http://woc4laonokchum.dyndns.org:5001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 3-高清">
+<url>http://woc4laonokchum.dyndns.org:5001/mjpg/video.mjpg</url>
+</video>
+
+<video name="泰国 Bangkok / Krung Thep, Thailand 4-普清">
+<url>http://k902.viewnetcam.com:50002/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+<video name="泰国 Bangkok / Krung Thep, Thailand 4-高清">
+<url>http://k902.viewnetcam.com:50002/nphMotionJpeg?Resolution=640x480&Quality=Standard</url>
+</video>
+
+<video name="台湾 Taipei / T'ai-pei, Taiwan 1-高清">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=1&resolution=704x480&1336829256429</url>
+</video>
+<video name="台湾 Taipei / T'ai-pei, Taiwan 1-A">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=1&resolution=352x288&1336829256429</url>
+</video>
+<video name="台湾 Taipei / T'ai-pei, Taiwan 1-B">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=2&resolution=352x288&1336829256429</url>
+</video>
+<video name="台湾 Taipei / T'ai-pei, Taiwan 1-C">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=3&resolution=352x288&1336829256429</url>
+</video>
+<video name="台湾 Taipei / T'ai-pei, Taiwan 1-D">
+<url>http://203.69.115.60/axis-cgi/mjpg/video.cgi?camera=4&resolution=352x288&1336829256429</url>
+</video>
+
+
+<video name="台湾 台北交通路口 2-A">
+<url>http://59.125.172.50/mjpg/1/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-B">
+<url>http://59.125.172.50/mjpg/2/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-C">
+<url>http://59.125.172.50/mjpg/3/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 2-D">
+<url>http://59.125.172.50/mjpg/4/video.mjpg</url>
+</video>
+
+
+<video name="台湾 台北 天文台 1-A">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=1&resolution=352x240&1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-B">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=2&resolution=352x240&1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-C">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=3&resolution=352x240&1336830024740</url>
+</video>
+<video name="台湾 台北 天文台 1-D">
+<url>http://140.115.33.51/axis-cgi/mjpg/video.cgi?camera=4&resolution=352x240&1336830024740</url>
+</video>
+
+<video name="台湾 台北 风景">
+<url>http://59.120.82.105/image?speed=0</url>
+</video>
+
+<video name="台湾 台北交通路口 3">
+<url>http://59.125.172.122/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北 未知 1-高清">
+<url>http://140.120.75.187/axis-cgi/mjpg/video.cgi?camera=&resolution=352x240&1336830665514</url>
+</video>
+<video name="台湾 台北 未知 1-高清">
+<url>http://140.120.75.187/axis-cgi/mjpg/video.cgi?camera=&resolution=704x480&1336830665514</url>
+</video>
+
+
+
+<video name="台湾 台北 住宅 1">
+<url>http://163.17.60.23:81/axis-cgi/mjpg/video.cgi?camera=2&resolution=352x240&1336830806593</url>
+</video>
+
+<video name="台湾 台北 住宅 2">
+<url>http://60.248.62.139/axis-cgi/mjpg/video.cgi?camera=1&1336830967168</url>
+</video>
+
+<video name="台湾 台北 住宅 2">
+<url>http://60.248.62.139/axis-cgi/mjpg/video.cgi?camera=1&1336830967168</url>
+</video>
+
+
+<video name="台湾 台北 室内 1-普清">
+<url>http://140.112.168.161:50004/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="台湾 台北 室内 1-高清">
+<url>http://140.112.168.161:50004/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="台湾 台北 未知 3-高清">
+<url>http://webcam1.nhps.tp.edu.tw/image?speed=0</url>
+</video>
+
+<video name="台湾 台北 花园 1-普清">
+<url>http://60.249.82.121/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1336831493513</url>
+</video>
+<video name="台湾 台北 花园 1-高清">
+<url>http://60.249.82.121/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1336831493513</url>
+</video>
+
+
+<video name="台湾 台北 校园 2-普清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1336831586180</url>
+</video>
+<video name="台湾 台北 校园 2-高清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1336831586180</url>
+</video>
+
+<video name="台湾 台北 校园 2-普清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=&resolution=320x240&1336831586180</url>
+</video>
+<video name="台湾 台北 校园 2-高清">
+<url>http://140.120.200.61/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480&1336831586180</url>
+</video>
+
+<video name="台湾 台北交通路口 5">
+<url>http://60.251.184.162/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-A">
+<url>http://60.251.184.162/mjpg/1/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-B">
+<url>http://60.251.184.162/mjpg/2/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-C">
+<url>http://60.251.184.162/mjpg/3/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 5-D">
+<url>http://60.251.184.162/mjpg/4/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 6">
+<url>http://60.251.184.154/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 6-A">
+<url>http://60.251.184.154/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 7">
+<url>http://60.251.184.146/quad/1/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 7-A">
+<url>http://60.251.184.146/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 8">
+<url>http://60.251.184.170/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 8-A">
+<url>http://60.251.184.170/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 9">
+<url>http://60.251.184.138/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 9-A">
+<url>http://60.251.184.138/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="台湾 台北交通路口 10">
+<url>http://60.251.184.178/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 10-A">
+<url>http://60.251.184.178/mjpg/1/video.mjpg</url>
+</video>
+
+
+<video name="台湾 台北交通路口 11">
+<url>http://60.251.184.130/mjpg/quad/video.mjpg</url>
+</video>
+<video name="台湾 台北交通路口 11-A">
+<url>http://60.251.184.130/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="新加坡 交通路口 1">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5&resolution=352x288&1336833690635</url>
+</video>
+<video name="新加坡 交通路口 1-B">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5&resolution=352x288&1336833690635</url>
+</video>
+<video name="新加坡 交通路口 1-C">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5&resolution=352x288&1336833690635</url>
+</video>
+<video name="新加坡 交通路口 1-D">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5&resolution=352x288&1336833690635</url>
+</video>
+
+
+<video name="土耳其 停车场 Istanbul / Istanbul, Turkey 1-高清">
+<url>http://88.249.65.52/mjpg/video.mjpg</url>
+</video>
+<video name="土耳其 停车场 Istanbul / Istanbul, Turkey 1-普清">
+<url>http://88.249.65.52/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="土耳其 游泳池 Ankara / Ankara, Turkey 2">
+<url>http://78.187.74.117:8080/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="土耳其 风景1 Ankara / Ankara, Turkey -普清">
+<url>http://88.249.65.85/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="土耳其 风景1 Ankara / Ankara, Turkey -高清">
+<url>http://88.249.65.85/mjpg/video.mjpg</url>
+</video>
+
+
+<video name="土耳其 建筑1 Ankara / Ankara, Turkey -高清">
+<url>http://92.45.25.194:83/cgi-bin/faststream.jpg?stream=&fps=5&rand=424906</url>
+</video>
+
+<video name="越南 电站 shibuya-ku-高清">
+<url>http://thanhchaulongan.viewnetcam.com:82/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="越南 电站 shibuya-ku-普清">
+<url>http://thanhchaulongan.viewnetcam.com:82/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="越南 收银台 shibuya-ku">
+<url>http://mynghehaianh.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="越南 宾馆 shibuya-ku-普清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="越南 宾馆 shibuya-ku-高清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="越南 宾馆 shibuya-ku-普清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=320x240&Quality=Standard&data=v.mjpg</url>
+</video>
+<video name="越南 宾馆 shibuya-ku-高清">
+<url>http://duyloihcm5.viewnetcam.com:86/nphMotionJpeg?Resolution=640x480&Quality=Standard&data=v.mjpg</url>
+</video>
+
+<video name="中国  未知1-高清">
+<url>http://livevideo.worldicearena.com/mjpg/video.mjpg</url>
+</video>
+<video name="中国  湖北景点-高清">
+<url>http://219.139.46.21/cgi-bin/faststream.jpg?stream=full&fps=2&rand=412516</url>
+</video>
+<video name="中国  湖北景点-高清">
+<url>http://219.139.46.21/cgi-bin/faststream.jpg?stream=full&fps=2&rand=412516</url>
+</video>
+
+<video name="中国  上海1-高清">
+<url>http://aaana002.viewnetcam.com:5002/nphMotionJpeg?Resolution=640x480&Quality=Standard</url>
+</video>
+<video name="中国  上海1-普清">
+<url>http://aaana002.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240&Quality=Standard</url>
+</video>
+<video name="中国  上海1-低分辨率">
+<url>http://aaana002.viewnetcam.com:5002/nphMotionJpeg?Resolution=160x120&Quality=Standard</url>
+</video>
+
+<video name="中国  广东学校">
+<url>http://livevideo.worldicearena.com/mjpg/video.mjpg</url>
+</video>
+
+<video name="中国  北京 未知">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full&fps=6&rand=651484</url>
+</video>
+
+<video name="中国  北京 未知">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full&fps=6&rand=651484</url>
+</video>
+
+
+<video name="俄罗斯 圣彼得堡-广场 Saint Petersburg -高清">
+<url>http://95.161.27.5/mjpg/video.mjpg?camera=1&resolution=640x480&rotation=0</url>
+</video>
+<video name="俄罗斯 圣彼得堡-广场 Saint Petersburg   -普清">
+<url>http://95.161.27.5/mjpg/video.mjpg?camera=1&resolution=320x240&rotation=0</url>
+</video>
+
+
+
+
+
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="中国" order="C" >
+<city name="中国澳门" type="1888" order="I" >	
+
+<video name="澳门 广场">
+<url>http://iacm-wcam1.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="澳门 学校球场">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="澳门 街道">
+<url>http://wcam3.iacm.gov.mo/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="澳门 风景区">
+<url>http://iacm-wcam4.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="澳门 广场2">
+<url>http://iacm-wcam5.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
