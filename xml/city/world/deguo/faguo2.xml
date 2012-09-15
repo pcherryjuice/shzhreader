@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="法国" order="BL" >
+<city name="法国2" type="1888" order="B" >	
+	
+<video name="巴黎大区 Paris 巴黎民房户外10">
+<url>http://193.252.215.70:16666/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 办公室11">
+<url>http://premium-computer.fr:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 仓库13">
+<url>http://premium-computer.fr:9004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 草场14">
+<url>http://82.127.124.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Nanterre 海水">
+<url>http://80.13.101.90:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 大排档18">
+<url>http://plagenapoleon.homeip.net:2081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Levallois-perret 码头">
+<url>http://80.14.91.47/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 海景20">
+<url>http://217.128.152.166:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎郊外22">
+<url>http://62.147.252.208/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 山脉24">
+<url>http://82.127.124.126/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 室内27">
+<url>http://82.229.247.201:7072/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Malakoff 厂房外景">
+<url>http://ev-chantier-malakoff.axiscam.net:2525/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 商店29">
+<url>http://217.128.8.7:1000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎海上32">
+<url>http://80.13.52.53:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 海螺货架33">
+<url>http://webcam1.le-studio75.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Meudon 默东树林">
+<url>http://camsol.obspm.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Meudon 默东鸟瞰2">
+<url>http://sidecam.obspm.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎湖景37">
+<url>http://80.14.145.27/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Vigneux-sur-seine 园林">
+<url>http://213.41.139.190/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="巴黎大区  村落鸟瞰">
+<url>http://82.127.13.59/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Malakoff 海岸2">
+<url>http://217.128.151.33/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 沙滩排球39">
+<url>http://217.128.18.18/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="巴黎大区 Paris 天台上的花41">
+<url>http://meteovilliers.dyndns.org:16254/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Rungis 室内">
+<url>http://escop.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 城市鸟瞰">
+<url>http://213.41.177.163:8282/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Paris 巴黎美丽的海岸42">
+<url>http://193.252.30.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="南比利牛斯 Toulouse 楼顶一角">
+<url>http://butthead-fab.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="南比利牛斯 Toulouse 图卢兹山脚下的路2">
+<url>http://gitesgoursau.dyndns.org:9999/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="France 加莱海峡省 Gravelines 海滩">
+<url>http://webcam.ville-gravelines.fr:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="卢瓦尔-山脉">
+<url>http://80.13.185.47:9000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

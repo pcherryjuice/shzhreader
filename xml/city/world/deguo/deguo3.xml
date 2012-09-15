@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国" order="BC" >
+<city name="德国3" type="1888" order="C" >	
+	
+<video name="德国-萨克森  Lommatzsch 广场">
+<url>http://stadtelstra.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Zittau 城中小河">
+<url>http://lutzp.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 我家阳台">
+<url>http://nierott-castle.dyndns.org:9050/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国  金鱼水池">
+<url>http://mhirte.com:82/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Friedrichshafen 农田">
+<url>http://slashcam.doubleslash.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Karlsruhe 河边浴场">
+<url>http://bodensee-therme.serveftp.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Karlsruhe 河边浴场-高清">
+<url>http://bodensee-therme.serveftp.net/mjpg/video.mjpg?Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州  铁路">
+<url>http://stenzelflyfishing.dyndns.org:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 山林美景-高清">
+<url>http://80.152.139.130/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-柏林 Berlin 小区风景3（有点卡）">
+<url>http://sinnlosewebcam.dyndns.org:80/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 梅克伦堡-前波莫瑞 Barnekow 河边小屋">
+<url>http://chalet-nautique.dyndns.tv/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Clausthal 工厂内-高清">
+<url>http://139.174.156.201/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 城市风景">
+<url>http://134.76.175.241/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 城市风景-高清">
+<url>rtsp://134.76.175.241/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-下萨克森州 Juist 广场5">
+<url>http://atlanticjuist.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Oldenburg 广场6">
+<url>http://212.6.91.123/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Seevetal 楼下风光">
+<url>http://hamburgcam.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Gangelt 城市风光6">
+<url>http://endart.dyndns.info/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  Brachbach 老树">
+<url>http://stoehr.selfhost.eu/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  Friedensau 大楼3">
+<url>http://195.37.84.27/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Dresden 公司大楼2">
+<url>http://212.202.143.170:10001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 未知7">
+<url>http://nierott-castle.dyndns.org:9070/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Lubeck 大街5">
+<url>http://212.108.160.103/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Reinfeld 花园小区">
+<url>http://landkirchen.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 城市景色（旋转摄像头）">
+<url>http://213.179.68.191/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 城市风光8">
+<url>http://88.133.1.154/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Gechingen 河中小岛">
+<url>http://80.152.215.61:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Kempten 路边洗车店">
+<url>http://rempp-freiburg.dyndns.org:8081/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林  实验室4">
+<url>http://141.20.31.128/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林  山中茅屋-高清">
+<url>http://ipse.ath.cx/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 公园">
+<url>http://217.91.153.75/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+
+<video name="德国 法兰克福 Hessen  广场7">
+<url>http://85.233.48.18/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国二" order="BD" >
+<city name="德国7" type="1888" order="H" >	
+	
+<video name="德国-北莱茵-威斯特法伦州 Bielefeld 停车场12">
+<url>http://webcam2.schobess.info:8010/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Dortmund 田园风光2">
+<url>http://axis-7d2416.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 后院">
+<url>http://nierott-castle.dyndns.org:9020/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 广场11">
+<url>http://sagerviertel.dyndns.org:2000/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Rendsburg 门口2">
+<url>http://sagerviertel.dyndns.org:2002/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 郊外草地">
+<url>http://194.231.230.17/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 城市风光14">
+<url>http://217.92.73.116/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 工厂2">
+<url>http://94.125.78.190/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国 停车场7">
+<url>http://schneidermue.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 停车场8">
+<url>http://vitalien.viewnetcam.com:24837/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国 教堂2">
+<url>http://webcam.aicomp.de/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国 乡村景色4">
+<url>http://webcam.hunderdorf.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 停车场9">
+<url>http://webcam1.schobess.info:8010/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Bochum 鸟巢">
+<url>http://falkennest-ost.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Starnberg 喷泉广场">
+<url>http://82.135.124.180/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Datteln 教堂大楼">
+<url>http://88.79.120.162/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Leinfelden-echterdingen 家庭监控">
+<url>http://epfenbachwetter.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 交通路口">
+<url>http://141.20.31.115/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-汉堡 Hamburg 交通路口3">
+<url>http://kreuzcam.dyndns.org/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Dortmund 工厂大楼-高清">
+<url>http://webcam1.luedenscheid.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Breklum 海边3（有点卡）">
+<url>http://axis-98c9b8.axiscam.net/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Castrop-rauxel 运动场">
+<url>http://tvgggwebcam.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州  公园">
+<url>http://marcust.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337958886811</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州  气象监测">
+<url>http://aros.dyndns.tv:5005/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Lugau  天空">
+<url>http://bs-datentechnik.dyndns.org:8083/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Hofheim 小区门口">
+<url>http://axis-80d59e.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州  乡村小屋">
+<url>http://ibw-si.dyndns.org:8080/cgi-bin/hugesize.jpg?motion=0::1;dummy=1337960128592::1;resolution=352x288</url>
+</video>
+
+<video name="德国-萨克森  Leipzig 港口">
+<url>http://212.122.50.41/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Altenholz 小猫">
+<url>http://nierott-castle.dyndns.org:9010/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Thuringen Jena 窗外">
+<url>http://cam.bw.fh-jena.de/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337960883770</url>
+</video>
+
+<video name="德国 山林美景2">
+<url>http://rennsteigler.dyndns.tv/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Garching 天文台">
+<url>http://remwbc1.ls.eso.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337961279939</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  Trier 室内">
+<url>http://chrissie.selfhost.tv:93/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Pl?n 路边小广场">
+<url>http://janssencam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 Thuringen Jena 烟囱-高清">
+<url>http://194.94.37.79/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Munich 广场2">
+<url>http://141.39.245.118/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

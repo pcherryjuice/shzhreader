@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国" order="BC" >
+<city name="德国4" type="1888" order="D" >	
+	
+<video name="德国 法兰克福  Hessen 网球场">
+<url>http://tcmeerholz.dyndns.org:81/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 梅克伦堡-前波莫瑞 Wusterhusen 海边风景">
+<url>http://thiessow-lotsen.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Wittmar 小区风光7">
+<url>http://fmhuth.dyndns.org:8081/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Bochum 未知6">
+<url>http://falkennest-nord.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Duisburg 办公电脑前">
+<url>http://134.91.124.69/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Essen 旧大楼">
+<url>http://217.78.137.43/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州  飞机场">
+<url>http://edkv.dyndns.org:32180/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Unna 实验室6">
+<url>http://dmz.bab-tec.de:83/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  交通路口-高清">
+<url>http://benson04.serveftp.net:1024/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Rodewisch 停车场3">
+<url>http://oelsnitz-cam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因 Rendsburg 宾馆大门">
+<url>http://sagerviertel.dyndns.org:2003/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国  高速公路3">
+<url>http://195.82.84.236:81/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 湖光山色">
+<url>http://217.7.121.42:2808/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 码头3">
+<url>http://217.91.25.64/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 高尔夫球场3">
+<url>http://88.79.120.2/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 古教堂">
+<url>http://94.125.79.106/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国 山村小路">
+<url>http://roofcam.kolb-digital.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 建筑工地">
+<url>http://turm-nikolai.selfip.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Gammertingen 阳台植物">
+<url>http://dd8il.dyndns.tv:88/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Karlsruhe 城市风光2">
+<url>http://85.115.28.98/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Konstanz 广播电台主播坐">
+<url>http://kaygee-cam.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Rottenburg 河边风光3">
+<url>http://citykrone.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Sigmaringen 雕刻博物广场">
+<url>http://stroebel-natursteine.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Erlangen 广播电台2">
+<url>http://131.188.69.22/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Megesheim 窗外草地">
+<url>http://lsvgzgw1.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Nuremberg 海边风光4">
+<url>http://217.91.122.232/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Oberstaufen 牧场">
+<url>http://bolgental.ath.cx/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Regensburg 城市风光9">
+<url>http://eye3.medicdat.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Regensburg 城市风光9-高清">
+<url>rtsp://eye3.medicdat.de/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-勃兰登堡  Forst 城市风景4">
+<url>http://niesky.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338466823539</url>
+</video>
+
+<video name="法兰克福 Hessen 德国 网球场2">
+<url>http://tcmeerholz.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 梅克伦堡-前波莫瑞 Ziemitz 城中马路2">
+<url>http://seepark.homeip.net:4000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Clausthal 实验室3（有点卡）">
+<url>http://139.174.156.207/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 G?ttingen 实验室5">
+<url>http://134.76.205.194/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

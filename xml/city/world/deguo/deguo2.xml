@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="德国" order="BC" >
+<city name="德国2" type="1888" order="B" >	
+	
+<video name="德国-汉堡 Hamburg 我的花园">
+<url>http://pummelcam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 酒吧">
+<url>http://wp8.dyndns.org:8082/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Waldheim 后花园">
+<url>http://nimaserver.dyndns.org:81/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国  未知室内">
+<url>http://213.61.104.92:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Nordheim 城市大街">
+<url>http://89.199.0.26/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Coburg 公司大楼">
+<url>http://cam-veste.dacor.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Coburg 公司大楼-高清">
+<url>rtsp://cam-veste.dacor.de/mpeg4/media.amp</url>
+</video>
+
+<video name="德国-拜耳 Oberstdorf 河边广场">
+<url>http://webcam-seegarten.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 窗外绿树">
+<url>http://sinnlosewebcam.dyndns.org:81/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州  小区风景">
+<url>http://217.86.174.228:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Chemnitz 树林风景">
+<url>http://webcam.swc.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-石勒苏益格—荷尔施泰因  街景">
+<url>http://pic.lynet.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 农场">
+<url>http://217.91.94.161:8193/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Freiburg 农场">
+<url>http://87.234.241.181:8012/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Emden 未知2">
+<url>http://hafen.mine.nu:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Ronnenberg 城市街道">
+<url>http://axis-7f87f9.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 Emsdetten 广场">
+<url>http://91.190.227.198/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 K?ln 小区风景">
+<url>http://87.79.238.113:9004/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 会客区">
+<url>http://213.61.104.93/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 会馆停车场">
+<url>http://87.139.79.166:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 绿林山庄">
+<url>http://webcam14.deg.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国 树林风光">
+<url>http://webcam15.deg.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-巴登-符腾堡州 Schliengen 大楼前">
+<url>http://gisinger44.mine.nu:8083/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Bad Kissingen Bayern 德国 路边停车场">
+<url>http://217.91.69.72/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Feldafing 帆船码头">
+<url>http://bootswerft-fischer.selfip.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-拜耳 Wallersdorf 跑马场（旋转摄像头）">
+<url>http://109.239.174.192:8080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-柏林 Berlin 田园风光">
+<url>http://gccvideo.dynalias.com/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+
+<video name="德国-汉堡 Hamburg 窗外风光">
+<url>http://tauchen-hamburg.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-下萨克森州 Osnabruck 大转盘-高清">
+<url>http://85.8.92.254:333/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="德国-莱茵兰-法耳次州   城市风光">
+<url>http://217.86.174.228:8081/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-萨克森  Bautzen 飞机场跑道">
+<url>http://cam1.edab.biz/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>

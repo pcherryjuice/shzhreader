@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="法国" order="BL" >
+<city name="法国3" type="1888" order="C" >	
+	
+<video name="南特-办公室">
+<url>http://130.66.66.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Nice 普罗旺斯-阿尔卑斯 d'Azur France 4s店">
+<url>http://88.209.85.243/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="维多邦鸟瞰">
+<url>http://82.127.13.59:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="格里莫山林鸟瞰">
+<url>http://194.206.101.26:64000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯 山上的别墅">
+<url>http://mandelieu.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯 山坡上的民宅">
+<url>http://jbo45.dyndns.org:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 Marseille 马赛工作站2">
+<url>http://tarotchilivisit2.oamp.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 Nice 城市鸟瞰2">
+<url>http://82.230.103.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 La Crau 海边度假村">
+<url>http://agaycam01.dyndns.org:8083/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 La Napoule 树林与天空2">
+<url>http://mandelieu1.axiscam.net:8010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 Marseille 民宅与天空3">
+<url>http://cannesmeteo.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="普罗旺斯-阿尔卑斯 Nice 海湾3">
+<url>http://camnice1.obs-nice.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Grenoble 格勒诺布尔公司门口看山脉">
+<url>http://webcam.ampere.inpg.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Lyon 里昂海岸">
+<url>http://193.252.210.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 民宅">
+<url>http://217.128.101.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Grenoble 格勒诺布尔山脉与天空2">
+<url>http://webcam.minatec.grenoble-inp.fr/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="罗纳-阿尔卑斯 Annemasse 阿讷马斯美丽的天空">
+<url>http://cam1-sbastian.axiscam.net:2008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Feyzin 美景鸟瞰">
+<url>http://axis-7039ad.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Bellegarde-sur-valserine 室内养殖">
+<url>http://asters.dyndns.org:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="罗纳-阿尔卑斯 Yenne 耶讷山林草场">
+<url>http://ltrouter.dnsalias.net:8009/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="巴黎大区 Courbevoie 未知摄像头">
+<url>http://serveurperso.com:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Rai 2">
+<url>http://camera.portdementongaravan.fr/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="下诺曼底 Rai 酒吧">
+<url>http://webcam.ville-saintes.fr:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="阿基坦 Vallier 2">
+<url>http://192.134.16.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="下诺曼底 Lisieux">
+<url>http://montpincon.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Centre Gif-sur-yvette 城市景色">
+<url>http://82.127.10.188:5000/image?speed=0</url>
+</video>
+
+<video name="Franche-Comte Saint-claude 城市景色2">
+<url>http://darktweety.dyndns.tv/image?speed=0</url>
+</video>
+
+<video name="上诺曼底 Le Havre 鸟窝-高清">
+<url>http://194.250.20.130/image?speed=0</url>
+</video>
+
+
+<video name="巴黎大区 Paris 未知摄像头7">
+<url>http://www.premium-computer.fr:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
