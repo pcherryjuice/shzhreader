@@ -5,29 +5,29 @@
 <province name="加拿大" order="AD" >
     <city name="加拿大1" type="1" order="A" >	
 			<video name="# 加拿大1(单击加载)">
-				<url>city/jianada/jianada1-1.xml</url>
+				<url>city/world/jianada//jianada1-1.xml</url>
 			</video>
 		</city>	
     <city name="加拿大2" type="1" order="B" >	
     	<video name="# 加拿大2(单击加载)">
-				<url>city/jianada/jianada1-2.xml</url>
+				<url>city/world/jianada//jianada1-2.xml</url>
 			</video>
 		</city>	
 		<city name="加拿大3" type="1" order="C" >	
     	<video name="# 加拿大3(单击加载)">
-				<url>city/jianada/jianada1-3.xml</url>
+				<url>city/world/jianada//jianada1-3.xml</url>
 			</video>
 		</city>	
 		<city name="加拿大4" type="1" order="D" >	
     	<video name="# 加拿大4(单击加载)">
-				<url>city/jianada/jianada1-4.xml</url>
+				<url>city/world/jianada//jianada1-4.xml</url>
 			</video>
 		</city>	
 </province>
 <province name="墨西哥" order="AG" >
     <city name="墨西哥" type="1" order="A" >	
        <video name="# 墨西哥(单击加载)">
-				 <url>city/jianada/moxige.xml</url>
+				 <url>city/world/jianada//moxige.xml</url>
 			 </video>
 		</city>	
 </province>
@@ -35,7 +35,7 @@
 <province name="南美洲" order="AH" >
     <city name="南美洲" type="1" order="A" >	
 	     <video name="# 南美洲(单击加载)">
-				 <url>city/jianada/nanmz.xml</url>
+				 <url>city/world/jianada//nanmz.xml</url>
 			 </video>
 		</city>	
 </province>
