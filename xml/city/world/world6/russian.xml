@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+
+	
+<province name="俄罗斯" order="CC" >
+    <city name="俄罗斯" type="1" order="A" >	
+			<video name="# 俄罗斯(单击加载)">
+				<url>city/world/world6/russian1.xml</url>
+			</video>
+		</city>	
+		
+		<city name="俄罗斯2" type="1" order="B" >	
+			<video name="# 俄罗斯2(单击加载)">
+				<url>city/world/world6/russian2.xml</url>
+			</video>
+		</city>	
+		
+		<city name="俄罗斯3" type="1" order="C" >	
+			<video name="# 俄罗斯3(单击加载)">
+				<url>city/world/world6/russian3.xml</url>
+			</video>
+		</city>	
+</province>
+<province name="澳大利亚" order="DA" >
+    <city name="澳大利亚" type="1888" order="A" >	
+      <video name="# 澳大利亚(单击加载)">
+				<url>city/world/world6/adly.xml</url>
+			</video>
+		</city>	
+</province>
+
+</provinces> 

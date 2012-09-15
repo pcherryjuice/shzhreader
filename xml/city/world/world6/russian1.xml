@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="俄罗斯" order="CC" >
+<city name="俄罗斯" type="1888" order="A" >	
+	
+<video name="俄罗斯 莫斯科  十字路口">
+<url>http://camera2.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  室外风景2">
+<url>http://camera.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  室外风景3">
+<url>http://94.198.109.177/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  室外风景4">
+<url>http://cam.butovonet.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 网吧">
+<url>http://212.42.54.137:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 秋明 草坪">
+<url>http://webcam2.ttknet.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  工厂大门5">
+<url>http://lazarevskoe.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 斯摩棱斯克  工厂后面">
+<url>http://212.3.138.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 建筑施工2">
+<url>http://188.134.73.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Cheboksary Chuvashia  建筑施工">
+<url>http://89.151.180.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Gatchina Leningrad  室内">
+<url>http://193.111.254.182/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克  房屋与天空">
+<url>http://217.29.93.100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 马路3">
+<url>http://webcam.lanta-net.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 莫斯科  停车场7">
+<url>http://94.199.216.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 前台4">
+<url>http://95.66.143.37:200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 室内5">
+<url>http://mfc.托木斯克.ru:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Ufa Bashkortostan  前台">
+<url>http://92.50.128.90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  工地8">
+<url>http://89.169.0.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 秋明  马路与房子2">
+<url>http://85.15.135.130/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  楼宇9">
+<url>http://cam-19.gpinternet.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka   道路">
+<url>http://213.110.31.30/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka   广场2">
+<url>http://213.110.31.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Krasnodar Krasnodar  厂房">
+<url>http://85.172.13.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  河畔马路11">
+<url>http://217.197.122.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Artem Primor'ye  广场">
+<url>http://81.200.144.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡  室内">
+<url>http://84.52.92.221:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="俄罗斯 Vologda Vologda  马路边的楼顶">
+<url>http://213.154.169.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka   停车场3">
+<url>http://213.110.31.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 卡卢加 Amur  楼侧">
+<url>http://cam1.belogorsk.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科  楼13">
+<url>http://195.98.178.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>

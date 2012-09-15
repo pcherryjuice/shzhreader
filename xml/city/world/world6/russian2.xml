@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="俄罗斯" order="CC" >
+<city name="俄罗斯2" type="1888" order="B" >	
+	
+<video name="俄罗斯 莫斯科  楼14">
+<url>http://81.200.10.183/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克  停车场2">
+<url>http://webcam.fet.tusur.ru/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1337596573225</url>
+</video>
+
+<video name="俄罗斯 秋明  城市郊区2">
+<url>http://85.15.135.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 罗斯托夫州 Yaroslavl' 门口">
+<url>http://213.138.74.82:2020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 网吧6">
+<url>http://212.42.54.135:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Raduzhnyy  广场">
+<url>http://91.143.62.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Sochi Krasnodar 海边游泳池">
+<url>http://62.182.141.132/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 楼顶15">
+<url>http://217.70.19.78/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 斯摩棱斯克 别墅2">
+<url>http://212.3.138.181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 宇航员训练室7（推荐）">
+<url>http://83.69.197.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka  大门口4">
+<url>http://213.110.31.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Magadan Magadan 山景">
+<url>http://89.28.252.218/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 十字路口16">
+<url>http://camera3.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 花丛小路17">
+<url>http://webcam.gps-road.ru:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 摩尔曼斯克 未知">
+<url>http://naviteq.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 广场2">
+<url>http://62.16.100.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 斯摩棱斯克 厂房3">
+<url>http://212.3.138.180/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka  路边小店5">
+<url>http://213.110.31.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 秋明 草场4">
+<url>http://85.15.135.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 罗斯托夫州 Yaroslavl' 交叉路2">
+<url>http://85.21.63.113/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 路边的停车场8">
+<url>http://195.191.130.7:8210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 公司门口9">
+<url>http://cam1.infolink.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka  商店门口6">
+<url>http://213.110.31.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 户外18">
+<url>http://88.84.208.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 莫斯科 湖边浴场19(推荐)">
+<url>http://camera1.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Korolev Moskva 建筑工地">
+<url>http://93.123.252.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Moskovskiy Moskva 楼宇">
+<url>http://87.245.185.147:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Nakhodka Primor'ye 街景">
+<url>http://195.225.163.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 儿童游乐场4">
+<url>http://95.161.27.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 斯摩棱斯克 土坑4">
+<url>http://212.3.138.178/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Chelny Tatarstan 前台">
+<url>http://81.22.201.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克 广场3">
+<url>http://212.192.120.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 健身室10">
+<url>http://195.239.51.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 纹身室11(推荐)">
+<url>http://77.239.244.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
