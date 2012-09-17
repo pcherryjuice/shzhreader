@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选6" type="1888" order="F" >
+			
+<video name="奥地利 下奥地利 Echsenbach 雪林 -普清">
+<url>http://webcam.berghotel.at/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337171533779::1;data=v.mjpg</url>
+</video>
+
+<video name="波兰 比亚威斯托克  比亚韦斯托克加油站">
+<url>http://77.79.211.12:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 格但斯克广场">
+<url>http://109.107.9.38/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 里布尼克喷泉">
+<url>http://212.244.173.167/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 城市鸟瞰">
+<url>http://91.200.38.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 科沃布热格海岸">
+<url>http://kamera01.arka-mega.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 沃尔布罗姆鸟瞰山峦">
+<url>http://79.189.44.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 科沙林旋转摄像头">
+<url>http://62.108.171.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 什切青前台">
+<url>http://83.15.119.166:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 西里西亚 广场">
+<url>http://87.239.46.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="小波兰省 小波兰草场">
+<url>http://kamera.epnt.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 广场旋转摄像头6">
+<url>http://brodnica.eltronik.net.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Jastrzebie Zdroj Slaskie 公路鸟瞰">
+<url>http://213.77.33.2:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="波兰 比亚韦斯托克广场的风景4">
+<url>http://bialystokonline2.axiscam.net:10200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 琴斯托霍瓦 塔2">
+<url>http://212.87.237.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Stargard Szczecinski Zachodniopomorskie 西滨海球场">
+<url>http://213.199.197.133:5000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Zachodniopomorskie Trzeszczyn 海港">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="小波兰省 Polska 2 乡村小河">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338044395430::1;data=v.mjpg</url>
+</video-->
+<video name="小波兰省 Polska 2 乡村小河2">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1338044395430::1;data=v.mjpg</url>
+</video>
+<video name="波兰 城市风景4">
+<url>http://217.144.203.103/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="波兰 Pomorskie Gdynia 码头">
+<url>http://194.150.246.3:88/cgi-bin/mjpg/video.cgi?1338044981595::1;data=v.mjpg</url>
+</video>
+<video name="波兰 广场8">
+<url>http://195.200.199.42/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338045148290::1;data=v.mjpg</url>
+</video>
+<video name="波兰 Lubelskie Terespol 野外游乐场">
+<url>http://94.40.18.62/image?speed=1::1;data=v.mjpg</url>
+</video>
+<video name="乌克兰 Ukraine 喷泉广场">
+<url>http://cam.ic.km.ua/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Rivne Rivnens'ka Oblast' Ukraine 市中心广场">
+<url>http://77.120.86.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 城市风貌2">
+<url>http://sun.hm.ukrtel.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 露天游泳池">
+<url>http://213.179.238.39/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 市中心广场2">
+<url>http://195.5.39.15/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 鸟瞰大厦广场">
+<url>http://94.74.71.103:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 办公室内景">
+<url>http://193.46.210.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 交通摄像头">
+<url>http://195.5.16.71/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 城市风貌">
+<url>http://195.5.16.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 小广场">
+<url>http://213.179.245.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="乌克兰 Ukraine 城市风貌3">
+<url>http://213.179.246.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="希腊 Attiki Athens 海边小岛">
+<url>http://84.205.233.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="希腊 Attiki Athens 教堂内景">
+<url>http://84.205.229.52:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="希腊 Attiki Athens 广场（高清）">
+<url>http://84.205.237.90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="希腊 Attiki Athens 游艇码头（高清）">
+<url>http://tinos.dyndns.tv:60041/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Attiki Athens 海边浴场">
+<url>http://zorbas2.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Attiki Athens 海边观光台（高清）">
+<url>http://absolutehtl.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Korinthia Corinth 海边风景（高清）">
+<url>http://kalogria.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Messinia 海边风景2(高清)">
+<url>http://maniapartments.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Attiki  游艇码头（高清）">
+<url>http://79.129.0.247:8021/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="希腊 Attiki Athens 海边风景4（高清）">
+<url>http://skopel07.static.otenet.gr:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="罗马尼亚 Arad Arad 政府大楼2">
+<url>http://webcam1.primariaarad.ro:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="罗马尼亚 Bucuresti Bucharest 广场石桌-高清">
+<url>http://86.35.24.45:8208/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Buzau Buzau 购物大楼-高清">
+<url>http://86.127.117.153:50000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Dolj Craiova 喷泉广场-高清">
+<url>http://82.77.65.43:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Bucuresti Bucharest 大楼风景2-高清">
+<url>http://86.123.165.154/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Bucuresti Bucharest 公园石门3-高清">
+<url>http://86.35.24.45:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Bucuresti Bucharest 交通路口4-高清">
+<url>http://141.85.0.88:8083/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Arges Mioveni 城市风貌3-高清">
+<url>http://86.122.68.20:5678/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Arges Mioveni 广场2-高清">
+<url>http://86.122.68.20:6789/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="罗马尼亚 Mures Sovata 公园小湖-高清">
+<url>http://89.36.175.102/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

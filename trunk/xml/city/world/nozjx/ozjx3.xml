@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选3" type="1888" order="C" >
+			
+
+
+<video name="意大利-阿布鲁佐 Pescara 度假村">
+<url>http://212.43.123.19/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="意大利-阿布鲁佐 Isola 碧海银沙-高清">
+<url>http://91.214.62.106/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利-坎帕尼亚 Salento 海景山色-高清">
+<url>http://79.5.160.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利-坎帕尼亚 Battipaglia 温泉">
+<url>http://79.15.101.186:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利-坎帕尼亚 Naples 古楼大街2">
+<url>http://webcam.hotelchiaia.com:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利-坎帕尼亚 Caserta 美丽的海滨城市2-高清">
+<url>http://85.18.249.228/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 摩德纳省-罗马涅-艾米利亚 古楼大街3-高清">
+<url>http://webcam1.carpidiem.it/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利Emilia-Romagna Modena 海边浴场4">
+<url>http://89.97.40.143/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="意大利 拉齐奥 海滨浴场8-高清">
+<url>http://95.240.239.195/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="意大利 利古利亚 因佩里亚省  海滨浴场7">
+<url>http://213.204.2.199:5901/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="意大利 伦巴第 Bergamo 湖光山色-高清-1080p">
+<url>http://sebino.selfip.org:6201/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 马尔凯 Pesaro 海边浴场10-高清">
+<url>http://82.104.250.105/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 马尔凯 Montecosaro 海滨浴场14">
+<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 皮埃蒙特 Borgosesia 浴场监控摄像头">
+<url>http://87.30.9.81:8155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="意大利 普利亚大区 Bari  椰树海边2-高清">
+<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 西西里 Balestrate 海边小码头3-高清">
+<url>http://82.107.87.169/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="意大利 Molveno Trentino-Alto Adige海边游泳池">
+<url>http://79.137.113.130:210/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士弗里堡州 Alterswil 城市风貌-旋转镜头">
+<url>http://axis-206m.axiscam.net:1025/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士-Jura Laufen 雪山风景">
+<url>http://axis-bual-lantsch.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士卢塞恩 Kriens 餐厅内景">
+<url>http://81.63.138.72:1216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士上瓦尔登州 Giswil 湖光山色4">
+<url>http://lago-mio.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士上瓦尔登州 Engelberg 酒店前台">
+<url>http://195.43.56.144/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士圣加仑 酒吧3">
+<url>http://87.245.118.88:81/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+<video name="瑞士圣加仑 教堂5">
+<url>http://klosterplatz.selfip.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士索洛图恩 Olten 小城堡-高清">
+<url>http://80.254.180.196/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="瑞士提契诺州 Pregassona 广场">
+<url>http://webcam01.lugano.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士瓦莱州 Monthey 楼下喷泉-高清">
+<url>http://213.221.150.11/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士瓦莱州 Monthey 风力发电站2">
+<url>http://213.221.150.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士瓦莱州 Saint-jean 雪山下的别墅-高清">
+<url>http://grimloc.dnsalias.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士瓦莱州 Monthey 江边小码头3-高清">
+<url>http://fwag.homeip.net/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士-沃州 Lausanne 宾馆前台-高清">
+<url>http://213.221.138.98/img/video.mjpeg?resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="瑞士-沃州 Pully 小码头2">
+<url>http://laterrasse.stvs.ch:10023/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 下奥地利 Ybbs 河边美景 -高清">
+<url>http://85.255.144.143/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=641024::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 上奥地利 Neuhofen河流  -普清">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Gurtis街道2 -高清">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+<video name="小波兰省 欧罗巴洲路口">
+<url>http://gizycko.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="小波兰省 克拉科夫住宅区">
+<url>http://umigg.dyndns.org:8888/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 里布尼克喷泉">
+<url>http://212.244.173.167/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 城市鸟瞰">
+<url>http://91.200.38.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 科沃布热格海岸">
+<url>http://kamera01.arka-mega.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 科沙林旋转摄像头">
+<url>http://62.108.171.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 什切青前台">
+<url>http://83.15.119.166:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 比亚韦斯托克广场的风景4">
+<url>http://bialystokonline2.axiscam.net:10200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 琴斯托霍瓦 塔2">
+<url>http://212.87.237.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 科沙林住宅区4">
+<url>http://62.108.171.67/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 Zachodniopomorskie Trzeszczyn 海港">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="波兰 比亚威斯托克 3">
+<url>http://83.175.144.131:8888/image?speed=2::1;data=v.mjpg</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

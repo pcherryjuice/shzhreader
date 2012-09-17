@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="欧洲精选" order="b" >
+<city name="俄罗斯" type="1888" order="D" >
+	
+<video name="俄罗斯 航天员训练室">
+<url>http://83.69.197.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯-莫斯科 高速公路">
+<url>http://camera2.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 俱乐部前台4">
+<url>http://95.66.143.37:200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 游戏俱乐部">
+<url>http://212.42.54.137:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克酒店室内">
+<url>http://mfc.tomsk.ru:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 纹身室11">
+<url>http://77.239.244.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 圣彼得堡 广场2">
+<url>http://62.16.100.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 鞋店2">
+<url>http://92.50.128.238:12044/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 鞋店3">
+<url>http://92.50.128.238:12029/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店4">
+<url>http://92.50.128.238:12045/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店5">
+<url>http://92.50.128.238:12057/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 餐厅6">
+<url>http://92.50.128.238:12077/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 收银台7">
+<url>http://92.50.128.238:12038/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯-莫斯科 城市风貌2">
+<url>http://camera.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯-莫斯科 城市风貌3">
+<url>http://94.198.109.177/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 秋明 运动场">
+<url>http://webcam2.ttknet.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 跨海大桥22">
+<url>http://77.35.104.40/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="俄罗斯 巴什克托 Ufa 鞋店8">
+<url>http://92.50.128.238:12042/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店9">
+<url>http://92.50.128.238:12068/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店10">
+<url>http://92.50.128.238:12056/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商店走廊11">
+<url>http://92.50.128.238:12017/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 餐厅12">
+<url>http://92.50.128.238:12030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 切博克萨雷 高楼下的游乐场">
+<url>http://89.151.180.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克 城市风貌">
+<url>http://217.29.93.100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 斑马线3">
+<url>http://webcam.lanta-net.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 Ufa Bashkortostan  酒店前台">
+<url>http://92.50.128.90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 车里雅宾斯克 停车场2">
+<url>http://213.110.31.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯-莫斯科 城市风貌11">
+<url>http://217.197.122.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Satka 停车场3">
+<url>http://213.110.31.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 雅罗斯拉夫尔 Rostov amarks前台">
+<url>http://213.138.74.82:2020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 游戏俱乐部6">
+<url>http://212.42.54.135:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 车里雅宾斯克 Raduzhnyy 城市广场">
+<url>http://91.143.62.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 克拉斯诺达尔 Sochi 海边浴场">
+<url>http://62.182.141.132/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 车里雅宾斯克 Satka 政府大楼4">
+<url>http://213.110.31.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 摩尔曼斯克 城市风景">
+<url>http://naviteq.ru/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="俄罗斯 车里雅宾斯克 Satka 街边5">
+<url>http://213.110.31.26/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯-莫斯科 湖边19">
+<url>http://camera1.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 圣彼得堡 小区游乐场4">
+<url>http://95.161.27.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 鞑靼斯坦喀 Chelny amaks酒店前台">
+<url>http://81.22.201.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 托木斯克 喷泉广场3">
+<url>http://212.192.120.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 圣彼得堡 小区游乐场5">
+<url>http://95.161.27.60/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 游戏俱乐部14">
+<url>http://212.42.54.136:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 城市广场16">
+<url>http://195.54.9.138/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="俄罗斯 巴什克托 Ufa 服装店15">
+<url>http://92.50.128.238:12028/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商店出口16">
+<url>http://92.50.128.238:12004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商场走廊18">
+<url>http://92.50.128.238:12087/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 帽子商店20">
+<url>http://92.50.128.238:12031/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商店收银台23">
+<url>http://92.50.128.238:12097/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店24">
+<url>http://92.50.128.238:12020/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店25">
+<url>http://92.50.128.238:12027/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 皮鞋皮包商店26">
+<url>http://92.50.128.238:12063/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店27">
+<url>http://92.50.128.238:12016/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店28">
+<url>http://92.50.128.238:12053/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 首饰店门口29">
+<url>http://92.50.128.238:12074/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Komsomolskaya 俄罗斯 克拉斯诺达尔 市中心广场">
+<url>http://www.webcam.admhmao.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店32">
+<url>http://92.50.128.238:12024/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 咖啡店门口33">
+<url>http://92.50.128.238:12070/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店34">
+<url>http://92.50.128.238:12091/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店35">
+<url>http://92.50.128.238:12037/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 萨哈 Yakutsk 运动场馆门口">
+<url>http://88.82.172.247:4040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 眼镜店41">
+<url>http://92.50.128.238:12093/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店44">
+<url>http://92.50.128.238:12019/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店45">
+<url>http://92.50.128.238:12010/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 鞋店47">
+<url>http://92.50.128.238:12026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店48">
+<url>http://92.50.128.238:12041/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 餐厅50">
+<url>http://92.50.128.238:12075/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Belgorod Belgorod 俄罗斯 amaks前台">
+<url>http://94.232.8.10/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 商场51">
+<url>http://92.50.128.238:12006/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 化妆品商店53">
+<url>http://92.50.128.238:12033/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店55">
+<url>http://92.50.128.238:12052/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 男士鞋店66">
+<url>http://92.50.128.238:12051/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装店67">
+<url>http://92.50.128.238:12054/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店69">
+<url>http://92.50.128.238:12064/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店71">
+<url>http://92.50.128.238:12073/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 服装商店73">
+<url>http://92.50.128.238:12090/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 皮鞋皮包店76">
+<url>http://92.50.128.238:12050/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 男士服装店78">
+<url>http://92.50.128.238:12061/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Magadan Magadan 俄罗斯 山林小屋2">
+<url>http://89.28.252.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯 巴什克托 Ufa 眼镜店80">
+<url>http://92.50.128.238:12071/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="俄罗斯-莫斯科 城市鸟瞰32">
+<url>http://portal.kurkino.net.ru:801/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</city>
+</province>
+</provinces>
