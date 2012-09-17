@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选" order="b" >
+		<city name="美洲精选3" type="1888" order="C" >
+			
+<video name="美国 加州 Santa Clara 圣塔克拉拉大学校园">
+<url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 加州 San Luis Obispo办公室9">
+<url>http://129.65.126.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 加州 San Luis Obispo 码头10-高清">
+<url>http://199.36.177.234/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Hicksville 校园">
+<url>http://108.58.154.186/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约州罗切斯特市  罗切斯特理工大学-实验室">
+<url>http://vlsicam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Hamilton 高露洁大学-校园">
+<url>http://149.43.156.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Hamilton 高露洁大学-校园2">
+<url>http://149.43.156.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Potsdam  克拉克森大学-工程学院">
+<url>http://studentcenter2.construction.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Canton 校园3">
+<url>http://69.6.98.250/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约  哥伦比亚大学-教学楼">
+<url>http://160.39.101.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 自由女神-高清">
+<url>http://24.39.139.182:4080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 纽约 Rochester  纽约州罗彻斯特大学-校园">
+<url>http://128.151.54.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Alfred  阿尔弗雷德大学-校园内景">
+<url>http://webcam3.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Oswego 纽约大学奥斯威戈分校-校园">
+<url>http://web-cam-2.oswego.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Rochester 罗切斯特理工大学-实验室4">
+<url>http://harriscam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Hamilton 高露洁大学-校园3">
+<url>http://149.43.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Alfred 校园5-高清">
+<url>http://149.84.160.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Jamestown  校园7">
+<url>http://143.67.94.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 校园8">
+<url>http://69.64.220.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 纽约 Ithaca 小码头3">
+<url>http://64.57.178.85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Rochester 罗彻斯特大学教学楼5">
+<url>http://128.151.213.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Rochester  门罗社区学院校园6">
+<url>http://wc01a.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Buffalo  纽约州立大学布法罗学院校园2">
+<url>http://136.183.196.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 城市街道9">
+<url>http://webcam.c9ny.com/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 纽约 Rochester 罗彻斯特理工学院10">
+<url>http://webcam02.rit.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Rochester 罗彻斯特理工学院11">
+<url>http://webcam03.rit.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约  Buffalo  纽约州立大学布法罗学院-校园4">
+<url>http://136.183.194.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Saint Bonaventure 圣波拿文都大学">
+<url>http://libcam.sbu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Ithaca  湖边摄像头7">
+<url>http://64.57.178.86/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Hempstead  大学校园3">
+<url>http://147.4.73.99/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338572975975::1;data=v.mjpg</url>
+</video>
+<video name="美国 纽约 Rochester 纽约州立大学门罗社区学院7">
+<url>http://wc01b.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 纽约 Hamilton 美国 Colgate大学5">
+<url>http://149.43.156.108/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 纽约 Hamlin  海边景色">
+<url>http://byc.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+<video name="美国 罗得岛州 Kingston 罗得岛大学校园">
+<url>http://131.128.154.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 罗得岛州 Kingston 罗得岛大学校园2">
+<url>http://131.128.204.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 罗得岛州 Narragansett  海边沙滩2">
+<url>http://72.87.114.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 罗得岛州 Kingston  罗得岛大学校园3">
+<url>http://131.128.114.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 罗得岛州 Newport  海边风景">
+<url>http://68.15.37.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 罗得岛州 Kingston  罗得岛大学校园4">
+<url>http://131.128.164.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南达科他州 Sturgis  大街">
+<url>http://209.159.224.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 田纳西州 Franklin 交通摄像头">
+<url>http://Cam4.brentwood-tn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 田纳西州 Nashville 范德堡大学讨论区2">
+<url>http://fghwebcam.vuse.vanderbilt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 田纳西州 Memphis 孟菲斯大学校园">
+<url>http://141.225.28.49/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 田纳西州 Memphis 田纳西大学教室-高清">
+<url>http://hper142cam1.occ.utk.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 Ridge 田纳西州 运动场">
+<url>http://bissell.cortn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 田纳西州 Martin 田纳西大学马丁分校">
+<url>http://libcam1.utm.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 田纳西州 Memphis 田纳西大学电教室5">
+<url>http://160.36.10.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 田纳西州 Nashville 范德堡大学校园">
+<url>http://quad.peabody.vanderbilt.edu:26122/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 Pigeon Forge 田纳西州 教学大楼">
+<url>http://204.117.196.50:65309/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 田纳西州 Knoxville 健身房">
+<url>http://jjansheski.axiscam.net:8004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 田纳西州 Knoxville 游泳池5">
+<url>http://jjansheski.axiscam.net:8007/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Midland 城市鸟瞰">
+<url>http://72.48.229.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Dallas 城市景色-高清">
+<url>http://209.33.181.227/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="美国 得克萨斯州 Dallas 江边宾馆2">
+<url>http://72.16.233.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Fort Davis 德克萨斯大学奥斯汀分校">
+<url>http://monet-cam.as.utexas.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Houston 德克萨斯州休斯顿大学">
+<url>http://129.7.48.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 得克萨斯州 Midland 市中心大楼2">
+<url>http://72.48.229.3:8887/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Austin 钟楼">
+<url>http://12.52.91.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Dallas 大学校园4">
+<url>http://72.16.233.56/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Arlington 德克萨斯大学阿灵顿分校校园">
+<url>http://mallcam.uta.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 得克萨斯州 Houston 公司工作室8">
+<url>http://webcam.atomicmods.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 得克萨斯州 Tyler 小商店">
+<url>http://173.219.38.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+		</city>
+	</province>
+</provinces> 
