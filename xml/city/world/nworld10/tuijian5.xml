@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="0" >
+		<city name="全球精选6" type="1888" order="F" >
+			
+<video name="日本 爱知 名古屋  江滨美景 -普清">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋  江滨美景 -高清">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="日本 爱知 名古屋  鸟瞰市区 -高清">
+<url>http://nakayamacam.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边码头3  -普清">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 北海道 Sapporo海边码头3  -高清">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 青森县  汤野滨温泉海岸 -普清">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 青森县  汤野滨温泉海岸 -高清">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 海滨鸟瞰 -普清">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 海滨鸟瞰 -高清">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 市区鸟瞰 -普清">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 千叶 Asahi 市区鸟瞰 -高清">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园烈火鸟  -普清">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 宫崎县 Miyazaki公园烈火鸟  -高清">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 群马县 Shima 海边 -普清">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 群马县 Shima 海边 -高清">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 潜艇 -普清">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 广岛 Hiroshima 潜艇 -高清">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 寺庙（推荐）">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="日本 大阪 Osaka 寺庙（推荐）-高清">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="泰国 Bangkok 海滨浴场-普清">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+		</city>
+	</province>
+</provinces> 

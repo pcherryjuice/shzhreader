@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球精选" order="a" >
+		<city name="全球精选2" type="1888" order="B" >
+			
+<video name="英属哥伦比亚-温哥华  游艇码头 -普清">
+<url>http://pr_nh_webcam.axiscam.net:8000/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="中国-北京  度假村码头（1fps）-高清">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=502410</url>
+</video>
+
+
+<video name="中国-南京  大楼大厅摄像头（1fps）-高清">
+<url>http://nzitct.vicp.net:85/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=548780</url>
+</video>
+
+<video name="中国-澳门  大楼">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+
+<!--video name="法国-巴黎  巴黎第九大学实验室">
+<url>rtsp://194.199.252.236:554/encoder/B423</url>
+</video>
+
+<video name="法国-巴黎  巴黎第九大学实验室2">
+<url>rtsp://194.199.252.236:554/encoder/b421cour</url>
+</video-->
+
+
+<video name="墨西哥-Distrito Federal 海边浴场 -普清">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="墨西哥-Distrito Federal 海边浴场 -高清">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="墨西哥-Guerrero-Acapulco   海边浴场2 -普清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="墨西哥-Guerrero-Acapulco   海边浴场2 -高清">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="南美洲-牙买加 海滨浴场4 -普清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="南美洲-牙买加 海滨浴场4 -高清">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="美国-加州 San Luis Obispo实验室机器2">
+<url>http://129.65.126.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-加州 尼亚圣芭芭拉大学喷泉">
+<url>http://129.210.84.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-加州 Santa Clara 圣塔克拉拉大学校园">
+<url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="美国-纽约州罗切斯特市  罗切斯特理工大学-实验室">
+<url>http://vlsicam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-纽约 Hamilton 高露洁大学-校园2">
+<url>http://149.43.156.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-纽约 Potsdam  克拉克森大学-工程学院">
+<url>http://studentcenter2.construction.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-纽约 自由女神-高清">
+<url>http://24.39.139.182:4080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国-纽约 Rochester  纽约州罗彻斯特大学-校园">
+<url>http://128.151.54.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国-纽约 Alfred  阿尔弗雷德大学-校园内景">
+<url>http://webcam3.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-纽约 Rochester 罗切斯特理工大学-实验室4">
+<url>http://harriscam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-纽约  Buffalo  纽约州立大学布法罗学院-校园4">
+<url>http://136.183.194.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Miami 迈阿密大学-校园鸟瞰">
+<url>http://129.171.176.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Miami 市中心交通路口5">
+<url>http://webcam6.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 New Smyrna Beach 海边沙滩2">
+<url>http://24.227.115.174:8000/image?speed=0</url>
+</video>
+
+
+<video name="美国-佛罗里达州 Tampa 海洋公园水底摄像头">
+<url>http://24.227.51.155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Lady Lake 城市交通路口">
+<url>http://camera2.thevillages.com/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Tampa 广播电台室内">
+<url>http://198.92.97.174/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Miami 迈阿密大学米勒医学院2">
+<url>http://webcam4.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国-佛罗里达州 Pensacola 海滨浴场-高清">
+<url>http://eastdestinbeachcam.destinresorts.com/image?speed=0::1;v.mjpg</url>
+</video>
+		</city>
+	</province>
+</provinces> 
