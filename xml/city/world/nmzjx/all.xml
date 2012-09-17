@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="美洲精选摄像头" order="b" >
+		<city name="美洲精选1" type="1" order="A" ><video name="# 美洲精选1(单击加载)"><url>city/world/nmzjx/mzjx1.xml</url></video></city>
+		<city name="美洲精选2" type="1" order="B" ><video name="# 美洲精选2(单击加载)"><url>city/world/nmzjx/mzjx2.xml</url></video></city>
+		<city name="美洲精选3" type="1" order="C" ><video name="# 美洲精选3(单击加载)"><url>city/world/nmzjx/mzjx3.xml</url></video></city>
+		<city name="美洲精选4" type="1" order="D" ><video name="# 美洲精选4(单击加载)"><url>city/world/nmzjx/mzjx4.xml</url></video></city>
+		<city name="美洲精选5" type="1" order="E" ><video name="# 美洲精选5(单击加载)"><url>city/world/nmzjx/mzjx5.xml</url></video></city>
+ </province>
+</provinces> 
