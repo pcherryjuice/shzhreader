@@ -115,6 +115,128 @@
 <video name="英属哥伦比亚-温哥华  Sylvan Lake 湖边 -高清">
 <url>http://64.114.238.141/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336914761941</url>
 </video>		
+
+<video name="美国 科罗拉多州 科罗拉多大学-松林草地">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州  布莱肯里奇主大街2">
+<url>http://72.165.31.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Aspen 小猫宠物屋">
+<url>http://dogsaspen.dyndns.org:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Gunnison  科罗拉多西部州立学院 校园">
+<url>http://webcam1.western.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 科罗拉多州 Gunnison 乡村马路2-高清">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 科罗拉多州 Longmont 乡村马路3">
+<url>http://173.164.52.97:5633/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 科罗拉多州 Ophir 城镇街道">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="美国 北卡罗莱纳 Sylva  城市风貌">
+<url>http://cam.thesylvaherald.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 北卡罗莱纳 Raleigh  教学大楼">
+<url>http://152.1.130.216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+<video name="美国 达科他州 Wahpeton North  北达科他州立大学-学生中心摄像头">
+<url>http://134.129.32.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 达科他州 Devils Lake North  恶魔湖Devils Lake-主大街">
+<url>http://dlmainstreetwebcam.gondtc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 达科他州 Wahpeton North  北达科他州立大学2">
+<url>http://134.129.32.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 达科他州 Grand Forks North  北达科他州立大学2">
+<url>http://msn166-91.med.und.nodak.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 达科他州 Wahpeton North 北达科他州立大学校园5">
+<url>http://134.129.32.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 俄克拉何马州 Norman 俄克拉荷马大学校园">
+<url>http://cascam.ou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 俄克拉何马州 Norman 俄克拉何马大学校园2">
+<url>http://129.15.200.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 俄克拉何马州 Owasso 湖边监控摄像头3">
+<url>http://70.184.23.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 俄克拉何马州 Weatherford 西南俄克拉荷马州立大学塞尔分校">
+<url>http://lifecam.swosu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 俄克拉何马州 Stillwater 美国俄克拉荷马州立大学-实验室（高清）">
+<url>http://webcam2.biochem.okstate.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 宾州 Philadelphia Temple大学">
+<url>http://155.247.171.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 Philadelphia Temple大学教学大楼2">
+<url>http://155.247.78.78/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 West Chester 海边沙滩">
+<url>http://66.252.102.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 New Kensington 宾州立大学">
+<url>http://hncam1.hn.psu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 Bloomsburg 宾州布鲁姆斯堡大学">
+<url>http://alwebcam.bulib.bloomu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 Bellefonte 宾夕法尼亚大学">
+<url>http://128.118.52.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="美国 宾州 Collegeville 乌尔辛纳斯学院运动场">
+<url>http://construction.ursinus.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 Indiana 宾夕法尼亚印第安纳大学机房-高清">
+<url>http://cam02.cc.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 宾州 Indiana 宾州印第安那大学3">
+<url>http://grovecam.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="美国 宾州 Philadelphia Temple大学校园5">
+<url>http://155.247.171.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 宾州 Pittsburgh 卡内基梅隆大学实验室3">
+<url>http://cam.preal.ece.cmu.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 宾州 Erie 宾夕法尼亚大学校园">
+<url>http://128.118.18.114/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 宾州 Lancaster 实验室2">
+<url>http://173.163.40.33:54546/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 南卡罗来纳州 Rock Hill  温斯洛普大学校园">
+<url>http://quadcamera.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南卡罗来纳州 Rock Hill  温斯洛普大学校园2">
+<url>http://constructioncam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南卡罗来纳州 Bluffton  海边沙滩3">
+<url>http://64.192.55.100:4000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南卡罗来纳州 Conway  游艇码头4">
+<url>http://98.101.223.10:8213/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="美国 南卡罗来纳州 Greenwood  湖光山色">
+<url>http://24.49.183.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南卡罗来纳州 Greenwood  广场2">
+<url>http://24.54.99.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="美国 南卡罗来纳州 Rock Hill  温斯洛普大学校园3">
+<url>http://dcccam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
 			
 		</city>
 	</province>

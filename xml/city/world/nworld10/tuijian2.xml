@@ -104,6 +104,138 @@
 			<video name="日本 爱知 Nishio  海边浪涌 -高清">
 			<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
 			</video>
+			
+<video name="西班牙.加泰罗尼亚 Barcelona 海边游泳场8">
+<url>http://213.96.40.237:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Pobla De Montorn��s 西班牙.加泰罗尼亚 海边泳池">
+<url>http://212.145.212.209:8092/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Barcelona 山顶摄像头9">
+<url>http://188.119.194.36/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Barcelona 乡村风光12">
+<url>http://meteosalvador.dvrdns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Tarragona 路边小城堡2">
+<url>http://80.32.56.48:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Palma 西班牙.巴利阿里群岛 城市风景3">
+<url>http://meteoibiza.dyndns.biz/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342013661432::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边泳场3">
+<url>http://webcamubet.dyndns.org:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边游泳场4（高清）">
+<url>http://212.145.204.167:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边游泳场7（高清）">
+<url>http://212.145.204.191:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 Aranjuez 海边风光（高清）">
+<url>http://87.235.206.90:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边风光13（高清）">
+<url>http://212.145.204.225:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边游泳池15（高清）">
+<url>http://212.145.204.101:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边风光17（高清）">
+<url>http://212.145.204.172:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="匈牙利 Hungary Budapest Budapest 仓库">
+<url>http://81.183.216.23/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Szeged Szeged 江边摄像头">
+<url>http://91.82.196.8:40080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bekes Gyomaendrod 酒吧">
+<url>http://213.157.112.12:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bekes 商场大厅">
+<url>http://213.157.98.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bacs-Kiskun 城市景色2">
+<url>http://77.221.39.163/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bekes Szarvas 古城堡">
+<url>http://87.101.127.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Pest 美食广场（高清）">
+<url>http://webkamera.tujvaros.hu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="匈牙利 Hungary 实验室">
+<url>http://cam03.deninet.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Pest 广场">
+<url>http://89.148.93.13/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bacs-Kiskun  市中心广场">
+<url>http://77.221.39.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Miskolc Miskolc 城堡2">
+<url>http://85.119.14.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Bacs-Kiskun  路边广场">
+<url>http://77.221.39.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Budapest Budapest 大楼广场（高清）">
+<url>http://81.182.242.245:10002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="匈牙利 Hungary 喷泉广场">
+<url>http://91.144.100.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="匈牙利 Hungary Csongrad 室内游泳池">
+<url>http://hivatal.morahalom.hu:5026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞典 穆拉市">
+<url>http://kamera.alvdalen.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 Ume">
+<url>http://brantbergskameran.net.umea.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 乌德瓦拉">
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Laupen 城市风景">
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Spiez 阿达尔波登山2">
+<url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士 首都伯尔尼 Lyss 城市街景">
+<url>http://axis-lyss2.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="爱尔兰 Ireland Wexford Wexford 韦克斯福德湖滨小镇">
+<url>http://93.92.12.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰 尔芬">
+<url>http://zeehond.tonytee.nl:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 尔芬系列2">
+<url>http://zeehond.tonytee.nl:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 沃尔伯格">
+<url>http://82.93.241.220/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 瓦赫宁根">
+<url>http://93.125.157.72:5506/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="荷兰 阿姆斯特丹系列2">
+<url>http://kzvw.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 Gorredijk">
+<url>http://brugburdaard.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="挪威 努尔菲尤尔埃德">
+<url>http://194.248.190.92/mjpg/1/video.mjpg</url>
+</video>
+<video name="挪威 Ski ">
+<url>http://drobak.mine.nu:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
 		</city>
 	</province>
 </provinces> 
