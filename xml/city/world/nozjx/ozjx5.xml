@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选5" type="1888" order="E" >
+			
+<video name="奥地利 蒂罗尔州 Hall In Tiro街道 -普清">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Gurtis街道2 -普清">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Feldkirch碧草绿林 -高清">
+<url>http://88.116.112.202/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 福拉尔贝格州 Bregenz秀色可餐 -高清">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 维也纳 Vienna山景（旋转摄像头） -普清">
+<url>http://62.47.124.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 维也纳 Vienna宾馆窗外 -普清">
+<url>http://radvis.astro.univie.ac.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 维也纳 Vienna宾馆教堂 -高清">
+<url>http://131.130.66.202/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="奥地利 维也纳 Vienna街景 -普清">
+<url>http://83.64.164.4/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="西班牙.加那利群岛 Arona 海边城镇风光">
+<url>http://reinekecam.dyndns.info/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加那利群岛 Granadilla De Abona  度假村风光（高清）">
+<url>http://chayofacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加那利群岛 Icod De Los Vinos  海边沙滩（高清）">
+<url>http://88.26.178.142:4343/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.加泰罗尼亚 Sabadell 海边沙滩">
+<url>http://80.32.91.134:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 萨尔茨堡 Salzburg风景4   -高清">
+<url>http://195.70.117.15/-wvhttp-01-/getoneshot?v=640::1;frame_count=300::1;data=v.mjpg</url>
+</video>
+<video name="挪威.芬马克郡 Snefjord 湖光山色">
+<url>http://seiland.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.海德马克 Hamar 郊野风情">
+<url>http://82.147.33.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.海德马克 Hamar 山林美景2-高清">
+<url>http://87.248.15.2/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="挪威.海德马克 Hamar 观光索道4-高清">
+<url>http://82.147.33.165/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.霍达兰 Granvin 海底摄像头">
+<url>http://84.205.34.130/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.罗斯达尔 Aalesund More og 游艇码头5">
+<url>http://213.184.212.230:44441/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗斯达尔  More og 屋顶摄像头">
+<url>http://195.204.240.59/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗斯达尔  More og 屋顶摄像头2">
+<url>http://213.161.226.178:1111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗斯达尔  More og 跨海大桥">
+<url>http://194.248.190.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.诺尔兰郡 Sortland 跨海大桥2">
+<url>http://213.167.121.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.诺尔兰郡 沿海公路">
+<url>http://158.39.101.247/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.奥斯陆 6 城镇风景">
+<url>http://193.213.21.217:60040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.奥斯陆 挪威泰利马科学院-校园">
+<url>http://128.39.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗加兰  球场">
+<url>http://www.resahaugen.no:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗加兰 Haugesund 交通路口">
+<url>http://82.134.72.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗加兰 Holta 江边风景3">
+<url>http://solvag.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.罗加兰 Haugesund 大楼广场7">
+<url>http://webcam.fitjar.kommune.no/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.松恩-菲尤拉讷  山坡宾馆">
+<url>http://kamera.harpefossen.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.松恩-菲尤拉讷 Sandane  码头远景">
+<url>http://webcam.datainstituttet.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.斯提兰迪那哥Trondheim 山脚下的村庄5">
+<url>http://birkelund.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.泰勒马克 Gautefall 观光摄像头">
+<url>http://109.109.79.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.泰勒马克 Notodden 河边村庄2">
+<url>http://217.168.94.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.泰勒马克 Gautefall 河边景色2">
+<url>http://109.109.79.124/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.特罗姆斯 Lakselv 江边监控摄像头">
+<url>http://mehamn.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.特罗姆斯  海边2">
+<url>http://88.84.172.8/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.特罗姆斯 Sj?vegan 雪山旅馆2">
+<url>http://158.39.49.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.特罗姆斯 Troms 大学校园3">
+<url>http://62.63.15.129:2556/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.特罗姆斯 牧场">
+<url>http://adventdalencam.unis.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.西阿格德尔 Farsund 海边村庄">
+<url>http://oyna.dyndns.biz/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利 下奥地利 Rappottenstein 小农场 -普清">
+<url>http://91.114.39.154/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf  小山坡 -普清">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf  索道 -普清">
+<url>http://80.75.241.227/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="奥地利 下奥地利 Oberolberndorf 小区 -普清">
+<url>http://panoramacamping.dyndns.org/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x288::1;1337172933375::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 下奥地利 Urschendorf 小农场2 -高清">
+<url>http://80.75.242.30/image?speed=4::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 hörfling Cafe Eichhorn -普清">
+<url>http://217.16.116.45:8081/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="奥地利 hörfling Cafe Eichhorn -高清">
+<url>http://217.16.116.45:8081/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="奥地利 上奥地利 Eberschwang 大风车 -普清">
+<url>http://213.174.252.115:4007/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 上奥地利 Eberschwang 大风车 -高清">
+<url>http://213.174.252.115:4007/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=640x480::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 上奥地利 Zell Am Moos 雪山泳池 -普清">
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 上奥地利 Zell Am Moos 雪山泳池 -高清">
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284::1;data=v.mjpg</url>
+</video>
+<!--video name="奥地利 城堡-高清">
+<url>rtsp://goiserncam.weti.net/mpeg4/media.amp</url>
+</video>
+<video name="奥地利 萨尔茨堡 山林-高清">
+<url>rtsp://almcam.xlink.at/mpeg4/media.amp</url>
+</video>
+<video name="奥地利 蒂罗尔州 Kufstein 城市鸟瞰 -高清">
+<url>rtsp://193.33.210.30:554/mpeg4/media.amp</url>
+</video-->
+<video name="奥地利 布尔根兰 Deutschkreutz 山村风景 -高清">
+<url>http://webcam.introplan.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="奥地利 下奥地利 Korneuburg 广场 -高清">
+<url>http://62.40.151.172/cgi-bin/faststream.jpg?stream=full::1;fps=2::1;rand=934482::1;data=v.mjpg</url>
+</video>
+<video name="奥地利 下奥地利 林茨的主广场 -高清">
+<url>http://80.120.146.2:1509/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选摄像头" order="b" >
+		<city name="欧洲精选" type="0" order="A" >
+			<video name="# 欧洲精选(单击加载)">
+				<url>city/world/nozjx/ozjx1.xml</url>
+			</video>
+		</city>
+		
+		<city name="欧洲精选2" type="1" order="B" >
+			<video name="# 欧洲精选2(单击加载)">
+				<url>city/world/nozjx/ozjx2.xml</url>
+			</video>
+		</city>
+		
+		<city name="欧洲精选3" type="1" order="C" >
+			<video name="# 欧洲精选3(单击加载)">
+				<url>city/world/nozjx/ozjx3.xml</url>
+			</video>
+		</city>
+		
+		<city name="欧洲精选4" type="1" order="D" ><video name="# 欧洲精选4(单击加载)"><url>city/world/nozjx/ozjx4.xml</url></video></city>
+		<city name="欧洲精选5" type="1" order="E" ><video name="# 欧洲精选5(单击加载)"><url>city/world/nozjx/ozjx5.xml</url></video></city>
+		<city name="欧洲精选6" type="1" order="F" ><video name="# 欧洲精选6(单击加载)"><url>city/world/nozjx/ozjx6.xml</url></video></city>
+		<city name="欧洲精选7" type="1" order="G" ><video name="# 欧洲精选7(单击加载)"><url>city/world/nozjx/ozjx7.xml</url></video></city>
+		
+		<city name="俄罗斯" type="1" order="D" >
+			<video name="# 俄罗斯(单击加载)">
+				<url>city/world/nozjx/russian.xml</url>
+			</video>
+		</city>
+		
+ </province>
+</provinces> 

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选" type="1888" order="A" >
+<video name="塞尔维亚 观光缆车入口2-高清">
+<url>http://79.101.21.7/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="塞尔维亚 观光缆车3-高清">
+<url>http://79.101.21.3/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="塞尔维亚 观光缆车4-高清">
+<url>http://79.101.21.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="斯洛文尼亚 Bohinj Trzin 石头海岸">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="斯洛文尼亚 Brezovica Celje 城市风景（高清）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="马其顿共和国 市中心广场">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="立陶宛 Vilnius Vilniaus Apskritis 政府大楼广场（高清）">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="立陶宛 Marijampole Marijampoles Apskritis 市中心广场（高清）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="列支敦斯登 Schellenberg Schellenberg 农场（旋转摄像头）-高清">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="列支敦斯登 Vaduz Vaduz 度假村">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>			
+<video name="斯洛伐克 Nova Bana Nitra  市中心广场">
+<url>http://85.248.54.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="卢森堡 Diekirch Ermsdorf 游艇码头-高清">
+<url>http://ycl-cam.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="葡萄牙 Lisboa Lisboa 城市街道">
+<url>http://fotogermanoviseu.dyndns.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="塞尔维亚 Belgrade  市中心广场-高清1080p">
+<url>http://212.200.25.130/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="塞尔维亚 Vojvodina Zrenjanin 雕像广场">
+<url>http://109.94.228.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="塞尔维亚 观光缆车-高清">
+<url>http://79.101.21.4/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="塞尔维亚 观光缆车入口2-高清">
+<url>http://79.101.21.7/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="塞尔维亚 观光缆车3-高清">
+<url>http://79.101.21.3/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="塞尔维亚 观光缆车4-高清">
+<url>http://79.101.21.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="斯洛文尼亚 Bohinj Trzin 石头海岸">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="斯洛文尼亚 Brezovica Celje 城市风景（高清）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="马其顿共和国 市中心广场">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="立陶宛 Vilnius Vilniaus Apskritis 政府大楼广场（高清）">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="立陶宛 Marijampole Marijampoles Apskritis 市中心广场（高清）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="列支敦斯登 Schellenberg Schellenberg 农场（旋转摄像头）-高清">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="列支敦斯登 Vaduz Vaduz 度假村">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="马耳他 Malta 海边观光摄像头">
+<url>http://webcam1.timesofmalta.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>			
+<video name="法国 Centre Gif-sur-yvette 城市景色">
+<url>http://82.127.10.188:5000/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="法国 Franche-Comte Saint-claude 城市景色2">
+<url>http://darktweety.dyndns.tv/image?speed=0::1;data=v.mjpg</url>
+</video>
+
+<video name="法国 巴黎大区 Paris 河边风光-高清">
+<url>http://80.11.112.67/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="法国 皮卡第 码头2-高清">
+<url>http://193.251.36.248/image?speed=0::1;data=v.mjpg</url>
+</video>
+
+<video name="法国 罗纳阿尔卑斯 France 广场-高清">
+<url>http://81.80.79.202:7001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士苏黎世 Zurich 自助餐厅">
+<url>http://webcam-mensa-hpr.ethz.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士苏黎世 Zurich 古楼风光10-高清">
+<url>http://cam.mitnet.ch:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士阿尔高 Aarau 广播电台">
+<url>http://cam01.agglo.ch/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338285992651::1;data=v.mjpg</url>
+</video>
+<video name="瑞士阿尔高 Aarau 电台直播室2">
+<url>http://cam02.agglo.ch/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338286901130::1;data=v.mjpg</url>
+</video>
+<video name="瑞士阿尔高 Buchs Migros超市集团-高清">
+<url>http://88.84.15.200/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士阿尔高 Duniken 城镇鸟瞰2">
+<url>http://91.138.1.70/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="德国-拜耳 Amberg 实验室">
+<url>http://axisst1.fh-amberg-weiden.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-石勒苏益格—荷尔施泰因  街景">
+<url>http://pic.lynet.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-下萨克森州 Ronnenberg 城市街道">
+<url>http://axis-7f87f9.axiscam.net/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国-北莱茵-威斯特法伦州 K?ln 小区风景">
+<url>http://87.79.238.113:9004/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+
+<video name="德国-下萨克森州 Juist 广场5">
+<url>http://atlanticjuist.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-石勒苏益格—荷尔施泰因 Lubeck 大街5">
+<url>http://212.108.160.103/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国 城市景色（旋转摄像头）">
+<url>http://213.179.68.191/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国-汉堡 Hamburg 公园">
+<url>http://217.91.153.75/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国二 德国-巴登-符腾堡州 Heidelberg 博物馆2">
+<url>http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+<video name="德国二 德国 城市风光14">
+<url>http://217.92.73.116/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="德国二 德国-拜耳 Starnberg 喷泉广场">
+<url>http://82.135.124.180/axis-cgi/mjpg/video.cgi?resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="意大利-阿布鲁佐 Lanciano 城市风景">
+<url>http://87.24.167.176:8005/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

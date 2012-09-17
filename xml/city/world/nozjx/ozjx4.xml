@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="欧洲精选" order="b" >
+		<city name="欧洲精选4" type="1888" order="D" >
+			
+<video name="西班牙.马德里 海边浴场22（高清）">
+<url>http://80.38.156.36:1500/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 海边浴场23（高清）">
+<url>http://81.43.101.81:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.马德里 Brunete 城市风光（高清）">
+<url>http://cercemeteo.dyndns.org:1026/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.穆尔西亚 乡村旅馆2">
+<url>http://monte-mar.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="西班牙.穆尔西亚 Lorca 城镇风光">
+<url>http://80.32.201.15:8001/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.巴斯克自治区 Islas 路边海景9">
+<url>http://iris2.not.iac.es/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015520345::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.阿斯杜里亞 Oviedo 学校实验室7">
+<url>http://156.35.159.142/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015625952::1;data=v.mjpg</url>
+</video>
+<video name="西班牙.阿拉贡 Zaragoza 办公室2">
+<url>http://80.34.81.8:8000/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342015686815::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.德伦特省 Hoogeveen 霍赫芬广场">
+<url>http://92.66.4.219:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.德伦特省 Eelde 海边旋转摄像头">
+<url>http://cameradtp.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗莱福兰省 Almere 阿尔默勒广场">
+<url>http://90.145.4.49:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Zwaagwesteinde 兹瓦赫韦斯泰恩德港口">
+<url>http://62.131.113.213:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.弗里斯兰省 Oldeberkoop 奥尔德伯科普海边">
+<url>http://83.161.221.160:3000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Wolvega 沃尔弗哈庭院">
+<url>http://217.120.175.178:1024/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.弗里斯兰省 Leeuwarden 吕伐登餐厅一角2">
+<url>http://tandartsmoonen.com:604/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Doorwerth 机器人实验室">
+<url>http://bwired.nl:88/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩 门口">
+<url>http://137.224.128.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Arnhem 阿纳姆桥">
+<url>http://81.175.116.204/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.海尔德兰省 Emst 埃姆斯特马棚2">
+<url>http://86.88.160.143:8033/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Harderwijk 哈尔德韦克码头">
+<url>http://mx.impression.nl:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩休闲场2">
+<url>http://93.125.157.72:5506/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.格罗宁根 Groningen 格罗宁根教堂">
+<url>http://129.125.136.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Oss 奥斯海滨度假村">
+<url>http://80.101.164.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Drimmelen 德里默伦户外">
+<url>http://92.64.26.161:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.北布拉班特省 Tilburg 蒂尔堡一角">
+<url>http://62.132.55.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amstelveen 阿姆斯特尔芬广场">
+<url>http://mozart.amadeus-hotel.com:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="荷兰.上艾瑟尔 Heino 海诺街道">
+<url>http://kulturhus.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.乌德勒支 Utrecht 乌得勒支室内">
+<url>http://145.89.196.199/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.乌德勒支 Utrecht 乌得勒支大楼俯瞰2">
+<url>http://antonius.mediq.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.乌德勒支 Breukelen 布勒克伦旋转摄像头">
+<url>http://87.215.200.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.泽兰省 Aardenburg 阿尔登堡遥望大海">
+<url>http://strandheuvelrouter.dhis.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Delft 代尔夫特水池">
+<url>http://tuincam.bt.tudelft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Zoetermeer 祖特梅尔海边旋转摄像头">
+<url>http://snmcamera.xs4all.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Ridderkerk 里德凯尔克湖边美景">
+<url>http://92.254.52.236/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.南荷兰省 Brielle 布里勒餐厅">
+<url>http://188.203.193.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.南荷兰省 Zoetermeer 祖特梅尔溜冰场2">
+<url>http://87.213.108.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.德伦特省 Havelte 城堡鸟瞰（高清）">
+<url>http://heetenkerk.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.德伦特省 Havelte 教堂2（高清）">
+<url>http://koorheeten.viewnetcam.com:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="荷兰.北荷兰省 Amsterdam 大学校园9">
+<url>http://62.21.250.51/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.上艾瑟尔 Enschede 电教室4">
+<url>http://gw-ozlab-cam5.gw.utwente.nl/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342158835977::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.上艾瑟尔 Almelo 乡村小桥">
+<url>http://194.45.93.19/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.南荷兰省 Delft 教堂4">
+<url>http://cam-cityhall2.delft.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Arnhem 大风车（高清）">
+<url>http://87.209.17.220/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="挪威.阿克什胡斯郡Skytta 度假村风景">
+<url>http://212.62.245.38:83/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="挪威.东阿格德尔 Furvik 游艇码头">
+<url>http://havnegaten15.com:3150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="挪威.布斯克鲁德 Drammen 观光索道">
+<url>http://81.167.44.38/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="挪威.芬马克郡 Hammerfest 码头风光2">
+<url>http://213.161.172.115/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 
