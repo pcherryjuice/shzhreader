@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="汕头" type="1" order="K" >
+			<video name="金砂东路金龙大厦路段">
+			<url>rtsp://218.204.239.178/video/chn/1.mp4</url>	
+			</video>
+			<video name="金砂东路汕融大厦路段">
+			<url>rtsp://218.204.239.178/video/chn/56.mp4</url>
+			</video>
+			<video name="金砂东路与华山路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/144.mp4</url>
+			</video>
+			<video name="金砂东路与华山路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/143.mp4</url>
+			</video>			
+		   <video name="天山路南">
+			<url>rtsp://218.204.239.178/cmcc/ZWRlNDNhYTUtYWVkZC00MzBkLTkxOTUtMDY3OTFkOGMxMTFkKzY0.mp4</url>
+			</video>
+			<video name="时代广场（标清）">
+			<url>rtsp://218.204.239.178/video/chn/54.mp4</url>	       
+			</video>
+			<video name="时代广场（高清）">
+			<url>rtsp://218.204.239.178/video/chn/53.mp4</url>	       
+			</video>			
+			<video name="金凤路与东厦路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/17.mp4</url>
+			</video>
+			<video name="金凤路与东厦路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/16.mp4</url>
+			</video>			
+			<video name="金凤路桃园路段（标清）">
+			<url>rtsp://218.204.239.178/video/chn/20.mp4</url>
+			</video>
+			<video name="金凤路桃园路段（高清）">
+			<url>rtsp://218.204.239.178/video/chn/19.mp4</url>
+			</video>			
+			<video name="天山路与长江路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/42.mp4</url>
+			</video>
+			<video name="天山路与长江路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/41.mp4</url>
+			</video>			
+			<video name="天山路与黄河路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/39.mp4</url>
+			</video>
+			<video name="天山路与黄河路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/38.mp4</url>
+			</video>				
+			<video name="礐石大桥1（标清）">
+			<url>rtsp://218.204.239.178/video/chn/5.mp4</url>
+			</video>
+			<video name="礐石大桥1（高清）">
+			<url>rtsp://218.204.239.178/video/chn/4.mp4</url>
+			</video>			
+			<video name="礐石大桥2">
+			<url>rtsp://218.204.239.178/video/chn/7.mp4</url>
+			</video>
+			<video name="金砂东路与黄山路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/66.mp4</url>
+			</video>
+			<video name="金砂东路与黄山路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/65.mp4</url>
+			</video>
+			<video name="海滨路与大华路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/30.mp4</url>
+			</video>
+			<video name="海滨路与大华路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/29.mp4</url>
+			</video>			
+			<video name="金砂东路与金环路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/147.mp4</url>
+			</video>
+			<video name="金砂东路与金环路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/146.mp4</url>
+			</video>			
+			<video name="金砂东路">
+			<url>rtsp://218.204.239.178/video/chn/10.mp4</url>
+			</video>
+			<video name="东厦路与金凤路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/48.mp4</url>
+			</video>
+			<video name="东厦路与金凤路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/47.mp4</url>
+			</video>			
+			<video name="东厦路与金湖路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/45.mp4</url>
+			</video>
+			<video name="东厦路与金湖路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/44.mp4</url>
+			</video>			
+			<video name="黄河路与嵩山路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/51.mp4</url>
+			</video>
+			<video name="黄河路与嵩山路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/50.mp4</url>
+			</video>			
+			<video name="海滨路">
+			<url>rtsp://218.204.239.178/video/chn/32.mp4</url>
+			</video>
+			<video name="汕头海湾（标清）">
+			<url>rtsp://218.204.239.178/video/chn/36.dsp</url>
+			</video>
+			<video name="汕头海湾（高清）">
+			<url>rtsp://218.204.239.178/video/chn/35.dsp</url>
+			</video>			
+			<video name="汕樟路与金湖路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/26.mp4</url>
+			</video>
+			<video name="汕樟路与金湖路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/25.mp4</url>
+			</video>			
+			<video name="金湖路与汕樟路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/23.mp4</url>
+			</video>
+			<video name="金湖路与汕樟路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/22.mp4</url>
+			</video>			
+			<video name="文祠路与中山路交界（标清）">
+			<url>rtsp://218.204.239.178/video/chn/104.mp4</url>
+			</video>
+			<video name="文祠路与中山路交界（高清）">
+			<url>rtsp://218.204.239.178/video/chn/103.mp4</url>
+			</video>			
+			<video name="中山北路澄海车站（标清）">
+			<url>rtsp://218.204.239.178/video/chn/83.mp4</url>
+			</video>
+			<video name="中山北路澄海车站（高清）">
+			<url>rtsp://218.204.239.178/video/chn/82.mp4</url>
+			</video>			
+			<video name="国道益民路口（标清）">
+			<url>rtsp://218.204.239.178/video/chn/86.mp4</url>
+			</video>
+			<video name="国道益民路口（高清）">
+			<url>rtsp://218.204.239.178/video/chn/85.mp4</url>
+			</video>			
+			<video name="帝豪酒店">
+			<url>rtsp://218.204.239.178/video/chn/68.mp4</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

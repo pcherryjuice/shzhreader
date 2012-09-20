@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="江门" type="1" order="I" >
+			<video name="双龙酒店-建设一路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000122::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=e48c453427bbbf8ae45a13aaab9d4463</url>
+			</video>	
+			<video name="全球通大厦-建设三路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000202::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=4e58f3ae6d428ab964daff4d4eba2b43</url>
+			</video>			
+			<video name="全球通大厦-建设二路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=2891903e6ab3b7368e2f1665793f830f</url>
+			</video>	
+			<video name="农机厂-五邑大学方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000474::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=2af39374c5b30e9ca8f2d241fe7b35d1</url>
+			</video>	
+			<video name="农机厂-丽宫酒店方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000347::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=7b448c09a6e7e800dde0b53e627273d1</url>
+			</video>	
+			<video name="江月旅馆-建设路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000194::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=a2af4eca65f2a85bfbf815af289aee3a</url>
+			</video>		
+			<video name="江月旅馆-中区大路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000192::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=65a7c5473ac6e92ae7cdabff6e8c8876</url>
+			</video>	
+			<video name="迎宾大道中-逸豪方向 ">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000124::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=584899cb60701b44a05491ea0a6aedae</url>
+			</video>			 
+			<video name="金华大厦-东华一路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000190::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=8f1a14cc10a6c21b543bc7858370ff43</url>
+			</video>	
+			<video name="金华大厦-东华二路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000188::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=6c913b5e09481d2cbdc52adaed82cda7</url>
+			</video>		
+			<video name="东湖百货-港口一路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000126::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=26685c25b70701fadf952c3e1d339290</url>
+			</video>		
+			<video name="东湖百货-跃进路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000159::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=09179570a0d908d93d32296be8c9cf7a</url>
+			</video>		
+			<video name="天悦酒店-冈州大道中往恒业大厦方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000351::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=14551a11e21a261dfe63ae2fc048b559</url>
+			</video>		
+			<video name="新会天悦酒店-东庆北路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000065::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=44b6d43f29d406da1818aac3c1bcae4b</url>
+			</video>		
+			<video name="新会凤凰酒店-创新花园方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000163::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=685dd99a6c11f4a2ac202604d1fa32cb</url>
+			</video>		
+			<video name="新会凤凰酒店-新会大道中方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000161::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=10cebfc3a235f069727ae6e31a70a79d</url>
+			</video>		
+			<video name="新会粮油大厦-知政南路方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000182::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=90a0a099beed6551127719c334dfdd08</url>
+			</video>	
+			<video name="新会粮油大厦-裕安大厦方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000180::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=0e2341a162874a703077ef598255963a</url>
+			</video>		
+			<video name="同济堂药店-三和大道西方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000186::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=41b57e97eed39745ff2955d9636e830a</url>
+			</video>	
+			<video name="文华路-纪元路环岛方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003007::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=d3e860c6aea66044e074187050d3761e</url>
+			</video>	
+			<video name="中山路邮局-南山公园方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004205::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110517040800::1;encrypt=03e4a430f28eea4a9b65ad428569363a</url>
+			</video>	
+			<video name="中山路邮局-新新商店方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004204::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110517040800::1;encrypt=fc99d231a68339d505c33e3a8a8a0360</url>
+			</video>	
+			<video name="新平北路-美华西方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000476::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807144155::1;encrypt=995db482aab833bf95dc6441d64942fd</url>
+			</video>	
+			<video name="色色婚纱-恩平大桥方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004207::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=9f9db5df9ee580ee96f1a286fea6e0e1</url>
+			</video>	
+			<video name="新平北路-飞鹅塘方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004206::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=0fc51e8c5a0b5869e5263479a5ff79bf</url>
+			</video>	
+			<video name="色色婚纱-恩新路十字路口方向">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004208::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=580ccb4bb5ab2a22f629800e3ecc7757</url>
+			</video>	
+			<video name="幕沙路往云顶方向">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005088::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=6e1a4c894aa77408e9306a5ad4d9d2e8</url>
+			</video>	
+			<video name="曙光西路往西方向">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005082::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=45242b55b840960ef03a9ff4e5bcd7ac</url>
+			</video>	
+			<video name="曙光西路往东方向">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005086::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=23c75ee01a6ae4db69975d6e9a763ab9</url>
+			</video>	
+			<video name="逸豪酒店视频1">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003421::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=a07c3eeb621501998ac8d9eebab02e34</url>
+			</video>	
+			<video name="逸豪酒店视频2">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005581::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=64df2f0701b3522caead8b179bb023ab</url>
+			</video>	
+			<video name="逸豪酒店视频3">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005582::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=9190a3d98ba763496f95872a13402f89</url>
+			</video>	
+			<video name="逸豪酒店视频4">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005583::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=7cefffdb40a0b7ca5440873a9e4705d1</url>
+			</video>
+			<video name="江门台山东和2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/215301.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004996::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=d1d3032f47d3cbf3e305a90535e36934</hdurl>
+			</video>
+			<video name="江门综合楼前门">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48372.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003418::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=ad4729cc3bf126506c690283e3b29b7d</hdurl>
+			</video>
+			<video name="江门公司外来客户停车">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48373.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003419::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=bbef215d9e636175376fc819d070f9f9</hdurl>
+			</video>
+			<video name="江门综合楼大堂登记处">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48374.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003420::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=18fa04eb906bacf58f7406de89adad66</hdurl>
+			</video>
+			<video name="江门逸豪酒店1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48375.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003421::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=b38d42c2bab1ff01bf9b6535711ee392</hdurl>
+			</video>
+			<video name="江门鹤山文华路1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48378.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003007::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=eb740035e93a54873aa0fea0deee292f</hdurl>
+			</video>
+			<video name="江门鹤山文华路2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48379.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003009::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123015516::1;encrypt=3ae5ad5313e7214c5117816bff38ddb9</hdurl>
+			</video>
+			<video name="江门恩平电声1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48303.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000476::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=c23b0c3c17c8cb08b895e51000caefc2</hdurl>
+			</video>
+			<video name="江门全球通厅大门左侧">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54701.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004449::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=27a89df88fdf014ec85b7d4c5be029a8</hdurl>
+			</video>
+			<video name="江门综合楼前门岗右侧">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54702.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004447::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=df6418b4ff4b6511e8c6776f6e9f79be</hdurl>
+			</video>
+			<video name="江门全球通厅大门右侧">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54703.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004448::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=2200eadf8d1359b622e7833b2ff6e394</hdurl>
+			</video>
+			<video name="江门开平新华堡">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/230581.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005082::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=14699065d33eb1e9391ec87ee15336cb</hdurl>
+			</video>
+			<video name="江门综厅合楼1F客梯">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54707.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004450::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=640adbc963b50e9b3c17e7d34efff152</hdurl>
+			</video>
+			<video name="江门开平雅致酒店2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/230583.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005086::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d6720f741bf42b60592854519fb38bd7</hdurl>
+			</video>
+		  <video name="江门开平雅致酒店1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/230584.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005088::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=5842e00a56301de2df11eb53ed9f2715</hdurl>
+			</video>
+			<video name="江门移动篮球场前">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231321.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005481::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3fb0ac061684c8b7258efe853e599864</hdurl>
+			</video>
+			<video name="江门移动篮球场后">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231322.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005482::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=c970e25f5a1e8cd97ef5d9b04c9872f5</hdurl>
+			</video>
+			<video name="江门台山其利五金">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/215345.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004997::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=608b1fc3447df25bd5cba1682d0f57d1</hdurl>
+			</video>
+			<video name="江门正诚行2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231845.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005776::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d1cea603cb31a70d18c7696c955d4ec9</hdurl>
+			</video>
+			<video name="江门台山东和1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/215236.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004995::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=706a1b2090ef8c88729a7361d7d7532d</hdurl>
+			</video>
+			<video name="江门二机楼门口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54163.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004224::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3b6422faefc862eede59454180032c7b</hdurl>
+			</video>
+			<video name="江门二机楼停车棚">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54164.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004225::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=02013737bbf0e552357147a4e2492541</hdurl>
+			</video>
+			<video name="江门逸豪酒店2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231561.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005581::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=950b79f7cc6fd10ce43ba49a647c5902</hdurl>
+			</video>
+			<video name="江门逸豪酒店3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231562.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005582::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d00b8488f4c91644eefa8f774481152b</hdurl>
+			</video>
+			<video name="江门逸豪酒店4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231563.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005583::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=6cbb75461c7914dc6abbed0a81dad7a4</hdurl>
+			</video>
+			<video name="江门鹤山邮局1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54141.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004204::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3697a90522048152790106e98e5122b0</hdurl>
+			</video>
+		  <video name="江门鹤山邮局2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54142.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004205::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=0bbbcd14f41a9573b58a716cc4bb533f</hdurl>
+			</video>
+			<video name="江门恩平电声2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54143.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004206::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=97154201e9483a632bfccfd7d18a1073</hdurl>
+			</video>
+			<video name="江门恩平中保1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54144.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004207::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=da9ef97a3cbcb9b5809d24ba5c526126</hdurl>
+			</video>
+			<video name="江门恩平中保2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54145.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004208::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=ed2b1a43b3e6b21baac1367ba7367111</hdurl>
+			</video>
+			<video name="江门综合楼后岗停车场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54161.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004223::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=fa2f621eed8ab44822b93acd22d40bc3</hdurl>
+			</video>
+			<video name="江门农机厂2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48171.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000474::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=f0c80461ada4b8129719a10f021affbd</hdurl>
+			</video>
+			<video name="江门双龙酒店1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48172.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000122::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=636de7e03642d6bbfec254cc6528483f</hdurl>
+			</video>
+			<video name="江门双龙酒店2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48173.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000124::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=b2c0ab560520dada20128cc47b7fac57</hdurl>
+			</video>
+			<video name="江门天悦酒店1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48174.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000351::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=5cdcf045d9937fd0eab01068f1f492f0</hdurl>
+			</video>
+			<video name="江门天悦酒店2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48175.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000065::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=964b8b9be9c2d4f4c8578670a42f2e31</hdurl>
+			</video>
+			<video name="江门新会城南1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48176.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000184::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=d23b19359339679330f1227a1b03572d</hdurl>
+			</video>
+			<video name="江门新会城南2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48177.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000186::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=6272b7f38d189fd2342fbe792431cb1c</hdurl>
+			</video>
+			<video name="江门新会分公司1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48178.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000103::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=da88675a674f8bf6a4835768e238db2d</hdurl>
+			</video>
+			<video name="江门新会分公司2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48179.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000102::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=8f4e5419f2178497bb81b8846f90ef21</hdurl>
+			</video>
+			<video name="江门新会凤凰酒店1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48180.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000161::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=acae1001e82d9dace9c045dff65672f3</hdurl>
+			</video>
+			<video name="江门新会凤凰酒店2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000163::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=52c3c709c07b7cc31cff42709bb24ade</hdurl>
+			</video>
+			<video name="江门新会粮油大厦1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48182.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000180::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=d14491c5bd3193c27c7a1510d914800c</hdurl>
+			</video>
+			<video name="江门新会粮油大厦2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48183.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000182::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=22e940796148a5e76c4493d073d8a953</hdurl>
+			</video>
+			<video name="江门移动饭堂二楼1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48184.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000196::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=2d75bbaee3036105fb36dc7472dc22fc</hdurl>
+			</video>
+			<video name="江门移动饭堂二楼2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48185.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000198::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=404810999bcbcbcec1328ce1641e7cba</hdurl>
+			</video>
+			<video name="江门移动饭堂一楼">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48186.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000200::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=6d51fa28d82a8a8065a25264200e720f</hdurl>
+			</video>
+			<video name="江门东湖百货1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48162.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000159::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=3e6ff3e48ae954d77ff0e4b7eb3931e1</hdurl>
+			</video>
+			<video name="江门东湖百货2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48163.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000126::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=f7465052ec728772d9be05ffc516b704</hdurl>
+			</video>
+			<video name="江门发展大道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=1f534183df5ef21fea34555a150adb38</hdurl>
+			</video>
+			<video name="江门发展大道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=1f534183df5ef21fea34555a150adb38</hdurl>
+			</video>
+			<video name="江门建设三路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48165.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000202::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=38d84650eafa56dd153a579d7dd2c47c</hdurl>
+			</video>
+			<video name="江门江月旅馆1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48166.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000192::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=12e7ab4cc6a243dda1bf4652e5532e4a</hdurl>
+			</video>
+			<video name="江门江月旅馆2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48167.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000194::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=e544ccc824372c18293fe8ef8cc685b0</hdurl>
+			</video>
+			<video name="江门金华厅1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48168.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000188::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=d654544ffb95302f86d5eca5a7ae90de</hdurl>
+			</video>
+			<video name="江门金华厅2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48169.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000190::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=c23fc3d791971066a7c2eefaa4192076</hdurl>
+			</video>
+			<video name="江门农机厂1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48170.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000347::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=bd3c5a78ad8b5a802fed453c92f1fc22</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

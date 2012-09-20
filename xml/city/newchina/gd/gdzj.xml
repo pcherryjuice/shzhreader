@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="湛江" type="1" order="O">
+
+      <video name="湛江_南桥">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=1</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000120::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			<video name="湛江_南桥（高清）">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=1</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000120::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			
+      <video name="湛江_霞山国贸">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=2</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000170::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			<video name="湛江_霞山国贸（高清）">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=2</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000170::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+
+			<video name="湛江_会展中心">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=3</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000168::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			<video name="湛江_会展中心（高清）">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=3</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000168::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			
+			<video name="湛江_昌大昌">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55724.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000146::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=d76560c12b0811ca002d6187c66ecf50</hdurl>
+			</video>
+			<video name="湛江_南国花园">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=4</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000172::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			<video name="湛江_南国花园（高清）">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=4</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000172::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			
+			<video name="湛江_荣基广场路口">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=6</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000166::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			<video name="湛江_荣基广场路口（高清）">
+			<url>http://bmfw.wap.u0759.com/jiaotong/LuKuang/VideoShow.aspx?id=6</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000166::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637</hdurl>
+			</video>
+			
+			
+			
+			<video name="湛江_平安校园_第八小学">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55727.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003397::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=d3df4537acc60bc22c8376d68b0a2244</hdurl>
+			</video>
+			<video name="湛江_平安校园_第三幼儿园">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55728.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500000516::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=c9c6e85a16c1a0bb0591214cde452986</hdurl>
+			</video>
+			<video name="湛江_平安校园_第一幼儿园">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55729.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003396::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=1fc7d704070c9f942e7a4094febd0481</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江七中1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55730.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003404::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=84c268a54a96bff6e4b93db18ed7700f</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江七中2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55731.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003398::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=3111b15f2528aa14696f5e1802bbbfad</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江一中1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55732.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=ddba32bd9903344c5a6e5b9380eff17a</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江一中2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55733.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003400::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=4c1a9869e3526b5baf1f13c5c6ccfebe</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江一中3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55734.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003399::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=bddb162840899da32b2901dc5fe0be3e</hdurl>
+			</video>
+			<video name="湛江_平安校园_湛江一中4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/371/55735.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.222.29:554/service?PuId-ChannelNo=010203010201010500003316::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.115.106::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123130719::1;encrypt=a9dc30202ff535ea0a74b08b6fe82e7d</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

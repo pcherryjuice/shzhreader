@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="梅州" type="1" order="K" >
+			<video name="梅县柏利酒店十字路口"><url>rtsp://221.179.119.58:554/mobile/1/0B08130162E8012C/ostt45d5vd5do7g1.sdp</url></video>
+			<video name="梅县柏利酒店十字路口(高清)"><url>rtsp://221.179.119.58:554/live/1/0B08130162E8012C/umtzwcxnxtp9p6cz.sdp</url></video>
+			<video name="江南邮政金叶酒店圆盘"><url>rtsp://221.179.119.58:554/mobile/1/723D1ACB627C100A/54ovagmkjcubxx5d.sdp</url></video>
+			<video name="江南邮政金叶酒店圆盘（高清）"><url>rtsp://221.179.119.58:554/live/1/723D1ACB627C100A/93w14nr9mxy6jp9m.sdp</url></video>
+			<video name="彬芳大道友谊宾馆圆盘"><url>rtsp://221.179.119.58:554/mobile/1/7B182D492F503A5D/a7utd7o0u4z1pcll.sdp</url></video>
+			<video name="彬芳大道友谊宾馆圆盘（高清）"><url>rtsp://221.179.119.58:554/live/1/7B182D492F503A5D/jrzwa7jgs33gc9td.sdp</url></video>
+			<video name="嘉应中路西桥头红绿灯"><url>rtsp://221.179.119.58:554/mobile/1/514071A87D662F38/sxgcuqbxhkr6y08a.sdp</url></video>
+			<video name="嘉应中路西桥头红绿灯（高清）"><url>rtsp://221.179.119.58:554/live/1/514071A87D662F38/uk0rg4lgpup2tnso.sdp</url></video>
+			<video name="梅江区仕业楼三角圆盘"><url>rtsp://221.179.119.58:554/mobile/1/3F2F76321E31354E/cqhaunwkrdg2lu8o.sdp</url></video>
+			<video name="梅江区仕业楼三角圆盘（高清）"><url>rtsp://221.179.119.58:554/live/1/3F2F76321E31354E/f1gminl2g5te9y22.sdp</url></video>
+			<video name="江南丽都中路富源酒店"><url>rtsp://221.179.119.58:554/mobile/1/6F3757F810AC4E58/1bv04srhs7mkti5p.sdp</url></video>
+			<video name="江南丽都中路富源酒店（高清）"><url>rtsp://221.179.119.58:554/live/1/6F3757F810AC4E58/pslbisubsmp0d1qm.sdp</url></video>
+			<video name="梅江消防文化公园路口"><url>rtsp://221.179.119.58:554/mobile/1/3DF3201165D56765/8ew0mnzztg0esfcw.sdp</url></video>
+			<video name="梅江消防文化公园路口（高清）"><url>rtsp://221.179.119.58:554/live/1/3DF3201165D56765/ch372ahuaio5q3gd.sdp</url></video>
+			<video name="江北月梅三角圆盘路况"><url>rtsp://221.179.119.58:554/mobile/1/0A5B19E937CE5CE3/e869bm7smk4gb1os.sdp</url></video>
+			<video name="江北月梅三角圆盘路况（高清）"><url>rtsp://221.179.119.58:554/live/1/0A5B19E937CE5CE3/1a0iq96wzmnpzeex.sdp</url></video>
+			<video name="彬芳大道恩华广场圆盘"><url>rtsp://221.179.119.58:554/mobile/1/580C0C4F2E3270EE/z48u6g8xzou3gohs.sdp</url></video>
+			<video name="彬芳大道恩华广场圆盘（高清）"><url>rtsp://221.179.119.58:554/live/1/580C0C4F2E3270EE/z23fj4olktsexiav.sdp</url></video>
+		</city>
+	</province>
+</provinces> 

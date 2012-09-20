@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="南沙渔港" type="1" order="Q" >
+		<video name="南沙渔港7">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48322.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.136.199.13:554/service?PuId-ChannelNo=010203010301010500000118::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.101.197::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123113632::1;encrypt=f0ebdbb245cf9bcaeff3a42490f648a0</hdurl>
+			</video>
+			<video name="南沙渔港1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48261.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.136.199.13:554/service?PuId-ChannelNo=010203010301010500000117::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.101.197::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115044::1;encrypt=7ebdbcc467a4139749d1aeefc1bcca44</hdurl>
+			</video>
+			<video name="南沙渔港3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48263.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.136.199.13:554/service?PuId-ChannelNo=010203010301010500000115::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.101.197::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115044::1;encrypt=7dfb58622e7d1df7b0743d959c92d421</hdurl>
+			</video>
+			<video name="南沙渔港4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48264.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.136.199.13:554/service?PuId-ChannelNo=010203010301010500000114::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.101.197::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115044::1;encrypt=8a71b6fecd2747481ae5b5847abfea57</hdurl>
+			</video>
+			<video name="南沙渔港5">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3302/48265.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.136.199.13:554/service?PuId-ChannelNo=010203010301010500000113::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.101.197::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115044::1;encrypt=149152fcf24f0d20fbaefad831c8079d</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

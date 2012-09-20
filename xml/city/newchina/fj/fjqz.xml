@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="泉州" type="1" order="C" >	
+			<video name="丰泽刺桐路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500062010100009180::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线1">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100005723::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线2">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009072::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线3">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009073::1;StreamingType=1</url>
+			</video>
+			<video name="宝宝在线4"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009074::1;StreamingType=1</url></video>
+			<video name="宝宝在线5"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009075::1;StreamingType=1</url></video>
+			<video name="宝宝在线6"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009076::1;StreamingType=1</url></video>
+			<video name="宝宝在线7"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009077::1;StreamingType=1</url></video>
+			<video name="宝宝在线8"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009078::1;StreamingType=1</url></video>
+		
+
+      <video name="丰泽刺桐路口（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500062010100009180::1;StreamingType=2</url>
+			</video>
+			<video name="宝宝在线1（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100005723::1;StreamingType=2</url>
+			</video>
+			<video name="宝宝在线2（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009072::1;StreamingType=2</url>
+			</video>
+			<video name="宝宝在线3（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009073::1;StreamingType=2</url>
+			</video>
+			<video name="宝宝在线4（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009074::1;StreamingType=2</url>
+			</video>
+			
+			<video name="宝宝在线4（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009074::1;StreamingType=2</url></video>
+			<video name="宝宝在线5（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009075::1;StreamingType=2</url></video>
+			<video name="宝宝在线6（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009076::1;StreamingType=2</url></video>
+			<video name="宝宝在线7（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009077::1;StreamingType=2</url></video>
+			<video name="宝宝在线8（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359500054010100009078::1;StreamingType=2</url></video>
+
+		</city>
+	</province>
+</provinces> 

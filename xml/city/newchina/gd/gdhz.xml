@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="惠州" type="1" order="G" >
+			<video name="惠州康帝门前实时路况（流畅）">
+			<url>rtsp://120.196.134.29:554/mobile/1/1F635ADA07937563/v1ZYUrUbOrW5ET9u.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+			</video>
+			<video name="惠州康帝门前实时路况（高清）">
+			<url>rtsp://120.196.134.29:554/live/1/1F635ADA07937563/0YVXMCaFQ3NUn8z6.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+			</video>			
+	    <video name="惠州合生大桥实时路况（流畅）" >
+      <url>rtsp://120.196.134.29:554/mobile/1/2EC1E070856207CB/O6a8zxa96tGrJwQ0.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州合生大桥实时路况（高清）" >
+      <url>rtsp://120.196.134.29:554/live/1/2EC1E070856207CB/qz6eo3asNGdxW2H3.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠州鳄湖路木兰园实时路况" >
+	    <url>rtsp://120.196.134.29:554/live/1/E891211078E22283/WOGUkFtQz7i4MKCc.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</url>
+	    </video>
+	    <video name="惠州惠州大道往水口方向实时路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/96005F5EF6CB1AEC/HUwX7FEPxxjb8l2a.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠州惠州大道往水口方向实时路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/96005F5EF6CB1AEC/bA278aPvQ653QNlV.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州仲恺大道海关门前实时路况" >
+	    <url>rtsp://120.196.134.29:554/live/1/92748332C6B31471/bpdmoMDvzsEWobEf.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</url>
+	    </video>
+	    <video name="惠州大道云山路口处实时路况" >
+	    <url>rtsp://120.196.134.29:554/live/1/61F1F6ED8A2AD0CF/vlZtm1kop2vGjA39.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</url>
+	    </video>
+	    <video name="惠州港惠新天地门前实时路（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/19B2E90250BF948E/jHRMlVtfTDh2Z5Or.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠州港惠新天地门前实时路（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/19B2E90250BF948E/Cz9hWZPIIwXwZBpI.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州三环路汽车广场门前实时路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/6FD326C20A6303F9/rkOzBfYem7LLQos4.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州三环路汽车广场门前实时路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/6FD326C20A6303F9/oxex08MyO4P5t0vI.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	 
+	    <video name="惠州麦地路世贸大厦门前实时路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/6075AF379CB9242C/hFM9jLrgm23CiSB1.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	
+	    <video name="惠州麦地路世贸大厦门前实时路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/6075AF379CB9242C/TbcECKeLnXEwqEUC.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>		    	       
+	    <video name="惠州达利大厦B" >
+	    <url>rtsp://120.196.134.29:554/live/1/6075AF379CB9242C/IPDXwAb36xpAbcir.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</url>
+	    </video>
+	    <video name="惠州花边岭广场实时路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/EE5DFED6ACE44201/R5l3DyfV9eDqTFVI.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州花边岭广场实时路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/EE5DFED6ACE44201/ZHUpvxrvf5J8tjD4.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠州麦地南路五中门口路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/46501FF85950BF74/jsTFubiTPbmPahuD.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州麦地南路五中门口路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/46501FF85950BF74/CXNT0HZWkIomFxhy.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠州麦地东路实时路况（流畅）" >
+	    <url>rtsp://120.196.134.29:554/mobile/1/46501FF85950BF74/jsTFubiTPbmPahuD.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>
+	    <video name="惠州麦地东路实时路况（高清）" >
+	    <url>rtsp://120.196.134.29:554/live/1/46501FF85950BF74/CXNT0HZWkIomFxhy.sdp?id=guest::1;t=1339253829::1;en=c19defa85cc39567ab451a8270389be5::1;rs=ws</url>
+	    </video>	    
+	    <video name="惠神路口-惠神路口" >
+	    <url>rtsp://120.196.147.14:554/live/1/FAEC79528E7528A7/0FDu6vFNm34b7wqo.sdp?id=guest::1;t=1315320747::1;en=8552ba15560e052f110e56e6f9121f57::1;rs=wap</url>
+	    </video>
+			<video name="惠州东江大桥东平段实时路况-摄像头1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227776.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.134.29:554/live/1/03BB23B572E1777F/VyCvM2GrceQW7qOp.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</hdurl>
+			</video>
+		  <video name="惠州天虹商场往演达大道处实时路况-摄像头1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227777.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.134.29:554/live/1/10C956C654768F15/gQpReiiRWISuDwbs.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</hdurl>
+			</video>
+			<video name="惠州鹅岭南路173医院路口实时路况-摄像头1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227780.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.134.29:554/live/1/D7E14EE85D97E3E8/rXEP6Xq7pMo8s46s.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</hdurl>
+			</video>
+			<video name="惠州云山西路德威大厦处实时路况-摄像头">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/361/227789.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.134.29:554/live/1/57C3FF7A051DE8EC/OhwPnzCBKWP80rkn.sdp?id=guest::1;t=1315320905::1;en=31c3aa33a394d91b798f3aebfd2bbbc1::1;rs=wap</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

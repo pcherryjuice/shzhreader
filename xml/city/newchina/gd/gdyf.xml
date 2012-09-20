@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="云浮" type="1" order="M">
+			<video name="西江在线一">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54033.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/BD7C2DA7C5F4FBCC/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="西江在线二">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54034.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/2A3081F4159F8503/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="西江在线三">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54035.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/696406EF7A3A3642/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="西江在线四">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54036.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/A5EC7A56F8E08EA2/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="新兴县华侨幼儿园门外">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54038.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/20FDCFB87379C9A3/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="新兴县华侨幼儿园广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54039.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/A9C5DBF4B6D018D8/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="新兴县华侨幼儿园走廊">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/54040.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/3DED90525507CB60/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="金山移动篮球场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/232181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/E41192BA3BC055D6/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="云安安城幼儿园1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/230781.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/2295B9F57D6DED67/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="云安安城幼儿园2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/230782.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/1933AAFE1C3A3E8F/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="云安安城幼儿园3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/230783.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/0CD3CA1690C05197/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="云安安城幼儿园4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/230784.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/161E833E146B8938/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="TD测试">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/230785.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/7E9CBEE9AA009E3F/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+			<video name="新兴县华侨幼儿园大厅">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3211/231423.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.190.25:554/mobile/1/1BA6B5B049DD465B/8y1vfa435degrqk7.sdp</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

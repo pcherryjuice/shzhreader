@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.4">
+   <province name="广东" order="S">
+		<city name="深圳" type="100" order="B" >
+			<video name="滨河上步立交">
+			<url>rtsp://120.196.125.22:554/mobile/1/288CFA7F19045C97/wlCjMXuZF47gg197.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</url>
+			</video>
+			<video name="滨河上步立交(高清)">
+			<url>rtsp://120.196.125.22:554/live/1/288CFA7F19045C97/0tzXltK33REc9UOm.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</url>
+			</video>
+			<video name="滨河大道赤尾段">
+			<url>rtsp://120.196.125.22:554/mobile/1/C242CCE677551A60/ZxviDjQscJe3uwSc.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</url>
+			</video>
+			<video name="滨河大道赤尾段（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/C242CCE677551A60/R8iFxVbMgrVR72ar.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</url>
+			</video>
+			<video name="北环上步立交">
+			<url>rtsp://120.196.125.22:554/mobile/1/1B14AFA8618BC22A/jlNKIdeUKVGKeauf.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</url>
+			</video>
+			<video name="北环上步立交（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/1B14AFA8618BC22A/bEDpliBpWHb117o9.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</url>
+			</video>
+			<video name="黄木岗立交">
+			<url>rtsp://120.196.125.22:554/mobile/1/8BB3E7A4B5ECCA76/0J9j2675R28J8Ip3.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</url>
+			</video>
+			<video name="黄木岗立交（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/8BB3E7A4B5ECCA76/4yCMbZPfp89GoBqy.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</url>
+			</video>
+			<video name="红荔香蜜湖西路">
+			<url>rtsp://120.196.125.22:554/mobile/1/928C1AADC22AE27C/U7aLWDwNf7kT2CvN.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</url>
+			</video>
+			<video name="红荔香蜜湖西路（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/928C1AADC22AE27C/U8ODIlKbunn0z0Ze.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</url>
+			</video>
+			
+			<video name="滨河皇岗立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120416</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120416::1;carmeId=1</url>
+			</video>
+			
+			<video name="滨河车公庙立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120417::1;carmeId=1</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120417::1;carmeId=1</url>
+			</video>
+			<video name="北环彩田立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041E</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/147C05E3ECA5D8BF/gSCBFCsTh4qvHYEV.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/147C05E3ECA5D8BF/nYKI33wuV7NseaWu.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</hdurl>
+			</video>
+			<video name="华强南立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C5</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDNQ==.html</url>
+			</video>
+			<video name="北环香梅路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120480</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120480::1;carmeId=1</url>
+			</video>
+			<video name="北环新洲立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120171</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120171::1;carmeId=1</url>
+			</video>
+			<video name="龙翔大道新丰路段">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/250104AD4E096580/tShWErZmLjLsixQP.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/250104AD4E096580/OoLo7ctWpj5YNzmR.sdp?id=13800000098::1;t=1343351549::1;en=fe4ba8b066f508be64fee2e156f76b79::1;rs=ws</url>
+			</video>
+			<video name="龙翔大道新丰路段（高清）">
+			<!--url>rtsp://120.196.125.22:554/live/1/250104AD4E096580/HB06Ruc7RsBhu7Cj.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/live/1/250104AD4E096580/ekUzQAz0rls8UsOJ.sdp?id=13800000098::1;t=1343351549::1;en=fe4ba8b066f508be64fee2e156f76b79::1;rs=ws</url>
+			</video>
+			<video name="坳背路深惠路">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/0AA00586DD92C70E/0z2ZzlkGRPNKAnyj.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/0AA00586DD92C70E/Cb8Z91RT3ikvYoTZ.sdp?id=13800000098::1;t=1343351392::1;en=9535c1890dbc203dc34e3b7b6c9c6db9::1;rs=ws</url>
+			</video>
+			<video name="坳背路深惠路（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/0AA00586DD92C70E/aT77KG859axxoSux.sdp?id=13800000098::1;t=1343351392::1;en=9535c1890dbc203dc34e3b7b6c9c6db9::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/live/1/0AA00586DD92C70E/TFNLOT6cMGBLROXq.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</url-->
+			</video>
+			<video name="黄阁路龙翔大道">
+		  <url>rtsp://120.196.125.22:554/mobile/1/CB75847AD588F857/aKyZBbvVsrgYe0A8.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</url>
+		  </video>
+		  <video name="黄阁路龙翔大道（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/CB75847AD588F857/4N0xGSCt6RFbPvyG.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</url>
+		  </video>
+		  <video name="布吉路吉华路">
+			<url>rtsp://120.196.125.22:554/mobile/1/15673AE77CF3AE87/n2yg2o28ueMiMF4Z.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</url>
+			</video>
+			<video name="布吉路吉华路（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/15673AE77CF3AE87/n0zOTjp0brmiow9u.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</url>
+			</video>
+			<video name="布吉镇吉华路秀峰路口">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120352::1;carmeId=1</url>
+			</video>
+			<video name="布龙路吉华路">
+			<url>rtsp://120.196.125.22:554/mobile/1/39C3CEF4284E26A6/pumNlj3EgMqNlydZ.sdp?id=13800000098::1;t=1343351068::1;en=1611a4423bd75284b349426c76df5b21::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/mobile/1/39C3CEF4284E26A6/TuQzMpjc81Eg8Pr0.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</url-->
+			</video>
+			<video name="布龙路吉华路（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/39C3CEF4284E26A6/OvUlMKk5Mq5Usnh2.sdp?id=13800000098::1;t=1343351068::1;en=1611a4423bd75284b349426c76df5b21::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/live/1/39C3CEF4284E26A6/2ANngFPvjSmyIzhL.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</url-->
+			</video>
+			<video name="布龙路坂雪岗大道">
+			<url>rtsp://120.196.125.22:554/mobile/1/304B4BDC7F28E9AB/9XO4y8DZHXg9lP6U.sdp?id=13800000098::1;t=1343349868::1;en=382550034de806b3f78dd062e82f8086::1;rs=ws</url>
+			</video>
+			<video name="布龙路坂雪岗大道（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/304B4BDC7F28E9AB/I28asH6l91OBoiWM.sdp?id=13800000098::1;t=1343349868::1;en=382550034de806b3f78dd062e82f8086::1;rs=ws</url>
+			</video>
+			<video name="布龙收费站">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/C420C622CD48DB5A/OxpVuM8QArQR1l9i.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/C420C622CD48DB5A/XERwmgUBrIsKQ0oy.sdp?id=13800000098::1;t=1343351657::1;en=3d1b9aedfc921f418f21e5e601630e3e::1;rs=ws</url>
+			</video>
+			<video name="布龙收费站（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/C420C622CD48DB5A/qH0B24sopyRYZaT1.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</url>
+			</video>
+			<video name="107国道创业立交">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/80449E4A7D6C48D6/hAu5iEoYXHPlTQ2o.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/80449E4A7D6C48D6/McTziokWOWsOx8tK.sdp?id=13800000098::1;t=1343352114::1;en=d97a2c61c1d932a6a5b75df0b7ed4e78::1;rs=ws</url>
+			</video>
+			<video name="107国道创业立交（高清）">
+			<!--url>rtsp://120.196.125.22:554/live/1/80449E4A7D6C48D6/FIMFcAj2ljIMTtSE.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/live/1/80449E4A7D6C48D6/mtipEisTNnQDkXwT.sdp?id=13800000098::1;t=1343352114::1;en=d97a2c61c1d932a6a5b75df0b7ed4e78::1;rs=ws</url>
+			</video>
+			
+			<video name="观光路大水坑路段">
+			<url>rtsp://120.196.125.22:554/mobile/1/9828DB0C3E9AF0BC/hqIXZu4pd5Yca7a4.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</url>
+			</video>
+			<video name="观光路大水坑路段(高清)">
+			<!--url>rtsp://120.196.125.22:554/live/1/9828DB0C3E9AF0BC/3RQJ3WaykkMTMCi0.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</url-->
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120354::1;carmeId=1</url>
+			</video>
+			
+			
+
+
+
+      <video name="福强路金田路口北"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C5::1;carmeId=1</url></video>
+      <video name="福华路/彩田"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003C::1;carmeId=1</url></video>
+      <video name="福华益田路口"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D7::1;carmeId=1</url></video>
+      <video name="八卦路与八卦三路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12033C::1;carmeId=1</url></video>
+      <video name="深南路/华富路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203AD::1;carmeId=1</url></video>
+      <video name="北环银湖路段"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12047F::1;carmeId=1</url></video>
+      <video name="华强中公交站"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D1::1;carmeId=1</url></video>
+      <video name="红荔路景田路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12035A::1;carmeId=1</url></video>
+      <video name="红荔路景田路路口-东方"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C4::1;carmeId=1</url></video>
+      <video name="福强路金田路口东"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CB::1;carmeId=1</url></video>
+      <video name="深南中路与红岭中路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203B0::1;carmeId=1</url></video>
+      <video name="前海路与桂庙路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201C8::1;carmeId=1</url></video>
+      <video name="北环南海立交"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120045::1;carmeId=1</url></video>
+      <video name="桃园路/南山大道"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201C7::1;carmeId=1</url></video>
+      <video name="深惠公路与湛宝路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1202AD::1;carmeId=1</url></video>
+      <video name="深惠公路与龙城南路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201EA::1;carmeId=1</url></video>
+      <video name="深惠路与如意中路"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12027E::1;carmeId=1</url></video>
+      
+      <video name="107国道松岗段北"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=00606E839299::1;carmeId=1</url></video>
+      <video name="新安一路107国道"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120483::1;carmeId=1</url></video>
+      <video name="福永汽车站"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12031B::1;carmeId=1</url></video>
+
+
+			
+			<video name="红荔新洲路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003D::1;carmeId=1</url>
+			</video>
+			<video name="华强北经济大厦站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204CE</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CE::1;carmeId=1</url>
+			</video>
+			<video name="皇岗梅林路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203E4</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203E4::1;carmeId=1</url>
+			</video>
+			<video name="皇岗口岸车辆进出口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120170::1;carmeId=1</url>
+			</video>
+			<video name="彩田梅林路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C7</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C7::1;carmeId=1</url>
+			</video>
+			<video name="皇岗口岸公交站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CA::1;carmeId=1</url>
+			</video>
+			<video name="同乐检查站 ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003F</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003F::1;carmeId=1</url>
+			</video>
+			<video name="白芒检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120044</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120044::1;carmeId=1</url>
+			</video>
+			<!--video name="清水河检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120043</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDA0Mw==.html</url>
+			</video>
+			<video name="布吉检查站">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003C</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDI3QQ==.html</url>
+			</video-->
+			<video name="南山大道玉泉路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12009D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12009D::1;carmeId=1</url>
+			</video>
+			<video name="沙河西路西丽段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120400</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120400::1;carmeId=1</url>
+			</video>
+			<video name="深南南海立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120418</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120418::1;carmeId=1</url>
+			</video>
+			<video name="深南大道世界之窗段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120463</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120463::1;carmeId=1</url>
+			</video>
+			<video name="深南路大道白石洲段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120461</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120461::1;carmeId=1</url>
+			</video>
+			<video name="新横坪公路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FE</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203FE::1;carmeId=1</url>
+			</video>
+			
+			
+			<video name="龙翔大道如意路">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A110062::1;carmeId=1</url>
+			</video>
+			
+			<video name="龙平龙城路口">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=00606E801383::1;carmeId=1</url>
+			</video>
+			<video name="吉华路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120406</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120406::1;carmeId=1</url>
+			</video>
+			<video name="布吉龙景立交">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120460::1;carmeId=1</url>
+			</video>
+			<video name="布沙路大芬村口以东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A110029</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A110029::1;carmeId=1</url>
+			</video>
+			
+			<video name="惠深公路罗岗高架桥西">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120486</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120486::1;carmeId=1</url>
+			</video>
+			<video name="四联路深惠路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041C</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12041C::1;carmeId=1</url>
+			</video>
+			<video name="惠深公路罗岗高架桥东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120487</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120487::1;carmeId=1</url>
+			</video>
+			<video name="丹竹头立交">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D6::1;carmeId=1</url>
+			</video>
+			
+			<video name="白灰围一路爱心路">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204BE::1;carmeId=1</url>
+			</video>
+			<video name="松白路玉律路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120359</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120359::1;carmeId=1</url>
+			</video>
+			<!--video name="107国道松岗段南">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120402</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwMg==.html</url>
+			</video-->
+			
+			<video name="松白路黄江路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120409</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120409::1;carmeId=1</url>
+			</video>
+			<video name="建安一路上川路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120419</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120419::1;carmeId=1</url>
+			</video>
+			<video name="龙华汽车站视频点二">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120421</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120421::1;carmeId=1</url>
+			</video>
+			<video name="民治大道天虹段">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120484::1;carmeId=1</url>
+			</video>
+			<video name="民治大道潜龙花园">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12047E::1;carmeId=1</url>
+			</video>
+			<video name="宝安大道新安六路">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12041D::1;carmeId=1</url>
+			</video>
+			
+			<video name="大梅沙路口">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C9</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C9::1;carmeId=1</url>
+			</video>
+			<video name="东部沿海高速入口东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120335</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120335::1;carmeId=1</url>
+			</video>
+			<video name="大梅沙路段">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FF</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203FF::1;carmeId=1</url>
+			</video>
+			<!--video name="布吉农批市场">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120358</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1OA==.html</url>
+			</video>
+			<video name="滨河大道鹿丹西">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwQw==.html</url>
+			</video-->
+			<video name="和平路南">
+			<url>rtsp://120.196.125.22:554/mobile/1/DA78EA85F943CCB9/UnsbzjA24FBfPRx5.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</url>
+			</video>
+			<video name="和平路南（g高清）">
+			<url>rtsp://120.196.125.22:554/live/1/DA78EA85F943CCB9/qgQ1pBs2EaLTVg94.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</url>
+			</video>
+			<!--video name="和平路北">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQzQw==.html</url>
+			</video-->
+			<video name="沿河路罗芳立交">
+			<url>rtsp://120.196.125.22:554/mobile/1/AA1446BB4A31FBCD/m5YhvMSmZv9idNBr.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</url>
+			</video>
+			<video name="沿河路罗芳立交（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/AA1446BB4A31FBCD/n0RZRf7DmvlhoL8E.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</url>
+			</video>
+			<!--video name="布心金威天桥">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12035A</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM1QQ==.html</url>
+			</video-->
+			<video name="罗沙路罗芳立交">
+			<url>rtsp://120.196.125.22:554/mobile/1/A4E89922F417CC7F/EThwsUTP5i04UiIL.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</url>
+			</video>
+			<video name="罗沙路罗芳立交（高清）">
+			<url>rtsp://120.196.125.22:554/live/1/A4E89922F417CC7F/0EAzk4CjBE3XzfT9.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</url>
+			</video>
+			<!--video name="红岗路泥岗立交">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041B</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxQg==.html</url>
+			</video>
+			<video name="滨河大道沿河南路北">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041F</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRg==.html</url>
+			</video>
+			<video name="滨河大道鹿丹东">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12040E</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQwRQ==.html</url>
+			</video>
+			<video name="滨河大道沿河南路南">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204CC</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDQw==.html</url>
+			</video-->
+			<!--video name="春风高架">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDM3Nw==.html</url>
+			</video>
+			<video name="嘉宾木棉花路口">
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDREQQ==.html</url>
+			</video-->
+		</city>							
+	</province>	
+</provinces> 

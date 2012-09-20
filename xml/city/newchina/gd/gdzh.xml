@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="珠海" type="1" order="F">
+			<video name="吉大白莲路">
+				<url>rtsp://218.204.223.237:554/live/1/27D115F525751160/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="吉大情侣南路中">
+				<url>rtsp://218.204.223.237:554/live/1/196806DE3C771EAD/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="前山上冲检查站出口">
+				<url>rtsp://218.204.223.237:554/live/1/0D20214349A62B05/a8l96jcvxrn0i3qp.sdp</url>
+			</video>
+			<video name="前山上冲检查站入口">
+				<url>rtsp://218.204.223.237:554/live/1/371C670B27A6534F/tbqspxfew843ef1h.sdp</url>
+			</video>
+			<video name="拱北迎宾南路-不稳定">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="拱北粤海中路">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="拱北桂花路-不稳定">
+				<url>rtsp://218.204.223.237:554/live/1/47595A67022D037A/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="拱北隧道南-不稳定">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="拱北芙蓉王酒店-不稳定">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="拱北龙泉阁隧道-不稳定">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="香洲人民路南坑段">
+				<url>rtsp://218.204.223.237:554/live/1/478D5AEC343A2D83/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="斗门大桥收费站出口">
+				<url>rtsp://218.204.223.237:554/live/1/5F4401F67D823BA4/xd93f39w349xoruj.sdp</url>
+			</video>
+			<video name="南门大桥收费站入口">
+				<url>rtsp://218.204.223.237:554/live/1/1C8B2EEE46BF33CF/qaynajqccpxy2jy0.sdp</url>
+			</video>
+			<video name="港湾大道由北向南">
+				<url>rtsp://218.204.223.237:554/live/1/0DF54BD4662116F1/vcpe0f4g350h3zyq.sdp</url>
+			</video>
+			<video name="港湾大道由南向北">
+				<url>rtsp://218.204.223.237:554/live/1/61192CD405A57B9A/qaynajqccpxy2jy0.sdp</url>
+			</video>
+			<video name="下栅检查站入珠海口">
+				<url>rtsp://218.204.223.237:554/live/1/13FD09B70A78661D/x7buqkyetr9a4b2q.sdp</url>
+			</video>
+			<video name="机场4号出发大厅">
+				<url>rtsp://218.204.223.237:554/live/1/6D1E43167B3A7BDA/xd93f39w349xoruj.sdp</url>
+			</video>
+			<video name="拱北口岸入境大厅">
+				<url>rtsp://218.204.223.237:554/live/1/4C024DFE77DC717D/wfbrwtdtjcflc1qj.sdp</url>
+			</video>
+			<video name="拱北口岸出境大厅">
+				<url>rtsp://218.204.223.237:554/live/1/66251FC11353191F/y5a1rvb8onwbmx5e.sdp</url>
+			</video>
+			<video name="南方软件园一楼大厅">
+				<url>rtsp://218.204.223.237:554/mobile/1/C26699A63D21013C/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室外广场1">
+				<url>rtsp://218.204.223.237:554/mobile/1/714D688C51C3B4EB/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室外广场2">
+				<url>rtsp://218.204.223.237:554/mobile/1/CC43C3AE89416AA1/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室内展厅1">
+				<url>rtsp://218.204.223.237:554/mobile/1/74CF68BC84B714C3/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室内展厅2">
+				<url>rtsp://218.204.223.237:554/mobile/1/88AF23677A582E60/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室内展厅3">
+				<url>rtsp://218.204.223.237:554/mobile/1/1A85F8FF5B07FA07/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="南方软件园-室内展厅4">
+				<url>rtsp://218.204.223.237:554/mobile/1/788260343F279636/8y1vfa435degrqk7.sdp</url>
+			</video>
+
+			<video name="交通信息中心1">
+				<url>rtsp://218.204.223.237:554/live/1/43217D4E1D3A5390/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="交通信息中心2">
+				<url>rtsp://218.204.223.237:554/live/1/182B3519642B3A92/kpkq1x5sn4xrdxbl.sdp</url>
+			</video>
+			<video name="港湾大道由北向南">
+				<url>rtsp://218.204.223.237:554/live/1/0DF54BD4662116F1/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="斗门大桥收费出口">
+				<url>rtsp://218.204.223.237:554/live/1/5F4401F67D823BA4/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="下栅检查站出珠海口">
+				<url>rtsp://218.204.223.237:554/live/1/42287AE1422B62DD/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="港湾大道由南向北">
+				<url>rtsp://218.204.223.237:554/live/1/61192CD405A57B9A/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="上冲检查站入口">
+				<url>rtsp://218.204.223.237:554/live/1/371C670B27A6534F/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="机场4号出发大厅">
+				<url>rtsp://218.204.223.237:554/live/1/6D1E43167B3A7BDA/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="上冲检查站出口">
+				<url>rtsp://218.204.223.237:554/live/1/1C8B2EEE46BF33CF/fkhyldt0ri92f2wf.sdp</url>
+			</video>
+			<video name="坦洲入珠海">
+				<url>rtsp://218.204.223.237:554/live/1/0D20214349A62B05/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="翠微市场路口">
+				<url>rtsp://218.204.223.237:554/live/1/13FD09B70A78661D/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="情侣路">
+				<url>rtsp://218.204.223.237:554/live/1/7D89755241C77928/kpkq1x5sn4xrdxbl.sdp</url>
+			</video>
+			<video name="桂华南邮局入口">
+				<url>rtsp://218.204.223.237:554/live/1/7F997BF976ED2F8A/8e0a2ztfn5dd0pcd.sdp</url>
+			</video>
+			<video name="芙蓉王酒店路口">
+				<url>rtsp://218.204.223.237:554/live/1/196806DE3C771EAD/kbutaj889ee4dx9w.sdp</url>
+			</video>
+			<video name="南坑路口">
+				<url>rtsp://218.204.223.237:554/live/1/47595A67022D037A/e4c56sn9tz78pl7p.sdp</url>
+			</video>
+			<video name="英泰酒店路口">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/fkhyldt0ri92f2wf.sdp</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

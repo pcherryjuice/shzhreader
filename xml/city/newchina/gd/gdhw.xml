@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="华为" type="1" order="K" >
+			<video name="华为全球通1楼电梯口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48266.3_1.jsp?redirected=true</url>
+			</video>	
+			<video name="华为全球通3楼餐厅">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48267.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通4楼餐厅">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48268.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通5楼餐厅">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48269.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通东大堂">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48270.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通体验厅">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48271.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通西大堂">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48272.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="华为全球通西南广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3303/48273.3_1.jsp?redirected=true</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="宁德" type="1" order="I" >	
+			
+			<video name="福鼎市第一中学路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001&PUID-ChannelNo=01020359300004010100007032&StreamingType=1</url>
+			</video>
+			<video name="福鼎市实验小学路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001&PUID-ChannelNo=01020359300004010100007089&StreamingType=1</url>
+			</video>
+			<video name="福鼎市实验幼儿园路口">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001&PUID-ChannelNo=01020359300004010100008215&StreamingType=1</url>
+			</video>
+			
+			
+			<video name="校园监控2">
+			<url>tmss://112.5.66.137:9901/xmxx_202?isLive=true</url>
+			</video>
+			<video name="校园监控1">
+			<url>tmss://112.5.66.137:9901/xmxx_201?isLive=true</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

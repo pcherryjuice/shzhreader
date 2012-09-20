@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="肇庆" type="1" order="Q">
+			<video name="肇庆端州六路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48380.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003309::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=84613dd965b91fd6d7e7f8ab176a4796</hdurl>
+			</video>
+			<video name="肇庆端州五路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48381.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003313::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=635e931789eceb91fbaf4ebfacf74daa</hdurl>
+			</video>
+			<video name="肇庆建设三路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48383.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003306::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=1da5747f63c3bad8247e03c145060731</hdurl>
+			</video>
+			<video name="肇庆建设三路1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48384.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003297::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=e406add4a7430fe90f577fe5992f3bfb</hdurl>
+			</video>
+			<video name="肇庆江滨西路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48385.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003310::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=91923cd89f22752903ae8c4f23991a87</hdurl>
+			</video>
+			<video name="肇庆江滨中路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48386.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003312::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=a70bd87db42874fb3cdd52f75a9ef37d</hdurl>
+			</video>
+			<video name="肇庆牌坊广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48387.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003308::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=36290e5264deb17d9cddae367625ad9b</hdurl>
+			</video>
+			<video name="肇庆西江南路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48388.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003311::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=b908e3f3cad38c10bba5f0975c656132</hdurl>
+			</video>
+			<video name="肇庆星荷路绿道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/48389.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003314::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=ac2aece7c8ea3e752c74c75a8d28b313</hdurl>
+			</video>
+			<video name="肇庆牌坊广场二">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/54918.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500004504::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=89320e214c6bc7417b7361fe4d4236d9</hdurl>
+			</video>
+			<video name="肇庆东门广场绿道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/54910.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500004500::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=954632f7f894759fa0b3c13c8da678fc</hdurl>
+			</video>
+			<video name="肇庆省1号绿道起点广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/54916.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500004502::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=ed5d593afec9b3e1c6ea53f755a406ce</hdurl>
+			</video>
+			<video name="肇庆星湖湾绿道">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/391/55263.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500004669::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123131433::1;encrypt=5b5536715a78819d8116a5127b9b2ca9</hdurl>
+			</video>
+			<video name="牌坊广场路口" >
+	<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010801010500003308::1;PlayMethod=0::1;PuProperty=0::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;StreamingType=1::1;msisdn=18751878637::1;timestamp=20110428134650::1;encrypt=857c4b14403182965dc8376b84dffcb2::1;ua=Mozilla::1;token=::1;userid=::1;pt=wap</url>
+	</video>
+		</city>
+	</province>
+</provinces> 

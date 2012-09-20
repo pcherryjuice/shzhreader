@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="茂名" type="1" order="P" >
+			<video name="茂名-信宜邮政大厦路口（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500007262::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111228032608::1;encrypt=3f5b3679703c614e737f0d37fe894091</url>
+			</video>
+			<video name="茂名-信宜邮政大厦路口（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500007262::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111228032608::1;encrypt=5d38d8b9e3cc689b9d886d34b7db06a5</url>
+			</video>			
+			<video name="油城五路（明湖商场前十字路口）（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006024::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=103f5c4c17d5e0f70acd9567ab19c79a</url>
+			</video>	
+			<video name="油城五路（明湖商场前十字路口）（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006024::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=894c783c822881e9fbb76a5fcff52fdd</url>
+			</video>				
+			<video name="大草坪十字路口（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006023::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=60d32f7cec8d231a8d8db4739c15297e</url>
+			</video>	
+			<video name="大草坪十字路口（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006023::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=e7cb98b511b342133b1f36816a425414</url>
+			</video>				
+			<video name="茂名东站（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006021::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=13988b08091b7bdd5b3fb5141d1891d6</url>
+			</video>
+			<video name="茂名东站（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006021::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=c253813cd5d1e79d5295c4c495fb8d85</url>
+			</video>			
+			<video name="茂名文化广场景点（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500005965::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=02e271c7b86878430cc6d5c728680d14</url>
+			</video>
+			<video name="茂名文化广场景点（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500005965::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111022820::1;encrypt=7866349da1c7296e9ad102a200e68d1e</url>
+			</video>			
+			<video name="茂名-聚佳广场（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006022::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=3afe85cb0629fa8af80e19c1dd8c6cd1</url>
+			</video>
+			<video name="茂名-聚佳广场（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006022::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=609ec85784cc4472efc97772f5e0f10b</url>
+			</video>			
+			<video name="茂名-化州广伦山路口（普清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006020::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=470aebd55a257abf871ad5618e8b9f19</url>
+			</video>
+			<video name="茂名-化州广伦山路口（标清）">
+			<url>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006020::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111111023430::1;encrypt=ebf144dd3ea5f48343fbfbb9ec5ebd27</url>
+			</video>			
+			<video name="茂名_移动公司内部">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232081.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500005963::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=dafce334295b41c9d7418b41def75d5f</hdurl>
+			</video>
+			<video name="茂名_移动公司外部">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232082.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500005967::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=45c54481f76c2622d70109c1dbe2c79c</hdurl>
+			</video>
+			<video name="茂名_文化广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232083.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500005965::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=fe25c6bab53fa3bbc27b92b3ea320a7c</hdurl>
+			</video>
+			<video name="茂名_汇丰酒店">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232102.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006024::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=e1dca7d823abdc79f50902198c6e717e</hdurl>
+			</video>
+			<video name="茂名_茂东火车站">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232103.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006021::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=de1ce3c809452a4369e4860d58d641cd</hdurl>
+			</video>
+			<video name="茂名_聚佳广场2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232104.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006022::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=f7ffefcc064a1b36d403831eb0f55365</hdurl>
+			</video>
+			<video name="茂名_外贸大厦">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232105.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006023::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=ec0b767fd35e7c884889401b8d53c5b2</hdurl>
+			</video>
+			<video name="茂名_化州">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3141/232101.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.240.218:554/service?PuId-ChannelNo=010203012502010500006020::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.116.141::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123031901::1;encrypt=db0a17619983dbfa629fbbc5a14bbd27</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 
