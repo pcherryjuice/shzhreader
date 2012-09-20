@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="上海" order="T0" >
+		<city name="其他" type="0" order="Q" >
+			<video name="# 其他(单击加载)">
+				<url>city/gslk/qt.xml</url>
+			</video>
+		</city>		
+		<city name="高速路口" type="0" order="C" >
+			<video name="# 高速路口(单击加载)">
+				<url>city/gslk/gslk.xml</url>
+			</video>
+		</city>							
+	</province>
+</provinces> 
