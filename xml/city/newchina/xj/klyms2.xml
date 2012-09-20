@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="新疆" order="T" >
+		<city name="乌尔禾" type="1" order="E" >	
+			<video name="十六中学">
+			<url>rtsp://218.202.218.196/65020000001311030002</url>
+			</video>
+			<video name="魔鬼城景区">
+			<url>rtsp://218.202.218.196/65020000001311030004</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

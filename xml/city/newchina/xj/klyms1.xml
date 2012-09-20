@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="新疆" order="T" >
+		<city name="白碱滩" type="1" order="D" >	
+			<video name="客运站">
+			<url>rtsp://218.202.218.196/65020000001311022019</url>
+			</video>
+			<video name="国贸商城">
+			<url>rtsp://218.202.218.196/65020000001311011008</url>
+			</video>
+			<video name="中兴农贸市场">
+			<url>rtsp://218.202.218.196/65020000001311022003</url>
+			</video>
+			<video name="白碱滩水库">
+			<url>rtsp://218.202.218.196/65020000001311023022</url>
+			</video>
+			<video name="华阳托老所">
+			<url>rtsp://218.202.218.196/65020000001311023020</url>
+			</video>
+			<video name="白碱滩区政府">
+			<url>rtsp://218.202.218.196/65020000001311023016</url>
+			</video>
+			<video name="美佳美商场">
+			<url>rtsp://218.202.218.196/65020000001311023010</url>
+			</video>
+			<video name="十三中学">
+			<url>rtsp://218.202.218.196/65020000001311023006</url>
+			</video>
+			
+			<video name="国税大楼">
+			<url>rtsp://218.202.218.196/65020000001311022006</url>
+			</video>
+			<video name="三环娱乐城">
+			<url>rtsp://218.202.218.196/65020000001311022004</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

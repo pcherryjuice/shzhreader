@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="海南" order="U" >
+		<city name="海口" type="1" order="A" >
+			<video name="# 海口(单击加载)">
+				<url>city/hainan/haikou.xml</url>
+			</video>
+		</city>			
+		<city name="三亚" type="1" order="B" >
+			<video name="# 三亚(单击加载)">
+				<url>city/hainan/sanya.xml</url>
+			</video>
+		</city>					
+	</province>
+</provinces> 

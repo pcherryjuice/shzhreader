@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="T" >
+		<city name="武汉" type="200" order="A" >
+			<video name="洪山广场"><url>rtsp://211.137.78.148/broadcast/jgj02_03.rm</url></video>	
+			<video name="黄浦路立交桥全景"><url>rtsp://211.137.78.148/broadcast/jgj06_04</url></video>
+			<video name="武珞路中南路口"><url>rtsp://211.137.78.148/broadcast/jgj04_02</url></video>	
+			<video name="黄孝河路育才小学正门"><url>rtsp://211.137.78.148/broadcast/jgj06_01</url></video>	
+			<video name="解放大道桥口路口"><url>rtsp://211.137.78.148/broadcast/jgj04_03</url></video>	
+			<video name="民生路花楼街段"><url>rtsp://211.137.78.148/broadcast/jgj08_01</url></video>	
+			<video name="青年路汉口火车站段"><url>rtsp://211.137.78.148/broadcast/jgj04_04</url></video>	
+			<video name="胜利街三阳路口"><url>rtsp://211.137.78.148/broadcast/jgj08_03</url></video>	
+			<video name="新华路唐家墩路口"><url>rtsp://211.137.78.148/broadcast/jgj08_04</url></video>	
+			<video name="沿江大道兰陵路口"><url>rtsp://211.137.78.148/broadcast/jgj09_03</url></video>	
+			<video name="中山大道黄埔路口"><url>rtsp://211.137.78.148/broadcast/jgj06_02</url></video>	
+			<video name="中山大道南京路口"><url>rtsp://211.137.78.148/broadcast/jgj10_04</url></video>	
+			<video name="江汉一桥"><url>rtsp://211.137.78.148/broadcast/jgj02_04.rm</url></video>	
+			<video name="长江大桥下桥匝道"><url>rtsp://211.137.78.148/broadcast/jgj03_02.rm</url></video>	
+			<video name="汉阳大道钟家村道"><url>rtsp://211.137.78.148/broadcast/jgj09_04</url></video>
+			<video name="青年路汉口火车站段"><url>rtsp://211.137.78.148/broadcast/jgj04_04</url></video>
+			<video name="胜利街三阳路口"><url>rtsp://211.137.78.148/broadcast/jgj08_03</url></video>
+			<video name="新华路唐家墩路口"><url>rtsp://211.137.78.148/broadcast/jgj08_04</url></video>
+			<video name="沿江大道青岛路口"><url>rtsp://211.137.78.148/broadcast/jgj10_01</url></video>
+			
+			<video name="中山大道江汉路口"><url>rtsp://211.137.78.148/broadcast/jgj10_03</url></video>
+			<video name="建设大道解放公园路口"><url>rtsp://211.137.78.148/broadcast/jgj08_02</url></video>
+			<video name="京汉大道武胜路"><url>rtsp://211.137.78.148/broadcast/jgj09_01</url></video>
+			<video name="沿江大道兰陵路口"><url>rtsp://211.137.78.148/broadcast/jgj09_02</url></video>
+			<video name="中山大道利济路口"><url>rtsp://211.137.78.148/broadcast/jgj06_03</url></video>
+			
+			
+			<video name="雄楚大道丁字桥路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_03</url>
+			</video>
+			<video name="楚雄大道理工桥路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_04</url>
+			</video>
+			<video name="常青路">
+			<url>rtsp://211.137.78.148/broadcast/jgj01_01.rm</url>
+			</video>
+			<video name="建设大道澳门路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_04</url>
+			</video>
+			<video name="建设大道卢沟路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_01</url>
+			</video>
+			<video name="建设大道台北路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_02</url>
+			</video>
+			<video name="青年路立交桥全景">
+			<url>rtsp://211.137.78.148/broadcast/jgj01_02.rm</url>
+			</video>
+			<video name="新华路江汉北路口">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_03</url>
+			</video>
+			<video name="龙阳大道墨水湖北路">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_02</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

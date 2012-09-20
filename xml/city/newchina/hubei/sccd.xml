@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="四川" order="T1" >
+    <city name="成都" type="1" order="A" >
+                                                       
+     <video name="金牛区 - 一环路西三段永陵路口" ><url>rtsp://218.205.231.149:554/live/1/2CBE124B67C85A59/rscRaz2pXgfUgF2e.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="金牛区 - 中国建行门口 " ><url>rtsp://218.205.231.149:554/live/1/795B030D238307B4/DHbnf2JI1AKDtstZ.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="青羊区 - 二环路北三段西都宾馆 " ><url>rtsp://218.205.231.149:554/live/1/3B7D4C49332A47EC/NxTfMADS4vYI9m9B.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="金牛区 - 二环路友谊宾馆农行 " ><url>rtsp://218.205.231.149:554/live/1/5E59316B72A234EB/VXjsMfKS50V8il23.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="武侯区 - 人民西路与西华门街口 " ><url>rtsp://218.205.231.149:554/live/1/7B32251532CA35C0/0Zs1gZ5J46ATVp8m.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="锦江区 - 一环路东华门街20号 " ><url>rtsp://218.205.231.149:554/live/1/3BAA039735D01614/4BkVdQEp2NXZ0Atv.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="青羊区 - 蜀都大厦 " ><url>rtsp://218.205.231.149:554/live/1/6C7213EC450B2EF8/6OUaCMqXX53ryQ0u.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="青羊区 - 人东-署袜南街口 " ><url>rtsp://218.205.231.149:554/live/1/43CE6F9443445D9A/6CdKvOqkQYSeAcMj.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="锦江区 - 顺江路与莲桂西路交叉口 " ><url>rtsp://218.205.231.149:554/live/1/292A593D55916357/40eGRVDyHrpn4EKZ.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="锦江区 - 西玉龙街与东华门街交叉口 " ><url>rtsp://218.205.231.149:554/live/1/0FA6042C499878C7/10YXG94CxwFQ2cXv.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="金牛区 - 汉江路1#和乐商务酒店外" ><url>rtsp://218.205.231.149:554/live/1/03F5400F3D3C52B8/rkrFNvMpQIrpLMqf.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="锦江区 - 城北客运中心售票厅外" ><url>rtsp://218.205.231.149:554/live/1/45F44D7D2DB87DF3/553KUO95wbHj82H0.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="青羊区 - 总府路46号" ><url>rtsp://218.205.231.149:554/live/1/38F1636968AB7AD3/tc9UeXumUZqjJ8Vm.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="锦江区 - 成都大学附属医院大门" ><url>rtsp://218.205.231.149:554/live/1/65B734FB35E4707E/zEHbMWOd18Dox48i.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="武侯区 - 经华路口与双桥交叉路口" ><url>rtsp://218.205.231.149:554/live/1/35AB46A109903442/orJxxM5GRDiAzQjP.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="青羊区 - 染房街口" ><url>rtsp://218.205.231.149:554/live/1/55201E55160872A4/VzdZwrlJptqROtsY.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="锦江区 - 人东-盐市口大业路段" ><url>rtsp://218.205.231.149:554/live/1/30C34A0446F274C9/b3bxIXynGE1ehXyH.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="金牛区 - 银河酒店旁" ><url>rtsp://218.205.231.149:554/live/1/3FF7112C7BE43CA9/9SBa8kKCFb6HXgD0.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="锦江区 - 一环路太升南路43号云天楼东" ><url>rtsp://218.205.231.149:554/live/1/64677BD2169974DC/Q2vUMxUsn2DgRqGV.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="青羊区 - 青石桥北街农业银行 " ><url>rtsp://218.205.231.149:554/live/1/3933291736436024/fySJDA1SNgEVZqHq.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="锦江区 - 新光华街1号" ><url>rtsp://218.205.231.149:554/live/1/4AAD1EF95EDD6C0B/BEn1V7H2OyGWREHa.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     <video name="青羊区 - 电信西城营业厅门外路灯" ><url>rtsp://218.205.231.149:554/live/1/7E71637404F7667F/6JYKLxdpDpJ3i5Ub.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     <video name="青羊区 - 成铁公安处外" ><url>rtsp://218.205.231.149:554/live/1/730108A4299325B3/G2qsdF3fyuD9jetE.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     
+     <video name="都江堰 - 都江堰-云居山庄" ><url>rtsp://218.205.231.149:554/live/1/253F11C128C42A50/uTbrgpGxsPteaomt.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 都江堰医疗中心-缴费窗口" ><url>rtsp://218.205.231.149:554/live/1/0C741A3841E50125/MZD0xWGRkWCqgdiG.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="邛崃-平乐大桥街45号" ><url>rtsp://218.205.231.149:554/live/1/6D020FE924CF2E3C/EOq1TIv8NM75re5R.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="龙泉驿区 - 桃花节桃花山1" ><url>rtsp://218.205.231.149:554/live/1/57B57700157717F9/8lywlGboQkXdIuIZ.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="龙泉驿区 - 桃花节桃花山2" ><url>rtsp://218.205.231.149:554/live/1/16EC1C722A2B7FD0/cB2tTTHBuB8P6Wb6.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="龙泉驿区 - 桃花节主会场" ><url>rtsp://218.205.231.149:554/live/1/1CF503160E83027B/RzRUwj3NJAFTzDvb.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 - 青城山-天然图画" ><url>rtsp://218.205.231.149:554/live/1/6D577D2D53E53744/7g1OgWgXzixr7xEe.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 - 青城山景区牌坊" ><url>rtsp://218.205.231.149:554/live/1/521E6E3637542B77/YGxa5Nj4ZIKrMEFf.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 - 青城山-情侣树" ><url>rtsp://218.205.231.149:554/live/1/2BE002E246997C6D/pOo00Sda1RiVwZve.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 - 青城山-新索桥头 " ><url>rtsp://218.205.231.149:554/live/1/079F66093A58487A/sEAj1aWeDJcRnycb.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="都江堰 - 青城山-22号飞仙观" ><url>rtsp://218.205.231.149:554/live/1/6D593052659B32CF/NcdQf6X59c4YdN1D.sdp?id=guest::1;t=1339178266::1;en=585fb631150c4603aab976a915172c56::1;rs=ws</url></video>
+     <video name="大邑利民连锁红光店" ><url>rtsp://218.205.231.149:554/live/1/1124104B343D0961/1q5kMfsx8Sk2LDaU.sdp?id=guest::1;t=1339178266::1;en=585fb631150c4603aab976a915172c56::1;rs=ws</url></video>
+     
+     <video name="成华区 妈妈爱幼儿园 - 大门" ><url>rtsp://218.205.231.149:554/live/1/100C40C327070133/9fT9qozozGVE3faM.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 月亮班" ><url>rtsp://218.205.231.149:554/live/1/730C1F7217016400/lfFr8riqbFZiW2WV.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 彩虹班" ><url>rtsp://218.205.231.149:554/live/1/7BA64B081FEE128A/tnJtp2jvIn43QtdX.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 大厅" ><url>rtsp://218.205.231.149:554/live/1/1A3079C118906ECE/A6wR9KxqdGS8e0IP.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 嘟嘟班" ><url>rtsp://218.205.231.149:554/live/1/231A312A13D610AD/Fq1BmxZcGAoz5Cqy.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 叮叮班" ><url>rtsp://218.205.231.149:554/live/1/39F871BD7D2463FC/IkfF2qFO74Dlplm7.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 蓓蓓班" ><url>rtsp://218.205.231.149:554/live/1/52D06C5101C16E0C/JQb5cpygw9Asc9ww.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 操场右" ><url>rtsp://218.205.231.149:554/live/1/0B9D117B610D2B43/IWQQOuEzTPgVs3TM.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 泡泡班" ><url>rtsp://218.205.231.149:554/live/1/585814D16E7E409C/FDdWTFZHf6FJb3tS.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - QQ班 " ><url>rtsp://218.205.231.149:554/live/1/7E6122E75A11390D/AVkosVwHyYMTn9hO.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 太阳班" ><url>rtsp://218.205.231.149:554/live/1/37D826721708254B/S8WEKHBcfaGvQEpq.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 星星班" ><url>rtsp://218.205.231.149:554/live/1/566A153C1F697126/aipYGPw3WUawqCAf.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+     <video name="武侯区 蓓蕾幼儿园（肖家河分院） - 乐乐班" ><url>rtsp://218.205.231.149:554/live/1/27FC1BAC18AE2561/q3BD54ELBfnTsGZT.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+
+
+		</city>			
+	</province>
+</provinces> 

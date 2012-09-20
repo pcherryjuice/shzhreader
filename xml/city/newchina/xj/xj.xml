@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="新疆" order="T" >
+		<city name="克拉玛依" type="1" order="C" >
+			<video name="# 克拉玛依(单击加载)">
+				<url>city/xj/klyms.xml</url>
+			</video>
+		</city>		
+		<city name="白碱滩" type="1" order="D" >
+			<video name="# 白碱滩(单击加载)">
+				<url>city/xj/klyms1.xml</url>
+			</video>
+		</city>	
+		<city name="乌尔禾" type="1" order="E" >
+			<video name="# 乌尔禾(单击加载)">
+				<url>city/xj/klyms2.xml</url>
+			</video>
+		</city>						
+	</province>
+</provinces> 
