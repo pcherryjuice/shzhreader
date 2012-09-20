@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="南平" type="1" order="E" >	
+			
+			<video name="樟湖镇主道路监控">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012705::1;StreamingType=1</url>
+			</video>
+			
+			<video name="樟湖镇主道路监控(高清)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012705::1;StreamingType=2</url>
+			</video>
+			
+			<video name="漳湖镇市场">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012702::1;StreamingType=1</url>
+			</video>
+			<video name="漳湖镇市场（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012702::1;StreamingType=2</url>
+			</video>
+			
+			<video name="漳湖镇码头">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012703::1;StreamingType=1</url>
+			</video>
+			<video name="漳湖镇码头（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012703::1;StreamingType=2</url>
+			</video>
+			
+			<video name="漳湖镇政府">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012704::1;StreamingType=1</url>
+			</video>
+			<video name="漳湖镇政府（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012704::1;StreamingType=2</url>
+			</video>
+			
+			<video name="漳湖镇中心幼儿园">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012706::1;StreamingType=1</url>
+			</video>
+			<video name="漳湖镇中心幼儿园（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012706::1;StreamingType=2</url>
+			</video>
+			
+			<video name="南平市区水南环岛路口监控">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900019010100010467::1;StreamingType=1</url>
+			</video>
+			<video name="南平市区水南环岛路口监控（高清）">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900019010100010467::1;StreamingType=2</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 

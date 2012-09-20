@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+		<city name="莆田" type="1" order="B" >
+			<video name="涵江新涵大街路口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008773::1;StreamingType=1</url></video>
+			<video name="秀屿火车站入口视频"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400194010100013211::1;StreamingType=1</url></video>
+			<video name="福厦路赤溪段路口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008759::1;StreamingType=1</url></video>
+			<video name="莆田学院往学生街"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008484::1;StreamingType=1</url></video>
+			<video name="莆田学院往东园路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008483::1;StreamingType=1</url></video>
+			<video name="莆田学院往三信电子城"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008481::1;StreamingType=1</url></video>
+			<video name="东园-学园路口往莆田学院"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008433::1;StreamingType=1</url></video>
+			<video name="东园-学园路口往市政府"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008436::1;StreamingType=1</url></video>
+			<video name="市检察院路口往市政府"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008321::1;StreamingType=1</url></video>
+			<video name="市检察院路口往涵江"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008323::1;StreamingType=1</url></video>
+			<video name="市检察院路口往东圳路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008319::1;StreamingType=1</url></video>
+			<video name="市政府路口往东园路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008467::1;StreamingType=1</url></video>
+			<video name="市政府路口往北磨"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008471::1;StreamingType=1</url></video>
+			<video name="市政府路口往检察院"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008469::1;StreamingType=1</url></video>
+			<video name="荔城区文献路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008592::1;StreamingType=1</url></video>
+			<video name="荔城-梅园路口往南"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008922::1;StreamingType=1</url></video>
+			<video name="荔城-梅园路口往东"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008926::1;StreamingType=1</url></video>
+			<video name="荔城-梅园路口往北"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008924::1;StreamingType=1</url></video>
+			<video name="莆田高楼梅园路路口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=1</url></video>
+			<video name="恒丰酒店路口往沟头圆圈"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008362::1;StreamingType=1</url></video>
+			<video name="恒丰酒店路口南"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007653::1;StreamingType=1</url></video>
+			<video name="梅园-胜利路口往新街口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008313::1;StreamingType=1</url></video>
+			<video name="梅园-胜利路口往梅峰寺"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008317::1;StreamingType=1</url></video>
+			<video name="梅园-胜利路口往三信"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=1</url></video>
+			<video name="恒丰酒店路口往凤凰山"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007654::1;StreamingType=1</url></video>
+			<video name="新街口往高楼"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010128::1;StreamingType=1</url></video>
+			<video name="新街口往南门"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010138::1;StreamingType=1</url></video>
+			<video name="新街口往文献路"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010139::1;StreamingType=1</url></video>
+			<video name="三信电子城往党校"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008477::1;StreamingType=1</url></video>
+			<video name="三信电子城往田尾"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008479::1;StreamingType=1</url></video>
+			<video name="三信电子城往莆田学院"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008452::1;StreamingType=1</url></video>
+			<video name="学园-东圳路口天桥往莆田学院"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007545::1;StreamingType=1</url></video>
+			<video name="学园-东圳路口天桥往广电中心"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007217::1;StreamingType=1</url></video>
+			<video name="学园-东圳路口天桥往赤溪"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007218::1;StreamingType=1</url></video>
+			<video name="汇通酒店路口东"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005181::1;StreamingType=1</url></video>
+			<video name="沟头圆圈往汇通"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008442::1;StreamingType=1</url></video>
+			<video name="古城-十字街路口西"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005166::1;StreamingType=1</url></video>
+			<video name="仙游县鲤南镇城南西路路口"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008630::1;StreamingType=1</url></video>
+			
+			<video name="涵江新涵大街路口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008773::1;StreamingType=2</url></video>
+			<video name="秀屿火车站入口视频（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400194010100013211::1;StreamingType=2</url></video>
+			<video name="福厦路赤溪段路口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008759::1;StreamingType=2</url></video>
+			<video name="莆田学院往学生街（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008484::1;StreamingType=2</url></video>
+			<video name="莆田学院往东园路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008483::1;StreamingType=2</url></video>
+			<video name="莆田学院往三信电子城（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008481::1;StreamingType=2</url></video>
+			<video name="东园-学园路口往莆田学院（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008433::1;StreamingType=2</url></video>
+			<video name="东园-学园路口往市政府（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008436::1;StreamingType=2</url></video>
+			<video name="市检察院路口往市政府（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008321::1;StreamingType=2</url></video>
+			<video name="市检察院路口往涵江（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008323::1;StreamingType=2</url></video>
+			<video name="市检察院路口往东圳路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008319::1;StreamingType=2</url></video>
+			<video name="市政府路口往东园路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008467::1;StreamingType=2</url></video>
+			<video name="市政府路口往北磨（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008471::1;StreamingType=2</url></video>
+			<video name="市政府路口往检察院（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008469::1;StreamingType=2</url></video>
+			<video name="荔城区文献路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008592::1;StreamingType=2</url></video>
+			<video name="荔城-梅园路口往南（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008922::1;StreamingType=2</url></video>
+			<video name="荔城-梅园路口往东（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008926::1;StreamingType=2</url></video>
+			<video name="荔城-梅园路口往北（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008924::1;StreamingType=2</url></video>
+			<video name="莆田高楼梅园路路口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=2</url></video>
+			<video name="恒丰酒店路口往沟头圆圈（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008362::1;StreamingType=2</url></video>
+			<video name="恒丰酒店路口南（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007653::1;StreamingType=2</url></video>
+			<video name="梅园-胜利路口往新街口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008313::1;StreamingType=2</url></video>
+			<video name="梅园-胜利路口往梅峰寺（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008317::1;StreamingType=2</url></video>
+			<video name="梅园-胜利路口往三信（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=2</url></video>
+			<video name="恒丰酒店路口往凤凰山（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007654::1;StreamingType=2</url></video>
+			<video name="新街口往高楼（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010128::1;StreamingType=2</url></video>
+			<video name="新街口往南门（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010138::1;StreamingType=2</url></video>
+			<video name="新街口往文献路（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010139::1;StreamingType=2</url></video>
+			<video name="三信电子城往党校（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008477::1;StreamingType=2</url></video>
+			<video name="三信电子城往田尾（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008479::1;StreamingType=2</url></video>
+			<video name="三信电子城往莆田学院（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008452::1;StreamingType=2</url></video>
+			<video name="学园-东圳路口天桥往莆田学院（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007545::1;StreamingType=2</url></video>
+			<video name="学园-东圳路口天桥往广电中心（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007217::1;StreamingType=2</url></video>
+			<video name="学园-东圳路口天桥往赤溪（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007218::1;StreamingType=2</url></video>
+			<video name="汇通酒店路口东（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005181::1;StreamingType=2</url></video>
+			<video name="沟头圆圈往汇通（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008442::1;StreamingType=2</url></video>
+			<video name="古城-十字街路口西（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005166::1;StreamingType=2</url></video>
+			<video name="仙游县鲤南镇城南西路路口（高清）"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008630::1;StreamingType=2</url></video>
+		</city>
+	</province>
+</provinces> 

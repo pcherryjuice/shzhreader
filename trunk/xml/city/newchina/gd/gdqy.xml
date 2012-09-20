@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="清远" type="1" order="R" >
+			<video name="清城区凤鸣路与滨江路交汇处 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>		
+			<video name="清城区凤鸣路与滨江路交汇处 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>		
+			<video name="清远市清城汽车客运站 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007321::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=0a3e8b4d7ba43fcb8365f4c7476d01fb</url>
+			</video>	
+			<video name="清远市清城汽车客运站 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007321::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=d2b13621085c9503a9f832623b755102</url>
+			</video>	
+			<video name="清城区银泉南路 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007317::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=53a69c7a17d8af164d95fe4e7de34d89</url>
+			</video>	
+			<video name="清城区银泉南路 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007317::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=20998a512b7c9f65df90b838c2a4c23b</url>
+			</video>		
+			<video name="清城区半环路体育馆路段 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007325::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bd321dbafb1c9e679574724efb23c3c0</url>
+			</video>	
+			<video name="清城区半环路体育馆路段 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007325::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=810fd6703bd06ea0a0adc0d785ab85c3</url>
+			</video>	
+			<video name="清城区银泉路北路 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007327::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=13fe5841ad42771e71c2085e80244eeb</url>
+			</video>	
+			<video name="清城区银泉路北路（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007327::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fbc7a6e45d71a9158ea0e918741d864f</url>
+			</video>		
+			<video name="清城区桥北路与先锋路交界（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007335::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=380079957538bac439029350a15f0592</url>
+			</video>	
+			<video name="清城区桥北路与先锋路交界（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007335::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=19dc0c31ec99e030b0999b070f64750b</url>
+			</video>	
+			<video name="移动清新分公司滨江路向北方向 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007378::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=af4deaf23143ac57d64a1f51b5ca8b82</url>
+			</video>	
+			<video name="移动清新分公司滨江路向北方向 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007378::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=87780e284df8743032b5a7b1d23b1116</url>
+			</video>	
+			<video name="清新北站广场 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007384::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=23352b88ea9e0af6b750ee4a575506a7</url>
+			</video>	
+			<video name="清新北站广场 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007384::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=0f7e8ff1b81e59b39fa7ecba19f7c8c3</url>
+			</video>		
+			<video name="佛冈县106国道路段南向北方向（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007331::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bcc02747fa18e29f7908e207e7e21efc</url>
+			</video>	
+			<video name="佛冈县106国道路段南向北方向（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007331::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fe16b0e40486799b28922718452d1aa5</url>
+			</video>								
+			<video name="清远北江大桥向北路段（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007333::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=21ed08971b8dc02bf645e57c2ab50aeb</url>
+			</video>	
+			<video name="清远北江大桥向北路段（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007333::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=49bf444026e04089faedd7b6f3a71066</url>
+			</video>		
+			<video name="阳山连江大道向南（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007388::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=c5d09bb1f6310c1866d5f155648ef7bf</url>
+			</video>	
+			<video name="阳山连江大道向南（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007388::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=78fcc8cbee9d10ff476f599b2bd1e419</url>
+			</video>		
+			<video name="阳山连江大道十字路口（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007386::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=1b21c4abd463321d3abde4776839cad3</url>
+			</video>	
+			<video name="阳山连江大道十字路口（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007386::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=6d9f8d7a0a1574dd0fbfe926ce33c637</url>
+			</video>		
+			<video name="南门大道向北 （普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007394::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=3718fe141cb42feb40a7a323baa605b3</url>
+			</video>	
+			<video name="南门大道向北 （标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007394::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=54ee113286608fbdef292e094889d65e</url>
+			</video>		
+			<video name="连南公共汽车站（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007402::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fddfa72ee3103fddb2809ca0a7ee40ff</url>
+			</video>	
+			<video name="连南公共汽车站（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007402::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bce72cf08f11f2b61c6231bdd304ebcf</url>
+			</video>		
+			<video name="连南团结大道十字路口（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007399::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=f8c5010e83e60de7d241374a9112735b</url>
+			</video>	
+			<video name="连南团结大道十字路口（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007399::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fa7362a2bd170ad60d705885a19c1678</url>
+			</video>		
+			<video name="连山沿江中路及滨江中路之间桥段（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007405::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=36ca7c8fc39f3afb0faca6943eed9b64</url>
+			</video>	
+			<video name="连山沿江中路及滨江中路之间桥段（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007405::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=7664bb41ce6a68144aaa2be07e8aa97b</url>
+			</video>		
+			<video name="连山沿江中路向沿江西路环型岛（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=6a371853b85de419acd91cc7c7323830</url>
+			</video>	
+			<video name="连山沿江中路向沿江西路环型岛（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=3651ee7f8f229318ff08f7fa6781e011</url>
+			</video>																					
+			<video name="清新大道清四十字路口（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>	
+			<video name="清新大道清四十字路口（标清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=20ea2538e2756c7a7b9ac751d8e77ff7</url>
+			</video>		
+			<video name="清新大道向北方向大路（普清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007382::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=89fee3d8f2e60ab37db7acc0bd169e03</url>
+			</video>			
+			<video name="清新大道向北方向大路（高清）">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007382::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=d8313cc90bb7cb73c53507eed9647a3e</url>
+			</video>										
+			<video name="清远连山民族高级中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219433.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005064::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123115823::1;encrypt=b40115f278e687d2188f0eea9bf11be5</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村委会1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197863.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004891::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=f14d8976bb2626c4355edf8e5440cdbb</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村委会2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197864.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004892::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2a7beee3cf60b98baab3155bad4ae001</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197865.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004880::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2be99f412aafd85e69da2eb222812bee</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197866.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004883::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=0f0a8f0608ab4b1c13a71e792cb7280e</hdurl>
+			</video>
+			<video name="清远清新县太平镇秦皇村养猪场3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/197867.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004884::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=0523efde113e54a0643b5001d4e3e219</hdurl>
+			</video>
+			<video name="清远佛冈城北中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231543.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005062::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=9fcfee6c2bce01a74d6ffac9bc3093d3</hdurl>
+			</video>
+			<video name="清远清新县秦皇村菜场示范基地1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231721.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004888::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=1b10fadb41d9a5ff3bcb99c860c397e8</hdurl>
+			</video>
+	    <video name="清远清新县秦皇村菜场示范基地2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/231722.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500004887::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=ddd782f9d0bb10d2ded3c4ca79f48699</hdurl>
+			</video>
+			<video name="清远阳山实验小学3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219377.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005033::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=05955c561837780419d12db8463fe3c6</hdurl>
+			</video>
+			<video name="清远龙塘镇第一初级小学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230561.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005074::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=3db3d91108fd4a70ab80eaffe7fee67f</hdurl>
+			</video>
+			<video name="清远龙塘镇第一初级小学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/230562.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005075::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=955603c2672d58cb6a94d7923596f144</hdurl>
+			</video>
+		  <video name="清远连南民族初级中学2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219400.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005051::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=2edcd8eab99e784a610820e5ca596262</hdurl>
+			</video>
+			<video name="清远连山广德中学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219401.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005021::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=ac2f2e8b5cc8a70cd3ac108d7b07fdc6</hdurl>
+			</video>
+			<video name="清远连山广德中学4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219402.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005024::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=16312f47bfda2ce868068f4de7dae2aa</hdurl>
+			</video>
+			<video name="清远连山民族高级中学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219403.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005063::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=aab56d0770a3f86724e32b965150d613</hdurl>
+			</video>
+			<video name="清远连州慧光中学3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219404.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005048::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=05ceb519d5aec98c8893830c184eba77</hdurl>
+			</video>
+			<video name="清远连南民族初级小学1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/219405.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500005039::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=4b35d509b1cdf170cef385aa41d859f6</hdurl>
+			</video>
+			<video name="华为清远附三楼接待区">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48246.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000093::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=e87d62318e3181050cba9b24311a7982</hdurl>
+			</video>
+			<video name="华为清远招标（1）室">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48249.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000098::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=b9577c65d80c8ecd21e4322b9e383b7e</hdurl>
+			</video>
+			<video name="华为清远招标（2）室">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3191/48250.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500000099::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123120501::1;encrypt=4d4f6891c9e57e69266be493c065589a</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

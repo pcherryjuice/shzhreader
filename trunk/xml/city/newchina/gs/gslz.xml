@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="甘肃" order="S" >
+		<city name="兰州" type="1" order="C" >	
+			<video name="广场-盘旋路什字（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000051-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="广场-盘旋路什字（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000051-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="广场-广场西口（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000059-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="广场-广场西口（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000059-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="广场-平沙落雁(金昌路北口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000063-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="广场-平沙落雁(金昌路北口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000063-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-西关什字（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000054-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-西关什字（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000054-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-解放门立交桥（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000035-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-解放门立交桥（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000035-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-武都路(陇西路口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000056-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-武都路(陇西路口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000056-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="西关-南滨河路(中山桥路口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000036-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-南滨河路(中山桥路口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000036-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="西关-白银路(市政大坡路口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000050-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西关-白银路(市政大坡路口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000050-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="雁滩-大润发什字（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000061-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="雁滩-大润发什字（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000061-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="雁滩-雁滩桥头什字（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000038-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="雁滩-雁滩桥头什字（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000038-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="东岗-东岗东路(鱼池口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000065-2::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="东岗-东岗东路(鱼池口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000065-2::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="东岗-东部市场正门（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000055-2::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="东岗-东部市场正门（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000055-2::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+
+      <video name="东岗-五里铺什字（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000039-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="东岗-五里铺什字（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000039-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+
+      <video name="桥北-城关黄河大桥桥北（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000052-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="桥北-城关黄河大桥桥北（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000052-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="七里 -土门墩桥头（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000066-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="七里 -土门墩桥头（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000066-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="七里 -西津东路(西湖公园路口)（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000058-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="七里 -西津东路(西湖公园路口)（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000058-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+
+
+      <video name="七里 -西站双洞子（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000068-1::1;StreamingType=1::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="七里 -西站双洞子（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000068-1::1;StreamingType=2::1;msisdn=33800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="西固区-西固城街道（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000023-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西固区-西固城街道（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000023-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			
+			<video name="西固区-民成大厦街道（普清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000029-1::1;StreamingType=1::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+			<video name="西固区-民成大厦街道（高清）">
+			<url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000029-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 

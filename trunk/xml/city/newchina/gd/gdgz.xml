@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+   <province name="广东" order="S">
+		<city name="广州" type="1" order="A" >
+			<video name="天河北路-天河东路交界"><url>rtsp://120.197.4.28:554/live/1/08C7579B652C2D7E/kbutaj889ee4dx9w.sdp</url></video>
+			<video name="东风东路省建行"><url>rtsp://120.197.4.28:554/mobile/1/6DCF733D46932EDD/10irnkgb4hjcqk7v.sdp</url></video>	 
+			<video name="文化公园-人民高架"><url>rtsp://120.197.4.28:554/live/1/23E01AB7648043EA/e7ooqwcfbqjoo80j.sdp</url></video>
+			<video name="丰乐路-大沙地东交界"><url>rtsp://120.197.4.28:554/live/1/57104EA22BC76279/fkhyldt0ri92f2wf.sdp</url></video>	
+			<video name="东风西-西场立交"><url>rtsp://120.197.4.28:554/live/1/00DF0956659A0043/fkhyldt0ri92f2wf.sdp</url></video>	
+			<video name="黄沙大道-珠江隧道路段"><url>rtsp://120.197.4.28:554/live/1/3F792E417B503DE4/f0syreukmjei3hgv.sdp</url></video>	
+			<video name="香雪三路-凯通楼（东面）"><url>rtsp://120.197.4.28:554/live/1/7E44383E366E3CB0/e7ooqwcfbqjoo80j.sdp</url></video>
+			<video name="猎德大桥-阅江路段"><url>rtsp://120.197.4.28:554/live/1/5F70448166150530/fkhyldt0ri92f2wf.sdp</url></video>	 
+			
+			<video name="中山七-康王路交界"><url>rtsp://120.197.4.28:554/live/1/607D161F59557FCF/syiubra2azl52x0g.sdp</url></video>	
+			<video name="广园西-华南影都路段"><url>rtsp://120.197.4.28:554/live/1/031743126FC811E4/ipson9pay28wsrvi.sdp</url></video>	
+			<video name="香雪三路-凯通楼（西面）"><url>rtsp://120.197.4.28:554/live/1/59435DBA249F1001/e7ooqwcfbqjoo80j.sdp</url></video>	
+				
+			<video name="昌岗路-江南大道交界"><url>rtsp://120.197.4.28:554/live/1/4D35654727FE2B43/kpkq1x5sn4xrdxbl.sdp</url></video>	
+			<video name="人民桥-洪德路段"><url>rtsp://120.197.4.28:554/live/1/02404FF817B46504/8js60skzetj0n7gz.sdp</url></video>	
+			<video name="新港西路-中大西门"><url>rtsp://120.197.4.28:554/live/1/096C0A4944152D7B/e7ooqwcfbqjoo80j.sdp</url></video>	
+			 
+			<video name="中山大道西-科韵路交界"><url>rtsp://120.197.4.28:554/live/1/3E0721D154F60DEF/syiubra2azl52x0g.sdp</url></video>	 
+			<video name="中山大道西-华快立交"><url>rtsp://120.197.4.28:554/live/1/60D7090328C84D48/e7ooqwcfbqjoo80j.sdp</url></video>	 
+			<video name="中山大道西-天府路口"><url>rtsp://120.197.4.28:554/live/1/276F7A0B2A9D5EE4/fkhyldt0ri92f2wf.sdp</url></video>	 
+			<video name="中山大道西-科韵路口"><url>rtsp://120.197.4.28:554/live/1/2ED404BE4F222DBD/fkhyldt0ri92f2wf.sdp</url></video>	 
+			<video name="中山大道西-车陂路口"><url>rtsp://120.197.4.28:554/live/1/282A69BA2003232D/kbutaj889ee4dx9w.sdp</url></video>	 
+			<video name="中山大道中-东圃加油站西"><url>rtsp://120.197.4.28:554/live/1/3E21386E1E3E1517/kbutaj889ee4dx9w.sdp</url></video>	 
+			<video name="中山大道中-东圃加油站东"><url>rtsp://120.197.4.28:554/live/1/7D0F25654A9264EF/fkhyldt0ri92f2wf.sdp</url></video>	 
+			<video name="广园快速-五山立交"><url>rtsp://120.197.4.28:554/live/1/7B0476BD64905DCE/syiubra2azl52x0g.sdp</url></video>	 
+			<video name="沿江东路-湖滨宾馆"><url>rtsp://120.197.4.28:554/live/1/4B2A36A041FB2423/kpkq1x5sn4xrdxbl.sdp</url></video>	 
+			<video name="港湾路-黄浦东路交界"><url>rtsp://120.197.4.28:554/live/1/2EAA41306F616FF2/kpkq1x5sn4xrdxbl.sdp</url></video>	 
+			<video name="黄埔东路-庙头路口"><url>rtsp://120.197.4.28:554/live/1/34F6593E3CC20412/kbutaj889ee4dx9w.sdp</url></video>	 
+			<video name="茅岗路-护林路交界"><url>rtsp://120.197.4.28:554/live/1/091006506B2842CC/kpkq1x5sn4xrdxbl.sdp</url></video>	 
+			<video name="黄埔东路-新华路口"><url>rtsp://120.197.4.28:554/live/1/695139C30A2C17A2/e7ooqwcfbqjoo80j.sdp</url></video>	
+		</city>
+	</province>
+</provinces> 

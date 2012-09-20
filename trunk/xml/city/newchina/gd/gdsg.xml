@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="韶关" type="1" order="J" >
+				<video name="南雄柴岭段">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231955.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10165</hdurl>
+			</video>
+			<video name="启明北路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231969.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10152</hdurl>
+			</video>
+			<video name="曲江大转盘北">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231985.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100025</hdurl>
+			</video>
+
+			<video name="北江桥头西">
+			<url>rtsp://211.139.249.248:554/Camera/100023</url>
+			</video>			
+			<video name="武江桥头西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231987.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100020</hdurl>
+			</video>
+			<video name="丹霞山门口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232069.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100013</hdurl>
+			</video>
+			<video name="曲江三小大门口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232070.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10044</hdurl>
+			</video>
+			<video name="乳源南岭国家森林公园">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232067.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10167</hdurl>
+			</video>
+			<video name="和平路小学正门">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232077.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10157</hdurl>
+			</video>
+			<video name="大润发路口南">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231981.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10150</hdurl>
+			</video>
+			<video name="黄岗山西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232041.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100019</hdurl>
+			</video>
+			<video name="西堤北路">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232005.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10158</hdurl>
+			</video>
+			<video name="始兴县贤丰村示范田">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232006.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10192</hdurl>
+			</video>
+			<video name="始兴县贤丰村敬老院">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232007.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10191</hdurl>
+			</video>
+			<video name="沐溪工业园">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232182.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10149</hdurl>
+			</video>
+			<video name="工业中路大转盘">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231947.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10160</hdurl>
+			</video>
+			<video name="京珠高速云岩南">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231991.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100016</hdurl>
+			</video>
+			<video name="106国道与323交界南">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231992.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100017</hdurl>
+			</video>
+			<video name="风采楼">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232061.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10153</hdurl>
+			</video>
+			<video name="韶赣高速路口西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231997.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100022</hdurl>
+			</video>
+			<video name="西河桥头西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232002.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100024</hdurl>
+			</video>
+			<video name="理工职业培训学院正门">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232079.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10151</hdurl>
+			</video>
+			<video name="坪乳公路路口东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231995.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100018</hdurl>
+			</video>
+			<video name="火车东站广场西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231996.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100015</hdurl>
+			</video>
+			<video name="西河立交桥东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231972.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10156</hdurl>
+			</video>
+			<video name="西河体育中心">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231973.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10155</hdurl>
+			</video>
+			<video name="乐昌古佛岩">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232063.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10169</hdurl>
+			</video>
+			<video name="韶关口岸大厦">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231945.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10162</hdurl>
+			</video>
+			<video name="东河桥东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231977.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10154</hdurl>
+			</video>
+			<video name="西河健身广场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231953.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10161</hdurl>
+			</video>
+			<video name="京珠南段">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231949.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10163</hdurl>
+			</video>
+			<video name="曲江水文高速路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231957.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10164</hdurl>
+			</video>
+			<video name="南雄珠玑古巷">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232065.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10168</hdurl>
+			</video>
+			<video name="曲江三小操场">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232073.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10035</hdurl>
+			</video>
+			<video name="曲江三小办公楼二楼走廊">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232074.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10034</hdurl>
+			</video>
+		  <video name="健身广场中心" >
+    	<url>rtsp://211.139.249.252:554/GE5DCMBQGA5DAORRHEZC4MJWHAXDCMBOHA5DGNZXG43TUMJQGE2TK/GI5GCZDNNFXDUYLENVUW4/GM5G24DFM42A/GQ5DGZ3QOA5HCY3JMY/v.sdp</url>
+    	</video>
+		</city>
+	</province>
+</provinces> 

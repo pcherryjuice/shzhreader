@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="中国交通摄像头" order="S">
+		<city name="广东省-广州市" type="0" order="A"><video name="# 广州(单击加载)"><url>city/china/gd/gdgz.xml</url></video></city>
+		<city name="广东省-深圳" type="0" order="B"><video name="# 深圳(单击加载)"><url>city/china/gd/gdsz.xml</url></video></city>
+		<city name="广东省-东莞" type="0" order="C"><video name="# 东莞(单击加载)"><url>city/china/gd/gddg.xml</url></video></city>
+		<city name="广东省-佛山" type="0" order="D"><video name="# 佛山(单击加载)"><url>city/china/gd/gdfs.xml</url></video></city>
+		<city name="广东省-汕头" type="0" order="K"><video name="# 汕头(单击加载)"><url>city/china/gd/gdst.xml</url></video></city>
+		<city name="广东省-珠海" type="0" order="F"><video name="# 珠海(单击加载)"><url>city/china/gd/gdzh.xml</url></video></city>
+		<!--city name="惠州" type="0" order="G"><video name="# 惠州(单击加载)"><url>city/china/gd/gdhz.xml</url></video></city-->
+		<city name="广东省-中山" type="0" order="H"><video name="# 中山(单击加载)"><url>city/china/gd/gdzs.xml</url></video></city>
+		<city name="广东省-江门" type="0" order="I"><video name="# 江门(单击加载)"><url>city/china/gd/gdjm.xml</url></video></city>
+		<city name="广东省-河源" type="0" order="E"><video name="# 河源(单击加载)"><url>city/china/gd/heyuan.xml</url></video></city>
+		<city name="广东省-韶关" type="0" order="J"><video name="# 韶关(单击加载)"><url>city/china/gd/gdsg.xml</url></video></city>
+		<city name="广东省-梅州" type="0" order="K"><video name="# 梅州(单击加载)"><url>city/china/gd/gdmz.xml</url></video></city>
+		<city name="广东省-汕尾" type="0" order="L"><video name="# 汕尾(单击加载)"><url>city/china/gd/gdsw.xml</url></video></city>
+		<city name="广东省-阳江" type="0" order="N"><video name="# 阳江(单击加载)"><url>city/china/gd/gdyj.xml</url></video></city>
+		<city name="广东省-湛江" type="0" order="O"><video name="# 湛江(单击加载)"><url>city/china/gd/gdzj.xml</url></video></city>
+		<city name="广东省-茂名" type="0" order="P"><video name="# 茂名(单击加载)"><url>city/china/gd/gdmm.xml</url></video></city>
+		<!--city name="肇庆" type="0" order="Q"><video name="# 肇庆(单击加载)"><url>city/china/gd/gdzq.xml</url></video></city-->
+		<city name="广东省-清远" type="0" order="R"><video name="# 清远(单击加载)"><url>city/china/gd/gdqy.xml</url></video></city>
+		<city name="广东省-潮州" type="0" order="J"><video name="# 潮州(单击加载)"><url>city/china/gd/gdcz.xml</url></video></city>
+		<city name="广东省-揭阳" type="0" order="J"><video name="# 揭阳(单击加载)"><url>city/china/gd/gdjy.xml</url></video></city>
+		<city name="广东省-云浮" type="0" order="M"><video name="# 云浮(单击加载)"><url>city/china/gd/gdyf.xml</url></video></city>
+		<city name="广东省-梅州" type="0" order="K"><video name="# 梅州(单击加载)"><url>city/china/gd/gdmz.xml</url></video></city>
+		<city name="广东省-南沙渔港" type="0" order="Q"><video name="# 南沙渔港(单击加载)"><url>city/china/gd/gdnsyg.xml</url></video></city>
+		<city name="上海-高速路口" type="0" order="Q"><video name="# 上海高速路口(单击加载)"><url>city/china/gslk/gslk.xml</url></video></city>
+		
+		<city name="贵州省-贵阳" type="300" order="A" ><video name="# 贵阳(单击加载)"><url>city/china/guizhou/gzgy.xml</url></video></city>	
+		<city name="贵州省-安顺" type="1" order="C" ><video name="# 安顺(单击加载)"><url>city/china/guizhou/gzas.xml</url></video></city>		
+		<city name="贵州省-毕节" type="300" order="G" ><video name="# 毕节(单击加载)"><url>city/china/guizhou/gzbj.xml</url></video></city>	
+		<city name="贵州省-都匀" type="300" order="D" ><video name="# 都匀(单击加载)"><url>city/china/guizhou/gzdy.xml</url></video></city>	
+		<city name="贵州省-凯里" type="300" order="E" ><video name="# 凯里(单击加载)"><url>city/china/guizhou/gzkl.xml</url></video></city>		
+		<city name="贵州省-六盘水" type="0" order="H" ><video name="# 六盘水(单击加载)"><url>city/china/guizhou/gzlps.xml</url></video></city>	
+		<city name="贵州省-铜仁" type="300" order="F" ><video name="# 铜仁(单击加载)"><url>city/china/guizhou/gztr.xml</url></video></city>
+		<city name="贵州省-兴义" type="300" order="I" ><video name="# 兴义(单击加载)"><url>city/china/guizhou/gzxy.xml</url></video></city>
+		<city name="贵州省-遵义" type="300" order="B" ><video name="# 遵义(单击加载)"><url>city/china/guizhou/gzzy.xml</url></video></city>		
+		
+		<city name="海南省-海口" type="1" order="A" ><video name="# 海口(单击加载)"><url>city/china/hainan/haikou.xml</url></video></city>			
+		<city name="海南省-三亚" type="1" order="B" ><video name="# 三亚(单击加载)"><url>city/china/hainan/sanya.xml</url></video></city>				
+		
+		<city name="江苏省-南京" type="1" order="A" >		<video name="# 南京2(单击加载)"><url>city/china/jiangsu/jsnj2.xml</url> </video>	</city>	
+		<city name="江苏省-苏州" type="1" order="D" >	<video name="# 苏州(单击加载)"><url>city/china/jiangsu/jssz.xml</url></video>	</city>	
+		<city name="江苏省-常州" type="1" order="D" >	<video name="# 常州(单击加载)"><url>city/china/jiangsu/jscz.xml</url></video>	</city>	
+		<city name="江苏省-扬州1" type="1" order="B" >	<video name="# 扬州1(单击加载)"><url>city/china/jiangsu/jsyz1.xml</url></video>	</city>	
+		<city name="江苏省-扬州2" type="1" order="B" >	<video name="# 扬州2(单击加载)"><url>city/china/jiangsu/jsyz2.xml</url></video>	</city>	
+		<city name="江苏省-扬州3" type="1" order="B" >		<video name="# 扬州3(单击加载)"><url>city/china/jiangsu/jsyz3.xml</url></video>	</city>	
+		<city name="江苏省-徐州市1" type="1" order="C" >		<video name="# 徐州市1(单击加载)"><url>city/china/jiangsu/jsxz1.xml</url> </video>	</city>	
+		<city name="江苏省-徐州市2" type="1" order="C" >		<video name="# 徐州市2(单击加载)"><url>city/china/jiangsu/jsxz2.xml</url></video>	</city>	
+		<city name="江苏省-徐州市3" type="1" order="C" >		<video name="# 徐州市3(单击加载)"><url>city/china/jiangsu/jsxz3.xml</url></video>	</city>	
+		<city name="江苏省-南通" type="1" order="D" >		<video name="# 南通(单击加载)"><url>city/china/jiangsu/jsnt.xml</url></video>	</city>	
+		<city name="江苏省-无锡" type="1" order="E" >	<video name="# 无锡(单击加载)"><url>city/china/jiangsu/jswx.xml</url></video>	</city>	
+		<city name="江苏省-镇江市" type="1" order="I" >	<video name="# 镇江市(单击加载)"><url>city/china/jiangsu/jszj.xml</url></video>	</city>	
+		<city name="江苏省-昆山" type="1" order="I" >	<video name="# 镇江市(单击加载)"><url>city/china/jiangsu/jsks.xml</url></video>	</city>
+		<city name="江苏省-泰州" type="1" order="I" ><video name="# 泰州(单击加载)"><url>city/china/jiangsu/jstz.xml</url></video>	</city>
+		<city name="江苏省-东台市" type="1" order="I" ><video name="# 东台市(单击加载)"><url>city/china/jiangsu/jsdt.xml</url></video>	</city>		
+		<city name="浙江省-宁波" type="110" order="C" ><video name="#5 宁波(1.14以上版本)(单击加载)"><url>http://www.nbkjt.com/services/PUWebServiceGZIP/getvideo?GetType=2</url></video></city>	
+
+    <city name="湖北省-武汉" type="0" order="A" ><video name="# 武汉(单击加载)"><url>city/china/hubei/hbwh.xml</url></video>	</city>	
+	  <city name="湖北省-襄阳" type="0" order="E" ><video name="# 襄阳(单击加载)"><url>city/china/hubei/hbxy.xml</url></video>	</city>		
+		<city name="湖北省-宜昌" type="1" order="I" ><video name="# 宜昌(单击加载)"><url>city/china/hubei/hbyc.xml</url></video>	</city>
+		<city name="湖北省-荆州" type="1" order="J" ><video name="# 荆州(单击加载)"><url>city/china/hubei/hbjz.xml</url></video>	</city>	
+		<city name="福建省-福州" type="0" order="A" ><video name="# 福州(单击加载)"><url>city/china/fj/fjfz.xml</url></video></city>		
+		<!--city name="福建省-景点" type="1" order="B" >	<video name="# 福建景点(单击加载)"><url>city/china/fj/fjjd.xml</url></video></city-->	
+		<city name="福建省-南平" type="0" order="E" ><video name="# 南平(单击加载)"><url>city/china/fj/fjnp.xml</url></video></city>	
+		<city name="福建省-莆田" type="0" order="B" ><video name="# 莆田(单击加载)"><url>city/china/fj/fjpt.xml</url></video></city>	
+		<city name="福建省-泉州" type="0" order="C" ><video name="# 泉州(单击加载)"><url>city/china/fj/fjqz.xml</url></video></city>	
+		<city name="福建省-三明" type="0" order="D" ><video name="# 三明(单击加载)"><url>city/china/fj/fjsm.xml</url></video></city>		
+		<city name="福建省-漳州" type="0" order="H" ><video name="# 漳州(单击加载)"><url>city/china/fj/fjzz.xml</url></video></city>				
+		<city name="福建省-厦门" type="0" order="H" ><video name="# 厦门(单击加载)"><url>city/china/fj/fjxm.xml</url></video></city>	
+		<city name="福建省-宁德" type="0" order="I" ><video name="# 宁德(单击加载)"><url>city/china/fj/fjnd.xml</url></video></city>	
+		
+		<city name="甘肃省-兰州" type="1" order="C" ><video name="# 兰州(单击加载)"><url>city/china/gs/gslz.xml</url></video></city>				
+		<city name="甘肃省-兰州2" type="1" order="C" ><video name="# 兰州2(单击加载)"><url>city/china/gs/gslz2.xml</url></video></city>	
+		
+		<city name="广东省-广州2" type="6" order="A"><video name="#3 广州(单击加载)"><url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=1</url></video></city>
+		<city name="广东省-东莞2" type="6" order="C"><video name="#3 东莞(单击加载)"><url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=2</url></video></city>
+		<city name="广东省-深圳2" type="6" order="B"><video name="#3 深圳(单击加载)"><url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=3</url></video></city>
+		<city name="广东省-佛山2" type="6" order="D"><video name="#3 佛山(单击加载)"><url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=4</url></video></city>
+		<!--city name="中山2" type="6" order="H"><video name="#3 中山(单击加载)"><url>http://219.137.26.249/RoadViewServer/roadview_get_videolist.flow?::1;icpname=gtmobile::1;version=2.01::1;aid=5</url></video></city-->
+	</province>
+</provinces> 

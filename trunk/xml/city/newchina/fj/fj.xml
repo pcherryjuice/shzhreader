@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="福建" order="T" >
+					
+		<city name="福州" type="0" order="A" >
+			<video name="# 福州(单击加载)">
+				<url>city/fj/fjfz.xml</url>
+			</video>
+		</city>		
+		
+		<city name="福建景点" type="1" order="B" >	
+			<video name="# 福建景点(单击加载)">
+				<url>city/fj/fjjd.xml</url>
+			</video>
+		</city>	
+			
+		<city name="南平" type="0" order="E" >
+			<video name="# 南平(单击加载)">
+				<url>city/fj/fjnp.xml</url>
+			</video>
+		</city>	
+		
+		<city name="莆田" type="0" order="B" >
+			<video name="# 莆田(单击加载)">
+				<url>city/fj/fjpt.xml</url>
+			</video>
+		</city>	
+		
+		<city name="泉州" type="0" order="C" >
+			<video name="# 泉州(单击加载)">
+				<url>city/fj/fjqz.xml</url>
+			</video>
+		</city>	
+		
+		<city name="三明" type="0" order="D" >
+			<video name="# 三明(单击加载)">
+				<url>city/fj/fjsm.xml</url>
+			</video>
+		</city>		
+		<city name="漳州" type="0" order="H" >
+			<video name="# 漳州(单击加载)">
+				<url>city/fj/fjzz.xml</url>
+			</video>
+		</city>				
+		<city name="厦门" type="0" order="H" >
+			<video name="# 厦门(单击加载)">
+				<url>city/fj/fjxm.xml</url>
+			</video>
+		</city>	
+		<city name="宁德" type="0" order="I" >
+			<video name="# 宁德(单击加载)">
+				<url>city/fj/fjnd.xml</url>
+			</video>
+		</city>				
+		<!--city name="龙岩" type="1" order="J" >
+			<video name="# 龙岩(单击加载)">
+				<url>city/fjly.xml</url>
+			</video>
+		</city-->								
+	</province>
+</provinces> 

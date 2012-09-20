@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="潮州" type="1" order="J" >
+      <video name="绿榕路">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005837::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330162717::1;encrypt=9e80673ecab204b0b2804564a963de56</url>			
+			</video>	
+			<video name="南较西路">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005838::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=47315c7fcaeb78aa7928243919c4cfdb</url>			
+			</video>	
+			<video name="韩江大桥">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004050::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=c747a6876c8052689616729cc38c0595</url>			
+			</video>	
+			<video name="南堤路与大道交界处">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005849::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=b4b8b9336163f084b29682ebfcffe62b</url>			
+			</video>	
+		  <video name="高速路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005842::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=9be66f37e143069d882be1f62c7fbbbc</url>			
+			</video>	
+		  <video name="大润发路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004046::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=2e1787290b74aa6c747e9f80f9173f3d</url>			
+			</video>	
+			<video name="体育馆路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004051::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=71e682c7c3eaada657af635eef99e893</url>			
+			</video>	
+		  <video name="饶平东溪大桥东侧">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006169::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=cf2f2857e1d8c301c79d092fbbfe4430</url>			
+			</video>	
+			<video name="枫溪">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005840::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=682785468a475ce0573c20b9852daaa6</url>			
+			</video>	
+		  <video name="牌坊街">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004049::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=484a216bcb2bf1b8604c98c3f98ba8ba</url>			
+			</video>	
+			<video name="汇侨路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004047::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=1c251d85fbe5cdd016f0ee88bf408f0f</url>			
+			</video>	
+			<video name="开元路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004054::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164201::1;encrypt=1131ffdb6832b025b99522aad9f30ffb</url>			
+			</video>	
+			<video name="潮枫路(卜蜂莲花正门)">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004052::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=439fa84743dc9c440a47bf592f64636e</url>			
+			</video>	
+			<video name="饶平汽车站">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005850::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=620564047619f70f27b2607f90bf6a88</url>			
+			</video>	
+			<video name="庵埠">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005845::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=a469a49735d055de7da29561d7b73ce3</url>			
+			</video>	
+			<video name="松昌中学路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005848::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=ad9b9f1d000c4b5d7bf44c793610d8ea</url>			
+			</video>	
+			<video name="西湖河头环岛">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004053::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=45dea7d5bf394fb4202c33d7b9dd00c1</url>			
+			</video>	
+			<video name="新塘水电站2">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006165::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=c956515a74d05c1cfe2e6f11327f83bb</url>			
+			</video>	
+			<video name="龙溪">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005846::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=4fd0022e5fa9a05f403e156931e4a498</url>			
+			</video>	
+			<video name="新塘水电站5">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006168::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=8a49f992770dfd18f7331607b6315a43</url>			
+			</video>	
+			<video name="西车站路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004048::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=8b93433d9b803e46faa3b49f7ddc137d</url>			
+			</video>	
+			<video name="新塘水电站3">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006166::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=0e0e18d40c29c91fa703a8915754f9a4</url>			
+			</video>	
+			<video name="潮安综合楼">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005844::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=333e7ca6b7518f13873abc220988e542</url>			
+			</video>	
+			<video name="金贸大厦">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005839::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=159e6fb2d40c9f8ff2066d6f88d6d6f4</url>			
+			</video>	
+			<video name="北关工业大厦">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005836::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=62e8c38411c4ed33b169115ad2d327c2</url>			
+			</video>	
+			<video name="骊塘营业厅路口">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005847::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=9ff599e47cab8d7645279864a247a3b7</url>			
+			</video>	
+			<video name="新塘水电站4">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006167::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=a52062d86481ce7e0042594f87c8179c</url>			
+			</video>	
+			<video name="新塘水电站1">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500006164::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=cc777e5149443582d3abedfa2ba452f9</url>			
+			</video>	
+			<video name="潮安西和">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005843::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120330164830::1;encrypt=38f4cc819ca14b65ddd184c44bbc6ac3</url>			
+			</video>									
+			<video name="通道一">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/231861.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500005817::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123113618::1;encrypt=19b93e9f147b8bff73a95e9957d36eeb</hdurl>
+			</video>		
+			<video name="大润发路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53847.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004046::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=14cb4d4655b53c1deaf5b28cd3e176e2</hdurl>
+			</video>
+			<video name="汇侨路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53848.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004047::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=c9bcfbbf40503042f5492c3a67dee9d1</hdurl>
+			</video>
+			<video name="西车站路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53849.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004048::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=d95a871d24fcd2b399109327b403eba2</hdurl>
+			</video>
+			<video name="牌坊街">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53850.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004049::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=2782d14f66cdabd78ebfbc6cf02ed394</hdurl>
+			</video>
+			<video name="韩江大桥">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53851.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004050::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=2cb2d770081787ca5235cf2f9e359644</hdurl>
+			</video>
+			<video name="体育馆路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53852.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004051::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=0cc2b2275cc767bf7757b52f9e10081a</hdurl>           
+			</video>
+			<video name="潮枫路(卜蜂莲花正门)">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53853.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004052::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=7821aa1aada794e98122383837a59182</hdurl>
+			</video>
+			<video name="西湖河头环岛">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53854.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004052::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=7821aa1aada794e98122383837a59182</hdurl>
+			</video>	
+			<video name="开元路口">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3161/53855.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203012002010500004054::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110919130452::1;encrypt=3ee0d7998e504269ccf56c65a2de3da5</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

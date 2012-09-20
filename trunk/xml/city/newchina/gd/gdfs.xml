@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+   <province name="广东" order="S">
+		<city name="佛山" type="1" order="D" >
+			<video name="佛山移动机房01">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/341/53683.3_1.jsp?redirected=true</url>
+			</video>
+		  <video name="科技园南区01">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/341/53901.3_1.jsp?redirected=true</url>
+			</video>
+			<video name="禅城区-魁奇路—丽日玫瑰（标清）" >
+	    <url>rtsp://211.139.201.226:554/mobile/1/69F834FB24AE5893/fanfcawt19di3nuc.sdp</url>
+	    </video>
+			<video name="禅城区-魁奇路—丽日玫瑰（高清）" >
+	    <url>rtsp://211.139.201.226:554/live/1/69F834FB24AE5893/vfvwrf5f2e3vnbiq.sdp</url>
+	    </video>	    
+	    <video name="季华五路—佛山大道交界（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/001C31631E695C35/st2k9ewm466i4ki1.sdp</url>
+	    </video>
+	    <video name="季华五路—佛山大道交界（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/001C31631E695C35/0fep9qbtwxrgyayg.sdp</url>
+	    </video>	    
+	    <video name="海八路—谢叠大桥（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/3F6114012B2A567F/mt5lj587au6d29w7.sdp</url>
+	    </video>
+	    <video name="海八路—谢叠大桥（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/3F6114012B2A567F/c9mhx3bwa3c670hu.sdp</url>
+	    </video>	    
+	    <video name="季华五路—东建世纪广场（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/04F94041646A5160/6nsvfz80nxom0ff0.sdp</url>
+	    </video>
+	    <video name="季华五路—东建世纪广场（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/04F94041646A5160/avyopepvfc2vfpac.sdp</url>
+	    </video>	    
+	    <video name="佛山大道—人民西下沉隧道（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/18277FC20F2C1830/fr8ldc3y62h22bev.sdp</url>
+	    </video>
+	    <video name="佛山大道—人民西下沉隧道（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/18277FC20F2C1830/fpu1qm4ildj2gkuc.sdp</url>
+	    </video>	    
+	    <video name="季华五路—汾江中路交界（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/470164DA1B14128B/91wlh7qk1ynaro8v.sdp</url>
+	    </video>
+	    <video name="季华五路—汾江中路交界（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/470164DA1B14128B/y608cgu5nu829tly.sdp</url>
+	    </video>	    
+	    <video name="岭南大道—岭南明珠体育馆（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/695D59CA09297ECA/3rrokx8wzbv3mepg.sdp</url>
+	    </video>
+	    <video name="岭南大道—岭南明珠体育馆（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/695D59CA09297ECA/330kj2wagob7of1g.sdp</url>
+	    </video>	    
+	    <video name="佛山大道—江湾立交（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/730859495F1541F6/4k31x1gftxbqzodm.sdp</url>
+	    </video>
+	    <video name="佛山大道—江湾立交（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/730859495F1541F6/ot0wwxizhchgwmwn.sdp</url>
+	    </video>	    
+	    <video name="魁奇路—佛陈大桥（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/37854F865C7D67D7/t02a1c6rcxs7fqp5.sdp</url>
+	    </video>
+	    <video name="魁奇路—佛陈大桥（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/37854F865C7D67D7/fo6el4oqwl8ruzmf.sdp</url>
+	    </video>	    
+	    <video name="普澜二路-通济桥（标清）">
+	    <url>rtsp://211.139.201.226:554/mobile/1/66C8415C7B091734/smlwb5mxljiiweiw.sdp</url>
+	    </video>
+	    <video name="普澜二路-通济桥（高清）">
+	    <url>rtsp://211.139.201.226:554/live/1/66C8415C7B091734/bljl5j4spd7ra2ha.sdp</url>
+	    </video>	    
+	    <video name="佛山大道-绿景路交界">
+	    <url>rtsp://211.139.201.226:554/mobile/1/75F036DE6A80FD9A/8y1vfa435degrqk7.sdp</url>
+	    </video>
+	    <video name="兆祥路-文华北路交界">
+	    <url>rtsp://211.139.201.226:554/mobile/1/B5E33434AC564EEE/8y1vfa435degrqk7.sdp</url>
+	    </video>
+	    <video name="松风路">
+	    <url>http://211.139.201.226/wap/page/sfl.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/4BA3547173FA30F2/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+	    <video name="升平路">
+	    <url>http://211.139.201.226/wap/page/spl.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/0B0428B00C3A70E2/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+	    <video name="南海大道—南海购书中心">
+	    <url>http://211.139.201.226/wap/page/nhgszx.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/live/1/13537D6C78C32343/586s4w4sir4dzju7.sdp</hdurl>
+	    </video>
+	    <video name="南海大道—魁奇路交界">
+	    <url>http://211.139.201.226/wap/page/kqljj.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/live/1/56A90A6D54BC6E6B/31j1xtqdgcm2nrln.sdp</hdurl>
+	    </video>
+	    <video name="南海大道—佛平路交界">
+	    <url>http://211.139.201.226/wap/page/fpljj.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/live/1/56E81D2A3A661AD5/6tg16e3xjgxvkyaf.sdp</hdurl>
+	    </video>
+	    <video name="南国中路">
+	    <url>http://211.139.201.226/wap/page/ngzl.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/E41192BA3BC055D6/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+	    <video name="宝林路-顺德党校">
+	    <url>http://211.139.201.226/wap/page/bll_sddx.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/5FF2BAAC597E7C39/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+     	<video name="石湾雾岗路">
+			<url>rtsp://211.139.201.226:554/mobile/1/948D211FF74B46A7/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="佛山大道-五峰四路交界">
+			<url>rtsp://211.139.201.226:554/mobile/1/AF6B72D806A62A11/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="同华路">
+			<url>rtsp://211.139.201.226:554/mobile/1/772D2E7F94C82423/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="亲仁路-佛山大道交界">
+			<url>rtsp://211.139.201.226:554/mobile/1/0B0428B00C3A70E2/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="南海大道-海一路交界">
+			<url>rtsp://211.139.201.226:554/mobile/1/3871236C0A3C26C6/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="佛平三路">
+			<url>rtsp://211.139.201.226:554/mobile/1/8D790810F3C299C8/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="黄岐西路">
+			<url>rtsp://211.139.201.226:554/mobile/1/99BD09074213B349/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			
+			<video name="横江路">
+			<url>rtsp://211.139.201.226:554/mobile/1/DBD9429EB4095626/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="云良路">
+			<url>rtsp://211.139.201.226:554/mobile/1/4DCFFCCD3F950A54/8y1vfa435degrqk7.sdp</url>
+			</video>
+		  <video name="陈村大道-105国道交界">
+			<url>rtsp://211.139.201.226:554/mobile/1/C04D8A0EA70313DC/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="362省道">
+			<url>rtsp://211.139.201.226:554/mobile/1/9D2874E648C48C41/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="杏坛新涌">
+			<url>rtsp://211.139.201.226:554/mobile/1/E90BCBCB99E495E2/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="光华路">
+			<url>rtsp://211.139.201.226:554/mobile/1/A069F705845D3C31/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="工业大道">
+			<url>rtsp://211.139.201.226:554/mobile/1/B0F30C5C8EB7264E/8y1vfa435degrqk7.sdp</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

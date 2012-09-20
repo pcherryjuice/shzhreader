@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="东莞" type="1" order="C" >
+			<video name="丽峰路北">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/17163.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/4/189D7051030F19B0/JovChHElrFGdAdAx.sdp?id=guest::1;t=1321713803::1;en=51d95bbccfae5c7d6ada2a53b2c884d2::1;rs=cmgd</hdurl>
+			</video>
+			<video name="东城中路北">
+			<url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=1</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/30EB577E7DEF15CD/voqIU2iP6MhCmAG3.sdp?id=guest::1;t=1315285285::1;en=966145fae794df56c7fa2ebcbfb38d68::1;rs=wap</hdurl>
+			</video>
+			<video name="东城西路北（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/0EAE136D1D5C4537/IdzzTY5E1Rp9M1eg.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="东城西路北（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/0EAE136D1D5C4537/9bDvXmAgLbJqDRax.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="东城南路西">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/17162.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/3/189D7051030F19B0/tYb9AiztkmZZWJnc.sdp?id=guest::1;t=1315284516::1;en=9edb5cdb65150bc2d09f5f28073908eb::1;rs=wap</hdurl>
+			</video>
+			<video name="东城红荔路西（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/561A0E7E0D7A10FB/IWlePTQ503AaUvJb.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="东城红荔路西（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/561A0E7E0D7A10FB/qc2w7O3DFsb5xV5s.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="数字家庭展区">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48208.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/0C6621AE40520760/TahzOqpblKB6QfDC.sdp?id=guest::1;t=1321716097::1;en=15cde9a0ba7eb878f7434717bb248e73::1;rs=cmgd</hdurl>
+			</video>
+			<video name="长安汽车站东（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/119D2253382432C6/jTh9I9FisOX7ulYG.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="长安汽车站东（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/119D2253382432C6/uJk7CbJMQrFpRTQS.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="厚街珊瑚路十字路口（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/14E048B9526461B0/gKVh0ko3nF1NNxqZ.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="厚街珊瑚路十字路口（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/14E048B9526461B0/tafshm9phgbDUSW2.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="寮步塘唇路口东南（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/2DD953E83B276297/Alh6NEfpqxccHWR6.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="寮步塘唇路口东南（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/2DD953E83B276297/PtaymuDIZH5x9Ceb.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="常平火车东站路口南（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/78E23507147E1655/4AoRvDOLtZP2nl5L.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="常平火车东站路口南（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/78E23507147E1655/f4wAd3k0k9bBhmoV.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="石碣富丽酒店东（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/63C537591A661C93/PgmYQslOBfaFczN1.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="石碣富丽酒店东（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/63C537591A661C93/p2cPlUosfVgfrtO1.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			
+			<video name="常平朗贝路西北（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/7BE45C553E532756/AH5lelAXHUqRTnMq.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="常平朗贝路西北（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/7BE45C553E532756/jGj0pBRZTRVqsmtJ.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="万江长泰路西（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/5814395F1DB703B9/HvgLyZVVq9ta6Ejx.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="万江长泰路西（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/5814395F1DB703B9/jYHQpnie32tqbnTW.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="万江万高路北">
+			<url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=12</url>			
+			</video>
+			<video name="寮步教育路北（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/687F04687A1F1ED2/1CzdmGUCaCUEvoJa.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="寮步教育路北（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/687F04687A1F1ED2/sufjTOLoBf8LlUH7.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="石龙新桥路北（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/0F4D669B2D651E5A/r7vZpR7HTRysWTmL.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="石龙新桥路北（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/0F4D669B2D651E5A/n3jKTka6PVGhr4sT.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="虎门豪庭苑西北">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48234.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/30BF35BA44267239/GjiLcrFJTmIYXYw0.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="东城嘉湖山庄东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48235.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/4E9F4CE076115955/HOaRoFAWPZvoUSEZ.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+		  <video name="东城文化广场东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48236.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/51BB6B6C44D84789/dJ4003QOU72ICU9v.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="石龙汇联步行街西（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/4C271C1B28057F24/XfNvR9rH17pRzjHB.sdp?id=13922991295::1;t=1302488104::1;en=11c4d96e912e32b219a1c33ecf2acdd0::1;rs=wap</url>
+			</video>
+			<video name="石龙汇联步行街西（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/4C271C1B28057F24/WibH3uINJPTNQAPT.sdp?id=13922991295::1;t=1302488213::1;en=fc407bd05cd4f752ca4e997c9f31885e::1;rs=wap</url>
+			</video>			
+			<video name="南城鸿福路东南">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48238.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/27085A76298D0814/i73c3yse1fpZRGkX.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="莞城文化广场西（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/549D2C22169506E9/3Lpi5Pk84RfNmkhP.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="莞城文化广场西（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/549D2C22169506E9/r5HBY664nVTscMxy.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="莞城玉庭家居南（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/27D037BF02907B33/7IMMjhOTY1INA31z.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="莞城玉庭家居南（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/27D037BF02907B33/anYAY9UpTkvoofam.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="厚街广场东">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48240.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/66E2558A6948135D/jyudjn5OEFxieisK.sdp?id=guest::1;t=1321687637::1;en=51ebdc76754d6121d909059c103cfc50::1;rs=cmgd</hdurl>
+			</video>
+			<video name="寮步天桥北（普清）">
+			<url>rtsp://211.139.194.251:554/mobile/1/2CEE6E05557B4D5E/OQfZcXRgdPgkIlfp.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="寮步天桥北（高清）">
+			<url>rtsp://211.139.194.251:554/live/1/2CEE6E05557B4D5E/XFHLFpcbw5UkqwiM.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="石龙金龙会酒店西北">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48242.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/790B096A424D4F4E/DibZoLrC06KxDkSf.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+		
+			<video name="厚街康乐南路东北（普清）">
+	    <url>rtsp://211.139.194.251:554/mobile/1/10FD0AC1183A1F32/U3l1uInlU8rbuQQf.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+ 	    </video>
+			<video name="厚街康乐南路东北（高清）">
+	    <url>rtsp://211.139.194.251:554/live/1/10FD0AC1183A1F32/sljvec4OKiQoZk27.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+ 	    </video> 	    
+ 	    <video name="虎门镇远大桥西">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=23</url>
+	    <hdurl>rtsp://211.139.194.251:554/live/1/025D0E48530179DC/jgeLLNOlNchUDLIk.sdp?id=guest::1;t=1315286006::1;en=54a56d30c94c711c75cc1a162bda4199::1;rs=wap</hdurl>
+	    </video>
+	    <video name="虎门珠江花园东（普清）">
+	    <url>rtsp://211.139.194.251:554/mobile/1/0AC21B8F24AB51C1/hx6XBTbDx7RCDh0e.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	    </video>
+	    <video name="虎门珠江花园东（高清）">
+	    <url>rtsp://211.139.194.251:554/live/1/0AC21B8F24AB51C1/IijHv5gygSKyzLhz.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	    </video>	    
+	    <video name="虎门大道西">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=25</url>
+	    <hdurl>rtsp://211.139.194.251:554/live/1/752F275955D41F6D/dXwB7RBvNggiFH3z.sdp?id=guest::1;t=1315285179::1;en=9e514b38a438005f23f79fac4564d719::1;rs=wap</hdurl>
+	    </video>
+	    <video name="·塘厦塘龙广场西（普清）">
+	    <url>rtsp://211.139.194.251:554/mobile/1/44DA3DFD1B7A6244/KodsWetIMHuoKBx4.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+	    </video>
+	    <video name="·塘厦塘龙广场西（高清）">
+	    <url>rtsp://211.139.194.251:554/live/1/44DA3DFD1B7A6244/eyzN4HXL1ebEsqIQ.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+	    </video>	    
+	    <video name="黄江书城东北">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=30</url>
+    	<hdurl></hdurl>
+    	</video>
+    	<video name="茶山大道西（普清）">
+	    <url>rtsp://211.139.194.251:554/mobile/1/06B87F622AA441D3/YUUZGyp31kwN5n99.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	   </video>
+    	<video name="茶山大道西（高清）">
+	    <url>rtsp://211.139.194.251:554/live/1/06B87F622AA441D3/XqA5iiIwgZkipsly.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	   </video>	   
+	   	<video name="大岭山广场西南">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=29</url>
+	   </video>
+		</city>
+	</province>
+</provinces> 

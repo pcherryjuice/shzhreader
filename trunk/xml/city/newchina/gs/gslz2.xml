@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="甘肃" order="S" >
+		<city name="兰州2" type="1" order="D" >	
+
+			<video name="南关-八中（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000073-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-八中（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000073-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="南关-南湖公园（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000070-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-南湖公园（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000070-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="南关-民航局（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000075-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-民航局（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000075-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="南关-南关十字（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-南关十字（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="南关-民主东路（铁路局）（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-民主东路（铁路局）（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="南关-民主东路街道站（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="南关-民主东路街道站（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000072-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-七中（八一宾馆）（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100010004-12::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-七中（八一宾馆）（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100010004-12::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+
+      <video name="皋兰路附近-市政府（普清）"><url></url></video>
+			<video name="皋兰路附近-市政府（高清）"><url></url></video>
+			
+			<video name="（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000086-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000086-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-清真食品厂（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000087-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-清真食品厂（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000087-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-张家园（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000114-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-张家园（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000114-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-牛头饭店（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000082-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-牛头饭店（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000082-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-迎宾饭店（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000083-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-迎宾饭店（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000083-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+
+			<video name="皋兰路附近-五里铺（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000039-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-五里铺（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000039-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="皋兰路附近-金城宾馆（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000081-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="皋兰路附近-金城宾馆（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000081-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-中山林（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000084-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-中山林（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000084-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-甘霖大厦（白银路）（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000092-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-甘霖大厦（白银路）（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000092-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-警察大厦（劳改局）（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000085-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-警察大厦（劳改局）（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000085-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-省委（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000093-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-省委（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000093-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+
+      <video name="盘旋路附近-劳改医院（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000091-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-劳改医院（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000091-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-大沙坪（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000090-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-大沙坪（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000090-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-佛慈制药厂2（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000089-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-佛慈制药厂2（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000089-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			
+			<video name="盘旋路附近-牟家庄小区（普清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000088-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+			<video name="盘旋路附近-牟家庄小区（高清）"><url>rtsp://111.11.181.22:554/server?PlayMethod=0::1;PuId-ChannelNo=100931000100000088-1::1;StreamingType=2::1;msisdn=13800000000::1;VauRtspAdd=218.203.217.100::1;VauRtspPort=5546</url></video>
+      
+		</city>
+	</province>
+</provinces> 
