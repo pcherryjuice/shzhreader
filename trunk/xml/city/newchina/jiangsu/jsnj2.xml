@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="南京2" type="1" order="A" >	
+			<video name="江宁区 双龙大道-秦怀路路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101537600-010175010501537603::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+      <video name="江宁区 双龙大道气象学院高架">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101537600-010175010501537601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="文靖路-土山路路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101537600-010175010501537602::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="秦怀区 凤台路-集庆路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419603::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="秦怀区 卡子门大街-大明路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418605::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="秦怀区 卡子门大街-土城头路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420004::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="秦怀区 中山南路-长了路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420002::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 北京东路-丹凤街">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418407::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 北京东路-进香河路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418402::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 鼓楼隧道南路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 洪武北路-长江路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418800-010175010501418801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 龙蟠路-龙脖子路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418800-010175010501418812::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 龙蟠路-珠江路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418411::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 南京南外校门口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010150000200654200-010150010500654201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 珠江路凤凰街">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418405::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 珠江路-进香河路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420016::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="武候区 中山路-珠江路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418414::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="下关区 中央北路-和燕路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419000-010175010501419013::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 大光路-解放路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419200-010175010501419201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 大光路-御道路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419608::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 广州路-上海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419416::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 虎踞路水西门高架">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418614::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 洪武路-淮海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420003::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 汉中路-莫愁路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420011::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 汉中路-牌楼巷">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418609::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 汉中路-上海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419408::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 汉中路长途车站">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419610::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 建业路-莫愁路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419415::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 龙蟠中路-白下路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418416::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 龙蟠中路-常府街">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419609::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 龙蟠中路-中山东路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419000-010175010501419007::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 南航北门">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419200-010175010501419211::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 新街口转盘北">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418800-010175010501418803::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 新街口转盘东">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 新街口转盘南">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420014::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路二条巷">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419614::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路-解放路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419200-010175010501419208::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路-清溪路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418412::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路-御道街东">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419000-010175010501419014::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路-御道街东西">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420013::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路-中山宾馆">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418604::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路二档馆">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419607::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山东路洪武路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419407::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山门">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419200-010175010501419210::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山南路-淮海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 中山南路-三元巷">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419400-010175010501419410::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="白下区 苜宿园">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 北京西路-宁海路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419000-010175010501419012::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 北京西路-玉泉路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420010::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 北京西路教育大厦门口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419200-010175010501419203::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 长江大桥北大堡">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418616::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 长江大桥南大堡">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418615::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 鼓楼广场西侧">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419000-010175010501419016::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 南京鼓楼医院急诊">
+			<url>rtsp://58.223.2.7:554/service?UserId=jsshow::1;PuId-ChannelNo=010150000200672000-010150010500672001::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 上海路-华侨路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420012::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 珠江路黄埔路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101419600-010175010501419612::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 鼓楼隧道北口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101420000-010175010501420007::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 中央路-新模范马路">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418607::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 建邺区-石城桥汉中门大街">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418613::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="鼓楼区 雨花台区">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418600-010175010501418612::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

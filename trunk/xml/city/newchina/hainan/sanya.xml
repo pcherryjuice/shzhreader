@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <provinces version="1.2">
+	<province name="海南" order="U" >
+		<city name="三亚" type="1" order="B" >
+			<video name="三亚和平街">
+			<url>rtsp://221.182.247.4/broadcast/ty_hnsyjtlk_01.rm</url>
+			</video>
+		  <video name="三亚解放二路">
+			<url>rtsp://221.182.247.4/broadcast/ty_hnsyjtlk_02.rm</url>
+			</video>		
+	 </city>
+	</province>
+</provinces>

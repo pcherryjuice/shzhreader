@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="苏州" type="250" order="D" >	
+			<video name="相城区 凤凰街停车场">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011217000100251800-011217010500251802::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+      <video name="相城区 鹏朗局大院">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011217000100252200-011217010500252202::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="相城区 苏州人民路（北向）">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011212000200654800-011212010500654801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="相城区 苏州人民路2">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011212000200654800-011212010500654802::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="吴中 城北局大院门口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011217000100250400-011217010500250402::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="平江 平门桥下">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011245000201277200-011245010501277201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="平江 山塘街新门桥">
+			<url>rtsp://221.231.150.37:554/service?UserId=jsshow::1;PuId-ChannelNo=011245000100780500-011245010500780501::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=221.231.150.37::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="相城区 西环高架转北环高架">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011212001201214800-011212010501214801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="相城区 东环高架转南环高架">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=011212001201214800-011212010501214803::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

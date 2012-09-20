@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<city name="徐州市3" type="1" order="C" >	
+			<video name="九里区 九里山路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591400-010513010501591402::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 第四医院">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591800-010513010501591801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 凤鸣桥东">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201592000-010513010501592001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 妇幼保健院西">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201592000-010513010501592002::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 工农路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593600-010513010501593601::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 古州飞虹">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591200-010513010501591203::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 航道处">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201595600-010513010501595604::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 韩山环岛">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591800-010513010501591804::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 韩山客运站">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591800-010513010501591804::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 侯山窝路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593800-010513010501593804::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 淮塔东门">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201595400-010513010501595404::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 湖西路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591800-010513010501591803::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 建国路-兴隆桥">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201589400-010513010501589401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 夹河街西口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593200-010513010501593202::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 夹河街一中路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593600-010513010501593602::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 金山路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594800-010513010501594801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 锦绣家园路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593200-010513010501593204::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 矿山路环岛">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593400-010513010501593404::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 立达路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594400-010513010501594404::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 泉新路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591600-010513010501591603::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 人民广场">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594400-010513010501594401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 隧道东口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201595600-010513010501595602::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 苏堤路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594400-010513010501594402::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 隧道西口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594800-010513010501594802::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 水利局路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593200-010513010501593203::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 天能集团">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201595000-010513010501595004::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 王陵路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594800-010513010501594804::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 吴庄路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594200-010513010501594203::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 西安路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594400-010513010501594403::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 西苑菜市场路口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593600-010513010501593604::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 西苑西口">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593800-010513010501593801::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 徐州永安广场">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000200442000-010513010500442001::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 迎宾环岛">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201593200-010513010501593201::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="泉山区 云龙山西">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201594800-010513010501594803::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			<video name="铜山县 矿大新区北门">
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010513000201591600-010513010501591604::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

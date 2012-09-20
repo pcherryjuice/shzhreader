@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+	<province name="湖北" order="T" >
+		<city name="襄阳" type="1" order="E" >
+			<video name="长虹二桥，樊城桥头至建设路口"><url>rtsp://211.137.78.148/broadcast/xf_jt01.rm</url></video>
+			<video name="长虹路与人民路口"><url>rtsp://211.137.78.148/broadcast/xf_jt07.rm</url></video>
+			<video name="长虹路与松鹤路口"><url>rtsp://211.137.78.148/broadcast/xf_jt04.rm</url></video>
+			<video name="火车站"><url>rtsp://211.137.78.148/broadcast/xf_jt06.rm</url></video>
+			<video name="长虹二桥，襄城桥头"><url>rtsp://211.137.78.148/broadcast/xf_jt03.rm</url></video>
+			<video name="樊城桥头"><url>rtsp://211.137.78.148/broadcast/xf_jt02.rm</url></video>
+			<video name="白马广场"><url>rtsp://211.137.78.148/broadcast/xf_jt05.rm</url></video>
+			
+			<video name="诸葛亮广场">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt08.rm</url>
+			</video>
+			<video name="长虹路与春园路">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt09.rm</url>
+			</video>
+			<video name="长征路与大庆路口">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt10.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

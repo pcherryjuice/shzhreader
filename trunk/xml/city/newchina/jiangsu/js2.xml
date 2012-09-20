@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="江苏" order="T" >
+		<!--city name="南京" type="1" order="A" >
+			<video name="# 南京(单击加载)">
+				<url>city/jiangsu/jsnj.xml</url>
+			</video>	
+		</city-->			
+		<city name="南京2" type="1" order="A" >		
+			<video name="# 南京2(单击加载)">
+				<url>city/jiangsu/jsnj2.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="苏州" type="1" order="D" >	
+				<video name="# 苏州(单击加载)">
+				<url>city/jiangsu/jssz.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="常州" type="1" order="D" >	
+			<video name="# 常州(单击加载)">
+				<url>city/jiangsu/jscz.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="扬州1" type="1" order="B" >	
+			<video name="# 扬州1(单击加载)">
+				<url>city/jiangsu/jsyz1.xml</url>
+			  </video>	
+		</city>	
+		<city name="扬州2" type="1" order="B" >	
+			<video name="# 扬州2(单击加载)">
+				<url>city/jiangsu/jsyz2.xml</url>
+			  </video>	
+		</city>	
+		<city name="扬州3" type="1" order="B" >		
+			<video name="# 扬州3(单击加载)">
+				<url>city/jiangsu/jsyz3.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="徐州市1" type="1" order="C" >		
+			<video name="# 徐州市1(单击加载)">
+				<url>city/jiangsu/jsxz1.xml</url>
+			  </video>	
+		</city>	
+		<city name="徐州市2" type="1" order="C" >		
+			<video name="# 徐州市2(单击加载)">
+				<url>city/jiangsu/jsxz2.xml</url>
+			  </video>	
+		</city>	
+		<city name="徐州市3" type="1" order="C" >		
+			<video name="# 徐州市3(单击加载)">
+				<url>city/jiangsu/jsxz3.xml</url>
+			  </video>	
+		</city>	
+		
+
+		
+		<city name="南通" type="1" order="D" >		
+			<video name="# 南通(单击加载)">
+				<url>city/jiangsu/jsnt.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="无锡" type="1" order="E" >	
+			<video name="# 无锡(单击加载)">
+				<url>city/jiangsu/jswx.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="镇江市" type="1" order="I" >	
+		    <video name="# 镇江市(单击加载)">
+				<url>city/jiangsu/jszj.xml</url>
+			  </video>	
+		</city>	
+		
+		<city name="昆山" type="1" order="I" >	
+			<video name="# 镇江市(单击加载)">
+				<url>city/jiangsu/jsks.xml</url>
+			  </video>	
+		</city>
+		
+		<city name="泰州" type="1" order="I" >
+			<video name="# 泰州(单击加载)">
+				<url>city/jiangsu/jstz.xml</url>
+			  </video>	
+		</city>
+		
+		<city name="东台市" type="1" order="I" >
+			<video name="# 东台市(单击加载)">
+				<url>city/jiangsu/jsdt.xml</url>
+			  </video>	
+		</city>
+		
+	</province>
+</provinces> 

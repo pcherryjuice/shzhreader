@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="全球景点" order="Q" >
+		<city name="全球精选" type="1" order="A" >
+			<video name="中国.上海.黄浦江(精选)">
+			<url>mmst://www.onedir.com/Cam3</url>
+			</video>						
+			<video name="中国.上海.浦东新区(精选)">
+			<url>mmst://www.onedir.com/Cam4</url>
+			</video>
+			<video name="中国.新疆.巴州博斯腾湖广场(精选)">
+			<url>rtmp://124.117.226.122/live/CAP11009001</url>
+			</video>
+			<video name="中国.新疆库尔勒孔雀河(精选)">
+			<url>rtmp://124.117.226.122/live/CAP11008601</url>
+			</video>						
+			<video name="中国.湖南.张家界.迷魂台(白天才可以看)">
+			<url>mmsh://220.168.204.82:8081</url>
+			</video>												
+			<video name="中国.湖南.张家界.水绕四门(白天才可以看)">
+			<url>mmsh://220.168.204.83:8081</url>
+			</video>									
+			<video name="中国.湖南.张家界.天桥遗墩(白天才可以看)">
+			<url>mmsh://220.168.204.82:8082/ms005.wmv?w=620|450</url>
+			</video>							
+			<video name="美国国家航空航天局.国际空间站1(信号中断时黑屏)">
+			<url>mmsh://a1709.l1856953708.c18569.g.lm.akamaistream.net/D/1709/18569/v0001/reflector:53708</url>
+			</video>			
+			<video name="加拿大.安大略.尼亚加拉瀑布(精选)">
+			<url>mmst://webcams.niagarafallshotels.com/CNH-Stream2</url>
+			</video>
+			<video name="奥地利 卡林西亚 湖光山色(精选)">
+			<url>mmsh://gcssrv.pkf.speednet.at/WSX/panorama_ktn_live</url>
+			</video>
+			<video name="以色列特拉维夫海豚馆海滩实况(精选)">
+			<url>mmsh://82.80.248.191:80/rtdolphinrt</url>
+			</video>
+
+		  
+			<video name="冰岛.赫克拉火山"><url>rtsp://hafell.ruv.is/hekla</url></video>	
+			<video name="意大利.里米尼海滩"><url>rtsp://wms.0E22.edgecastcdn.net/200E22/SpiaggiaBagno26</url></video>	
+			<video name="意大利.克利须那寺大厅"><url>rtsp://81.25.97.50/Villaggio_Hare_Krishna</url></video>	
+			<video name="美国国际空间站"><url>rtsp://a1709.l1856953708.c18569.g.lm.akamaistream.net/D/1709/18569/v0001/reflector:53708</url></video>
+			<video name="韩国.首尔广场"><url>rtsp://115.84.164.162/live_11</url></video>
+			<video name="韩国.首尔光化门广场"><url>rtsp://115.84.164.160/live_04</url></video>
+			<video name="韩国.首尔光化门广场2"><url>rtsp://115.84.164.162/live_03</url></video>
+			<video name="韩国.春川"><url>mmsh://222.113.53.4/nalsi</url></video>
+			<video name="日本.京都.福知山站."><url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_fukuchiyama2</url></video>
+			<video name="日本.京都.福知山.由良山"><url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_fukuchiyama1 </url></video>
+			<video name="日本.京都.福知山.三段池公园"><url>mmsh://live06i01sv.city.fukuchiyama.kyoto.jp/Live_sandan</url></video>
+			<video name="日本.爱媛.松山.锦町"><url>mmsh://shuhoudou.net:8080</url></video>
+			<video name="日本.富山.鱼津.海市蜃楼"><url>mmsh://www2.city.uozu.toyama.jp/side-t</url></video>
+			<video name="日本.富山.鱼津.海市蜃楼2"><url>mmsh://www2.city.uozu.toyama.jp/side-k</url></video>
+			<video name="日本.香川.濑户大桥"><url>mmsh://vod6.kbn.ne.jp/setolive </url></video>
+			<video name="日本.岐阜.白川乡.合掌造村落"><url>mmsh://210.172.199.29/live</url></video>
+			<video name="日本.横滨.atv.猫窝1"><url>rtsp://asahitelevision.com/bvp5</url></video>
+			<video name="日本.横滨.atv.猫窝2"><url>rtsp://asahitelevision.com/bvp2</url></video>
+			<video name="日本.横滨.atv.阳台"><url>rtsp://asahitelevision.com/bvp6</url></video>
+			<video name="日本.北海道.HBC直播间"><url>rtsp://vnc02l02.h-ix.jp/HBCRadio</url></video>
+			<video name="日本.大阪鸟瞰"><url>rtsp://live1.iam.ne.jp/skybldg1</url></video>
+			<video name="日本.大阪.新梅田城"><url>rtsp://live1.iam.ne.jp/skybldg3</url></video>
+			<video name="日本.大阪.新梅田城2"><url>rtsp://live1.iam.ne.jp/skybldg4</url></video>
+			<video name="日本.吉野川.吉野川桥"><url>mmsh://str.toku-mlit.go.jp:443/enco1</url></video>
+			<video name="日本.吉野川.第十堰"><url>mmsh://str.toku-mlit.go.jp:443/enco2</url></video>
+			<video name="日本.吉野川.中央桥"><url>mmsh://str.toku-mlit.go.jp:443/enco3</url></video>
+			<video name="日本.吉野川.岩津桥"><url>mmsh://str.toku-mlit.go.jp:443/enco4</url></video>
+			<video name="日本.吉野川.三好大桥"><url>mmsh://str.toku-mlit.go.jp:443/enco5</url></video>
+			<video name="日本.吉野川.大寺桥"><url>mmsh://str.toku-mlit.go.jp:443/enco6</url></video>
+			<video name="日本.丰冈.竹野滨.市区交通路口"><url>mmsh://web-camera.city.toyooka.lg.jp:40001</url></video>
+			<video name="日本.丰冈.竹野滨.海滩"><url>mmsh://web-camera.city.toyooka.lg.jp:40002</url></video>
+			<video name="日本.丰冈.竹野滨.未知"><url>mmsh://web-camera.city.toyooka.lg.jp:40003</url></video>
+			<video name="日本.丰冈.竹野滨.未知2"><url>mmsh://web-camera.city.toyooka.lg.jp:40004</url></video>
+			<video name="日本.丰冈.竹野滨.未知3"><url>mmsh://web-camera.city.toyooka.lg.jp:40006</url></video>
+			<video name="日本.丰冈.出石.路口"><url>mmsh://web-camera.city.toyooka.lg.jp:40005</url></video>
+			<video name="日本.五条市.民族博物馆"><url>mmsh://www3.city.gojo.lg.jp:40001</url></video>
+			<video name="日本.五条市.民族博物馆2"><url>mmsh://www3.city.gojo.lg.jp:40002</url></video>
+			<video name="日本.五条市.历史博物馆"><url>mmsh://www3.city.gojo.lg.jp:40004</url></video>
+			<video name="日本.五条市.历史博物馆2"><url>mmsh://www3.city.gojo.lg.jp:40003</url></video>
+			<video name="日本.五条市.友谊会堂"><url>mmsh://www3.city.gojo.lg.jp:40006</url></video>
+			<video name="日本神奈川鹄沼海岸"><url>mmsh://www2.kanagawa-umi.jp:80/SurfVillage1 </url></video>
+			<video name="日本五条市宇智小学"><url>mmsh://www3.city.gojo.lg.jp:40003</url></video>
+			<video name="日本.丰冈.城崎温泉"><url>mmsh://web-camera.city.toyooka.lg.jp:40004</url></video>
+			<video name="日本丰冈神锅高原小学"><url>mmsh://web-camera.city.toyooka.lg.jp:40003</url></video>
+			<video name="日本.丰冈.社区中心"><url>mmsh://web-camera.city.toyooka.lg.jp:40001</url></video>
+			<video name="日本.丰冈. 但东川"><url>mmsh://web-camera.city.toyooka.lg.jp：40006</url></video>
+			<video name="日本.东京.彩虹大桥"><url>rtsp://fujitv-wmt.stream.co.jp/fujitv-ds</url></video>
+			<video name="日本.湘南海滩"><url>rtsp://simul.freebit.net/shonanbeachfm</url></video>
+			<video name="韩国.首尔清溪广场"><url>rtsp://115.84.164.161/live_13</url></video>
+			<video name="韩国.首尔蓝天公园"><url>rtsp://115.84.164.161/live_08</url></video>
+			<video name="韩国.首尔林天公园"><url>rtsp://115.84.164.162/live_02</url></video>
+			<video name="韩国.首尔马路雕像"><url>rtsp://115.84.164.162/live_03</url></video>
+			<video name="韩国.首尔汉江看日出"><url>rtsp://115.84.164.161/live_09</url></video>
+			<video name="韩国.首尔汉江全景"><url>rtsp://115.84.164.161/live_16</url></video>
+			<video name="韩国.首尔盘浦大桥喷泉"><url>rtsp://115.84.164.160/live_05</url></video>
+			<video name="韩国.石村梦幻岛"><url>rtsp://115.84.164.160/live_15</url></video>
+			<video name="韩国.南山明洞"><url>rtsp://115.84.164.161/live_18</url></video>
+			<video name="韩国.南山盘浦大桥（不稳定）"><url>rtsp://115.84.164.161/live_17</url></video>
+			<video name="韩国.南山首尔塔广场"><url>rtsp://115.84.164.161/live_19</url></video>
+			<video name="史密森公园.大熊猫"><url>rtsp://160.111.253.227/pandacam1</url></video>
+			<video name="美国.明尼苏达.明尼苏达公园.海豚"><url>rtsp://stream2.video.state.mn.us/DolphinCam</url></video>
+			<video name="美国.明尼苏达.明尼苏达公园.河狸"><url>rtsp://stream2.video.state.mn.us/beavercam</url></video>
+			<video name="美国.佛罗里达.清水海滩度假村"><url>rtsp://a1103.l8911753102.c89117.n.lm.akamaistream.net/D/1103/89117/v0001/reflector:53102</url></video>
+			<video name="美国.佛罗里达.斯卢皮酒吧"><url>rtsp://alt.floridakeysmedia.com/sloppys</url></video>
+			<video name="美国.佛罗里达.杜瓦尔州"><url>rtsp://origin.floridakeysmedia.com/liveduvalstree</url></video>
+			<video name="美国.佛罗里达.野猪气息酒吧"><url>rtsp://alt.floridakeysmedia.com/hogsbarcam</url></video>
+			<video name="美国.佛罗里达.两个朋友酒吧"><url>rtsp://alt.floridakeysmedia.com/twofriends</url></video>
+			<video name="美国.佛罗里达.提基酒吧"><url>rtsp://alt.floridakeysmedia.com/tikibar</url></video>
+			<video name="美国.佛罗里达.绿鹦鹉酒吧"><url>rtsp://alt.floridakeysmedia.com/greenparrot</url></video>
+			<video name="美国.佛罗里达.帆船码头酒吧"><url>rtsp://alt.floridakeysmedia.com/schoonerwharf</url></video>
+			<video name="美国.佛罗里达.牛仔比尔酒吧"><url>rtsp://origin.floridakeysmedia.com/cowboybillsbullride </url></video>
+			<video name="美国.佛罗里达.车萨皮克度假村"><url>rtsp://alt.floridakeysmedia.com/chesapeake</url></video>
+			<video name="美国.佛罗里达.伊斯拉莫拉达度假村"><url>rtsp://alt.floridakeysmedia.com/holidayisle</url></video>
+			<video name="美国.佛罗里达.码头"><url>rtsp://alt.floridakeysmedia.com/islandfish</url></video>
+			<video name="美国.佛罗里达.旅游列车"><url>rtsp://alt.floridakeysmedia.com/tourtrain</url></video>
+			<video name="美国.佛罗里达.电车"><url>rtsp://alt.floridakeysmedia.com/oldtowntrolley</url></video>
+			<video name="美国.加利福尼亚.圣伯纳迪诺.高速公路"><url>rtsp://svdtsmsmedia.dot.ca.gov/D8Cam6</url></video>
+			<video name="美国.加利福尼亚.博尔德克里克.室内"><url>mmsh://live.camstreams.com/csRacheed?MSWMExt=.asf</url></video>
+			<video name="美国.密西根.卡尔卡斯卡.野外（不稳定）"><url>mmsh://live.camstreams.com/csnorthtroll?MSWMExt=.asf </url></video>
+			<video name="美国.宾夕法尼亚.公路(不稳定)"><url>mmsh://live.camstreams.com/csvignet?MSWMExt=.asf</url></video>
+			<video name="美国.俄亥俄.瓦尔多.后墙"><url>mmsh://live.camstreams.com/csbat481?MSWMExt=.asf </url></video>
+			<video name="美国.北卡罗莱纳.野鹿"><url>mmsh://live.camstreams.com/cskf6wax?MSWMExt=.asf </url></video>
+			<video name="加拿大.安大略.尼亚加拉瀑布"><url>mmst://webcams.niagarafallshotels.com/CNH-Stream2</url></video>
+			<video name="加拿大联邦大桥"><url>rtsp://24.222.15.227/bridgecam100</url></video>
+			<video name="加拿大吸尘器商店"><url>mmsh://live.camstreams.com/csscarborovacuum?MSWMExt=.asf</url></video>
+			<video name="墨西哥.坎昆.度假村"><url>mmsh://stream2.netro.ca/grancaribe</url></video>
+			<video name="巴西.佛朗莉亚诺波里斯(比较卡)"><url>mmsh://gruporbs-transito-florianopolis.wm.llnwd.net/gruporbs_Transito_Florianopolis?p1=20120709053944::1;p2=xx::1;h1=zf/0gqViTV7GjEnYw6PScQ==::1;h2=12HauMUguMmkd83R+FF/Fg==::1;channel=41</url></video>
+			<video name="英国.纳利群岛"><url>mmsh://live.camstreams.com/csscillyman</url></video>
+			<video name="英国.南昆斯费里.福斯桥（暂停）"><url>mmsh://live.camstreams.com//cs4btraffic</url></video>
+			<video name="英国.伦敦.自然历史博物馆.蚂蚁"><url>mmsh://wms-farm1.dc1.coull.biz/nhmuseum1</url></video>
+			<video name="英国.皇家大道"><url>mmsh://live.camstreams.com/cscamglobal2 </url></video>
+			<video name="英国.克莱德何"><url>mmsh://live.camstreams.com/cssaitek1</url></video>
+			<video name="英国.谢菲尔德.天空"><url>mmsh://live.camstreams.com/cssheffieldweather</url></video>
+			<video name="英国.西萨塞克斯.海滨"><url>mmsh://live.camstreams.com/csweathercam</url></video>
+			<video name="英国.西萨塞克斯.村庄"><url>mmsh://live.camstreams.com//csianren</url></video>
+			<video name="乌克兰第聂伯市巴黎歌剧院"><url>mmsh://195.5.61.75/webcam </url></video>
+			<video name="乌克兰.伊万诺.弗兰科夫斯克"><url>mmsh://hole.if.ukrtel.net</url></video>
+			<video name="乌克兰.基洛夫格勒"><url>mmsh://195.5.59.12/video1</url></video>
+			<video name="乌克兰.塞瓦斯托波尔市中心"><url>mmsh://195.5.36.131</url></video>
+			<video name="乌克兰.切尔尼科夫红场"><url>mmsh://195.5.11.209/chr03.asf</url></video>
+			<video name="乌克兰.切尔尼科夫"><url>mmsh://195.5.11.207/chr01.asf</url></video>
+			<video name="德国.北威.埃森.公交站"><url>mmsh://live.camstreams.com/csauge</url></video>
+			<video name="德国.哈雷.街道"><url>mmsh://217.69.240.110/pct</url></video>
+			<video name="荷兰.街道"><url>mmsh://live.camstreams.com/csharriesteenbruggen</url></video>
+			<video name="希腊.哈尔基迪基.港口"><url>mmsh://live.camstreams.com/cshalkidiki</url></video>
+			<video name="奥地利.tulln.180旋转摄像头"><url>mmsh://82.218.68.120/tulln/tulln.asf</url></video>
+			<video name="奥地利.湖光山色"><url>rtsp://gcssrv.pkf.speednet.at/WSX/panorama_ktn_live</url></video>
+			<video name="西班牙.希洪.海滩"><url>mmsh://62.97.118.233/Gijon</url></video>
+			<video name="澳大利亚.维多利亚.毒蜘蛛"><url>mmsh://mvmedia.museum.vic.gov.au/TarantulaWebCam</url></video>	
+		</city>
+	</province>
+</provinces> 

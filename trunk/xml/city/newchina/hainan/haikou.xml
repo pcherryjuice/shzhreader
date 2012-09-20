@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <provinces version="1.2">
+	<province name="海南" order="U" >
+		<city name="海口" type="1" order="A" >
+			<video name="海口半山花园路口">
+			<url>rtsp://221.182.247.4/broadcast/tyhn_01.rm</url>
+			</video>
+		  <video name="海口金龙路">
+			<url>rtsp://221.182.247.4/broadcast/tyhn_02.rm</url>
+			</video>		
+	 </city>
+	</province>
+</provinces>

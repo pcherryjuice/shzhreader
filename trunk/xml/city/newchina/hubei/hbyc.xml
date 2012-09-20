@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="湖北" order="T" >
+		<city name="宜昌" type="1" order="I" >
+			<video name="西陵一路">
+			<url>rtsp://211.137.78.148/broadcast/jz_jgj02.rm</url>
+			</video>
+			<video name="解放路">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt03.rm</url>
+			</video>
+			<!--video name="测试1">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt01.rm</url>
+			</video>
+			<video name="测试2">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt04.rm</url>
+			</video>
+			<video name="测试3">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt05.rm</url>
+			</video>
+			<video name="测试4">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt08.rm</url>
+			</video>
+			<video name="测试5">
+			<url>rtsp://211.137.78.148/broadcast/xf_jt10.rm</url>
+			</video-->
+		</city>
+	</province>
+</provinces> 
