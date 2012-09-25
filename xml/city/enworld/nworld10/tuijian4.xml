@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="0" >
+		<city name="Global select camera 5" type="1888" order="E" >
+			
+<video name="Paris,France. coastal beach">
+<url>http://193.252.30.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Picardie,France. wharf(HD)">
+<url>http://193.251.36.248/image?speed=0</url>
+</video>
+
+<video name="Laupen,Berne,Switzerland.  City scenery.">
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Zurich,Switzerland.  cafeteria">
+<url>http://webcam-mensa-hpr.ethz.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Bubikon,Zurich,Switzerland.  wharf(HD)">
+<url>http://webcam.sscro.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="Geneva,Switzerland.  canteen">
+<url>http://195.70.20.210:81/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338348980052</url>
+</video>
+
+<video name="Geneva,Switzerland.  The natural beauty of lakes and mountains.">
+<url>http://seecam.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Jura Laufen,Switzerland. Snow mountain scenery.">
+<url>http://axis-bual-lantsch.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="luzern,Switzerland.  bridgehead">
+<url>http://cam.luzern.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Zell Am Moos,Upper Austria,Austria. Hotel swimming pool.">
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284::1;resolution=352x288</url>
+</video>
+
+<video name="Neuhofen,Upper Austria,Austria. river">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="Wals,salzburg,Austria. Ravine stream">
+<url>http://85.199.39.250/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=94270</url>
+</video>
+
+<video name="Gurtis,vorarlberg,Austria. Street">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="Vienna,Austria.  Mountain view">
+<url>http://62.47.124.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Lining Nick ,Poland. fountain.">
+<url>http://212.244.173.167/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Poland. A bird's eye view of the city.">
+<url>http://91.200.38.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Kolberg,Poland. coastal beach">
+<url>http://kamera01.arka-mega.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Bialystok,Poland. square.">
+<url>http://bialystokonline2.axiscam.net:10200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Iceland. A bird's eye view of the city.">
+<url>http://vefmyndavel.akureyri.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Iceland. harbor">
+<url>http://213.190.124.40:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Montreal,Quebec,Canada. government house">
+<url>http://69.70.135.38/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240</url>
+</video>
+
+<!--video name="Canada. 魁北克-La Baie 湖边2 -高清">
+<url>rtsp://209.169.132.26:554/mpeg4/media.amp</url>
+</video-->
+
+<video name="British Columbia,vancouver,Canada. Laboratory 1">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423</url>
+</video>
+
+<video name="British Columbia,vancouver,Canada. Laboratory 2">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423</url>
+</video>
+
+<!--video name="British Columbia,vancouver,Canada. 实验室3 -普清">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=704x480::1;1336902488423</url>
+</video-->
+
+<video name="British Columbia,vancouver,Canada.  Laboratory 4">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336902488423</url>
+</video>
+
+<!--video name="British Columbia,vancouver,Canada.  Sylvan Lake 湖边 -普清">
+<url>http://64.114.238.141/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336914761941</url>
+</video-->
+
+<video name="Sylvan Lake,British Columbia,vancouver,Canada.   The lake">
+<url>http://64.114.238.141/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336914761941</url>
+</video>		
+
+<video name="Colorado,USA. Colorado university">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Colorado,USA.  Bracken richie street">
+<url>http://72.165.31.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Aspen,Colorado,USA.  Kitten pet house.">
+<url>http://dogsaspen.dyndns.org:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Gunnison,Colorado,USA.   Colorado western state college.">
+<url>http://webcam1.western.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Gunnison,Colorado,USA.  Rural road">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Longmont,Colorado,USA.  Rural road 2">
+<url>http://173.164.52.97:5633/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ophir,Colorado,USA.  Town street">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Sylva,North Carolina,USA. city scape">
+<url>http://cam.thesylvaherald.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="North Carolina,USA. Raleigh  教学大楼">
+<url>http://152.1.130.216/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+			
+<video name="Wahpeton North,Dakota state ,USA. North Dakota made university">
+<url>http://134.129.32.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Devils Lake North, Dakota state ,USA.  Devils Lake.">
+<url>http://dlmainstreetwebcam.gondtc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Wahpeton North,Dakota state ,USA.   North Dakota made university">
+<url>http://134.129.32.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Grand Forks North,Dakota state ,USA.   North Dakota made university 2">
+<url>http://msn166-91.med.und.nodak.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="Wahpeton North,Dakota state ,USA.  North Dakota made university 3">
+<url>http://134.129.32.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Norman,Oklahoma ,USA.  The university of Oklahoma campus">
+<url>http://cascam.ou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Norman,Oklahoma ,USA.  The university of Oklahoma campus 2">
+<url>http://129.15.200.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Owasso,Oklahoma ,USA.  The lake surveillance cameras">
+<url>http://70.184.23.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Weatherford,Oklahoma ,USA.  Southwest Oklahoma state university, nasser">
+<url>http://lifecam.swosu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Stillwater,Oklahoma ,USA.  Oklahoma state university -lab">
+<url>http://webcam2.biochem.okstate.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="Philadelphia Temple,Pennsylvania ,USA. university">
+<url>http://155.247.171.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Philadelphia Temple,Pennsylvania ,USA. University teaching building">
+<url>http://155.247.78.78/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="West Chester,Pennsylvania ,USA.  The sea beach">
+<url>http://66.252.102.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="New Kensington,Pennsylvania ,USA.  University of Pennsylvania made">
+<url>http://hncam1.hn.psu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bloomsburg,Pennsylvania ,USA.  The university of Pittsburgh, bloom ">
+<url>http://alwebcam.bulib.bloomu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bellefonte,Pennsylvania ,USA.  The university of Pennsylvania ">
+<url>http://128.118.52.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Collegeville,Pennsylvania ,USA.  Ursinus College">
+<url>http://construction.ursinus.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Indiana,Pennsylvania ,USA.  University data center">
+<url>http://cam02.cc.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="Indiana,Pennsylvania ,USA.  Indiana university of Pennsylvania">
+<url>http://grovecam.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="Philadelphia Temple,Pennsylvania ,USA. The university campus">
+<url>http://155.247.171.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Pittsburgh,Pennsylvania ,USA. Carnegie Mellon University-lab">
+<url>http://cam.preal.ece.cmu.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Erie,Pennsylvania ,USA.  University of Pennsylvania,campus">
+<url>http://128.118.18.114/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Lancaster, Pennsylvania ,USA.  laboratory">
+<url>http://173.163.40.33:54546/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Rock Hill,South Carolina  ,USA.   Winthrop University,campus">
+<url>http://quadcamera.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Rock Hill,South Carolina  ,USA.    Winthrop University,campus 2">
+<url>http://constructioncam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bluffton,South Carolina  ,USA.   The sea beach 3">
+<url>http://64.192.55.100:4000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Conway,South Carolina  ,USA.   Yacht dock">
+<url>http://98.101.223.10:8213/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Greenwood,South Carolina  ,USA. The lake">
+<url>http://24.49.183.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Greenwood,South Carolina ,USA. square">
+<url>http://24.54.99.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Rock Hill,South Carolina ,USA.   Winthrop University-campus">
+<url>http://dcccam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+		</city>
+	</province>
+</provinces> 

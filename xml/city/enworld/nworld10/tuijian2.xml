@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="a" >
+		<city name="Global select camera 2" type="1888" order="C" >
+			
+			<video name="Tokyo,Japan. street">
+			<url>http://shibuya.ipcam.jp:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan street (HD)">
+			<url>http://c74id1i.corede.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Hachioji,Tokyo,Japan. Pet care shop">
+			<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Hachioji, Tokyo,Japan.  Pet care shop(HD)">
+			<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Japan Tokyo. Ravine stream">
+			<url>http://kawauchi.st.wakwak.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Private interior">
+			<url>http://fut-ku.miemasu.net:83/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Setagaya,Tokyo,Japan. street">
+			<url>http://61.119.240.136/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Falls (HD)">
+			<url>http://125.206.50.172:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Setagaya,Tokyo,Japan. street 3">
+			<url>http://61.119.240.91/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Ferris wheel monitoring ">
+			<url>http://01002demo.hsd.shell.link-life.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Fountain plaza ">
+			<url>http://yubatake.st.wakwak.ne.jp/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Forest bridge ">
+			<url>http://61.214.208.121:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			
+			<video name="Tokyo,Japan. City scenery">
+			<url>http://60.43.39.60/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. The big galaxy">
+			<url>http://takeyahotel.mydns.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Gravel the sea">
+			<url>http://61.205.224.211/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Tokyo,Japan. Seaview ">
+			<url>http://painter-k.aa1.netvolante.jp:8005/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+			</video>
+			
+			<video name="Yokosuka,kanagawa,Japan. Coastal road">
+			<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="Odawara,kanagawa,Japan. City scenery">
+			<url>http://60.39.234.210/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+			</video>
+			
+			<video name="Odawara,kanagawa,Japan. City scenery(HD)">
+			<url>http://60.39.234.210/-wvhttp-01-/getoneshot?v=640::1;frame_count=300</url>
+			</video>
+			
+			<video name="Yokohama, kanagawa,Japan. Forest bridge">
+			<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="Yokohama, kanagawa,Japan. Forest bridge(HD)">
+			<url>http://125.206.50.174:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+			<video name="Yokohama, kanagawa,Japan. indoor">
+			<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="Yokohama, kanagawa,Japan. indoor(HD)">
+			<url>http://joyfriends.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+			
+			<video name="Nishio,aichi,Japan.  The sea surge">
+			<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+			</video>
+			
+			<video name="Nishio, aichi,Japan.  The sea surge(HD)">
+			<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+			</video>
+			
+<video name="Barcelona, Catalan,Spain.  Seaside natatorium">
+<url>http://213.96.40.237:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Pobla De Montorn, Catalan,Spain. Seaside natatorium 2">
+<url>http://212.145.212.209:8092/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Barcelona, Catalan,Spain.  Camera and the top of the hill">
+<url>http://188.119.194.36/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Barcelona, Catalan,Spain.  Countryside">
+<url>http://meteosalvador.dvrdns.org:1025/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Tarragona, Catalan,Spain. Roadside small castle">
+<url>http://80.32.56.48:8883/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Palma, Balearic islands ,Spain. City landscape">
+<url>http://meteoibiza.dyndns.biz/axis-cgi/mjpg/video.cgi?camera=::1;resolution=640x480::1;1342013661432::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain. The beach swimming beach">
+<url>http://webcamubet.dyndns.org:8081/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain Seaside natatorium 4">
+<url>http://212.145.204.167:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain Seaside natatorium 5">
+<url>http://212.145.204.191:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Aranjuez,Madrid ,Spain. The sea scenery">
+<url>http://87.235.206.90:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain. The sea scenery 6">
+<url>http://212.145.204.225:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain. The beach swimming pool">
+<url>http://212.145.204.101:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Madrid ,Spain. Seaside scenery">
+<url>http://212.145.204.172:8091/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Budapest Budapest,Hungary. warehouse">
+<url>http://81.183.216.23/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Szeged Szeged,Hungary. River camera">
+<url>http://91.82.196.8:40080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bekes Gyomaendrod,Hungary. bar">
+<url>http://213.157.112.12:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bekes,Hungary. Market hall">
+<url>http://213.157.98.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bacs-Kiskun, Hungary.  City scenery">
+<url>http://77.221.39.163/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bekes Szarvas,Hungary. The ancient castle ">
+<url>http://87.101.127.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Pest.Hungary. The food plaza">
+<url>http://webkamera.tujvaros.hu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Hungary. laboratory">
+<url>http://cam03.deninet.hu:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Pest,Hungary. square">
+<url>http://89.148.93.13/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bacs-Kiskun, Hungary.   In the centre of the city square ">
+<url>http://77.221.39.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Miskolc Miskolc, Hungary.  Castle 2">
+<url>http://85.119.14.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bacs-Kiskun,Hungary.  Roadside square ">
+<url>http://77.221.39.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Budapest Budapest,Hungary. Building plaza (hd)">
+<url>http://81.182.242.245:10002/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Hungary. Fountain plaza">
+<url>http://91.144.100.1/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Csongrad,Hungary. Indoor swimming pool">
+<url>http://hivatal.morahalom.hu:5026/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Jose la city, Sweden. ">
+<url>http://kamera.alvdalen.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Ume, Sweden. ">
+<url>http://brantbergskameran.net.umea.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Sweden. Monkshood DE vara">
+<url>http://uddevallagk.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Laupen,Berne,Switzerland.   City scenery">
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Spiez,Berne,Switzerland.   Adar to wave climbing">
+<url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Lyss,Berne,Switzerland.  City street">
+<url>http://axis-lyss2.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Wexford,Ireland   Wexford lakeside town">
+<url>http://93.92.12.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Finn's ,Netherlands">
+<url>http://zeehond.tonytee.nl:8081/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Finn's, Netherlands 2">
+<url>http://zeehond.tonytee.nl:8080/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Wal-mart's, Netherlands">
+<url>http://82.93.241.220/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Tile HeNing root,Netherlands">
+<url>http://93.125.157.72:5506/mjpg/1/video.mjpg</url>
+</video>
+
+<video name="Amsterdam series, Netherlands">
+<url>http://kzvw.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Netherlands Gorredijk">
+<url>http://brugburdaard.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Noor fe day Ed ,Norway">
+<url>http://194.248.190.92/mjpg/1/video.mjpg</url>
+</video>
+<video name="Ski, Norway">
+<url>http://drobak.mine.nu:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+		</city>
+	</province>
+</provinces> 
