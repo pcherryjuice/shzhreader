@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="a" >
+		<city name=""Global select camera" type="1888" order="B" >
+			
+
+<video name="china-pejing,  Resort wharf (hd)">
+<url>http://218.21.46.166:1234/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=502410</url>
+</video>
+
+
+<video name="china-nanjing,  Building lobby camera (hd)">
+<url>http://nzitct.vicp.net:85/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=548780</url>
+</video>
+
+<video name="macau china  building">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="Distrito Federal Mexico, The sea bathing">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="Distrito Federal Mexico, The sea bathing (hd)">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+
+
+<video name="Guerrero-Acapulco Mexico,  The sea bathing2">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="Guerrero-Acapulco Mexico,  The sea bathing2 (hd)">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+<video name="Jamaica The sea bathing">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Jamaica The sea bathing(hd)">
+<url>http://palladiumjamaica.axiscam.net:51233/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+
+
+<video name="California-USA San Luis Obispo,  Laboratory machine 2">
+<url>http://129.65.126.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="California-USA University of California Santa Barbara,  fountain">
+<url>http://129.210.84.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="California-USA Santa Claram, Santa Clara university campus ">
+<url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Rochester, New York,USA,  University of rochester institute of technology ">
+<url>http://vlsicam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Hamilton, New York,USA,  Colgate university">
+<url>http://149.43.156.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Potsdam, New York,USA,   Clarkson university">
+<url>http://studentcenter2.construction.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="New York,USA, Statue of liberty">
+<url>http://24.39.139.182:4080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="Rochester, New York,USA,   New York state university of rochester">
+<url>http://128.151.54.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Alfred, New York,USA,   Alfred university ">
+<url>http://webcam3.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Rochester, New York,USA.  University of rochester institute of technology">
+<url>http://harriscam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Buffalo, New York,USA.    New York state university college of buffalo 4">
+<url>http://136.183.194.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Miami,Florida,USA.  The university of Miami">
+<url>http://129.171.176.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Miami, Florida,USA. Downtown traffic intersection">
+<url>http://webcam6.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Smyrna Beach, Florida,USA New.  The sea beach 2 ">
+<url>http://24.227.115.174:8000/image?speed=0</url>
+</video>
+
+
+<video name="Florida,USA Tampa. Ocean Park underwater camera ">
+<url>http://24.227.51.155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Lady Lake, Florida,USA. Urban traffic intersection ">
+<url>http://camera2.thevillages.com/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+
+<video name="Tampa, Florida,USA.  Broadcasting station indoor">
+<url>http://198.92.97.174/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Miami, Florida,USA.  University of Miami miller school of medicine 2 ">
+<url>http://webcam4.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Pensacola, Florida,USA. beach">
+<url>http://eastdestinbeachcam.destinresorts.com/image?speed=0::1;v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car entrance 2 (HD)">
+<url>http://79.101.21.7/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car 3-(HD)">
+<url>http://79.101.21.3/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car 4-(HD)">
+<url>http://79.101.21.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Bohinj Trzin,Slovenia.  Stone coast">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Brezovica Celje, Slovenia.  City landscape（(HD)）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Republic of Macedonia.  the centre of the city square ">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Vilnius Vilniaus Apskritis,Lithuania.  The square（(HD)）">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Marijampole Marijampoles Apskritis,Lithuania.  The square(HD)）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Schellenberg Schellenberg, Liechtenstein.  The farm (rotating camera) -(HD)">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Vaduz Vaduz,Liechtenstein. resort">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>			
+<video name="Nova Bana Nitra,Slovakia.   The square">
+<url>http://85.248.54.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Diekirch Ermsdorf,Luxembourg. Yacht dock -(HD)">
+<url>http://ycl-cam.dyndns.org/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Lisboa Lisboa,Portugal. City streets">
+<url>http://fotogermanoviseu.dyndns.info/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Belgrade,Serbia.  the city square -(HD)1080p">
+<url>http://212.200.25.130/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="Vojvodina Zrenjanin,Serbia. Statue ">
+<url>http://109.94.228.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Serbia. Sightseeing cable car -(HD)">
+<url>http://79.101.21.4/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car 2-(HD)">
+<url>http://79.101.21.7/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car 3-(HD)">
+<url>http://79.101.21.3/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Serbia. Sightseeing cable car 4-(HD)">
+<url>http://79.101.21.5/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Bohinj Trzin ,Slovenia. Stone coast">
+<url>http://213.253.80.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Brezovica Celje,Slovenia.  City landscape（(HD)）">
+<url>http://77.38.12.202:8022/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Republic of Macedonia. the city square ">
+<url>http://62.162.103.242/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Vilnius Vilniaus Apskritis,Lithuania. the city square(HD)">
+<url>http://82.135.240.133/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Marijampole Marijampoles Apskritis,Lithuania. the city square（(HD)）">
+<url>http://87.247.125.254/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Schellenberg Schellenberg,Liechtenstein. The farm (rotating camera) -(HD)">
+<url>http://80.248.194.166:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Vaduz Vaduz,Liechtenstein. resort">
+<url>http://193.5.27.52/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Malta. The sea sightseeing camera ">
+<url>http://webcam1.timesofmalta.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>	
+		</city>
+	</province>
+</provinces> 

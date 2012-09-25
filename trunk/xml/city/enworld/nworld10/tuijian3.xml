@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="a" >
+		<city name="Global select camera 4" type="1888" order="D" >
+			
+<video name="Thailand. reservoir">
+<url>http://cctvvrk.egat.com/mjpg/video.mjpg?resolution=352x288::1;quality=motion</url>
+</video>
+
+<video name="South Korea. The bedroom">
+<url>http://aassd.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+<video name="India. Audio-visual classroom ">
+<url>http://bescom.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="Ho chi minh city,Vietnam.  Factory in">
+<url>http://dnnguyenquoctuan.viewnetcam.com:81/nphMotionJpeg?Resolution=640x480::1;Quality=Standard</url>
+</video>
+
+<video name="Hanoi / Dac Lac,Vietnam. Specialty store ">
+<url>http://mynghehaianh.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+<video name="Singapore. Children's playground 1-B">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="Singapore. Children's playground 1-C">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="Singapore. Children's playground 1-D">
+<url>http://115.42.155.199/axis-cgi/mjpg/video.cgi?camera=5::1;resolution=352x288::1;1336833690635</url>
+</video>
+
+<video name="Russia. Internet bar ">
+<url>http://212.42.54.137:8008/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Sochi Krasnodar,Russia.  The beach swimming pool ">
+<url>http://62.182.141.132/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Russia. Gymnasium">
+<url>http://195.239.51.162/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Russia. 纹身室">
+<url>http://77.239.244.46/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Russia. Astronaut training room">
+<url>http://83.69.197.220/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<!--video name="香港 街道-普清">
+<url>http://ebdemo.8800.org:65305/-wvhttp-01-/getoneshot?v=320::1;frame_count=300</url>
+</video>
+
+<video name="香港交通 九龙地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/kltd.rm</url>
+</video>		
+										
+<video name="香港交通 香港地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/hktd.rm </url>
+</video>		
+		
+<video name="香港交通 荃湾地区">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/twtd.rm</url>
+</video>	
+		
+<video name="香港交通 屯门">
+<url>rtsp://tdvideo.hgctr.com:554/encoder/tmtd.rm</url>
+</video-->			
+
+
+<video name="Pescara,Abruzzo,Italy. Swimming pool">
+<url>http://212.43.123.243/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Lanciano,Abruzzo,Italy. City scenery">
+<url>http://87.24.167.176:8005/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="campania,Italy.  Seaside city">
+<url>http://85.18.249.229/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Montecosaro,marche,Italy.  beach">
+<url>http://87.30.238.11:81/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="Bari,Puglia region,Italy.   Coconut palm the sea清">
+<url>http://82.91.42.218/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+
+<video name="Bracknell，England.  Bracknell wharf">
+<url>http://fybmovecam1.axiscam.net:8194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Cambridge，England. Cambridge university">
+<url>http://131.111.125.248/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Cambridge，England. Cambridge university 2">
+<url>http://131.111.133.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Cambridge，England. Cambridge university 3">
+<url>http://131.111.48.34/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+
+<video name="Caen,Normandy under,France. square">
+<url>http://62.160.78.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Paris region.France. Beach volleyball">
+<url>http://217.128.18.18/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>		
+
+<video name="Hall In Tiro,tirol,Austria. street">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name=" Gurtis,vorarlberg,Austria. street">
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Feldkirch,vorarlberg,Austria.  Grass greenwood">
+<url>http://88.116.112.202/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Bregenz,vorarlberg,Austria.  Grass greenwood 2">
+<url>http://80.120.111.82:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Vienna,Austria. Mountain view (rotating camera)">
+<url>http://62.47.124.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Vienna,Austria.  Hotel out of the window">
+<url>http://radvis.astro.univie.ac.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Vienna,Austria. Hotel church">
+<url>http://131.130.66.202/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Vienna,Austria.  streetscape">
+<url>http://83.64.164.4/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Arona,Canary islands,Spain.  Seaside town scenery">
+<url>http://reinekecam.dyndns.info/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Granadilla De Abona,Canary islands,Spain.   Resort scenery (hd)">
+<url>http://chayofacam.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Icod De Los Vinos ,Canary islands,Spain.  The sea beach (hd)">
+<url>http://88.26.178.142:4343/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Catalan,Spain.Sabadell. The sea beach">
+<url>http://80.32.91.134:8030/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="salzburg,Austria. Scenery">
+<url>http://195.70.117.15/-wvhttp-01-/getoneshot?v=640::1;frame_count=300::1;data=v.mjpg</url>
+</video>
+<video name="Snefjord,Finn mark county .Norway. The natural beauty of lakes and mountains.">
+<url>http://seiland.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Hamar,Hedmark,Norway.  Country">
+<url>http://82.147.33.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Hamar,Hedmark,Norway. Mountain scenery">
+<url>http://87.248.15.2/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Hamar,Hedmark,Norway. Tourism cableway(hd)">
+<url>http://82.147.33.165/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Granvin,HuoDaLan,Norway. Submarine camera">
+<url>http://84.205.34.130/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Aalesund More og,roosdaal,Norway.  Yacht dock.">
+<url>http://213.184.212.230:44441/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="More og,roosdaal,Norway.   Roof camera">
+<url>http://195.204.240.59/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="More og,roosdaal,Norway.  Roof camera 2">
+<url>http://213.161.226.178:1111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="More og,roosdaal,Norway. Sea-crossing bridge ">
+<url>http://194.248.190.92/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Sortland,nordland,Norway.  Sea-crossing bridge 2">
+<url>http://213.167.121.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="nordland,Norway. Coastal highway">
+<url>http://158.39.101.247/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Oslo,Norway.  townscape">
+<url>http://193.213.21.217:60040/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Tillie equidae college,Oslo,Norway.">
+<url>http://128.39.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Rogaland,Norway. stadium">
+<url>http://www.resahaugen.no:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Haugesund,Rogaland,Norway. Traffic intersection ">
+<url>http://82.134.72.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Holta,Rogaland,Norway.  River scenery 3">
+<url>http://solvag.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Haugesund,Rogaland,Norway.  Building square">
+<url>http://webcam.fitjar.kommune.no/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Fe YouLa slow,Sognefjord,Norway. Hill hotel">
+<url>http://kamera.harpefossen.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Sandane,Fe YouLa slow,Sognefjord,Norway.  Wharf vision">
+<url>http://webcam.datainstituttet.no/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Trondheim,Sor-Trondel. Sor-Trondelag,Norway. The foot of the mountain village">
+<url>http://birkelund.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Gautefall,Telemark,Norway.  Sightseeing camera">
+<url>http://109.109.79.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Notodden,Telemark,Norway.  The river village">
+<url>http://217.168.94.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Gautefall,Telemark,Norway.  River scenery">
+<url>http://109.109.79.124/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Lakselv,Troms,Norway. The river surveillance cameras.">
+<url>http://mehamn.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Troms,Norway.  Seaside.">
+<url>http://88.84.172.8/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Troms,Norway. Snow mountain hotel">
+<url>http://158.39.49.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Troms,Norway. The university campus.">
+<url>http://62.63.15.129:2556/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+		</city>
+	</province>
+</provinces> 

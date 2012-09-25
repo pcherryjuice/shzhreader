@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="0" >
+		<city name="Global select camera 6" type="1888" order="F" >
+			
+<video name="Nagoya ,aichi, Japan.   The riverside">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Nagoya ,aichi, Japan.   The riverside(HD)">
+<url>http://ftccam.dyndns.org/nphMotionJpeg?resolution=640x320::1;Quality=Motion</url>
+</video>
+
+<video name="Nagoya ,aichi, Japan.   Have a bird's eye view of the city(HD)">
+<url>http://nakayamacam.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Sapporo ,Hokkaido, Japan.  The sea terminal">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Sapporo ,Hokkaido, Japan. The sea terminal(HD)">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="aomori, Japan. Hot spring coast ">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="aomori, Japan. Hot spring coast(HD)">
+<url>http://ikkyuu-webcam.miemasu.net:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Asahi,chiba, Japan. Coastal bird's eye view">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Asahi,chiba, Japan. Coastal bird's eye view(HD)">
+<url>http://cam118317.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Asahi,chiba, Japan. City bird's eye view.">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Asahi,chiba, Japan. City bird's eye view.(HD)">
+<url>http://210.155.223.251/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Miyazaki, Japan. Park fire bird.">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Miyazaki, Japan. Park fire bird.(HD)">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Shima,Gunma, Japan.  seaside">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Shima,Gunma, Japan.  seaside(HD)">
+<url>http://shaka-penshion.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Hiroshima, Japan.  submarine">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Hiroshima, Japan.  submarine(HD)">
+<url>http://toyo-kuni.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Osaka, Japan.  temple">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=320x240::1;Quality=Motion</url>
+</video>
+
+<video name="Osaka, Japan.  temple(HD)">
+<url>http://60.33.230.11/nphMotionJpeg?resolution=640x480::1;Quality=Motion</url>
+</video>
+
+<video name="Bangkok, Thailand. beach">
+<url>http://203.146.114.210/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="Ethiopia's stoke,Poland.  Gas station ">
+<url>http://77.79.211.12:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="gdańsk,Poland. square">
+<url>http://109.107.9.38/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Lining Nick , Poland.  fountain">
+<url>http://212.244.173.167/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland. A bird's eye view of the city ">
+<url>http://91.200.38.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Kolberg,Poland. coast">
+<url>http://kamera01.arka-mega.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Theo brom,Poland.  A bird's eye view of the mountains ">
+<url>http://79.189.44.171/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="koszalin,Poland. Rotating camera.">
+<url>http://62.108.171.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Szczecin,Poland.  Front desk.">
+<url>http://83.15.119.166:84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="silesia,Poland. square.">
+<url>http://87.239.46.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland. grassland">
+<url>http://kamera.epnt.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland. Square rotating camera">
+<url>http://brodnica.eltronik.net.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland. Jastrzebie Zdroj Slaskie. highway">
+<url>http://213.77.33.2:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="Bialystok,Poland.  square">
+<url>http://bialystokonline2.axiscam.net:10200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Chenstochov,Poland.  Tower 2">
+<url>http://212.87.237.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Stargard Szczecinski Zachodniopomorskie,Poland.  Beach stadium.">
+<url>http://213.199.197.133:5000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Zachodniopomorskie Trzeszczyn, Poland.  harbour">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland. Village creek">
+<url>http://most.gizycko.pl/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1338044395430::1;data=v.mjpg</url>
+</video>
+<video name="Poland. City scenery4">
+<url>http://217.144.203.103/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Pomorskie Gdynia, Poland.  wharf.">
+<url>http://194.150.246.3:88/cgi-bin/mjpg/video.cgi?1338044981595::1;data=v.mjpg</url>
+</video>
+<video name="Poland. square.">
+<url>http://195.200.199.42/axis-cgi/mjpg/video.cgi?camera=::1;resolution=320x240::1;1338045148290::1;data=v.mjpg</url>
+</video>
+<video name="Lubelskie Terespol, Poland.  Field playground">
+<url>http://94.40.18.62/image?speed=1::1;data=v.mjpg</url>
+</video>
+<video name="Ukraine.  Fountain plaza">
+<url>http://cam.ic.km.ua/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Rivne Rivnens'ka Oblast' Ukraine, Ukraine.  In the centre of the city square.">
+<url>http://77.120.86.18/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  City View 2">
+<url>http://sun.hm.ukrtel.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  Outdoor swimming pool">
+<url>http://213.179.238.39/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  In the centre of the city square 2">
+<url>http://195.5.39.15/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine. A view of building square">
+<url>http://94.74.71.103:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  Office interior">
+<url>http://193.46.210.58/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  Traffic cameras">
+<url>http://195.5.16.71/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  city scape.">
+<url>http://195.5.16.158/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  square">
+<url>http://213.179.245.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Ukraine.  City scenery 3">
+<url>http://213.179.246.212/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Attiki Athens, Greece.  The sea island">
+<url>http://84.205.233.40/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Attiki Athens, Greece.  Church interior ">
+<url>http://84.205.229.52:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Attiki Athens, Greece.  Plaza (hd) ">
+<url>http://84.205.237.90/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="Attiki Athens, Greece. Yacht dock (HD)">
+<url>http://tinos.dyndns.tv:60041/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Attiki Athens, Greece. The sea bathing">
+<url>http://zorbas2.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Attiki Athens, Greece. The sea GuanGuangTai (hd)">
+<url>http://absolutehtl.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Korinthia Corinth, Greece.  The sea scenery (hd)">
+<url>http://kalogria.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Messinia, Greece.  Seaside scenery (HD)">
+<url>http://maniapartments.dyndns.org:8080/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Attiki, Greece.   Yacht dock（HD）">
+<url>http://79.129.0.247:8021/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Attiki Athens, Greece. Seaside scenery (HD)">
+<url>http://skopel07.static.otenet.gr:9000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+
+<video name="Arad Arad, Romania.  The government building">
+<url>http://webcam1.primariaarad.ro:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Bucuresti Bucharest, Romania.  Square stone table(HD)">
+<url>http://86.35.24.45:8208/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Buzau, Romania. Shopping building(HD)">
+<url>http://86.127.117.153:50000/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Dolj Craiova, Romania.  Fountain plaza(HD)">
+<url>http://82.77.65.43:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Bucharest, Romania.  Building scenery 2">
+<url>http://86.123.165.154/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Bucharest, Romania.   Park cross(HD)">
+<url>http://86.35.24.45:8207/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Bucharest, Romania.   Traffic intersection(HD)">
+<url>http://141.85.0.88:8083/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Arges Mioveni, Romania.  city scape(HD)">
+<url>http://86.122.68.20:5678/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Arges Mioveni Romania. square(HD)">
+<url>http://86.122.68.20:6789/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="Mures Sovata, Romania.  Lake park(HD)">
+<url>http://89.36.175.102/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+		</city>
+	</province>
+</provinces> 

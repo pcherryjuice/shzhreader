@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Global select camera" order="a" >
+		<city name="Global select camera 1" type="1" order="B" >
+			<video name="# Global select camera 1(单击加载)">
+				<url>city/world/nworld10/tuijian1.xml</url>
+			</video>
+		</city>
+		
+		<city name="Global select camera 2" type="1" order="C" >
+			<video name="# Global select camera 2(单击加载)">
+				<url>city/world/nworld10/tuijian2.xml</url>
+			</video>
+		</city>
+		
+		<city name="Global select camera 3" type="1" order="D" >
+			<video name="# Global select camera 3(单击加载)">
+				<url>city/world/nworld10/tuijian3.xml</url>
+			</video>
+		</city>
+		
+		<city name="Global select camera 4" type="1" order="E" >
+			<video name="# Global select camera 4(单击加载)">
+				<url>city/world/nworld10/tuijian4.xml</url>
+			</video>
+		</city>
+		
+		<city name="Global select camera 5" type="1" order="F" >
+			<video name="# Global select camera 5(单击加载)">
+				<url>city/world/nworld10/tuijian5.xml</url>
+			</video>
+		</city>
+		
+ </province>
+</provinces> 
