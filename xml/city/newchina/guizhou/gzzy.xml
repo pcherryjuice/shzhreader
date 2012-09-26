@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="遵义" type="1" order="B" >	
+			<video name="珠海路口">
+			<url>rtsp://218.201.202.233/broadcast/zy_zhlk.rm</url>
+			</video>
+			<video name="澳门路口">
+			<url>rtsp://218.201.202.233/broadcast/zy_aml.rm</url>
+			</video>
+      <video name="中华北路段">
+			<url>rtsp://218.201.202.233/broadcast/zy_zhbl.rm</url>
+			</video>
+			<video name="沙坝路">
+			<url>rtsp://218.201.202.233/broadcast/zy_sbl.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园国际二班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry04.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园波波班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry05.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园嘟嘟一班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry06.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园嘟嘟二班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry07.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园幼幼班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry08.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园可可班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry09.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园贝贝班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry10.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园亲亲班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry11.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园学前班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry13.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园国际一班">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry14.rm</url>
+			</video>
+			<video name="维也纳春天幼儿园儿童之家二班蒙2">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry15.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
