@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Controllable camera" order="H" >
+<city name="Controllable camera 3" type="1888" order="C" >	
+
+<video name="Germany-Niedersachsen-Osnabruck. Large rotary">
+<url>http://85.8.92.254:333/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Germany-baden-Wurttemberg-Friedrichshafen. farmland">
+<url>http://slashcam.doubleslash.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="Germany-Niedersachsen-Clausthal. Factory in.">
+<url>http://139.174.156.201/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-Berlin.  laboratory">
+<url>http://141.20.31.128/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video-->
+<video name="Germany-Mecklenburg-Vorpommern-Wusterhusen. Seaside scenery.">
+<url>http://thiessow-lotsen.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="Germany-North Rhine-Westfalen state-Essen. Old building">
+<url>http://217.78.137.43/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-North Rhine -Westfalen state-Unna. laboratory">
+<url>http://dmz.bab-tec.de:83/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video-->
+<video name="Germany-bayer-Regensburg. Cityscape">
+<url>http://eye3.medicdat.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-Mecklenburg-Vorpommern Ziemitz. Traffic camera.">
+<url>http://seepark.homeip.net:4000/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="USA-Florida-Daytona Beach. At the door of the building.">
+<url>http://72.236.125.34:211/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Niceville. Wharf">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Miami.  City scenery.">
+<url>http://webcam5.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Venice. Parking lot.">
+<url>http://meridianllc.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Clearwater. Traffic intersection.">
+<url>http://75.76.82.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Bonita Springs. Bar.">
+<url>http://buffalochips3.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Oviedo. Utility room">
+<url>http://atsphones.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Orlando. Training">
+<url>http://cam5098567.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Marathon. wharf">
+<url>http://grassykey.viewnetcam.com:1028/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Bonita Springs. Bar.">
+<url>http://buffalochips1.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Colorado. Colorado university">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado Florissant. Pine trees outside the window.">
+<url>http://divide-webcam.viewnetcam.com:120/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Colorado Ophir. Town street.">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Colorado Ophir. Town street(HD)">
+<url>http://telluridemountainproperties-west.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="USA-Colorado. Indoor flowers.">
+<url>http://skywaycreations.viewnetcam.com:800/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="USA-North-Carolina  Raleigh. Before building parking lot.">
+<url>http://152.14.48.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="USA-North-Carolina  Matthews.  Solar power equipment.">
+<url>http://roofcam.decisionsupport.com/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="USA-North-Carolina  Knightdale.  Building construction site.">
+<url>http://152.14.22.253/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-North-Carolina  Wilmington.  Stadium pitch">
+<url>http://captnbills.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maine-Brunswick. Bao much for college-campus">
+<url>http://webcam5.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="USA-Maine-Glen Cove.  Bookstore">
+<url>http://wholebooks.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="USA-Maine-Portland. City style.">
+<url>http://24.97.41.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Hebron. Seres red school campus.">
+<url>http://webcam.salisbury.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Lexington Park.  Yacht dock(HD)">
+<url>http://bobs-farm.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maryland-Solomons. The university of Maryland Collision lab.">
+<url>http://131.118.225.80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Waldorf. Small trees.">
+<url>http://delcar.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maryland-Queenstown. Seaside villa(HD)">
+<url>http://lundbergbuilders.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maryland-Columbia. office.">
+<url>http://petspalaurel99.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maryland-Lexington Park.  Lawn hut.">
+<url>http://bobs-farm2.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-North Dartmouth. Parking lot.(HD)">
+<url>http://arsbccam2.viewnetcam.com:8324/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="USA-Massachusetts-Woods Hole. Woods hole Marine research institute-Laboratory.">
+<url>http://el2cam.whoi.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="USA-Massachusetts-East Dennis. The horse column.">
+<url>http://nickienetcam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-Hingham. Pet house.">
+<url>http://70.88.199.133/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-Sheffield. Laboratory.">
+<url>http://128.128.17.158/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-Hingham. Unknown camera.">
+<url>http://70.88.199.133:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-Hingham. Home camera.">
+<url>http://70.88.199.133:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Portland. Road">
+<url>http://salemnaz.net:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Riddle. School showroom.">
+<url>http://cam7077625.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Eugene. Ryan college">
+<url>http://cam-rg.dev.lane.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma-Tulsa. The door of the little room.">
+<url>http://railroadcam2.viewnetcam.com:50003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="USA-Oklahoma-Owasso. Wild grass.">
+<url>http://brackencam.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="USA-Columbia. Unknown">
+<url>http://asla.viewnetcam.com:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Hawaii-Kamuela. Coconut palm scenic spot.">
+<url>http://64.75.213.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Hawaii-Kihei. The scenery outside the window to the.">
+<url>http://mauicam.dyndns.org:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Hawaii-Honolulu. Beach">
+<url>http://skywave-lr-rkr.skywavebroadband.net:8888/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Hawaii-Honolulu. Hotel interior and.">
+<url>http://mauigarageside.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Connecticut. University of Connecticut-campus">
+<url>http://avptcam.uconn.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Connecticut-Meriden. Unkown camera.">
+<url>http://69.177.83.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Connecticut-Glastonbury. Town street.">
+<url>http://24.249.24.110:2001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Delaware-Georgetown. Unkown camera.">
+<url>http://ppcam.gotdns.com:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Idaho-Blackfoot. Climate monitoring camera.">
+<url>http://idaho.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="France-aquitaine Vallier 2">
+<url>http://192.134.16.112/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="USA-Minnesota Saint Paul.  Small airport.">
+<url>http://134.29.208.43/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Minnesota Cambridge. Small airport 2.">
+<url>http://208.38.71.22:88/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Minnesota Rosemount. Outdoor">
+<url>http://blizzard.buckhill.com:22222/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Holland. Mountain leisure area.">
+<url>http://redmooselodgebaldwin.axiscam.net:5700/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Michigan Linwood. Unkown camera.">
+<url>http://mypoodlecam.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Otsego. Mountain stream.">
+<url>http://hvmmarinacam.viewnetcam.com:60030/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Petoskey. Pitot merezhkovsky courtyard.">
+<url>http://bayview.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Hope. Dog kennel.">
+<url>http://mypoodlecam.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Ann Arbor. The university of Michigan laboratory.">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="USA-Michigan Ann Arbor The university of Michigan laboratory 4.">
+<url>http://ercwebcam.engin.umich.edu/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="USA-Mississippi Brandon. The dog house.">
+<url>http://75.145.222.133:7505/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Mississippi Saint Louis.  Unkown camera.">
+<url>http://opsvideo.lambert-stl.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="USA-Mississippi Saint Louis. Missouri square.">
+<url>http://209.50.106.51:8181/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="Switzerland-bern-Bolligen. Server room.">
+<url>http://cam3.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Bolligen. Before desk.">
+<url>http://62.2.213.149/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Bolligen. Garden outside the window.">
+<url>http://cam5.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Munsingen. Hotel at the foot of the mountain.">
+<url>http://clausenrc5.viewnetcam.com:50001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Bolligen. Server room.">
+<url>http://cam4.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Bolligen. Server room 2.">
+<url>http://domecam.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Bolligen. Utility room.">
+<url>http://cam6.uridium.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-bern-Biel. Customer data center.">
+<url>http://webcam.sec101.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Switzerland-Zurich Ruti. Unkown camera.">
+<url>http://emer.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-Zurich Rumlang. Small wharf.">
+<url>http://alp.comtronic.ch/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-Basel-Lide the Alps-artfurrer Hotel.">
+<url>http://hotel-riederfurka.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Switzerland-lucerne Luzern. Bird nest.">
+<url>http://webcam.wauwilermoos.lu.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Switzerland-lucerne Luzern. The electronic commerce laboratory.">
+<url>http://s0014.dmz008.enterpriselab.ch/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Switzerland-zug-Steinhausen. Sheep farm.">
+<url>http://80.254.191.189:1024/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Switzerland-Walter-Lausanne. Sightseeing(HD)">
+<url>http://213.3.47.128:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Montana-Missoula. Outdoor corridor ">
+<url>http://216.14.254.20:90/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Montana-Missoula. Outdoor.">
+<url>http://207.196.162.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Montana-Helena. Sky.">
+<url>http://mountaincam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Montana-Helena.  A bird's eye view of Helena">
+<url>http://161.7.29.11/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Montana-Helena. Unkown camera.">
+<url>http://mtncam.coolcybercats.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Montana-Missoula USA. Management technology university campus.">
+<url>http://webcam.flbs.umt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New Hampshire-Keene.  Hampshire lake.">
+<url>http://canadalakestore.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="USA-New Jersey-Paterson.  Unkown camera.">
+<url>http://njhirailersnj.viewnetcam.com:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New Jersey-Paterson.  Load camera.">
+<url>http://njhirailersnj.viewnetcam.com:60004/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="Canada-Ontario-Lansdowne. The sea wharf.">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Canada-Ontario-Lansdowne The sea wharf(HD)">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Canada-British-Columbia-vancouver.  laboratory(HD)">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?quad=1::1;resolution=704x576::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver. laboratory.">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver  laboratory(HD).">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver. laboratory 2.">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver.  laboratory 2 (HD)">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver. laboratory 3.">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver  laboratory 3(HD)">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver laboratory 4">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British-Columbia-vancouver  laboratory4(HD)">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-oakville Intersection pine.">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-oakville Intersection pine(HD).">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Flesherton.  Mountain scenery.">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Canada-Ontario-Flesherton.  Mountain scenery.">
+<url>http://webcam.bvsc.com:8282/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Canada-Ontario-Lansdowne-huck marine. Riverside wharf.">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Canada-Ontario-Lansdowne-huck marine. Riverside wharf (HD)">
+<url>http://216.168.105.248:12121/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<!--video name="Canada-Ontario-Oker will.  Yacht dock.">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Oker will.  Yacht dock(HD)">
+<url>http://70.54.178.135:60007/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-oakville. Yacht dock.">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-oakville. Yacht dock 2(HD)">
+<url>http://70.54.178.135:60001/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video-->
+<!--video name="USA-Tennessee Franklin 6">
+<url>http://webcam1.kssmotorsports.com/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="USA-Texas-Arlington. University of Texas at Arlington campus.">
+<url>http://mallcam.uta.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Texas-Houston. The studio.">
+<url>http://webcam.atomicmods.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas-Coldspring. The fence.">
+<url>http://thegetaway.no-ip.com:6024/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Virginia-Blacksburg. City scenery.">
+<url>http://198.82.159.136/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="USA-Virginia-Bristol. out of the window.">
+<url>http://rwd.viewnetcam.com:1020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="USA-Utah Oakley. Tourism cableway starting point(HD).">
+<url>http://strikelodge.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Utah Salt Lake City. Rural scenery.">
+<url>http://208.187.252.16/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Italy-Emilia-Romagna Santarcangelo. Seaside scenery.">
+<url>http://hotelariella.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Italy-Emilia-Romagna Senigallia. High-rise monitoring.">
+<url>http://80.19.143.197/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Italy-Lombardy-Darfo. Chicken farm.">
+<url>http://tancredi.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="Italy-Tuscan-Coreglia Antelminelli. The parking lot(HD)">
+<url>http://79.4.151.9:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Italy-Veneto Bussolengo. The peaks.">
+<url>http://87.22.15.62/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="British-cambridgeshire.  The Highway.">
+<url>http://80.4.121.84/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="British-Lancashire-Rawtenstall. ROM. Teng stoll beach.">
+<url>http://fuscos.dyndns.tv:1234/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Lincoln county-Stamford. Stamford harbour.">
+<url>http://195.54.250.138:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="British-London. Suburban house.">
+<url>http://84.92.224.138:81/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="British-London. Field scenery.">
+<url>http://82.71.22.62:8070/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-London. Lakeside town.">
+<url>http://ferrymans.plus.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-London. The scenery outside the window.">
+<url>http://hudgell.viewnetcam.com:443/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Eder Winston.  resort.">
+<url>http://kingy.viewnetcam.com/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Taunton. square ">
+<url>http://studio25.viewnetcam.com:7641/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Zehnder blue.  Office">
+<url>http://cyclops.sunderland.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="British-M's task.  The goldfish.">
+<url>http://93.97.191.209:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Angstrom graham . The Road.">
+<url>http://mbewebcam.rhul.ac.uk/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="British-Maidenhead Windsor and Maidenhead. The Town scenery.">
+<url>http://catbells.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="British-Red butyl.  Unkown camera.">
+<url>http://84.92.66.114:55276/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="USA-Wisconsin-East Troy.  Unkown camera 3.">
+<url>http://207.118.195.3/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="USA-Wisconsin-Elcho. The sea beach.">
+<url>http://llaa.selfip.com:1207/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-West Virginia-Morgantown.  The parking lot.">
+<url>http://cemrcam1.cemr.wvu.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<!--video name="USA-Wyoming-Casper. The City scenery.">
+<url>http://205.167.90.185/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Wyoming-Afton. The sea beach.">
+<url>http://sflcam1.axiscam.net:47211/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="USA-Illinois-Aurora. Aurora university.">
+<url>http://lgc.aurora.edu:100/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Illinois-Lockport. Indoorc camera.">
+<url>http://146.139.72.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Illinois-Schaumburg. The airport.">
+<url>http://lefc-kpwk.dyndns.org:5020/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Illinois-La Salle.  The room.">
+<url>http://68.252.180.14/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Illinois-Lockport. The Laboratory.">
+<url>http://146.139.72.79/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Illinois-Chicago. The university of Chicago.">
+<url>http://labcam1.uchicago.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Illinois-Ingleside. Small airport.">
+<url>http://lefc-kpwk.dyndns.org:5021/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

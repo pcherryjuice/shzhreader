@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Controllable camera" order="H" >
+<city name="Controllable camera 2" type="1888" order="B" >	
+
+<video name="Japan-Hokkaido-Sapporo. The sea wharf">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido-Sapporo. River to the sea">
+<url>http://k-noble.miemasu.net:50006/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido-Sapporo. River to the sea.(HD)">
+<url>http://k-noble.miemasu.net:50006/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido-Sapporo. The sea wharf">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido-Sapporo. The sea wharf(HD)">
+<url>http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Toyooka. Hillside hut.">
+<url>http://kitakabe.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Toyooka. Hillside hut.(HD)">
+<url>http://kitakabe.miemasu.net/nphMotionJpeg?resolution=640x480::1;::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Kobe. Temple">
+<url>http://sogenji.dip.jp:8060/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Kobe. Temple(HD)">
+<url>http://sogenji.dip.jp:8060/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Kibi. Mountain scenery.">
+<url>http://cam6850879.miemasu.net:60004/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Kibi. Mountain scenery.">
+<url>http://cam6850879.miemasu.net:60004/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Kibi. Mountain scenery(HD)">
+<url>http://cam6850879.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Itami. Unkown">
+<url>http://livingcamera.aa0.netvolante.jp:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hyogo-Itami. Unkown(HD)">
+<url>http://livingcamera.aa0.netvolante.jp:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Narita. Crossroads">
+<url>http://hdt.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Narita. Crossroads(HD)">
+<url>http://hdt.miemasu.net/nphMotionJpeg?resolution=640x320::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Traffic Camera.">
+<url>http://220.157.178.58:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Traffic Camera.(HD)">
+<url>http://220.157.178.58:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Ichihara. Highway">
+<url>http://219.119.71.18/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Ichihara. Highway(HD)">
+<url>http://219.119.71.18/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Baby medicine">
+<url>http://pu-cam.mydns.jp:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Baby medicine(HD)">
+<url>http://pu-cam.mydns.jp:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Carp pool">
+<url>http://kameno.bne.jp:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Chiba-Asahi. Carp pool(HD)">
+<url>http://kameno.bne.jp:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="Japan-fukuoka-Kurume. Supermarket within.">
+<url>http://cam114434.miemasu.net:83/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Kurume. Supermarket within.(HD)">
+<url>http://cam114434.miemasu.net:83/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka. Small river.">
+<url>http://realwave.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka. Small river.(HD)">
+<url>http://realwave.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka.  The door camera">
+<url>http://fknbtikushi.aa0.netvolante.jp:50052/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka.  The door camera(HD)">
+<url>http://fknbtikushi.aa0.netvolante.jp:50052/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka.  Traffic camera">
+<url>http://fknbtikushi.aa0.netvolante.jp:50053/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-fukuoka-Fukuoka.  Traffic camera(HD)">
+<url>http://fknbtikushi.aa0.netvolante.jp:50053/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. River parking lot">
+<url>http://ioctync1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. River parking lot(HD)">
+<url>http://ioctync1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park">
+<url>http://218.216.63.248/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park(HD)">
+<url>http://218.216.63.248/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park small plants.">
+<url>http://iofrtnc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park small plants(HD)">
+<url>http://iofrtnc1.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park camel">
+<url>http://iozoonc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park camel(HD)">
+<url>http://iozoonc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park swoop">
+<url>http://218.216.63.252/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park swoop(HD)">
+<url>http://218.216.63.252/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park garden">
+<url>http://iofrtnc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park garden(HD)">
+<url>http://iofrtnc2.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. pinto">
+<url>http://iozoonc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. pinto(HD)">
+<url>http://iozoonc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park Turkey.">
+<url>http://iozoonc4.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park Turkey(HD)">
+<url>http://iozoonc4.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park hippo(HD)">
+<url>http://iozoonc7.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park hippo(HD)">
+<url>http://iozoonc7.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park fire bird.">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park fire bird(HD)">
+<url>http://iozoonc9.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park goldfish.">
+<url>http://210.172.201.69/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park goldfish.(HD)">
+<url>http://210.172.201.69/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park lane.">
+<url>http://iofrtnc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park lane(HD)">
+<url>http://iofrtnc3.city.miyazaki.miyazaki.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park horse.">
+<url>http://218.216.63.246/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Miyazaki. Park horse.(HD)">
+<url>http://218.216.63.246/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="Japan-Fukushima-Iwaki. Accident cleaning field">
+<url>http://cam53059.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Fukushima-Iwaki. Accident cleaning field(HD)">
+<url>http://cam53059.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Fukushima-Yamato. Roadside parking lot.">
+<url>http://wajima001.bf1.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Fukushima-Yamato. Roadside parking lot.(HD)">
+<url>http://wajima001.bf1.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-gifu-Gero. Seaside.">
+<url>http://tenchikaku.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-gifu-Gero. Seaside.(HD)">
+<url>http://tenchikaku.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Gunma -Isesaki. Seaside.">
+<url>http://hodaigi.miemasu.net:50000/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Gunma -Isesaki. Seaside.(HD)">
+<url>http://hodaigi.miemasu.net:50000/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hiroshima-Hiroshima. Supermarket in.">
+<url>http://cam114434.miemasu.net:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hiroshima-Hiroshima. Supermarket in(HD)">
+<url>http://cam114434.miemasu.net:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hiroshima-Hiroshima. The door camera.">
+<url>http://cam5881767.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hiroshima-Hiroshima. The door camera.(HD)">
+<url>http://cam5881767.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hiroshima-Hiroshima. Hotel out of the window.">
+<url>http://miyajimalivecam.miemasu.net:50003/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ibaraki-Oarai. Ancient temples.">
+<url>http://kanmuri.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ibaraki-Oarai. Ancient temples.(HD)">
+<url>http://kanmuri.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ishikawa-Kanazawa. Parking lot.">
+<url>http://ciao171069.miemasu.net/mobile/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ishikawa-Kanazawa. Parking lot.(HD)">
+<url>http://ciao171069.miemasu.net/mobile/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ishikawa-Kanazawa. Parking lot.">
+<url>http://ciao171069.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-ishikawa-Kanazawa. Parking lot.(HD)">
+<url>http://ciao171069.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Rock hand-Hanamaki. Roadside hut.">
+<url>http://to-tsu-nasu.ipcam.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Rock hand-Hanamaki. Roadside hut.(HD)">
+<url>http://to-tsu-nasu.ipcam.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Rock hand-Morioka. ShouFei station.">
+<url>http://cam54159.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Rock hand-Morioka. ShouFei station.(HD)">
+<url>http://cam54159.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Russia-Moscow.  Outdoor landscape.">
+<url>http://camera.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Russia-Moscow.  Outdoor landscape.(HD)">
+<url>http://lazarevskoe.butovo.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Russia. Road.">
+<url>http://webcam.lanta-net.ru/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Russia Artem Primor'ye.  square.">
+<url>http://81.200.144.12/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Usa-California-Riverside. Unknown.">
+<url>http://12.176.153.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Usa-California-Sacramento. Store between content.">
+<url>http://12.185.156.78:8183/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Santa Monica. office">
+<url>http://173.196.142.254:172/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Fremont. The factory interior.">
+<url>http://12.184.110.78:8186/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Hanford. Grass land.">
+<url>http://soaravenal.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Palo Alto. Warehouse interior.">
+<url>http://westernstatesglass.com:8183/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Pasadena. The unknown indoor camera.">
+<url>http://store80.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Rancho Cucamonga. Laboratory warehouse.(HD)">
+<url>http://trinityshopcam.viewnetcam.com:50101/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-San Francisco. Tennis court(HD)">
+<url>http://seascape.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+
+<video name="Usa-California-Los Angeles. Indoor.">
+<url>http://blchburbank1.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Los Angeles. Indoor 2.">
+<url>http://blchburbank2.viewnetcam.com:51000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Norwalk. Laboratory.">
+<url>http://store48.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Oakland. Mountain scenery.">
+<url>http://206.128.127.131/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Pomona. University of California institute of technology, pasadena Campus.">
+<url>http://caiman.sci.csupomona.edu/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1338213187492::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Pomona.  University of California institute of technology, pasadena Campus 3.">
+<url>http://caiman.sci.csupomona.edu/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=352x240::1;1338213187492::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Santa Monica. Car repair shop.">
+<url>http://173.196.142.254:171/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Santa Monica. Table tennis room.">
+<url>http://waterfrontcafe-eyesitter.viewnetcam.com:50050/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Stanford. Seaside.">
+<url>http://palumbicam.stanford.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-San Bernardino. Unknown camera.">
+<url>http://cabincam-out.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Santa Monica. Unknown camera 2.">
+<url>http://173.196.142.254:173/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-California-Wofford Heights. Stone mountain road.">
+<url>http://bullrun2.viewnetcam.com:60003/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Southampton.  Unknown.">
+<url>http://hopes.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Watertown.  Wharf - A region ">
+<url>http://64.19.75.229/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338571633660::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Watertown  Wharf - C region.">
+<url>http://64.19.75.229/axis-cgi/mjpg/video.cgi?camera=3::1;resolution=352x240::1;1338571633660::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Cairo.  The road.">
+<url>http://24.148.121.105:7001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Buffalo.  State university of New York at buffalo college campus.">
+<url>http://136.183.196.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Usa-New York-Cairo.  Parking lot.">
+<url>http://leeds581.viewnetcam.com:7001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Southampton.  Garden.">
+<url>http://hopes.viewnetcam.com:5000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Burnt Hills. Small terminal.">
+<url>http://24.97.25.202:8883/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Burnt Hills. Parking lot.">
+<url>http://24.97.25.202:8884/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Hudson.  The sea wharf ">
+<url>http://catskill2.viewnetcam.com:5001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York- Buffalo.  New York state university college of buffalo.">
+<url>http://136.183.194.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Usa-New York-Burnt Hills. out of the window.">
+<url>http://24.97.25.202:8882/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York. Downtown.">
+<url>http://wnewyorkresidenceswebcam.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Usa-New York-Southampton. Climate monitoring camera.">
+<url>http://hopes.viewnetcam.com:5002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Germany-Hamburg. Forest road.">
+<url>http://glcam.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-Bremen. The sea bathing.">
+<url>http://82.198.200.23/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-Chemnitz. Unkown">
+<url>http://jota.rapid-e.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-Niedersachsen-Emden Unkown">
+<url>http://hafen.mine.nu:8001/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+
+</city>
+</province>
+</provinces>
