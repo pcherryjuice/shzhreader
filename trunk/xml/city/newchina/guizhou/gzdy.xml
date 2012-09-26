@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="都匀" type="1" order="D" >	
+			<video name="龙山大道 ">
+			<url>rtsp://218.201.202.233/broadcast/dy_lsdd.rm</url>
+			</video>
+			<video name="新华路">
+			<url>rtsp://218.201.202.233/broadcast/dy_xhl.rm</url>
+			</video>
+      <video name="小十字路口">
+			<url>rtsp://218.201.202.233/broadcast/dy_xszlk.rm</url>
+			</video>
+			<video name="民族路">
+			<url>rtsp://218.201.202.233/broadcast/dy_mzl.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

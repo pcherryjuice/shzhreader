@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="贵州" order="T0" >
+		<city name="六盘水" type="1" order="H" >	
+			<video name="龙井路">
+			<url>rtsp://218.201.202.233/broadcast/lps_ljl.rm</url>
+			</video>
+			<video name="钟山中路西段">
+			<url>rtsp://218.201.202.233/broadcast/lps_zszlxd.rm</url>
+			</video>
+      <video name="钟山大道中段">
+			<url>rtsp://218.201.202.233/broadcast/lps_zsddzd.rm</url>
+			</video>
+			<video name="人民西路">
+			<url>rtsp://218.201.202.233/broadcast/lps_rmxl.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 
