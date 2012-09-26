@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Controllable camera" order="H" >
+<city name="Controllable camera" type="1888" order="A" >	
+
+
+<video name="Macau ,china. Street">
+<url>http://iacm-wcam1.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="Macau ,china. Street 2">
+<url>http://iacm-wcam4.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="Macau ,china. Street square">
+<url>http://iacm-wcam5.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+<video name="Macau ,china. building">
+<url>http://iacm-wcam7.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard</url>
+</video>
+
+
+<video name="German. building">
+<url>http://kamera1.grosswallstadt.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="德国-巴登-符腾堡州 Ludwigsburg 窗外6">
+<url>http://eckardtscholz.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="Munich,bayer,Germany.     The city landscape (rotating camera) ">
+<url>http://gud.stadtwerke-neustrelitz.de:81/mjpg/video.mjpg?resolution=320x240::1;Quality=Motion</url>
+</video>
+<video name="Starnberg,bayer,Germany.  The city landscape 2">
+<url>http://82.135.124.181/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<!--video name="德国-北莱茵-威斯特法伦州  野生动物">
+<url>http://217.91.102.155/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video-->
+<video name="westfalen state,north Rhine,Germany  Welver. lab">
+<url>http://dno750.dyndns.org/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Saxony,Germany-Beierfeld. City Scenery">
+<url>http://cam.spiegelwald.de/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany-schleswig-Dutch frank-walter steinmeier's  Altenholz. playground">
+<url>http://nierott-castle.dyndns.org:9080/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany - schleswig - Dutch frank-walter steinmeier's  Altenholz. backyard">
+<url>http://nierott-castle.dyndns.org:9020/mjpg/video.mjpg?resolution=352x288::1;Quality=Motion</url>
+</video>
+<video name="Germany. Parking lot">
+<url>http://vitalien.viewnetcam.com:24837/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Pennsylvania  Aston. Parking lot">
+<url>http://bacorp1.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-South Carolina-Myrtle Beach.  The seaside">
+<url>http://208.65.20.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Dakota - Sturgis.  The Street">
+<url>http://209.159.224.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee-Madison. The lab outside.">
+<url>http://cam.balloonfacility.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Austria. The Lake">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Austria. The Lake(HD)">
+<url>http://zellcam.xlink.at/mjpg/video.mjpg</url>
+</video>
+<video name="Austria-tirol-Kufstein. hotel">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="Austria-tirol-Kufstein hotel(HD)">
+<url>http://webcam.interwave.at/axis-cgi/mjpg/video.cgi?camera=1::1;1337168189926::1;resolution=704x480::1;data=v.mjpg</url>
+</video>
+<video name="Austria-Carl teng-Klagenfurt. Hotel scenery">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Austria-Carl teng-Klagenfurt. Hotel scenery(HD)">
+<url>http://cam.hintertuxerhof.at/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Austria-Urschendorf.  Small hill">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Austria-Urschendorf.  Small hill(HD)">
+<url>http://80.75.240.35/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Austria-Urschendorf.  Sightseeing cable car">
+<url>http://80.75.241.227/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Austria-Pfarrkirchen. Mountain scenery">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Austria-Pfarrkirchen Mountain scenery(HD)">
+<url>http://82.192.31.206/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Austria-Steyr. Urban live-action">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Austria-Steyr. Urban live-action(HD)">
+<url>http://212.52.200.112/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Austria-Neuhofen. River">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Austria-Neuhofen. River(HD)">
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Austria-tirol-Hall In Tiro. street">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Austria-tirol-Hall In Tiro. street(HD)">
+<url>http://80.92.118.20:82/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Austria-vorarlberg-Dornbirn gemma. Hotel">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Austria-vorarlberg-Dornbirn gemma. Hotel(HD)">
+<url>http://hotel-gemma.axiscam.net:8080/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Japan-Tokyo.   Wharf">
+<url>http://matsushimaharbor.aa0.netvolante.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo-Hachioji.  Pet care shop">
+<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo-Hachioji.  Pet care shop(HD)">
+<url>http://tabby2.miemasu.net:50000/nphMotionJpeg?Resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Crossroads">
+<url>http://shibuya01.ipcam.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo Chofu.  Hotel Front desk">
+<url>http://schoolben-tsuruse.miemasu.net:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Summer square">
+<url>http://01002demo.hsd.shell.link-life.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  The road Outside the window ">
+<url>http://gyozakan-event2.dyndns.info/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.   Indoor monitoring">
+<url>http://pet.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Unkown">
+<url>http://60.45.63.26:8086/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Unkown 2">
+<url>http://sasayama.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. Country road">
+<url>http://scam.ps-j.com:5888/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. Country road(HD)">
+<url>http://scam.ps-j.com:5888/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Sagamihara. Goldfish bowl">
+<url>http://fullmoon-newmoon.ddo.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Sagamihara. Goldfish bowl(HD)">
+<url>http://fullmoon-newmoon.ddo.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. office">
+<url>http://daichi-yokohama.homeip.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. office(HD)">
+<url>http://daichi-yokohama.homeip.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka. Coastal road">
+<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka. Coastal road(HD)">
+<url>http://shallow-cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. Teddy bear">
+<url>http://cam262280.miemasu.net:60005/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama. Teddy bear(HD)">
+<url>http://cam262280.miemasu.net:60005/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Fujisawa. Hotel interior">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Fujisawa. Hotel interior(HD)">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo-Sumida.  Tokyo tower scene">
+<url>http://tree.dip.jp/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Traffic intersection">
+<url>http://121.2.68.167:60153/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Cloth toys">
+<url>http://cam262280.miemasu.net:60009/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  parking lot">
+<url>http://cam80761.miemasu.net:60015/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Forest path">
+<url>http://bunanomi.sun.ddns.vc:82/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Toy sale shop">
+<url>http://cam262280.miemasu.net:60008/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  home door">
+<url>http://220.32.116.74/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Unkown 3">
+<url>http://222.147.66.164:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Cloth dolls toy shop">
+<url>http://cam262280.miemasu.net:60007/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Waste treatment plant">
+<url>http://cam302300.miemasu.net:60001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Traffic road ">
+<url>http://networkcamera.ddo.jp:60151/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Building">
+<url>http://pcc.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Sound experience chamber">
+<url>http://webcam.kenricksound.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Sky">
+<url>http://220.110.180.230/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Paddy field">
+<url>http://suke-farm.ddo.jp:10002/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Mountain scenery ">
+<url>http://virahp-camera2.osarika.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Traffic camera">
+<url>http://www.networkcamera.mydns.jp:60155/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  unkown 4">
+<url>http://networkcamera.ddo.jp:60153/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  Building 2">
+<url>http://mtc1.miemasu.net/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Tokyo.  The sea scenery">
+<url>http://www.kantan.dyndns.org:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Waste water treatment factory">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Waste water treatment factory(HD)">
+<url>http://cam52914.miemasu.net:60002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka.  Construction plant">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka.  Construction plant(HD)">
+<url>http://219.117.193.41:82/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka.  office">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka.  office(HD)">
+<url>http://219.117.194.134/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Stadium">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Stadium(HD)">
+<url>http://sagamiharagreen.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Fujisawa.  Load">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Fujisawa.  Load(HD)">
+<url>http://orion04cam.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Parking lot">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokosuka.  Parking lot(LD)">
+<url>http://219.117.193.41:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Waste treatment plant 2">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-kanagawa-Yokohama.  Waste treatment plant 2(HD)">
+<url>http://cam52914.miemasu.net:60001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi-okazaki.  Office">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi-okazaki.  Office(HD)">
+<url>http://cam107265.miemasu.net:8001/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi-Tokoname.  Fashion mall">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi-Tokoname.  Fashion mall(HD)">
+<url>http://makeit-dhstore-hamamatsu.miemasu.net:84/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi-Nagoya.  Parking lot">
+<url>http://frontier.aa5.netvolante.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi.   F2 South door factory">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi.   F2 South door factory(HD)">
+<url>http://221.189.255.11:81/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi Nishio.   The sea surge">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi Nishio.   The sea surge(HD)">
+<url>http://oujukai.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi.  Toyota">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-aichi.  Toyota(HD)">
+<url>http://202.79.153.138:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Sapporo. The sea islands">
+<url>http://shiretoko.miemasu.net/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Bibai. The beach road ">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Bibai. The beach road(HD)">
+<url>http://kpcwebkamerasekinai359.plala.jp/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Sapporo. The sea wharf">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Sapporo. The sea wharf(HD)">
+<url>http://shimamaki-camera.aa0.netvolante.jp:8002/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Chuo. Parking lot">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Chuo. Parking lot(HD)">
+<url>http://mydns34659.mydns.jp:8080/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Sapporo. Canopy farm">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Japan-Hokkaido Sapporo. Canopy farm(HD)">
+<url>http://suke-farm.ddo.jp:10003/nphMotionJpeg?resolution=640x480::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+</city>
+</province>
+</provinces>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="Controllable camera" order="H" >
+<city name="Controllable camera 4" type="1888" order="D" >	
+
+
+<video name="Spain-Andalusian-Granada. Roof.">
+<url>http://jmirallas.viewnetcam.com:8080/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Spain-Andalusian.  Wall.">
+<url>http://bisobodega.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Spain-Catalan-Central. Goldfish hall.">
+<url>http://83.175.209.26:94/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain-valencia Alicante Comunidad. Stadium.">
+<url>http://websitecam91110.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Spain-Madrid. Construction site.">
+<url>http://88.26.206.145:7779/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Spain-Catalan Barcelona. Unkown camera.">
+<url>http://213.96.29.238:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="Spain-valencia Alicante Comunidad 城市风景">
+<url>http://gocanaria.ath.cx:8000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="Spain-Basque Islas. Observatory telescope.">
+<url>http://161.72.20.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland-Bialystok.  The Gas station .">
+<url>http://77.79.211.12:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland-Bialystok. The City scenery.">
+<url>http://82.139.167.140:3131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland-Warsaw. The City scenery.">
+<url>http://parafiakrolewo.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Poland. Square rotating camera.">
+<url>http://brodnica.eltronik.net.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland Zachodniopomorskie Trzeszczyn. The wharf.">
+<url>http://83.168.85.69/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Poland Slaskie Katowice. outskirts.">
+<url>http://placowka.dyndns.org:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-Drenthe Eelde. The sea rotating camera.">
+<url>http://cameradtp.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-Friesland Zwaagwesteinde. The wharf.">
+<url>http://62.131.113.213:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Netherlands-Friesland Bolsward. The airport">
+<url>http://82.151.42.188:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-Gelderland Wageningen. The door camera">
+<url>http://137.224.128.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-Gelderland Emst. The horse column 2">
+<url>http://86.88.160.143:8033/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="Netherlands-Gelderland Hattem 哈特姆码头">
+<url>http://92.67.241.217/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video-->
+<video name="Netherlands-North brabant  Drimmelen. Outdoor camera">
+<url>http://92.64.26.161:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-North brabant  Tilburg. City scenery.">
+<url>http://62.132.55.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<!--video name="Netherlands-北荷兰省 Hilversum 希尔弗瑟姆塔楼">
+<url>http://82.95.100.25/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-北荷兰省 Oudeschild 奥德斯希尔德码头">
+<url>http://82.151.35.229:443/mjpg/video.mjpg?resolution=352x288</url>
+</video-->
+<video name="Netherlands-Overijssel Heino. The Street">
+<url>http://kulturhus.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Netherlands-Utrecht Breukelen. The city rotating camera.">
+<url>http://87.215.200.234/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-South Holland Zoetermeer. The sea rotating camera.">
+<url>http://snmcamera.xs4all.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-South Holland Ridderkerk. Lakeside scenery.">
+<url>http://92.254.52.236/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Netherlands-South Holland Woerden. The bridge monitoring camera.">
+<url>http://83.160.69.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-South Holland Voorburg. The crossing camera.">
+<url>http://82.93.241.220:443/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Netherlands-Drenthe -Havelte. A bird's eye view of the castle.">
+<url>http://heetenkerk.viewnetcam.com:81/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="Norway-Hedmark-Hamar. Country scenery.">
+<url>http://82.147.33.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Norway-Telemark-Gautefall. Sightseeing camera.">
+<url>http://109.109.79.123/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Norway-Telemark-Gautefall. River scenery.">
+<url>http://109.109.79.124/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Hungary- Hungary Szeged Szeged. River camera.">
+<url>http://91.82.196.8:40080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="Slovakia Building parking lot(HD)">
+<url>http://81.92.254.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="South America-Virgin Islands-Island vision  (LD)">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=160x120::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="South America-Virgin Islands-Island vision  ">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="South America-Virgin Islands-Island vision  (HD)">
+<url>http://mahoganyrun.viewnetcam.com/nphMotionJpeg?Resolution=640x480::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+
+
+</city>
+</province>
+</provinces>
