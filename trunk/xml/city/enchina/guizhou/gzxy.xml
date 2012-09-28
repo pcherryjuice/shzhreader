@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="xingyi" type="200" order="I" >	
+			<video name="PanJiang Road">
+			<url>rtsp://218.201.202.233/broadcast/xy_pjl.rm</url>
+			</video>
+			<video name="ZunYi Road">
+			<url>rtsp://218.201.202.233/broadcast/xy_zyl.rm</url>
+			</video>
+      <video name="RuiJin Road">
+			<url>rtsp://218.201.202.233/broadcast/xy_rjdd.rm</url>
+			</video>
+			<video name="BeiJing Road overpass">
+			<url>rtsp://218.201.202.233/broadcast/xy_bjlljq.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 

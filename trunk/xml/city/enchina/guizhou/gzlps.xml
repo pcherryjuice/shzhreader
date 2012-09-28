@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="liupanshui" type="200" order="H" >	
+			<video name="longjin Road">
+			<url>rtsp://218.201.202.233/broadcast/lps_ljl.rm</url>
+			</video>
+			<video name="ZhongShan Midle Road  West">
+			<url>rtsp://218.201.202.233/broadcast/lps_zszlxd.rm</url>
+			</video>
+      <video name="Zhongshan Road midle">
+			<url>rtsp://218.201.202.233/broadcast/lps_zsddzd.rm</url>
+			</video>
+			<video name="Renmin Road west">
+			<url>rtsp://218.201.202.233/broadcast/lps_rmxl.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 

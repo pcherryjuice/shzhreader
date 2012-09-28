@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="anshun" type="200" order="C" >	
+			<video name="Ruofei Square intersection ">
+			<url>rtsp://218.201.202.233/broadcast/gz_as03.rm</url>
+			</video>
+			<video name="Coach west railway station entrances and exits">
+			<url>rtsp://218.201.202.233/broadcast/gz_as02.rm</url>
+			</video>
+      <video name="XiXiu Eara Jianjun intersection">
+			<url>rtsp://218.201.202.233/broadcast/gz_as01.rm</url>
+			</video>
+			<video name="Public security bureau  intersection">
+			<url>rtsp://218.201.202.233/broadcast/gz_as04.rm</url>
+			</video>
+		
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="zunyi" type="200" order="B" >	
+			<video name="ZhuHai intersection">
+			<url>rtsp://218.201.202.233/broadcast/zy_zhlk.rm</url>
+			</video>
+			<video name="Aomen intersection">
+			<url>rtsp://218.201.202.233/broadcast/zy_aml.rm</url>
+			</video>
+      <video name="ZhongHua Road North">
+			<url>rtsp://218.201.202.233/broadcast/zy_zhbl.rm</url>
+			</video>
+			<video name="ShaBa Road">
+			<url>rtsp://218.201.202.233/broadcast/zy_sbl.rm</url>
+			</video>
+			<video name="Vienna spring international kindergarten class two ">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry04.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten bobo class ">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry05.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten Dudu class one">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry06.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten class one">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry07.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten Youyou class">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry08.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten Keke Class">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry09.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten Beibei class">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry10.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten Qinqin Class">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry11.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten preschool">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry13.rm</url>
+			</video>
+			<video name="Vienna spring international kindergarten class">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry14.rm</url>
+			</video>
+			<video name="Vienna spring kindergarten children's home class two 2">
+			<url>rtsp://218.201.202.233/wcity/babyonline/blue/zy_yry15.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
