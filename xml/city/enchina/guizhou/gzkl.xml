@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="kaili" type="200" order="E" >	
+			<video name="BeiJing Road southwest">
+			<url>rtsp://218.201.202.233/broadcast/kl_bjlxx.rm</url>
+			</video>
+			<video name="NingBo Road">
+			<url>rtsp://218.201.202.233/broadcast/kl_nbl.rm</url>
+			</video>
+      <video name="YouZhuang Road">
+			<url>rtsp://218.201.202.233/broadcast/kl_yzl.rm</url>
+			</video>
+			<video name="BeiJIng Road East">
+			<url>rtsp://218.201.202.233/broadcast/kl_bjdl.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 

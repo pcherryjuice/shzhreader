@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="bijie" type="200" order="G" >	
+			<video name="GuiHua Road">
+			<url>rtsp://218.201.202.233/broadcast/bj_ghl.rm</url>
+			</video>
+			<video name="QingHua Road">
+			<url>rtsp://218.201.202.233/broadcast/bj_qbl.rm</url>
+			</video>
+      <video name="SongShan Road">
+			<url>rtsp://218.201.202.233/broadcast/bj_ssl.rm</url>
+			</video>
+			<video name="MaYuan Road">
+			<url>rtsp://218.201.202.233/broadcast/bj_myl.rm</url>
+			</video>
+		</city>
+	</province>
+	</provinces> 

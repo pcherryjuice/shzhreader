@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="guizhou" order="T0" >
+		<city name="guiyang" type="200" order="A" >	
+			<video name="ZaoShan Road">
+			<url>rtsp://218.201.202.233/broadcast/gy_zsl.rm</url>
+			</video>
+			<video name="ZhongHua Road North">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhbl.rm</url>
+			</video>
+      <video name="Zhonghua Road crossroads">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhzldsz.rm</url>
+			</video>
+			<video name="BeiJing Road">
+			<url>rtsp://218.201.202.233/broadcast/gy_bjl.rm</url>
+			</video>
+			<video name="YanWu Road">
+			<url>rtsp://218.201.202.233/broadcast/gy_ywj.rm</url>
+			</video>
+      <video name="DaXiMen RuiJIn Road Midle">
+			<url>rtsp://218.201.202.233/broadcast/gy_rjzldxm.rm</url>
+			</video>
+			<video name="fountain YanAn Road Midle">
+			<url>rtsp://218.201.202.233/broadcast/gy_yazlpsc.rm</url>
+			</video>
+			<video name="ZhongHua Road North fountain">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhblpsc.rm</url>
+			</video>
+			<video name="QingYUn Road Eara">
+			<url>rtsp://218.201.202.233/broadcast/gy_qyl.rm</url>
+			</video>
+			<video name="Zunyi Road RenMin Square">
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyilurmgc.rm</url>
+			</video>
+			<video name="ZhongHua Road Dusi Road intersection">
+			<url>rtsp://218.201.202.233/broadcast/gy_zhldslk.rm</url>
+			</video>
+			<video name="Zunyi Road Exhibition period ">
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyiluzlg.rm</url>
+			</video>
+			<video name="ShenQi Road  Monument rotary section">
+			<url>rtsp://218.201.202.233/broadcast/gy_jnt.rm</url>
+			</video>
+			<video name="ShenQi Road XinGuan Road eara">
+			<url>rtsp://218.201.202.233/broadcast/gy_xgl.rm</url>
+			</video>
+			<video name="Small crossroads  FuShui Road South">
+			<url>rtsp://218.201.202.233/broadcast/gy_fsnlxsz.rm</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
