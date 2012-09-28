@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="America selected " order="b" >
+		<city name="America selected 4" type="1888" order="D" >
+			
+<video name="USA-California-Los Angeles. The university of California, Los Angeles.">
+<url>http://camera1.clicc.ucla.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Fort Myers. Campus(HD)">
+<url>http://208.78.132.152/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Florida-Miami. The university of Miami.">
+<url>http://129.171.176.150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Hollywood. city scape.">
+<url>http://63.138.232.19/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Tampa. Conference room.">
+<url>http://131.247.8.66/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Florida-Niceville. wharf.">
+<url>http://98.173.21.132:3001/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Hollywood. Outside the hotel the sea beach.">
+<url>http://beachcam.sagamorehotel.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Florida-Miami. Downtown traffic intersection.">
+<url>http://webcam6.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-New Smyrna Beach. The sea beach.">
+<url>http://24.227.115.174:8000/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Tampa. Ocean Park underwater camera.">
+<url>http://24.227.51.155/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Niceville. The sea beach.">
+<url>http://72.215.137.17:8091/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Tampa. Broadcasting station indoor.">
+<url>http://198.92.97.174/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Gainesville. University of Florida.">
+<url>http://kennedy.nerdc.ufl.edu/cgi-bin/mjpg/video.cgi?resolution=352x288::1;1338801027547::1;data=v.mjpg</url>
+</video>
+<video name="USA-Florida-Lady Lake. Park.">
+<url>http://camera1.thevillages.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Florida-Miami. University of Miami miller school of medicine.">
+<url>http://webcam4.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Santa Rosa Beach. seaside resort.">
+<url>http://mooncreek5.axiscam.net:6109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Florida-Pensacola. beach.">
+<url>http://beach.sandestinwebcam.com/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+<video name="USA-Florida-Cape Coral. Beach close shot.">
+<url>http://75.151.40.42/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Florida-Miami. Miami medical university.">
+<url>http://webcam3.med.miami.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado. Colorado university.">
+<url>http://webcam1.coloradocollege.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado.  Bracken richie main street.">
+<url>http://72.165.31.230/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado- Aspen. Kitten pet house.">
+<url>http://dogsaspen.dyndns.org:8084/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado- Gunnison.  Colorado western state college.">
+<url>http://webcam1.western.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Colorado- Gunnison. Rural road.">
+<url>http://donitas.viewnetcam.com:5003/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Colorado- Longmont. Rural road.">
+<url>http://173.164.52.97:5633/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Colorado- Ophir. Town street.">
+<url>http://telluridemountainproperties-east.viewnetcam.com:50000/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-North Carolina- Sylva.  Urban style and features.">
+<url>http://cam.thesylvaherald.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-North Carolina- Raleigh. Teaching building.">
+<url>http://152.1.130.216/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+<video name="USA-Dakota state- Wahpeton North.  north Dakota university.">
+<url>http://134.129.32.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Dakota state- Devils Lake North.  Devils Lake.">
+<url>http://dlmainstreetwebcam.gondtc.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Dakota state- Wahpeton North.  Dakota university 2.">
+<url>http://134.129.32.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Dakota state- Grand Forks North.  Dakota university 3.">
+<url>http://msn166-91.med.und.nodak.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Dakota state- Wahpeton North. Dakota university 4.">
+<url>http://134.129.32.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma- Norman. The university of Oklahoma campus.">
+<url>http://cascam.ou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma- Norman. The university of Oklahoma campus 2.">
+<url>http://129.15.200.109/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma- Owasso. The lake monitoring camera.">
+<url>http://70.184.23.112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma- Weatherford. Southwest Oklahoma state university, nasser.">
+<url>http://lifecam.swosu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oklahoma- Stillwater. The United States Oklahoma state university.">
+<url>http://webcam2.biochem.okstate.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Philadelphia Temple. university.">
+<url>http://155.247.171.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Philadelphia Temple. University teaching building.">
+<url>http://155.247.78.78/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-West Chester. The sea beach.">
+<url>http://66.252.102.209/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-New Kensington. University of Pennsylvania.">
+<url>http://hncam1.hn.psu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Bloomsburg Pennsylvania. The university of Pittsburgh, bloom.">
+<url>http://alwebcam.bulib.bloomu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Bellefonte. The university of Pennsylvania.">
+<url>http://128.118.52.239/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Pennsylvania-Collegeville. Ur, college sports ground cesena.">
+<url>http://construction.ursinus.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Indiana. Pennsylvania indiana university data center.">
+<url>http://cam02.cc.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Indiana Pennsylvania. Indiana university.">
+<url>http://grovecam.iup.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Philadelphia Temple. The university campus.">
+<url>http://155.247.171.3/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pennsylvania-Pittsburgh. Carnegie Mellon university laboratory.">
+<url>http://cam.preal.ece.cmu.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Pennsylvania-Erie. The campus of the university of Pennsylvania.">
+<url>http://128.118.18.114/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Pennsylvania-Lancaster. laboratory.">
+<url>http://173.163.40.33:54546/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-South Carolina-Rock Hill.  Winslow general university campus.">
+<url>http://quadcamera.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Carolina-Rock Hill.  Winslow general university campus.">
+<url>http://constructioncam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Carolina-Bluffton.  The sea beach.">
+<url>http://64.192.55.100:4000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Carolina-Conway.  Yacht dock.">
+<url>http://98.101.223.10:8213/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-South Carolina-Greenwood. Lake.">
+<url>http://24.49.183.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Carolina-Greenwood.  square.">
+<url>http://24.54.99.6/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Carolina-Rock Hill.  Winslow general university campus.">
+<url>http://dcccam.winthrop.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+		</city>
+	</province>
+</provinces> 

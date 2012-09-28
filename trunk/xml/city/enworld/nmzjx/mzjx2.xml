@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="America selected " order="b" >
+		<city name="America selected 2" type="1888" order="B" >
+			
+<video name="Canada-Ontario-Lansdowne. The sea wharf.">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Canada-Ontario-Lansdowne. The sea wharf(HD).">
+<url>http://216.168.105.248:12122/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Canada-British Columbia -CampbellRiver.  airport.">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Canada-British Columbia -CampbellRiver.  airport(HD)">
+<url>http://204.50.11.73/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Canada-Quebec-Montreal  kerbside.">
+<url>http://69.70.220.2:1010/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+<video name="Canada-Ontario-Brampton  kerbside 2.">
+<url>http://192.82.150.11:8085/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Ottawa  gillies lake.">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=320x240</url>
+</video>
+<video name="Canada-Ontario-Ottawa  gillies lake(HD).">
+<url>http://24.139.16.194:82/mjpg/video.mjpg?camera=1::1;resolution=640x480</url>
+</video>
+<video name="Canada-Quebec-Montreal openpowered. Data center(HD).">
+<url>http://67.212.67.30/axis-cgi/mjpg/video.cgi?resolution=320x240::1;dummy=1336901721213::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Quebec-Montreal openpowered. Data center.">
+<url>http://206.41.81.10/mjpg/video.mjpg?resolution=320x240::1;dummy=1336901721213</url>
+</video>
+<video name="Canada-British Columbia-vancouver. laboratory 1">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British Columbia-vancouver. laboratory 2">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=2::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-British Columbia-vancouver. laboratory 3">
+<url>http://axis2.triumf.ca/axis-cgi/mjpg/video.cgi?camera=4::1;resolution=704x480::1;1336902488423::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Kingston.   The road landscape.">
+<url>http://130.15.110.15/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Canada-Ontario-sudbury. Lake.">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Canada-Ontario-sudbury. Lake(HD).">
+<url>http://tomahawkresort.axiscam.net/mjpg/video.mjpg?resolution=704x480</url>
+</video>
+<video name="Canada-new brunswick-Fredericton.  square(HD).">
+<url>http://205.174.168.131/image?speed=1::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-mississauga.  Square subway stations.">
+<url>http://142.240.200.10:1205/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="Canada-British Columbia-vancouver.  Sylvan Lake.">
+<url>http://142.103.183.237/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336915286021::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Brampton.  Trees dancing.">
+<url>http://192.82.150.11:8086/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Ontario-Toronto. Han BoXueYuan campus.">
+<url>http://192.75.71.60/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Canada-Ontario-Toronto. Han BoXueYuan campus(HD)">
+<url>http://192.75.71.60/mjpg/video.mjpg</url>
+</video>
+
+<video name="Canada-Ontario-Owen Sound.  Seaside scenery.">
+<url>http://216.183.137.241/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Quebec-Dolbeau.  Big blue.">
+<url>http://216.113.117.232/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="Canada-British Columbia-Victoria tatlla. lake.">
+<url>http://142.29.203.232/cgi-bin/mjpg/video.cgi?resolution=352x240::1;data=v.mjpg</url>
+</video>
+<video name="Canada-Manitoba-Winnipeg. Road.">
+<url>http://130.179.249.1/axis-cgi/mjpg/video.cgi?camera=::1;resolution=352x240::1;1336916653331::1;data=v.mjpg</url>
+</video>
+
+<video name="Canada-Ontario-oakville. Intersection pine.">
+<url>http://70.54.178.135:60002/nphMotionJpeg?Resolution=320x240::1;Quality=Standard::1;data=v.mjpg</url>
+</video>
+<video name="Mexico-Distrito Federal. The sea bathing.">
+<url>http://201.134.241.4/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+<video name="MexicoGuanajuato Distrito Irapuato. wharf.">
+<url>http://cimco-corp.com.mx:8003/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="Mexico-Guerrero-Acapulco. The sea bathing.">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="Mexico-Guerrero-Acapulco. The sea bathing.">
+<url>http://200.36.58.250/mjpg/video.mjpg?resolution=640x480</url>
+</video>
+<video name="Mexico-Guerrero-Acapulco. Indoor corridor.">
+<url>http://serviexternos.axiscam.net:8120/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="South America-Nicaragua. The classroom.">
+<url>http://186.1.14.117/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+<video name="South America-Argentina. The sea.">
+<url>http://200.59.36.195/mjpg/video.mjpg?Resolution=320x240</url>
+</video>
+			
+<video name="USA-Washington Bellingham. Washington university laboratory.">
+<url>http://cf405wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Washington Kirkland. university campus.">
+<url>http://epiphany.xuserver.com:9011/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Washington Everett. The sea wharf.">
+<url>http://webcam.heraldnet.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Bellingham. University laboratory.">
+<url>http://140.160.141.187/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Winthrop. Dessert shop.">
+<url>http://64.139.100.67:60001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Bellingham. West Washington university laboratory.">
+<url>http://cf418wc.cs.wwu.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Washington Olympia. Cent LuoLiYa college campus.">
+<url>http://eastcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Olympia. Cent LuoLiYa college.">
+<url>http://westcam1.centralia.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Tacoma. West Washington university campus.">
+<url>http://128.208.252.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Walla.  Whitman college dining-room.">
+<url>http://sub-cam.whitman.edu/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-Washington Edmonds. wharf.">
+<url>http://launch.axiscam.net:53435/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Lopez Island. The sea rotating camera.">
+<url>http://64.119.5.59/image?speed=0::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-Washington Seattle. Urban traffic cameras.">
+<url>http://173.10.83.217/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Washington Walla Walla.  Whitman college campus.">
+<url>http://olin-cam.whitman.edu/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-Washington Wenatchee. The sea monitoring camera.">
+<url>http://65.74.17.34/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-Washington Renton. The natural beauty of lakes and mountains.">
+<url>http://whcam.homeip.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-Utah Ogden. Laboratory.">
+<url>http://205.122.6.12/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Utah Salt Lake City  restaurant.">
+<url>http://1003.thepie.com:8081/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Utah Logan. Utah State university Laboratory.">
+<url>http://129.123.82.232/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Utah Provo. Brigham young university.">
+<url>http://webcams.byu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Utah Monument Valley. crossroads.">
+<url>http://205.119.86.8/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Utah Salt Lake City. University of Utah campus(HD).">
+<url>http://155.100.78.96/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-vermont Grafton. PlantLab.">
+<url>http://66.220.231.110/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-vermont Northfield. Norwich university.">
+<url>http://webcams.norwich.edu:8001/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+		</city>
+	</province>
+</provinces> 

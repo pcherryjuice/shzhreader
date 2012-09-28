@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="America selected" order="b" >
+		<city name="America selected 3" type="1888" order="C" >
+			
+<video name="USA-California-Santa Clara. Santa Clara university campus ">
+<url>http://129.210.52.139/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-California-San Luis Obispo. office.">
+<url>http://129.65.126.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-California-San Luis Obispo. wharf(HD)">
+<url>http://199.36.177.234/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York- Hicksville. campus.">
+<url>http://108.58.154.186/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York-State of rochester.  Kansas State University-laboratory.">
+<url>http://vlsicam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Hamilton. Colgate university campus.">
+<url>http://149.43.156.105/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Hamilton. Colgate university campus.">
+<url>http://149.43.156.190/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Potsdam.  Clarkson university Engineering college.">
+<url>http://studentcenter2.construction.clarkson.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Canton. campus.">
+<url>http://69.6.98.250/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York. Columbia University campus.">
+<url>http://160.39.101.194/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Statue of liberty.">
+<url>http://24.39.139.182:4080/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-New York- Rochester.  New York state university of rochester.">
+<url>http://128.151.54.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York-Alfred.  Alfred university.">
+<url>http://webcam3.alfred.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Oswego. New York university in oswego branch.">
+<url>http://web-cam-2.oswego.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York. Rochester. Rochester Institute of Technology lab.">
+<url>http://harriscam.ce.rit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Hamilton. Colgate University campus.">
+<url>http://149.43.156.106/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Alfred. Campus.">
+<url>http://149.84.160.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Jamestown.  Campus.">
+<url>http://143.67.94.17/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. Campus.">
+<url>http://69.64.220.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-New York- Ithaca. Small terminal.">
+<url>http://64.57.178.85/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Rochester. University of rochester building.">
+<url>http://128.151.213.230/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York- Rochester.  Monroe community college campus.">
+<url>http://wc01a.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Buffalo.  State university of New York at buffalo college campus.">
+<url>http://136.183.196.146/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York. City streets.">
+<url>http://webcam.c9ny.com/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-New York-Rochester. Rochester institute of technology.">
+<url>http://webcam02.rit.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York- Rochester. Rochester institute of technology.">
+<url>http://webcam03.rit.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York-  Buffalo. New York state university college of buffalo campus.">
+<url>http://136.183.194.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Saint Bonaventure. Holy wave with the university.">
+<url>http://libcam.sbu.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Ithaca.  Lakeside camera.">
+<url>http://64.57.178.86/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Hempstead.  The university campus.">
+<url>http://147.4.73.99/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=352x240::1;1338572975975::1;data=v.mjpg</url>
+</video>
+<video name="USA-New York- Rochester. State university of New York Monroe community college.">
+<url>http://wc01b.monroecc.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-New York-Hamilton. Colgate university.">
+<url>http://149.43.156.108/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-New York- Hamlin.  Seaside scenery.">
+<url>http://byc.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+<video name="USA-Rhode Island- Kingston. Rhode Island university campus.">
+<url>http://131.128.154.111/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Rhode Island- Kingston. Rhode Island university campus.">
+<url>http://131.128.204.249/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Rhode Island- Narragansett.  The sea beach.">
+<url>http://72.87.114.24/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Rhode Island- Kingston  Rhode Island university campus.">
+<url>http://131.128.114.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Rhode Island- Newport.  Seaside scenery.">
+<url>http://68.15.37.221/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Rhode Island- Kingston.  Rhode Island university campus.">
+<url>http://131.128.164.235/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-South Dakota- Sturgis.  street.">
+<url>http://209.159.224.176/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Tennessee- Franklin. traffic camera.">
+<url>http://Cam4.brentwood-tn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee- Nashville. Vanderbilt university discussion.">
+<url>http://fghwebcam.vuse.vanderbilt.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee- Memphis. Memphis university campus.">
+<url>http://141.225.28.49/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Tennessee- Memphis. The university of Tennessee.">
+<url>http://hper142cam1.occ.utk.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ridge Tennessee. stadium.">
+<url>http://bissell.cortn.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee- Martin. University of Tennessee, Martin.">
+<url>http://libcam1.utm.edu/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Tennessee- Memphis. University of Tennessee audio-visual classroom.">
+<url>http://160.36.10.164/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee- Nashville. Vanderbilt university campus.">
+<url>http://quad.peabody.vanderbilt.edu:26122/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Pigeon Forge Tennessee. Teaching building.">
+<url>http://204.117.196.50:65309/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Tennessee- Knoxville. gym.">
+<url>http://jjansheski.axiscam.net:8004/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Tennessee- Knoxville. Swimming pool.">
+<url>http://jjansheski.axiscam.net:8007/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Midland. A bird's eye view of the city.">
+<url>http://72.48.229.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Dallas. City scenery(HD).">
+<url>http://209.33.181.227/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="USA-Texas- Dallas. River hotel.">
+<url>http://72.16.233.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Fort Davis. University of Texas at Austin.">
+<url>http://monet-cam.as.utexas.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Houston. University of Houston, Texas.">
+<url>http://129.7.48.166/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Texas- Midland. Downtown building.">
+<url>http://72.48.229.3:8887/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Austin. tower.">
+<url>http://12.52.91.101/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Dallas. The university campus.">
+<url>http://72.16.233.56/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Arlington. University of Texas at Arlington campus.">
+<url>http://mallcam.uta.edu/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Texas- Houston. The company studio.">
+<url>http://webcam.atomicmods.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Texas- Tyler. Small shops.">
+<url>http://173.219.38.4/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+		</city>
+	</province>
+</provinces> 
