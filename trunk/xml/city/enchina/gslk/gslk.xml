@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="shanghai" order="T0" >
+		<city name="High-speed intersection" type="300" order="C" >
+			<video name="G60 HuKun highway">
+			<url>rtsp://114.80.221.20/A8HWVIDEO</url>
+			</video>	
+			<video name="S20 WaiHuan highway">
+			<url>rtsp://114.80.221.20/waihuan</url>
+			</video>	
+			<video name="G2 JingHu highway">
+			<url>rtsp://114.80.221.20/jiangqiao</url>
+			</video>							
+			<video name="S4 HuJin highway">
+			<url>rtsp://114.80.221.20/A9</url>
+			</video>				
+			<video name="S5 hujia highway">
+			<url>rtsp://114.80.221.20/A4</url>
+			</video>
+			<video name="G50 huyu highway">
+			<url>rtsp://114.80.221.20/A12</url>
+			</video>
+			<video name="G1501 March around the city south ring ">
+			<url>rtsp://114.80.221.20/nanhuan</url>
+			</video>
+			<video name="G1501 March around the city 3">
+			<url>rtsp://114.80.221.20/raocheng</url>
+			</video>
+			<video name="S2 HuLu highway">
+			<url>rtsp://114.80.221.20/S2</url>
+			</video>
+			<video name="G40 HUShan highway">
+			<url>rtsp://114.80.221.20/changjiansuiqiao</url>
+			</video>
+			<video name="S26 HuChang highway">
+			<url>rtsp://114.80.221.20/S26</url>
+			</video>
+			<video name="S32 ShenJiaHu highway">
+			<url>rtsp://114.80.221.20/S32</url>
+			</video>
+			<video name="G15 ShenHai highway">
+			<url>rtsp://114.80.221.20/A5</url>
+			</video>
+			<video name="NeiHuan">
+			<url>rtsp://114.80.221.20/neihuan</url>
+			</video>
+			<video name="North-south elevated">
+			<url>rtsp://114.80.221.20/nanbeigaojia</url>
+			</video>
+			<video name="Yanan elevated">
+			<url>rtsp://114.80.221.20/yanangaojia</url>
+			</video>
+		  <video name="YiXian HuMin elevated">
+			<url>rtsp://114.80.221.20/yixianhumingaojia</url>
+			</video>
+		  <video name="ZhongHuan elevated 1">
+			<url>rtsp://114.80.221.20/zhonghuan1</url>
+			</video>
+		  <video name="ZhongHuan elevated 2">
+			<url>rtsp://114.80.221.20/zhonghuan2</url>
+			</video>
+		  <video name="ZhongHuan elevated 3">
+			<url>rtsp://114.80.221.20/zhonghuan4</url>
+			</video>
+	</city>
+	</province>
+</provinces> 
