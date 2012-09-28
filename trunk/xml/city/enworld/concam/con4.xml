@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="Controllable camera" order="H" >
-<city name="Controllable camera 4" type="1888" order="D" >	
+<province name="controllable camera" order="H" >
+<city name="controllable camera 4" type="1888" order="D" >	
 
 
 <video name="Spain-Andalusian-Granada. Roof.">
