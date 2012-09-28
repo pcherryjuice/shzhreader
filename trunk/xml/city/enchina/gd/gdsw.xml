@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="shanwei" type="1" order="L" >
+			<video name="Ronganda-Lihai avenue(LD)">
+			<url>rtsp://211.139.247.217:554/play/643035222c29231f35332532333c7172707670787171707674713c/1289/0/s.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="Ronganda-Lihai avenue">
+			<url>rtsp://211.139.247.217:554/play/643035222c29231f35332532333c7172707670787171707674713c/1289/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>				
+			<video name="Shanwei disc CiYunShan square(LD)">
+			<url>rtsp://211.139.247.217:554/play/653134232d28221e34322433323d7073717771797070717775703d/1241/0/s.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="Shanwei disc CiYunShan  square">
+			<url>rtsp://211.139.247.217:554/play/653134232d28221e34322433323d7073717771797070717775703d/1241/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>				
+			<video name="Shanwei Haigang LuoMa square (LD)">
+			<url>rtsp://211.139.247.217:554/play/21656077797c764a60667067666924272523252d24242523212469/1247/0/s.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>
+			<video name="Shanwei Haigang LuoMa square">
+			<url>rtsp://211.139.247.217:554/play/21656077797c764a60667067666924272523252d24242523212469/1247/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>					
+			<video name="Shanwei ChinaMobile complex suit camp hall (LD)">
+			<url>rtsp://211.139.247.217:554/play/316f6a7d73767c406a6c7a6d6c632e2d2f292f272e2e2f292b2e63/1239/0/s.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="Shanwei ChinaMobile complex suit camp hall ">
+			<url>rtsp://211.139.247.217:554/play/316f6a7d73767c406a6c7a6d6c632e2d2f292f272e2e2f292b2e63/1239/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>			
+			<video name="Shanwei Back door highway (LD)">
+			<url>rtsp://211.139.247.217:554/play/832326313f3a300c26203621202f62616365636b6262636567622f/1252/0/s.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="Shanwei Back door highway ">
+			<url>rtsp://211.139.247.217:554/play/832326313f3a300c26203621202f62616365636b6262636567622f/1252/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>				
+			<video name="Test 15">
+			<url>rtsp://211.139.247.217:554/play/663237202e2b211d37312730313e73707270727a73737773707a3e/1285/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+			</video>	
+			<video name="City large disk ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3151/54381.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.247.217:554/play/832326313f3a300c26203621202f626262626163636a6763676b2f/1241/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</hdurl>
+			</video>
+			<video name="Shanwei harbour">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3151/55181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.247.217:554/play/991316010f0a003c16100611101f525252525153535a5753575b1f/1247/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</hdurl>
+			</video>
+			<video name="ChinaMobile complex suit camp hall" >
+	    <url>rtsp://211.139.247.217:554/play/932d283f31343e02282e382f2e216c6c6c6d6c6c6c656c646e6421/1239/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+      </video>
+		 <video name="Shanwei Test 03" >
+	   <url>rtsp://211.139.247.217:554/play/395752454b4e447852544255545b161616171616161f161e141e5b/1235/0/f.sdp?PuId-ChannelNo=0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=0</url>
+	   </video>
+		</city>
+	</province>
+</provinces> 

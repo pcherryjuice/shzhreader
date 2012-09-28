@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.4">
+   <province name="guangdong" order="S">
+		<city name="shenzhen" type="100" order="B" >
+			<video name="BinHe ShangBu overpass">
+			<url>rtsp://120.196.125.22:554/mobile/1/288CFA7F19045C97/wlCjMXuZF47gg197.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</url>
+			</video>
+			<video name="BinHe ShangBu overpass(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/288CFA7F19045C97/0tzXltK33REc9UOm.sdp?id=13888888888::1;t=1320561828::1;en=4ba60a0b0fb8abc5707e8d4bbc0875c7::1;rs=ws</url>
+			</video>
+			<video name="BinHe avenue 赤尾段">
+			<url>rtsp://120.196.125.22:554/mobile/1/C242CCE677551A60/ZxviDjQscJe3uwSc.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</url>
+			</video>
+			<video name="BinHe avenue 赤尾段(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/C242CCE677551A60/R8iFxVbMgrVR72ar.sdp?id=13888888888::1;t=1320562906::1;en=355ba015a518d0b0e39643f490d99a20::1;rs=ws</url>
+			</video>
+			<video name="BeiHuan ShangBu  overpass">
+			<url>rtsp://120.196.125.22:554/mobile/1/1B14AFA8618BC22A/jlNKIdeUKVGKeauf.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</url>
+			</video>
+			<video name="BeiHuan ShangBu  overpass(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/1B14AFA8618BC22A/bEDpliBpWHb117o9.sdp?id=13888888888::1;t=1320563067::1;en=d94b11b2c40917cb8fad03b76608d5a5::1;rs=ws</url>
+			</video>
+			<video name="HUangMuGang overpass">
+			<url>rtsp://120.196.125.22:554/mobile/1/8BB3E7A4B5ECCA76/0J9j2675R28J8Ip3.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</url>
+			</video>
+			<video name="HUangMuGang overpass(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/8BB3E7A4B5ECCA76/4yCMbZPfp89GoBqy.sdp?id=13888888888::1;t=1320563414::1;en=c82c6b79572e941626ef56a6a67a384e::1;rs=ws</url>
+			</video>
+			<video name="HongLi XiangMiHu Road West">
+			<url>rtsp://120.196.125.22:554/mobile/1/928C1AADC22AE27C/U7aLWDwNf7kT2CvN.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</url>
+			</video>
+			<video name="HongLi XiangMiHu Road West(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/928C1AADC22AE27C/U8ODIlKbunn0z0Ze.sdp?id=13888888888::1;t=1320563526::1;en=af06437ceade3d58c785da327c3b6c49::1;rs=ws</url>
+			</video>
+			
+			<video name="HeBin HuangGang overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120416</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120416::1;carmeId=1</url>
+			</video>
+			
+			<video name="BinHe CheGongMiao overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120417::1;carmeId=1</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120417::1;carmeId=1</url>
+			</video>
+			<video name="BeiHuan CaiTian overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041E</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDQxRQ==.html</url>
+			<ldurl>rtsp://120.196.125.22:554/mobile/1/147C05E3ECA5D8BF/gSCBFCsTh4qvHYEV.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</ldurl>
+			<hdurl>rtsp://120.196.125.22:554/live/1/147C05E3ECA5D8BF/nYKI33wuV7NseaWu.sdp?id=13888888888::1;t=1320563197::1;en=f61308b38c3c65f621bca23f7d93394b::1;rs=ws</hdurl>
+			</video>
+			<video name="HuaQiang South overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C5</url2>
+			<url>http://wap.szicity.com/m/16Oi8vd2FwLnN6anRsay5jb20vanNwL3ZpZGVvL3ZpZGVvLmpzcD9zPTA2MkY4QTEyMDRDNQ==.html</url>
+			</video>
+			<video name="North ring XiangMei Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120480</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120480::1;carmeId=1</url>
+			</video>
+			<video name="North ring XinZhou overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120171</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120171::1;carmeId=1</url>
+			</video>
+			<video name="LongXiang avenue Feng Road">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/250104AD4E096580/tShWErZmLjLsixQP.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/250104AD4E096580/OoLo7ctWpj5YNzmR.sdp?id=13800000098::1;t=1343351549::1;en=fe4ba8b066f508be64fee2e156f76b79::1;rs=ws</url>
+			</video>
+			<video name="LongXiang avenue Feng Road(HD)">
+			<!--url>rtsp://120.196.125.22:554/live/1/250104AD4E096580/HB06Ruc7RsBhu7Cj.sdp?id=13888888888::1;t=1320564614::1;en=6e20e08ef1fca7e5a7a34c19216215aa::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/live/1/250104AD4E096580/ekUzQAz0rls8UsOJ.sdp?id=13800000098::1;t=1343351549::1;en=fe4ba8b066f508be64fee2e156f76b79::1;rs=ws</url>
+			</video>
+			<video name="AoBei Road ShenHui Road">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/0AA00586DD92C70E/0z2ZzlkGRPNKAnyj.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/0AA00586DD92C70E/Cb8Z91RT3ikvYoTZ.sdp?id=13800000098::1;t=1343351392::1;en=9535c1890dbc203dc34e3b7b6c9c6db9::1;rs=ws</url>
+			</video>
+			<video name="AoBei Road ShenHui Road(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/0AA00586DD92C70E/aT77KG859axxoSux.sdp?id=13800000098::1;t=1343351392::1;en=9535c1890dbc203dc34e3b7b6c9c6db9::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/live/1/0AA00586DD92C70E/TFNLOT6cMGBLROXq.sdp?id=13888888888::1;t=1320565136::1;en=4e0654da05ed0fd0e1b31def75dc4dac::1;rs=ws</url-->
+			</video>
+			<video name="HuangGe Road LongXiang avenue">
+		  <url>rtsp://120.196.125.22:554/mobile/1/CB75847AD588F857/aKyZBbvVsrgYe0A8.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</url>
+		  </video>
+		  <video name="HuangGe Road LongXiang avenue(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/CB75847AD588F857/4N0xGSCt6RFbPvyG.sdp?id=13888888888::1;t=1320564715::1;en=551f7aa347a01e826506c65145c54b40::1;rs=ws</url>
+		  </video>
+		  <video name="Buji Road JiHua Road">
+			<url>rtsp://120.196.125.22:554/mobile/1/15673AE77CF3AE87/n2yg2o28ueMiMF4Z.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</url>
+			</video>
+			<video name="Buji Road JiHua Road(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/15673AE77CF3AE87/n0zOTjp0brmiow9u.sdp?id=13888888888::1;t=1320565464::1;en=26721857ede0a10d573756ec34f6cff7::1;rs=ws</url>
+			</video>
+			<video name="JiHua town JiHua Road XiuFeng intersection">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120352::1;carmeId=1</url>
+			</video>
+			<video name="BuLong Road JiHua Road">
+			<url>rtsp://120.196.125.22:554/mobile/1/39C3CEF4284E26A6/pumNlj3EgMqNlydZ.sdp?id=13800000098::1;t=1343351068::1;en=1611a4423bd75284b349426c76df5b21::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/mobile/1/39C3CEF4284E26A6/TuQzMpjc81Eg8Pr0.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</url-->
+			</video>
+			<video name="BuLong Road JiHua Road(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/39C3CEF4284E26A6/OvUlMKk5Mq5Usnh2.sdp?id=13800000098::1;t=1343351068::1;en=1611a4423bd75284b349426c76df5b21::1;rs=ws</url>
+			<!--url>rtsp://120.196.125.22:554/live/1/39C3CEF4284E26A6/2ANngFPvjSmyIzhL.sdp?id=13888888888::1;t=1320565570::1;en=c4b040914dfb6c11f644d27b27aa2402::1;rs=ws</url-->
+			</video>
+			<video name="BuLong Road BanXueGang Road">
+			<url>rtsp://120.196.125.22:554/mobile/1/304B4BDC7F28E9AB/9XO4y8DZHXg9lP6U.sdp?id=13800000098::1;t=1343349868::1;en=382550034de806b3f78dd062e82f8086::1;rs=ws</url>
+			</video>
+			<video name="BuLong Road BanXueGang Road(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/304B4BDC7F28E9AB/I28asH6l91OBoiWM.sdp?id=13800000098::1;t=1343349868::1;en=382550034de806b3f78dd062e82f8086::1;rs=ws</url>
+			</video>
+			<video name="BuLong Toll station">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/C420C622CD48DB5A/OxpVuM8QArQR1l9i.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/C420C622CD48DB5A/XERwmgUBrIsKQ0oy.sdp?id=13800000098::1;t=1343351657::1;en=3d1b9aedfc921f418f21e5e601630e3e::1;rs=ws</url>
+			</video>
+			<video name="BuLong Toll station(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/C420C622CD48DB5A/qH0B24sopyRYZaT1.sdp?id=13888888888::1;t=1320565685::1;en=c89789e7878be2a997b7f788af360c3e::1;rs=ws</url>
+			</video>
+			<video name="107国道创业 overpass">
+			<!--url>rtsp://120.196.125.22:554/mobile/1/80449E4A7D6C48D6/hAu5iEoYXHPlTQ2o.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/mobile/1/80449E4A7D6C48D6/McTziokWOWsOx8tK.sdp?id=13800000098::1;t=1343352114::1;en=d97a2c61c1d932a6a5b75df0b7ed4e78::1;rs=ws</url>
+			</video>
+			<video name="107国道创业 overpass(HD)">
+			<!--url>rtsp://120.196.125.22:554/live/1/80449E4A7D6C48D6/FIMFcAj2ljIMTtSE.sdp?id=13888888888::1;t=1320565910::1;en=a8c18142a81ac7221160eea267e7955a::1;rs=ws</url-->
+			<url>rtsp://120.196.125.22:554/live/1/80449E4A7D6C48D6/mtipEisTNnQDkXwT.sdp?id=13800000098::1;t=1343352114::1;en=d97a2c61c1d932a6a5b75df0b7ed4e78::1;rs=ws</url>
+			</video>
+			
+			<video name="GuanGuang Road Dashuikeng Road">
+			<url>rtsp://120.196.125.22:554/mobile/1/9828DB0C3E9AF0BC/hqIXZu4pd5Yca7a4.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</url>
+			</video>
+			<video name="GuanGuang Road Dashuikeng Road(HD)">
+			<!--url>rtsp://120.196.125.22:554/live/1/9828DB0C3E9AF0BC/3RQJ3WaykkMTMCi0.sdp?id=13888888888::1;t=1320569087::1;en=11460fa375e56d13ae1686c6f3f45324::1;rs=ws</url-->
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120354::1;carmeId=1</url>
+			</video>
+			
+			
+
+
+
+      <video name="FuQiang Road JinTian Road North"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C5::1;carmeId=1</url></video>
+      <video name="FuHua Road /CaiTian"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003C::1;carmeId=1</url></video>
+      <video name="FuHua YiTian  intersection"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D7::1;carmeId=1</url></video>
+      <video name="BaGua Road BaGua Three Road "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12033C::1;carmeId=1</url></video>
+      <video name="ShenNan Road /HuaFu Road"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203AD::1;carmeId=1</url></video>
+      <video name="North ring YinHu Road"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12047F::1;carmeId=1</url></video>
+      <video name="HuaQiang Midle Bus station "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D1::1;carmeId=1</url></video>
+      <video name="HongLi Road JingTian Road "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12035A::1;carmeId=1</url></video>
+      <video name="HongLi Road JingTian Road  intersection-东方"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C4::1;carmeId=1</url></video>
+      <video name="FuQiang Road JinTian intersection东"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CB::1;carmeId=1</url></video>
+      <video name="ShenNan Road Midle HongLing Road Midle"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203B0::1;carmeId=1</url></video>
+      <video name="QianHai Road GuiMiao Road "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201C8::1;carmeId=1</url></video>
+      <video name="North ring NanHai overpass"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120045::1;carmeId=1</url></video>
+      <video name="TaoYuan Road /NanShan  Road"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201C7::1;carmeId=1</url></video>
+      <video name="ShenHui Road ZhanBao Road"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1202AD::1;carmeId=1</url></video>
+      <video name="ShenHui Road LongCheng Road"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1201EA::1;carmeId=1</url></video>
+      <video name=" ShenHui Road Ruyi Road Midle"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12027E::1;carmeId=1</url></video>
+      
+      <video name="107 national highway development period of the north "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=00606E839299::1;carmeId=1</url></video>
+      <video name="The xinan 107 national highway "><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120483::1;carmeId=1</url></video>
+      <video name="Fuyong bus station"><url2></url2><url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12031B::1;carmeId=1</url></video>
+
+
+			
+			<video name="HongLi XinZhou intersection">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003D::1;carmeId=1</url>
+			</video>
+			<video name="HuaQiangBei Economic building station">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204CE</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CE::1;carmeId=1</url>
+			</video>
+			<video name="HengGang MeiLin intersection">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203E4</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203E4::1;carmeId=1</url>
+			</video>
+			<video name="HuangGang port vehicular">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120170::1;carmeId=1</url>
+			</video>
+			<video name="CaiTian MeiLin intersection">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C7</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C7::1;carmeId=1</url>
+			</video>
+			<video name="HuangGang port Bus station ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120170</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204CA::1;carmeId=1</url>
+			</video>
+			<video name="TongLe  checkpoints ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12003F</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12003F::1;carmeId=1</url>
+			</video>
+			<video name="BaiMang  checkpoints">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120044</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120044::1;carmeId=1</url>
+			</video>
+			<video name="NanShan  Road Yuquan Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12009D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12009D::1;carmeId=1</url>
+			</video>
+			<video name="ShaHe Road West Xili eara">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120400</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120400::1;carmeId=1</url>
+			</video>
+			<video name="ShenNan NanHai overpass">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120418</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120418::1;carmeId=1</url>
+			</video>
+			<video name="ShenNan  avenue The Windows of the world eara">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120463</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120463::1;carmeId=1</url>
+			</video>
+			<video name="ShenNan Road  avenue Baishizhou eara">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120461</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120461::1;carmeId=1</url>
+			</video>
+			<video name="HengPing Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FE</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203FE::1;carmeId=1</url>
+			</video>
+			
+			
+			<video name=" LongXiang avenue Ruyi Road">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A110062::1;carmeId=1</url>
+			</video>
+			
+			<video name="LongPing LongCheng  intersection">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=00606E801383::1;carmeId=1</url>
+			</video>
+			<video name="JiHua Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120406</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120406::1;carmeId=1</url>
+			</video>
+			<video name="Buji LongJing overpass">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120460::1;carmeId=1</url>
+			</video>
+			<video name="BuSha Road Dafen village  East">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A110029</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A110029::1;carmeId=1</url>
+			</video>
+			
+			<video name="HuiShen Road LuoGang  viaduct West">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120486</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120486::1;carmeId=1</url>
+			</video>
+			<video name="SiLian Road ShenHui Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041C</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12041C::1;carmeId=1</url>
+			</video>
+			<video name="HuiShen Road LuoGang  viaduct East">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120487</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120487::1;carmeId=1</url>
+			</video>
+			<video name="DanZhuTou overpass">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204D6::1;carmeId=1</url>
+			</video>
+			
+			<video name="BaiHuiWei First Road Aixin Road">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204BE::1;carmeId=1</url>
+			</video>
+			<video name="SongBai Road YuLv Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120359</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120359::1;carmeId=1</url>
+			</video>
+			<video name="SongBai Road HuangJiang eara ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120409</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120409::1;carmeId=1</url>
+			</video>
+			<video name="JianAn first Road Shangchuan Road ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120419</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120419::1;carmeId=1</url>
+			</video>
+			<video name="LongHua Bus Station 2">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120421</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120421::1;carmeId=1</url>
+			</video>
+			<video name="Minzhi avenue TianHong eara">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120484::1;carmeId=1</url>
+			</video>
+			<video name="Minzhi avenue QianLong garden">
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12047E::1;carmeId=1</url>
+			</video>
+			<video name="BaoAn  avenue XinAn sixth Road">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A12041D</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A12041D::1;carmeId=1</url>
+			</video>
+			
+			<video name="DaMeiSha intersection">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1204C9</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1204C9::1;carmeId=1</url>
+			</video>
+			<video name="Eastern coastal  High-speed entrance east ">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A120335</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A120335::1;carmeId=1</url>
+			</video>
+			<video name="DaMeiSha Road eara">
+			<url2>http://59.36.96.170:8081/ITSInterface/getDeviceCamerasAction.do?mac=062F8A1203FF</url2>
+			<url>http://wap.szicity.com/cm/jiaotong/szwxcsTrafficTouch/wap/trafficDeviceInfo.do?mac=062F8A1203FF::1;carmeId=1</url>
+			</video>
+			<video name="HePing Road South">
+			<url>rtsp://120.196.125.22:554/mobile/1/DA78EA85F943CCB9/UnsbzjA24FBfPRx5.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</url>
+			</video>
+			<video name="HePing Road South(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/DA78EA85F943CCB9/qgQ1pBs2EaLTVg94.sdp?id=13888888888::1;t=1320569755::1;en=167f3d2fa64136b73561ec54e8aa95d8::1;rs=ws</url>
+			</video>
+			<video name="YuanHe Road LuoFang overpass">
+			<url>rtsp://120.196.125.22:554/mobile/1/AA1446BB4A31FBCD/m5YhvMSmZv9idNBr.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</url>
+			</video>
+			<video name="YuanHe Road LuoFang overpass(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/AA1446BB4A31FBCD/n0RZRf7DmvlhoL8E.sdp?id=13888888888::1;t=1320570128::1;en=5952d68f392590fb799a3068edfdd047::1;rs=ws</url>
+			</video>
+			<video name="LuoSha LuoFang overpass">
+			<url>rtsp://120.196.125.22:554/mobile/1/A4E89922F417CC7F/EThwsUTP5i04UiIL.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</url>
+			</video>
+			<video name="LuoSha LuoFang overpass(HD)">
+			<url>rtsp://120.196.125.22:554/live/1/A4E89922F417CC7F/0EAzk4CjBE3XzfT9.sdp?id=13888888888::1;t=1320570254::1;en=803c306e0e2259b48671bb8efbd90e90::1;rs=ws</url>
+			</video>
+		</city>							
+	</province>	
+</provinces> 

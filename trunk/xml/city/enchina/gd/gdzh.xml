@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="zhuhai" type="1" order="F">
+			<video name="Jida Bailian road">
+				<url>rtsp://218.204.223.237:554/live/1/27D115F525751160/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="Jida  QinglvNanLuZhong">
+				<url>rtsp://218.204.223.237:554/live/1/196806DE3C771EAD/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="QianShan Shangchong Checkpoints export ">
+				<url>rtsp://218.204.223.237:554/live/1/0D20214349A62B05/a8l96jcvxrn0i3qp.sdp</url>
+			</video>
+			<video name="QianShan Shangchong Checkpoints export ">
+				<url>rtsp://218.204.223.237:554/live/1/371C670B27A6534F/tbqspxfew843ef1h.sdp</url>
+			</video>
+			<video name="Gongbei Yingbin south road">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="Gongbei Yuehai Road">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="Gongbei Guihua Road">
+				<url>rtsp://218.204.223.237:554/live/1/47595A67022D037A/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="Gongbei SuiDao Nan">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="Gongbei Hibiscus king hotel">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="Gongbei JiugeLong tunnel">
+				<url>rtsp://218.204.223.235:554/cc67.sdp</url>
+			</video>
+			<video name="Xiangshan Renmin Road Nankeng">
+				<url>rtsp://218.204.223.237:554/live/1/478D5AEC343A2D83/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="Doumen Bridge Toll station export ">
+				<url>rtsp://218.204.223.237:554/live/1/5F4401F67D823BA4/xd93f39w349xoruj.sdp</url>
+			</video>
+			<video name="Nanmen Bridge Toll station export ">
+				<url>rtsp://218.204.223.237:554/live/1/1C8B2EEE46BF33CF/qaynajqccpxy2jy0.sdp</url>
+			</video>
+			<video name="GangWan Road from north to south ">
+				<url>rtsp://218.204.223.237:554/live/1/0DF54BD4662116F1/vcpe0f4g350h3zyq.sdp</url>
+			</video>
+			<video name="GangWan Avenue from the south to the north ">
+				<url>rtsp://218.204.223.237:554/live/1/61192CD405A57B9A/qaynajqccpxy2jy0.sdp</url>
+			</video>
+			<video name="Xiashan Checkpoints in zhuhai port ">
+				<url>rtsp://218.204.223.237:554/live/1/13FD09B70A78661D/x7buqkyetr9a4b2q.sdp</url>
+			</video>
+			<video name="Airport 4 start hall">
+				<url>rtsp://218.204.223.237:554/live/1/6D1E43167B3A7BDA/xd93f39w349xoruj.sdp</url>
+			</video>
+			<video name="Gongbei  Port entry hall ">
+				<url>rtsp://218.204.223.237:554/live/1/4C024DFE77DC717D/wfbrwtdtjcflc1qj.sdp</url>
+			</video>
+			<video name="Gongbei Port exit hall ">
+				<url>rtsp://218.204.223.237:554/live/1/66251FC11353191F/y5a1rvb8onwbmx5e.sdp</url>
+			</video>
+			<video name="Southern software park The first floor hall  ">
+				<url>rtsp://218.204.223.237:554/mobile/1/C26699A63D21013C/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Outdoor square 1 ">
+				<url>rtsp://218.204.223.237:554/mobile/1/714D688C51C3B4EB/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Outdoor square 2">
+				<url>rtsp://218.204.223.237:554/mobile/1/CC43C3AE89416AA1/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Indoor exhibition hall 1 ">
+				<url>rtsp://218.204.223.237:554/mobile/1/74CF68BC84B714C3/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Indoor exhibition hall 2">
+				<url>rtsp://218.204.223.237:554/mobile/1/88AF23677A582E60/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Indoor exhibition hall 3">
+				<url>rtsp://218.204.223.237:554/mobile/1/1A85F8FF5B07FA07/8y1vfa435degrqk7.sdp</url>
+			</video>
+			<video name="Southern software park -Indoor exhibition hall 4">
+				<url>rtsp://218.204.223.237:554/mobile/1/788260343F279636/8y1vfa435degrqk7.sdp</url>
+			</video>
+
+			<video name="Traffic information center 1 ">
+				<url>rtsp://218.204.223.237:554/live/1/43217D4E1D3A5390/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="Traffic information center 2">
+				<url>rtsp://218.204.223.237:554/live/1/182B3519642B3A92/kpkq1x5sn4xrdxbl.sdp</url>
+			</video>
+			<video name="GangWan Road from north to south ">
+				<url>rtsp://218.204.223.237:554/live/1/0DF54BD4662116F1/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="Doumen Bridge Charge export">
+				<url>rtsp://218.204.223.237:554/live/1/5F4401F67D823BA4/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="Xiashan The zhuhai port checkpoint">
+				<url>rtsp://218.204.223.237:554/live/1/42287AE1422B62DD/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="GangWan Avenue from the south to the north ">
+				<url>rtsp://218.204.223.237:554/live/1/61192CD405A57B9A/syiubra2azl52x0g.sdp</url>
+			</video>
+			<video name="ShangChong  Checkpoints export ">
+				<url>rtsp://218.204.223.237:554/live/1/371C670B27A6534F/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="Airport 4 start hall ">
+				<url>rtsp://218.204.223.237:554/live/1/6D1E43167B3A7BDA/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="ShangChong Checkpoints export ">
+				<url>rtsp://218.204.223.237:554/live/1/1C8B2EEE46BF33CF/fkhyldt0ri92f2wf.sdp</url>
+			</video>
+			<video name="TanZhou To Zhuhai">
+				<url>rtsp://218.204.223.237:554/live/1/0D20214349A62B05/b9v3g5l65mbnks3k.sdp</url>
+			</video>
+			<video name="CuiWei market intersection ">
+				<url>rtsp://218.204.223.237:554/live/1/13FD09B70A78661D/e7ooqwcfbqjoo80j.sdp</url>
+			</video>
+			<video name="Qinglv road ">
+				<url>rtsp://218.204.223.237:554/live/1/7D89755241C77928/kpkq1x5sn4xrdxbl.sdp</url>
+			</video>
+			<video name="GuiHuaNa post office entrance ">
+				<url>rtsp://218.204.223.237:554/live/1/7F997BF976ED2F8A/8e0a2ztfn5dd0pcd.sdp</url>
+			</video>
+			<video name="Hibiscus king hotel intersection">
+				<url>rtsp://218.204.223.237:554/live/1/196806DE3C771EAD/kbutaj889ee4dx9w.sdp</url>
+			</video>
+			<video name="Nankeng Road">
+				<url>rtsp://218.204.223.237:554/live/1/47595A67022D037A/e4c56sn9tz78pl7p.sdp</url>
+			</video>
+			<video name="Yingtai Hotel Road">
+				<url>rtsp://218.204.223.237:554/live/1/6DDE26DD35FC10BF/fkhyldt0ri92f2wf.sdp</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

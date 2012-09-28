@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="shaoguan" type="1" order="J" >
+				<video name="Nanxiong Chailing">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231955.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10165</hdurl>
+			</video>
+			<video name="Qiming Bei Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231969.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10152</hdurl>
+			</video>
+			<video name="Qujiang Big rotary north ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231985.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100025</hdurl>
+			</video>
+
+			<video name="Beijing bridge west ">
+			<url>rtsp://211.139.249.248:554/Camera/100023</url>
+			</video>			
+			<video name=" Wujiang bridge west">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231987.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100020</hdurl>
+			</video>
+			<video name="the door of Danxia mountain">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232069.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100013</hdurl>
+			</video>
+			<video name="At the gate of the school in qujiang">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232070.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10044</hdurl>
+			</video>
+			<video name="Ruyuan nanling national forest park ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232067.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10167</hdurl>
+			</video>
+			<video name="HePingLu main primary school">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232077.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10157</hdurl>
+			</video>
+			<video name="Darunfa road south ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231981.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10150</hdurl>
+			</video>
+			<video name="HuangGang shanxi ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232041.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100019</hdurl>
+			</video>
+			<video name="West road of Beidi">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232005.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10158</hdurl>
+			</video>
+			<video name="The ShiFanTian of shixing county feng village ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232006.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10192</hdurl>
+			</video>
+			<video name="Shixing county Yin feng village gerocomium">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232007.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10191</hdurl>
+			</video>
+			<video name="Muxi creek park ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232182.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10149</hdurl>
+			</video>
+			<video name="Industrial middle of Gongye Road ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231947.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10160</hdurl>
+			</video>
+			<video name="The beijing-zhuhai expressway YunYan south">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231991.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100016</hdurl>
+			</video>
+			<video name="National highway 106 and 323 south border">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231992.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100017</hdurl>
+			</video>
+			<video name="Fengcai building">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232061.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10153</hdurl>
+			</video>
+			<video name="Jiangxi shao high-speed road west">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231997.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100022</hdurl>
+			</video>
+			<video name="Xihe bridge west ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232002.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100024</hdurl>
+			</video>
+			<video name="Institute of technology vocational training institute front">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232079.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10151</hdurl>
+			</video>
+			<video name="Flat milk highway road east">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231995.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100018</hdurl>
+			</video>
+			<video name="The train guangzhou east railway station plaza west">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231996.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/100015</hdurl>
+			</video>
+			<video name="Xihe flyover east">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231972.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10156</hdurl>
+			</video>
+			<video name="Xihe sports center ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231973.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10155</hdurl>
+			</video>
+			<video name="Lechang gu fo rock ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232063.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10169</hdurl>
+			</video>
+			<video name="Shaoguan port building">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231945.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10162</hdurl>
+			</video>
+			<video name="East river destination">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231977.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10154</hdurl>
+			</video>
+			<video name="Xihe fitness plaza">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231953.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10161</hdurl>
+			</video>
+			<video name="Beijing-zhuhai southern">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231949.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10163</hdurl>
+			</video>
+			<video name="In qujiang hydrological high-speed intersection">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/231957.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10164</hdurl>
+			</video>
+			<video name="A male south ancient lane ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232065.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10168</hdurl>
+			</video>
+			<video name="Jumps the playground in qujiang ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232073.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10035</hdurl>
+			</video>
+			<video name="The second floor corridor in qujiang school office building ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3101/232074.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.249.248:554/Camera/10034</hdurl>
+			</video>
+		  <video name="Fitness plaza center " >
+    	<url>rtsp://211.139.249.252:554/GE5DCMBQGA5DAORRHEZC4MJWHAXDCMBOHA5DGNZXG43TUMJQGE2TK/GI5GCZDNNFXDUYLENVUW4/GM5G24DFM42A/GQ5DGZ3QOA5HCY3JMY/v.sdp</url>
+    	</video>
+		</city>
+	</province>
+</provinces> 

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="guangdong" order="A" >
+<city name="heyuan" type="4" order="E" >
+
+
+<video name="Huangsha avenue and DongHuanLu intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/41F98D648CBDEE37/XUhORChhu4HpVydQ.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/41F98D648CBDEE37/YWpXmT0kGhyVZZvY.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</hdurl>
+</video>
+<video name="Huangsha avenue city TV center the door ">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/8FB9484D356434AC/IiMOAVU51DDT360Q.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/8FB9484D356434AC/Puv8NfijF8007GW7.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</hdurl>
+</video>
+<video name="Zhuheqiao north rotary along the river road">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/428A73A6A78192E7/jxXqYQebUHuEzWTy.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/428A73A6A78192E7/SxwXRjJUufgIdfvq.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</hdurl>
+</video>
+<video name="Huangsha avenue Yajule intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/D253D4DF41CA7BEF/L7DmUw1FFa57EVay.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/D253D4DF41CA7BEF/ITJjMQOwSJyGxBTB.sdp?id=13923688295::1;t=1343924495::1;en=3584a3e3834b4b0e2522ce04540a4cef</hdurl>
+</video>
+<video name="Heyuan avenue north Dongpu disc">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/DFABF27E7268A3E3/OLeWVCsTZwKpEQmg.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/DFABF27E7268A3E3/j29qQzK0ol0hf90g.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Huangsha administrative center intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/DFABF27E7268A3E3/52D6dshe8IsNM3FP.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/DFABF27E7268A3E3/HuqsYyOAlDBRZBZG.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="DongHuanLu golf course before T intersection ">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/DBA24878F5AE04AE/3uR6HDTZ8QA9tSgv.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/DBA24878F5AE04AE/rxboznDCx6k1cKGL.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Heyuan avenue south -longweiba crossroads">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/65F084A7C912D17F/22NlEJrnPy5T1aIo.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/65F084A7C912D17F/t2O3CoyQfyc5gQtJ.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Baoyuanyilu-baoyuanqiaoyou">
+<ldurl>rtsp://120.198.90.155:554/mobile/2/301778CB94321C47/JhMbQd4QYs20UTsZ.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/2/301778CB94321C47/wpK3ppV3w7RBdHYy.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Xi huanlu Lu xinfengjiang power plant crossroads">
+<ldurl>rtsp://120.198.90.155:554/mobile/7/301778CB94321C47/KGgQ3ySlL96oYKxs.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/7/301778CB94321C47/0F7qWU7oQyhtS63L.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="High-speed export of Heyuan city ">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/78FF8104B8BA2059/yYZ58N33tjVkD7SB.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/78FF8104B8BA2059/AYpVGKVvZL6Ng54u.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Linjiang police training center bayonet">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/C406EB3FCA0BE78B/CHFzNTOF71fBYTgh.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/C406EB3FCA0BE78B/yKXVyQ7sQRS3zEXQ.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Shuangxia Lu And deyuan Road intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/F56DEB9BACB11BE4/ddpN4EFOSdj49u8b.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/F56DEB9BACB11BE4/NbVbN8z3s5jCLfBt.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="yanjiang Lu And Datong Lu intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/A31BEEFA2D77FD72/60mk5pZpc8uDQz3Z.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/A31BEEFA2D77FD72/0vQYIB6hSN4q2Kqo.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Heyuan  square corner">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/8571BAFEF66A1C21/ZSttKJsVm2St5WRH.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/8571BAFEF66A1C21/wOeKbmNUeTpf5R7W.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Chang-an street Donghua Lu  intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/AA2289002C63A4FA/5deb7OkCOINfuFau.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/AA2289002C63A4FA/mEKteNwOKcRlXjz2.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Hongxing Lu Donghua Lu  intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/460F1C30C3F39F0F/rxuJZKJtNM3iqvBx.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/460F1C30C3F39F0F/yhbcvsYg7I2klkc2.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Hongxing Lu and Datong Lu  intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/460F1C30C3F39F0F/V5Jhzspx0PuBayBf.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/460F1C30C3F39F0F/28bc9PSBQSS6Tknc.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="yanjiang Lu and kaifeng Lu  intersection 1">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/F44C9452773F5D30/ur3zvqUoXyQEEVWC.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/F44C9452773F5D30/OmSLnxhehkvPqOYw.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Wenming Lu and Donghua Lu  intersection 1">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/6E2313BF84B25068/cAFnsZ3lKoH68SD0.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/6E2313BF84B25068/5AtuVms5Xpgg6Tk7.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Hongxing Lu and xinfeng Lu intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/2/F632C29FC986D864/vnH6NNNRDzUyPx6e.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/2/F632C29FC986D864/897wZdUw5bpq9pwC.sdp?id=13923688295::1;t=1343924496::1;en=64c837974ff86c76f09b2904ae95aa84</hdurl>
+</video>
+<video name="Heyuan city jianshe Lu camera 1">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/9B8BE84FD157ABBF/aejbx5e9r5jlck7g.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/9B8BE84FD157ABBF/b7d8h6grthyxwfr4.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Railway station square - traffic camera">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/799B2E6606AFF8E6/pgzwymaejw9fi1zm.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/799B2E6606AFF8E6/82skw9zxxb5rr7sy.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="jianshe  avenue-huangsha avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/16/A6F1F39C385F72FF/nWPpdM9YwJEQDPx7.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/16/A6F1F39C385F72FF/1AAp7G48WngF80pj.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="hepu avenue- liwang avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/11/A6F1F39C385F72FF/8RZZmDcpn6BaspeZ.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/11/A6F1F39C385F72FF/NUjpfj1g3mKbciUg.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="hepu avenue-nanmen Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/9/A6F1F39C385F72FF/fRhcnWvHdWmFCuLj.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/9/A6F1F39C385F72FF/wCdXCdLuiGueFlwX.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="hepu avenue-chengnan Toll station ">
+<ldurl>rtsp://120.198.90.155:554/mobile/12/A6F1F39C385F72FF/CnarKsiu0sqlqnfr.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/12/A6F1F39C385F72FF/PuzP9dXj4hPSQ7kj.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Heou avenue - jianshe avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/3/A6F1F39C385F72FF/csISoZ6RmIljIxpn.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/3/A6F1F39C385F72FF/ESucJixkgsW7EKtg.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Huihe High-speed intersection ">
+<ldurl>rtsp://120.198.90.155:554/mobile/15/A6F1F39C385F72FF/t6iSj6gkkPW4Cqkf.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/15/A6F1F39C385F72FF/G5vv225vbYbubuhL.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Wenming Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/A6F1F39C385F72FF/IAmKO5Mb7KUWTD9S.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/A6F1F39C385F72FF/c6lxBvpC7PlXAXFD.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue- xinjiang yi Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/A6F1F39C385F72FF/XI0VHPlhCuiENkvL.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/A6F1F39C385F72FF/c61FrrL5C9HSWz5X.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Mingzhu Industrial park ">
+<ldurl>rtsp://120.198.90.155:554/mobile/10/A6F1F39C385F72FF/1YkiaNzbfiK3iQEb.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/10/A6F1F39C385F72FF/NzCNOHBGCXGCFfjY.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Ronghe Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/2/A6F1F39C385F72FF/dklrmqTbBa5nfYNc.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/2/A6F1F39C385F72FF/fWHzNuWDM72ZXEuH.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Kejiu Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/14/A6F1F39C385F72FF/pY0WcC9bIMVcVCxt.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/14/A6F1F39C385F72FF/Ahejl60ayeYPhgZd.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Hongxing Lu">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/A6F1F39C385F72FF/RMRJbksRe3oSSWE5.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/A6F1F39C385F72FF/RO3YbRgaTe6CKJUF.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-LaoGuang mei road">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/A6F1F39C385F72FF/uFylqJyPaUJPHaKq.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/A6F1F39C385F72FF/qL39dpEz2XppeXAB.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-ChangTang road">
+<ldurl>rtsp://120.198.90.155:554/mobile/7/A6F1F39C385F72FF/TCRrHS0ZYXJNx8nH.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/7/A6F1F39C385F72FF/XN2qsadVaeZMpyAM.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Longji group">
+<ldurl>rtsp://120.198.90.155:554/mobile/13/A6F1F39C385F72FF/Cq2yv4jze6x62kXd.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/13/A6F1F39C385F72FF/ShrOaRirPIQO5Fvw.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Hepu avenue-Daqiaonan Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/8/A6F1F39C385F72FF/sNgF2TBH0tGTpWUB.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/8/A6F1F39C385F72FF/KhBxj2AZdcNh0g6K.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Wanlvhu avenue-K3340">
+<ldurl>rtsp://120.198.90.155:554/mobile/11/2F74CF68AEFECFD5/hsf0rfHPXvGNB44P.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/11/2F74CF68AEFECFD5/FaVvKbD2IxnIdjlO.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Wanlvhu avenue-Wangding villa">
+<ldurl>rtsp://120.198.90.155:554/mobile/10/2F74CF68AEFECFD5/HNc7Wddq04zCz5YB.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/10/2F74CF68AEFECFD5/79IlU3hMd9lxqWVR.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Wanlvhu avenue-Old Wanlvhu avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/13/2F74CF68AEFECFD5/JhVZ6g2mzJ74zOsm.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/13/2F74CF68AEFECFD5/MzboOgt23PuxVlwL.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Wanlvhu avenue-Old Guangmei Road(K0720)">
+<ldurl>rtsp://120.198.90.155:554/mobile/9/2F74CF68AEFECFD5/EzrCSDWxCyhbJqUi.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/9/2F74CF68AEFECFD5/u4gjfk9I9NPflskG.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Zhongshan avenue-Xinyuan Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/2F74CF68AEFECFD5/v6LzOk6TuZ7sBbM0.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/2F74CF68AEFECFD5/XWLd0NX0QzIxER96.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Zhongshan avenue-Chang-an Street">
+<ldurl>rtsp://120.198.90.155:554/mobile/6/2F74CF68AEFECFD5/voNNw2thchTW3XP1.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/6/2F74CF68AEFECFD5/tqLqIJDrkbFLtMtV.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Xinye avenue-Kejiu intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/7/2F74CF68AEFECFD5/qkwfFazB9WeNdv21.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/7/2F74CF68AEFECFD5/j88r19LQpN7ku7vo.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Xinye avenue-KeWu intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/8/2F74CF68AEFECFD5/bDv640i2OvhE8Tyv.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/8/2F74CF68AEFECFD5/Rg2JsYVihJuWcMO8.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Jianshe avenue-Donghua Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/2/2F74CF68AEFECFD5/j5fHc09Uto8GTFqc.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/2/2F74CF68AEFECFD5/gwpWQITpUVS07eZ9.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Jianshe avenue-Zhongshan avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/2F74CF68AEFECFD5/ga7cYLUUn39r2HcD.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/2F74CF68AEFECFD5/AsVSDyfliJDxCEyd.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Jianshe avenue-DaTong Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/2F74CF68AEFECFD5/D7utrpXFERwmvhHi.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/2F74CF68AEFECFD5/omGUe80OM7vEk6P4.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Jianshe avenue-Xinfeng Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/3/2F74CF68AEFECFD5/u5IvASS3MffeHCJx.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/3/2F74CF68AEFECFD5/WQ8JUHsZwSTC20eO.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="GuiShan Yingke avenue-Hepu avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/16/2F74CF68AEFECFD5/AKu9ZVNMu9tGcP1I.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/16/2F74CF68AEFECFD5/jWAaM79EmE1DeUgY.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="GuiShan Yingke avenue-Old  Xihuan road ">
+<ldurl>rtsp://120.198.90.155:554/mobile/14/2F74CF68AEFECFD5/10INoavUJHdc8sMJ.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/14/2F74CF68AEFECFD5/hXyTsOuvVRYNGCJJ.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="GuiShan Yingke avenue K1600">
+<ldurl>rtsp://120.198.90.155:554/mobile/15/2F74CF68AEFECFD5/DGFVSIqNwV5aCIIN.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/15/2F74CF68AEFECFD5/yHOCwVIEi8cbWY8R.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Binjiang avenue-Xinxin Road">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/125921B84CF35AD2/dF0rZMLo4NuFqFaN.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/125921B84CF35AD2/ypOdFaGYNDHDt9n3.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Binjiang avenue/Xinxin Road(K9040)">
+<ldurl>rtsp://120.198.90.155:554/mobile/3/125921B84CF35AD2/Z2NTJXwF5qzr1vcZ.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/3/125921B84CF35AD2/yAGPiTT6Kp65a05O.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Binjiangbei Road/GuiShan Yingke avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/2/125921B84CF35AD2/EFocikNcV85Ot5u0.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/2/125921B84CF35AD2/K7M9C7VdijCd8lmO.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Binjiangnan Road-GuiShan Yingke avenue">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/125921B84CF35AD2/1hkgU7HK5J3sESz5.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/125921B84CF35AD2/4GuKCqssQlOCV33B.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Gongyuan Road-East Gongyuan Road intersection">
+<ldurl>rtsp://120.198.90.155:554/mobile/1/5070D49C404319F6/RwsRQf1IMZP94U62.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/1/5070D49C404319F6/UTjrQZHZVawfOMbb.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Guangyuanxi Road-Maternity and child care centers Door">
+<ldurl>rtsp://120.198.90.155:554/mobile/4/112552F4C6C67936/qZq4TQjS0RZljpT3.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/4/112552F4C6C67936/MgzzAmoBgn74LuLj.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+<video name="Cinema opposite Intermediate disc ">
+<ldurl>rtsp://120.198.90.155:554/mobile/5/0E82076FF1C389EB/htq5ShMi0a2qatpO.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</ldurl>
+<hdurl>rtsp://120.198.90.155:554/live/5/0E82076FF1C389EB/8wXhevgRCXXnH6c3.sdp?id=13923688295::1;t=1343924469::1;en=4333cdd22b66edfcd6e7d3a4dccad6e3</hdurl>
+</video>
+
+
+</city>
+</province>
+</provinces>

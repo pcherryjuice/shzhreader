@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="广东" order="S">
+		<city name="广州" type="0" order="A">
+			<video name="# 广州(单击加载)">
+				<url>city/gd/gdgz.xml</url>
+			</video>
+		</city>
+		<city name="深圳" type="0" order="B">
+			<video name="# 深圳(单击加载)">
+				<url>city/gd/gdsz.xml</url>
+			</video>
+		</city>
+		<city name="东莞" type="0" order="C">
+			<video name="# 东莞(单击加载)">
+				<url>city/gd/gddg.xml</url>
+			</video>
+		</city>
+		<city name="佛山" type="0" order="D">
+			<video name="# 佛山(单击加载)">
+				<url>city/gd/gdfs.xml</url>
+			</video>
+		</city>
+		<!--city name="华为" type="0" order="K">
+			<video name="# 华为(单击加载)">
+				<url>city/gd/gdhw.xml</url>
+			</video>
+		</city-->
+		<city name="汕头" type="0" order="K">
+			<video name="# 汕头(单击加载)">
+				<url>city/gd/gdst.xml</url>
+			</video>
+		</city>
+		<city name="珠海" type="0" order="F">
+			<video name="# 珠海(单击加载)">
+				<url>city/gd/gdzh.xml</url>
+			</video>
+		</city>
+		<city name="惠州" type="0" order="G">
+			<video name="# 惠州(单击加载)">
+				<url>city/gd/gdhz.xml</url>
+			</video>
+		</city>
+		<city name="中山" type="0" order="H">
+			<video name="# 中山(单击加载)">
+				<url>city/gd/gdzs.xml</url>
+			</video>
+		</city>
+		<city name="江门" type="0" order="I"><video name="# 江门(单击加载)"><url>city/gd/gdjm.xml</url></video></city>
+		<city name="河源" type="0" order="E"><video name="# 河源(单击加载)"><url>city/gd/heyuan.xml</url></video></city>
+		<city name="韶关" type="0" order="J">
+			<video name="# 韶关(单击加载)">
+				<url>city/gd/gdsg.xml</url>
+			</video>
+		</city>
+		<city name="梅州" type="0" order="K">
+			<video name="# 梅州(单击加载)">
+				<url>city/gd/gdmz.xml</url>
+			</video>
+		</city>
+		<city name="汕尾" type="0" order="L">
+			<video name="# 汕尾(单击加载)">
+				<url>city/gd/gdsw.xml</url>
+			</video>
+		</city>
+		<city name="阳江" type="0" order="N">
+			<video name="# 阳江(单击加载)">
+				<url>city/gd/gdyj.xml</url>
+			</video>
+		</city>
+		<city name="湛江" type="0" order="O">
+			<video name="# 湛江(单击加载)">
+				<url>city/gd/gdzj.xml</url>
+			</video>
+		</city>
+		<city name="茂名" type="0" order="P">
+			<video name="# 茂名(单击加载)">
+				<url>city/gd/gdmm.xml</url>
+			</video>
+		</city>
+		<city name="肇庆" type="0" order="Q">
+			<video name="# 肇庆(单击加载)">
+				<url>city/gd/gdzq.xml</url>
+			</video>
+		</city>
+		<city name="清远" type="0" order="R">
+			<video name="# 清远(单击加载)">
+				<url>city/gd/gdqy.xml</url>
+			</video>
+		</city>
+		<city name="潮州" type="0" order="J">
+			<video name="# 潮州(单击加载)">
+				<url>city/gd/gdcz.xml</url>
+			</video>
+		</city>
+		<city name="揭阳" type="0" order="J">
+			<video name="# 揭阳(单击加载)">
+				<url>city/gd/gdjy.xml</url>
+			</video>
+		</city>
+		<city name="云浮" type="0" order="M">
+			<video name="# 云浮(单击加载)">
+				<url>city/gd/gdyf.xml</url>
+			</video>
+		</city>
+		<city name="梅州" type="0" order="K">
+			<video name="# 梅州(单击加载)">
+				<url>city/gd/gdmz.xml</url>
+			</video>
+		</city>
+		<city name="南沙渔港" type="0" order="Q">
+			<video name="# 南沙渔港(单击加载)">
+				<url>city/gd/gdnsyg.xml</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

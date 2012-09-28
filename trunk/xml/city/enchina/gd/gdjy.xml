@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="jieyang" type="1" order="J">		
+			<video name="XingHe Cheng-LinJiang Road South(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/428C1A6F4422371E/U78nSFuZD98Z1qzg.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>
+			<video name="XingHe Cheng-LinJiang Road South">
+			<url>rtsp://120.196.147.14:554/live/1/428C1A6F4422371E/pweGlAbFmfYIrLqv.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>					
+			<video name="HuiJingLanWan-crossroads(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/269C5CF65259795B/sfNhs07iDPtlkLyz.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>
+			<video name="HuiJingLanWan-crossroads">
+			<url>rtsp://120.196.147.14:554/live/1/269C5CF65259795B/pibEWzFk9lO596SJ.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>			
+		
+			<video name="PuNing city China Mobile services agency -IP208">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/7608.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/D5A5A514A12C06F6/9qQBYtQdQ4xWqcHF.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="HuiLai City-JinLong Building crossroads">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3171/231261.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://120.196.147.14:554/live/1/FDC3F73587DB7B27/W5EK66TRmWD4koRy.sdp?id=guest::1;t=1321721312::1;en=a331c74c3f61a6f6808f7c1d35bf7ce1::1;rs=cmgd</hdurl>
+			</video>
+			<video name="HuiLai City-HuiShen intersection(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/FAEC79528E7528A7/uygXDZmMSmbuboaG.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>
+			<video name="HuiLai City-HuiShen intersection">
+			<url>rtsp://120.196.147.14:554/live/1/FAEC79528E7528A7/ExN5oXSTt5h9JoSa.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>		
+			<video name="HuiLai City-JinLong Buildingcrossroads(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/FDC3F73587DB7B27/XdCZy3dOKTZ4I48R.sdp?id=guest::1;t=1316757783::1;en=76043533ca9ea6a6524bec5a5a0ed5fb::1;rs=cmgd</url>
+			</video>					
+			<video name="HuiLai City-JinLong Buildingcrossroads">
+			<url>rtsp://120.196.147.14:554/live/1/FDC3F73587DB7B27/j6TBPIC2MAG6l16f.sdp?id=guest::1;t=1316757783::1;en=76043533ca9ea6a6524bec5a5a0ed5fb::1;rs=cmgd</url>
+			</video>			
+			<video name="JieXi City JingMing Holiday village -Under the main channel (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/CD6C6EC7AD911238/HLfVHUF2muIYTqoA.sdp?id=guest::1;t=1322020264::1;en=78bab2ce5528cc7f1fed843269c61f83::1;rs=cmgd</url>
+			</video>
+			<video name="JieXi City JingMing Holiday village -Under the main channel ">
+			<url>rtsp://120.196.147.14:554/live/1/CD6C6EC7AD911238/QN12ThUYywKHZbX5.sdp?id=guest::1;t=1322020264::1;en=78bab2ce5528cc7f1fed843269c61f83::1;rs=cmgd</url>
+			</video>
+			<video name="JieXi City JingMing Holiday village -Before the main channel (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/AF28420C9F12A7AE/j2fmZjkbGdkxC9On.sdp?id=guest::1;t=1322020264::1;en=78bab2ce5528cc7f1fed843269c61f83::1;rs=cmgd</url>
+			</video>
+			<video name="JieXi City JingMing Holiday village -Before the main channel ">
+			<url>rtsp://120.196.147.14:554/live/1/AF28420C9F12A7AE/VU1EpCQoVIASqkYx.sdp?id=guest::1;t=1322020264::1;en=78bab2ce5528cc7f1fed843269c61f83::1;rs=cmgd</url>
+			</video>			
+			<video name="Jieyang floor square -To Shan0Tou (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/E0B567F61A450355/cJeqz9IjMfkhJfKa.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>
+			<video name="Jieyang floor square -To ShanTou">
+			<url>rtsp://120.196.147.14:554/live/1/E0B567F61A450355/ACRXfITrBVQO2ztN.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>			
+			<video name="Jieyang floor square - crossroads(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/FCD09FCE90787458/zJCRf94LkCNMZm7j.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>
+			<video name="Jieyang floor square - crossroads">
+			<url>rtsp://120.196.147.14:554/live/1/FCD09FCE90787458/tbh6rB8yotodxYEd.sdp?id=guest::1;t=1313807392::1;en=78ffb70708165a3c8a315b6061552e2b::1;rs=cmgd</url>
+			</video>			
+			<video name="JieDong WanZhuYuan-Gate entrance (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/E0DAAE1D5569DC25/s4p5WzZm3Sj8ibc1.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>
+			<video name="JieDong WanZhuYuan-Gate entrance ">
+			<url>rtsp://120.196.147.14:554/live/1/E0DAAE1D5569DC25/TjxDIlESbYkGZPsS.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>			
+			<video name="PuNing city -PuNing city The municipal government east (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/9A6E0EBCB87B51F6/CAJli7yZMNYSgRfZ.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>		
+			<video name="PuNing city -PuNing city The municipal government east ">
+			<url>rtsp://120.196.147.14:554/live/1/9A6E0EBCB87B51F6/T1ZzxOCxWyItSeVk.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>					
+			<video name="PuNing city -PuNing city The municipal government West(LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/BF94BE0C16AC416D/6zwqzWc4IpSdrwAZ.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>
+			<video name="PuNing city -PuNing city The municipal government West">
+			<url>rtsp://120.196.147.14:554/live/1/BF94BE0C16AC416D/Iu02imLK92GDQMWo.sdp?id=guest::1;t=1316758120::1;en=a8a9274fe7097be2e3b198340fa14e60::1;rs=cmgd</url>
+			</video>			
+	    <video name="North river bridge -RongCheng bridge (LD)">
+			<url>rtsp://120.196.147.14:554/mobile/1/01ED354C39D6C98A/NqFw31kduNNnCw4X.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>
+			<video name="North river bridge -RongCheng bridge ">
+			<url>rtsp://120.196.147.14:554/live/1/01ED354C39D6C98A/vnyTTRBuWnb6we0F.sdp?id=guest::1;t=1313808091::1;en=16440a04efa1939e059a78afa84823fa::1;rs=cmgd</url>
+			</video>	
+		</city>
+	</province>
+</provinces> 

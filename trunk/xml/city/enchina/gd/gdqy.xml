@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="qingyuan" type="1" order="R" >
+			<video name="Qing city fengming road and binjiang road interchange  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>		
+			<video name="Qing city fengming road and binjiang road interchange  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>		
+			<video name="Qingyuan city qing city bus passenger stations  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007321::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=0a3e8b4d7ba43fcb8365f4c7476d01fb</url>
+			</video>	
+			<video name="Qingyuan city qing city bus passenger stations  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007321::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=d2b13621085c9503a9f832623b755102</url>
+			</video>	
+			<video name="Qing city silver spring south road  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007317::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=53a69c7a17d8af164d95fe4e7de34d89</url>
+			</video>	
+			<video name="Qing city silver spring south road  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007317::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=20998a512b7c9f65df90b838c2a4c23b</url>
+			</video>		
+			<video name="Qing city half loop stadium sections  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007325::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bd321dbafb1c9e679574724efb23c3c0</url>
+			</video>	
+			<video name="Qing city half loop stadium sections  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007325::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=810fd6703bd06ea0a0adc0d785ab85c3</url>
+			</video>	
+			<video name="Qing city silver spring road north road  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007327::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=13fe5841ad42771e71c2085e80244eeb</url>
+			</video>	
+			<video name="Qing city silver spring road north road ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007327::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fbc7a6e45d71a9158ea0e918741d864f</url>
+			</video>		
+			<video name="Qing city bridge north road and pioneer road border (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007335::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=380079957538bac439029350a15f0592</url>
+			</video>	
+			<video name="Qing city bridge north road and pioneer road border ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007335::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=19dc0c31ec99e030b0999b070f64750b</url>
+			</video>	
+			<video name="ChinaMobile fresh branch binjiang road north direction  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007378::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=af4deaf23143ac57d64a1f51b5ca8b82</url>
+			</video>	
+			<video name="ChinaMobile fresh branch binjiang road north direction  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007378::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=87780e284df8743032b5a7b1d23b1116</url>
+			</video>	
+			<video name="Qingxin north station square  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007384::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=23352b88ea9e0af6b750ee4a575506a7</url>
+			</video>	
+			<video name="Qingxin north station square  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007384::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=0f7e8ff1b81e59b39fa7ecba19f7c8c3</url>
+			</video>		
+			<video name="Buddha hill county, 106 national highway road south to north direction (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007331::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bcc02747fa18e29f7908e207e7e21efc</url>
+			</video>	
+			<video name="Buddha hill county, 106 national highway road south to north direction ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007331::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fe16b0e40486799b28922718452d1aa5</url>
+			</video>								
+			<video name="Qingyuan beijiang river bridge north road (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007333::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=21ed08971b8dc02bf645e57c2ab50aeb</url>
+			</video>	
+			<video name="Qingyuan beijiang river bridge north road ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007333::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=49bf444026e04089faedd7b6f3a71066</url>
+			</video>		
+			<video name="Yangshan LianJiang avenue toward the south (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007388::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=c5d09bb1f6310c1866d5f155648ef7bf</url>
+			</video>	
+			<video name="Yangshan LianJiang avenue toward the south ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007388::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=78fcc8cbee9d10ff476f599b2bd1e419</url>
+			</video>		
+			<video name="Yangshan LianJiang avenue intersections  (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007386::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=1b21c4abd463321d3abde4776839cad3</url>
+			</video>	
+			<video name="Yangshan LianJiang avenue intersections  ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007386::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=6d9f8d7a0a1574dd0fbfe926ce33c637</url>
+			</video>		
+			<video name="South gate road to the north    (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007394::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=3718fe141cb42feb40a7a323baa605b3</url>
+			</video>	
+			<video name="South gate road to the north    ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007394::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=54ee113286608fbdef292e094889d65e</url>
+			</video>		
+			<video name="LianNan bus station (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007402::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fddfa72ee3103fddb2809ca0a7ee40ff</url>
+			</video>	
+			<video name="LianNan bus station ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007402::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=bce72cf08f11f2b61c6231bdd304ebcf</url>
+			</video>		
+			<video name="LianNan Tuanjie Road intersection (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007399::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=f8c5010e83e60de7d241374a9112735b</url>
+			</video>	
+			<video name="LianNan Tuanjie Road intersection ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007399::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=fa7362a2bd170ad60d705885a19c1678</url>
+			</video>		
+			<video name="Lianshan along the river road and binjiang road bridge between (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007405::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=36ca7c8fc39f3afb0faca6943eed9b64</url>
+			</video>	
+			<video name="Lianshan along the river road and binjiang road bridge between ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007405::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=7664bb41ce6a68144aaa2be07e8aa97b</url>
+			</video>		
+			<video name="Lianshan Yanjiang Road Yanjiang Xi Road Ring island (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=6a371853b85de419acd91cc7c7323830</url>
+			</video>	
+			<video name="Lianshan Yanjiang Road Yanjiang Xi Road Ring island ">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007401::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=3651ee7f8f229318ff08f7fa6781e011</url>
+			</video>																					
+			<video name="Qingxin avenue  Qingsi crossroads(LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=5b0a68d61f8c9b11c6976fc21cca6c1f</url>
+			</video>	
+			<video name="Qingxin avenue  Qingsi crossroads">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007380::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=20ea2538e2756c7a7b9ac751d8e77ff7</url>
+			</video>		
+			<video name="Qingxin avenue  The road to the north direction (LD)">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007382::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=89fee3d8f2e60ab37db7acc0bd169e03</url>
+			</video>			
+			<video name="Qingxin avenue  The road to the north direction">
+			<url>rtsp://218.204.230.75:554/service?PuId-ChannelNo=010203010701010500007382::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.118.132::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20120612063203::1;encrypt=d8313cc90bb7cb73c53507eed9647a3e</url>
+			</video>					
+		</city>
+	</province>
+</provinces> 

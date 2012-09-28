@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.3">
+   <province name="guangdong" order="S">
+		<city name="foshan" type="1" order="D" >
+	    <video name="PuLan Second Road-Tongji Road(LD)">
+	    <url>rtsp://211.139.201.226:554/mobile/1/66C8415C7B091734/smlwb5mxljiiweiw.sdp</url>
+	    </video>
+	    <video name="PuLan Second Road-Tongji Road">
+	    <url>rtsp://211.139.201.226:554/live/1/66C8415C7B091734/bljl5j4spd7ra2ha.sdp</url>
+	    </video>	    
+	    <video name="FoShan Road-LuJing Road intersection">
+	    <url>rtsp://211.139.201.226:554/mobile/1/75F036DE6A80FD9A/8y1vfa435degrqk7.sdp</url>
+	    </video>
+	    <video name="ZhaoXiang Road-Wenhua Road North intersection">
+	    <url>rtsp://211.139.201.226:554/mobile/1/B5E33434AC564EEE/8y1vfa435degrqk7.sdp</url>
+	    </video>
+	    <video name="SongFeng Road">
+	    <url>http://211.139.201.226/wap/page/sfl.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/4BA3547173FA30F2/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+	    <video name="ShengPing Road">
+	    <url>http://211.139.201.226/wap/page/spl.aspx</url>
+	    <hdurl>rtsp://211.139.201.226:554/mobile/1/0B0428B00C3A70E2/8y1vfa435degrqk7.sdp</hdurl>
+	    </video>
+			<video name="FoShan Road-WuFeng four Road intersection">
+			<url>rtsp://211.139.201.226:554/mobile/1/AF6B72D806A62A11/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="Tonghua Road">
+			<url>rtsp://211.139.201.226:554/mobile/1/772D2E7F94C82423/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="QinRen Road-FoShan Road intersection">
+			<url>rtsp://211.139.201.226:554/mobile/1/0B0428B00C3A70E2/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="NanHai Road-HaiYi Road intersection">
+			<url>rtsp://211.139.201.226:554/mobile/1/3871236C0A3C26C6/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="FoPing Three Road">
+			<url>rtsp://211.139.201.226:554/mobile/1/8D790810F3C299C8/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="HuangQi Road West">
+			<url>rtsp://211.139.201.226:554/mobile/1/99BD09074213B349/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="Hengjiang Road">
+			<url>rtsp://211.139.201.226:554/mobile/1/DBD9429EB4095626/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="YunLiang Road">
+			<url>rtsp://211.139.201.226:554/mobile/1/4DCFFCCD3F950A54/8y1vfa435degrqk7.sdp</url>
+			</video>
+		  <video name="ChengCun Road-105 national Road  intersection">
+			<url>rtsp://211.139.201.226:554/mobile/1/C04D8A0EA70313DC/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="362 provincial road ">
+			<url>rtsp://211.139.201.226:554/mobile/1/9D2874E648C48C41/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="Xingtan XinYong">
+			<url>rtsp://211.139.201.226:554/mobile/1/E90BCBCB99E495E2/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="GuangHua Road">
+			<url>rtsp://211.139.201.226:554/mobile/1/A069F705845D3C31/8y1vfa435degrqk7.sdp</url>
+			</video>	
+			<video name="Industrial avenue">
+			<url>rtsp://211.139.201.226:554/mobile/1/B0F30C5C8EB7264E/8y1vfa435degrqk7.sdp</url>
+			</video>
+		</city>
+	</province>
+</provinces> 

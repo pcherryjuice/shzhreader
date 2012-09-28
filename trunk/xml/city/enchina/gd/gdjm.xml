@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="jiangmen" type="1" order="I" >
+			<video name="ShuangLong Hotel- JianShe One Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000122::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=e48c453427bbbf8ae45a13aaab9d4463</url>
+			</video>	
+			<video name="Gotone Building-JianShe Three Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000202::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=4e58f3ae6d428ab964daff4d4eba2b43</url>
+			</video>			
+			<video name="Gotone Building-JianShe Second Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=2891903e6ab3b7368e2f1665793f830f</url>
+			</video>	
+			<video name="NongJiChang-wuyi university  direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000474::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=2af39374c5b30e9ca8f2d241fe7b35d1</url>
+			</video>	
+			<video name="NongJiChang- LiGong Hotel direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000347::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=7b448c09a6e7e800dde0b53e627273d1</url>
+			</video>	
+			<video name="JiangYue Hotel- JianShe Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000194::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=a2af4eca65f2a85bfbf815af289aee3a</url>
+			</video>		
+			<video name="JiangYue Hotel-ZhongQu avenue direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000192::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=65a7c5473ac6e92ae7cdabff6e8c8876</url>
+			</video>	
+			<video name="YingBin avenue center- YiHao direction ">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000124::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=584899cb60701b44a05491ea0a6aedae</url>
+			</video>			 
+			<video name="JinHua Building-DongHua One Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000190::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=8f1a14cc10a6c21b543bc7858370ff43</url>
+			</video>	
+			<video name="JinHua Building-Donghua Second Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000188::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=6c913b5e09481d2cbdc52adaed82cda7</url>
+			</video>		
+			<video name="DongHu supermarket-GangKou One Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000126::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=26685c25b70701fadf952c3e1d339290</url>
+			</video>		
+			<video name="DongHu supermarket-YueJin Road direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000159::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=09179570a0d908d93d32296be8c9cf7a</url>
+			</video>		
+			<video name="TianYue Hotel-GangZhou  avenue To DongYe Building direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000351::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=14551a11e21a261dfe63ae2fc048b559</url>
+			</video>		
+			<video name="XinHui TianYue Hotel-DongQin Road North direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000065::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=44b6d43f29d406da1818aac3c1bcae4b</url>
+			</video>		
+			<video name="XinHui FengHuang Hotel-ChuangXin garden direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000163::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=685dd99a6c11f4a2ac202604d1fa32cb</url>
+			</video>		
+			<video name="XinHui FengHuang Hotel-XinHui  avenue Center direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000161::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=10cebfc3a235f069727ae6e31a70a79d</url>
+			</video>		
+			<video name="XinHui Cereals and oil  Building-ZhiZheng Road South direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000182::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=90a0a099beed6551127719c334dfdd08</url>
+			</video>	
+			<video name="XinHui Cereals and oil  Building-Yu An Building direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000180::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=0e2341a162874a703077ef598255963a</url>
+			</video>		
+			<video name="TongRenTang pharmacy-SanHe avenue West direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000186::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512134143::1;encrypt=41b57e97eed39745ff2955d9636e830a</url>
+			</video>	
+			<video name="WenHua Road-JiYuan Road  rotary island direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003007::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110512135320::1;encrypt=d3e860c6aea66044e074187050d3761e</url>
+			</video>	
+			<video name="ZhongShan Road Post office -NanShan park direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004205::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110517040800::1;encrypt=03e4a430f28eea4a9b65ad428569363a</url>
+			</video>	
+			<video name="ZhongShan Road Post office -XinXin shop direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004204::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110517040800::1;encrypt=fc99d231a68339d505c33e3a8a8a0360</url>
+			</video>	
+			<video name="XinHua Road North-MeiHua West direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000476::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807144155::1;encrypt=995db482aab833bf95dc6441d64942fd</url>
+			</video>	
+			<video name="SeSe HunSha-EnPing Bridge direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004207::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=9f9db5df9ee580ee96f1a286fea6e0e1</url>
+			</video>	
+			<video name="XinHua Road North-FeiETang direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004206::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=0fc51e8c5a0b5869e5263479a5ff79bf</url>
+			</video>	
+			<video name="SeSe HunSha-EnPing Road crossroads direction">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004208::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110807145116::1;encrypt=580ccb4bb5ab2a22f629800e3ecc7757</url>
+			</video>	
+			<video name="MuSha Road to YunDIng  direction">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005088::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=6e1a4c894aa77408e9306a5ad4d9d2e8</url>
+			</video>	
+			<video name="ShuGuang Road West to West">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005082::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=45242b55b840960ef03a9ff4e5bcd7ac</url>
+			</video>	
+			<video name="ShuGuang Road West to East direction">
+			<url>rtsp://218.204.248.185:554/service?PuId-ChannelNo=010203010601010500005086::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20110812212404::1;encrypt=23c75ee01a6ae4db69975d6e9a763ab9</url>
+			</video>	
+			<video name="YiHao Hotel 1">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003421::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=a07c3eeb621501998ac8d9eebab02e34</url>
+			</video>	
+			<video name="YiHao Hotel 2">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005581::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=64df2f0701b3522caead8b179bb023ab</url>
+			</video>	
+			<video name="YiHao Hotel 3">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005582::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=9190a3d98ba763496f95872a13402f89</url>
+			</video>	
+			<video name="YiHao Hotel 4">
+			<url>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005583::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111102191107::1;encrypt=7cefffdb40a0b7ca5440873a9e4705d1</url>
+			</video>
+			<video name="JiangMen TaiShan DongHe2">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004996::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=d1d3032f47d3cbf3e305a90535e36934</hdurl>
+			</video>
+			<video name="JiangMen complex building Front door">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003418::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=ad4729cc3bf126506c690283e3b29b7d</hdurl>
+			</video>
+			<video name="JiangMen company Foreign customer parking ">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003419::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=bbef215d9e636175376fc819d070f9f9</hdurl>
+			</video>
+			<video name="JiangMen complex building registry">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003420::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=18fa04eb906bacf58f7406de89adad66</hdurl>
+			</video>
+			<video name="JiangMen YiHao Hotel1">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003421::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=b38d42c2bab1ff01bf9b6535711ee392</hdurl>
+			</video>
+			<video name="JiangMen HeShan WenHua Road1">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003007::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=eb740035e93a54873aa0fea0deee292f</hdurl>
+			</video>
+			<video name="JiangMen HeShan WenHua Road2">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500003009::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123015516::1;encrypt=3ae5ad5313e7214c5117816bff38ddb9</hdurl>
+			</video>
+			<video name="JiangMen EnPing DianSheng 1">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000476::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=c23b0c3c17c8cb08b895e51000caefc2</hdurl>
+			</video>
+			<video name="JiangMen Gotone Hall door on the left ">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004449::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=27a89df88fdf014ec85b7d4c5be029a8</hdurl>
+			</video>
+			<video name="JiangMen complex building Gate sentry right before">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004447::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=df6418b4ff4b6511e8c6776f6e9f79be</hdurl>
+			</video>
+			<video name="JiangMen Gotone Hall on the right side of the gate ">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004448::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=2200eadf8d1359b622e7833b2ff6e394</hdurl>
+			</video>
+			<video name="JiangMen  KaiPing  Xinhua fort">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005082::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=14699065d33eb1e9391ec87ee15336cb</hdurl>
+			</video>
+			<video name="JiangMen complex building 1F lift">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004450::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123023202::1;encrypt=640adbc963b50e9b3c17e7d34efff152</hdurl>
+			</video>
+			<video name="JiangMen KaiPing  YaZhi Hotel2">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005086::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d6720f741bf42b60592854519fb38bd7</hdurl>
+			</video>
+		  <video name="JiangMen KaiPing  YaZhi Hotel1">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005088::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=5842e00a56301de2df11eb53ed9f2715</hdurl>
+			</video>
+			<video name="JiangMen  China mobile  Basketball court Front">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005481::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3fb0ac061684c8b7258efe853e599864</hdurl>
+			</video>
+			<video name="JiangMen China mobile  After the basketball court ">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005482::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=c970e25f5a1e8cd97ef5d9b04c9872f5</hdurl>
+			</video>
+			<video name="JiangMen TaiShan QiliWuJin">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004997::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=608b1fc3447df25bd5cba1682d0f57d1</hdurl>
+			</video>
+			<video name="JiangMen ZhengChengHang 2">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005776::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d1cea603cb31a70d18c7696c955d4ec9</hdurl>
+			</video>
+			<video name="JiangMen TaiShan Donghe1">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004995::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=706a1b2090ef8c88729a7361d7d7532d</hdurl>
+			</video>
+			<video name="JiangMen ErJi Building bike shed">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004224::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3b6422faefc862eede59454180032c7b</hdurl>
+			</video>
+			<video name="JiangMen ErJi floor bike shed">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004225::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=02013737bbf0e552357147a4e2492541</hdurl>
+			</video>
+			<video name="JiangMen YiHao Hotel2">
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005581::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=950b79f7cc6fd10ce43ba49a647c5902</hdurl>
+			</video>
+			<video name="JiangMen YiHao Hotel3">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231562.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005582::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=d00b8488f4c91644eefa8f774481152b</hdurl>
+			</video>
+			<video name="JiangMen YiHao Hotel4">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/231563.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500005583::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=6cbb75461c7914dc6abbed0a81dad7a4</hdurl>
+			</video>
+			<video name="JiangMen HeShan  Post office 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54141.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004204::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=3697a90522048152790106e98e5122b0</hdurl>
+			</video>
+		  <video name="JiangMen HeShan  Post office 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54142.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004205::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=0bbbcd14f41a9573b58a716cc4bb533f</hdurl>
+			</video>
+			<video name="JiangMen EnPing Diansheng 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54143.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004206::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=97154201e9483a632bfccfd7d18a1073</hdurl>
+			</video>
+			<video name="JiangMen EnPing PICC 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54144.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004207::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=da9ef97a3cbcb9b5809d24ba5c526126</hdurl>
+			</video>
+			<video name="JiangMen EnPing PICC 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54145.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004208::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=ed2b1a43b3e6b21baac1367ba7367111</hdurl>
+			</video>
+			<video name="JiangMen complex building Parking lot after duty">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/54161.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500004223::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=fa2f621eed8ab44822b93acd22d40bc3</hdurl>
+			</video>
+			<video name="JiangMenNongJiChang2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48171.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000474::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=f0c80461ada4b8129719a10f021affbd</hdurl>
+			</video>
+			<video name="JiangMen ShuangLong Hotel1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48172.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000122::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=636de7e03642d6bbfec254cc6528483f</hdurl>
+			</video>
+			<video name="JiangMen ShuangLong Hotel2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48173.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000124::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123024501::1;encrypt=b2c0ab560520dada20128cc47b7fac57</hdurl>
+			</video>
+			<video name="JiangMenTianYue Hotel1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48174.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000351::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=5cdcf045d9937fd0eab01068f1f492f0</hdurl>
+			</video>
+			<video name="JiangMenTianYue Hotel2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48175.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000065::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=964b8b9be9c2d4f4c8578670a42f2e31</hdurl>
+			</video>
+			<video name="JiangMenXinHui south 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48176.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000184::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=d23b19359339679330f1227a1b03572d</hdurl>
+			</video>
+			<video name="JiangMenXinHui south 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48177.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000186::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=6272b7f38d189fd2342fbe792431cb1c</hdurl>
+			</video>
+			<video name="JiangMenXinHui branch of China mobile  1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48178.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000103::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=da88675a674f8bf6a4835768e238db2d</hdurl>
+			</video>
+			<video name="JiangMenXinHui branch of China mobile 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48179.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000102::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=8f4e5419f2178497bb81b8846f90ef21</hdurl>
+			</video>
+			<video name="JiangMenXinHui FengHuang Hotel1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48180.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000161::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=acae1001e82d9dace9c045dff65672f3</hdurl>
+			</video>
+			<video name="JiangMenXinHui FengHuang Hotel2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48181.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000163::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=52c3c709c07b7cc31cff42709bb24ade</hdurl>
+			</video>
+			<video name="JiangMenXinHui Cereals and oil  Building1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48182.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000180::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=d14491c5bd3193c27c7a1510d914800c</hdurl>
+			</video>
+			<video name="JiangMenXinHui Cereals and oil  Building2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48183.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000182::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=22e940796148a5e76c4493d073d8a953</hdurl>
+			</video>
+			<video name="JiangMen China mobile  Dining hall on the second floor 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48184.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000196::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=2d75bbaee3036105fb36dc7472dc22fc</hdurl>
+			</video>
+			<video name="JiangMen China mobile  Dining hall on the second floor 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48185.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000198::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=404810999bcbcbcec1328ce1641e7cba</hdurl>
+			</video>
+			<video name="JiangMen China mobile  Dining hall on the First floor ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48186.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000200::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=6d51fa28d82a8a8065a25264200e720f</hdurl>
+			</video>
+			<video name="JiangMenDongHu supermarket1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48162.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000159::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=3e6ff3e48ae954d77ff0e4b7eb3931e1</hdurl>
+			</video>
+			<video name="JiangMenDongHu supermarket2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48163.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000126::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=f7465052ec728772d9be05ffc516b704</hdurl>
+			</video>
+			<video name="JiangMen development avenue">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=1f534183df5ef21fea34555a150adb38</hdurl>
+			</video>
+			<video name="JiangMen development avenue">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48164.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000059::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123025253::1;encrypt=1f534183df5ef21fea34555a150adb38</hdurl>
+			</video>
+			<video name="JiangMenJianShe Three Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48165.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000202::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=38d84650eafa56dd153a579d7dd2c47c</hdurl>
+			</video>
+			<video name="JiangMen JiangYue Hotel1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48166.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000192::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=12e7ab4cc6a243dda1bf4652e5532e4a</hdurl>
+			</video>
+			<video name="JiangMen JiangYue Hotel2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48167.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000194::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=e544ccc824372c18293fe8ef8cc685b0</hdurl>
+			</video>
+			<video name="JiangMenJinHua hall 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48168.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000188::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=d654544ffb95302f86d5eca5a7ae90de</hdurl>
+			</video>
+			<video name="JiangMenJinHua hall 2">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48169.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000190::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=c23fc3d791971066a7c2eefaa4192076</hdurl>
+			</video>
+			<video name="JiangMen NongJiChang 1">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/381/48170.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.207.235:554/service?PuId-ChannelNo=010203010601010500000347::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=2::1;VauRtspAdd=192.168.109.13::1;VauRtspPort=554::1;msisdn=18751878637::1;timestamp=20111123030132::1;encrypt=bd3c5a78ad8b5a802fed453c92f1fc22</hdurl>
+			</video>
+		</city>
+	</province>
+</provinces> 

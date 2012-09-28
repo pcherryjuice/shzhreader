@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="zhongshan" type="1" order="H">
+			<video name="Cross bar new le village LeFeng four road ">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=50298881_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>				
+			<video name="Qiwan Road-Bo-ai five Road">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45285379_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>			
+			<video name="Swimming pool">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/56509.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Nanlang Sports road(To guangzhou)">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332801_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Nanlang Sports road (To Zhuhai)">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332801_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>			
+			<video name="Changsheng Hotel-Xiuli Road">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332802_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Changsheng Hotel-Chenggui Road">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332802_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Henglan hospital">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332804_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Shunxin Road">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332804_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Logistics center  three-way intersection ">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/147171.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332803_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Shakou bridge">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55281.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=46727169_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="ShengpingDong Road  three-way intersection">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55282.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=46727169_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Fuhua Road-Changzhou Road intersection">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45285381_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Bo-ai five Road-Dadong Yu">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45285382_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Bo-ai five Road-Dongyuan Nan Road intersection">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45285382_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="Min-An-Zhong Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/230761.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48693249_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Min-An Road-Changti Road intersection">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/230762.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48693249_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Boyuan Road">
+			<url>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45285383_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;token=::1;userid=::1;pt=wap::1;ua=Mozilla</url>
+			</video>
+			<video name="The first floor lobby reception desk of gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55062.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="second area reception desk of gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55063.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_2_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Way at the entrance to the gate  of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55064.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_3_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Xinji floor Of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55065.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_4_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Dining hall queue area  Of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55066.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_5_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Dining hall area  of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55067.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_6_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Dining hall points pass  Of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55068.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_7_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Indoor stadium Of Gotone">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/55069.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45744129_10_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Port of zhongshan avenue-Yat sen Road intersection">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/54661.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45973506_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Yat sen Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/54662.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=45973506_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Wenqiang Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/196944.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332805_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Wenqiang Road cross intersection">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/196945.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=48332805_1_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Jucheng dadao Dong">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/231681.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=49971201_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>
+			<video name="Lefeng si Lu">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3131/231743.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://221.179.76.17:60007/service?UserId=e0::1;PuId-ChannelNo=50298881_0_0::1;PlayMethod=0::1;PuProperty=0::1;StreamingType=1::1;encrypt=8059e155-164d-4053-968b-513939733618</hdurl>
+			</video>		
+		</city>
+	</province>
+</provinces> 

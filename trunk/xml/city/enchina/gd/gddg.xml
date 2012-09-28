@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="dongguan" type="1" order="C" >
+			<video name="Lifeng bei Road">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/17163.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/4/189D7051030F19B0/JovChHElrFGdAdAx.sdp?id=guest::1;t=1321713803::1;en=51d95bbccfae5c7d6ada2a53b2c884d2::1;rs=cmgd</hdurl>
+			</video>
+			<video name="Dongcheng ZhongBei Road">
+			<url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=1</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/30EB577E7DEF15CD/voqIU2iP6MhCmAG3.sdp?id=guest::1;t=1315285285::1;en=966145fae794df56c7fa2ebcbfb38d68::1;rs=wap</hdurl>
+			</video>
+			<video name="Dongcheng Xilu north(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/0EAE136D1D5C4537/IdzzTY5E1Rp9M1eg.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="Dongcheng Xilu north">
+			<url>rtsp://211.139.194.251:554/live/1/0EAE136D1D5C4537/9bDvXmAgLbJqDRax.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="DOngcheng Nan Road West">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/17162.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/3/189D7051030F19B0/tYb9AiztkmZZWJnc.sdp?id=guest::1;t=1315284516::1;en=9edb5cdb65150bc2d09f5f28073908eb::1;rs=wap</hdurl>
+			</video>
+			<video name="Dongcheng HongLi Road West(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/561A0E7E0D7A10FB/IWlePTQ503AaUvJb.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="DongchengHongLi Road West">
+			<url>rtsp://211.139.194.251:554/live/1/561A0E7E0D7A10FB/qc2w7O3DFsb5xV5s.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name=" Digital home exhibition area">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48208.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/0C6621AE40520760/TahzOqpblKB6QfDC.sdp?id=guest::1;t=1321716097::1;en=15cde9a0ba7eb878f7434717bb248e73::1;rs=cmgd</hdurl>
+			</video>
+			<video name="Changan east bus station(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/119D2253382432C6/jTh9I9FisOX7ulYG.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="Changan east bus station">
+			<url>rtsp://211.139.194.251:554/live/1/119D2253382432C6/uJk7CbJMQrFpRTQS.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="Houjie coral road intersection(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/14E048B9526461B0/gKVh0ko3nF1NNxqZ.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="Houjie coral road intersection">
+			<url>rtsp://211.139.194.251:554/live/1/14E048B9526461B0/tafshm9phgbDUSW2.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="LiaoBu Tangchen intersection southeast(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/2DD953E83B276297/Alh6NEfpqxccHWR6.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="LiaoBu Tangchen intersection southeast">
+			<url>rtsp://211.139.194.251:554/live/1/2DD953E83B276297/PtaymuDIZH5x9Ceb.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="Changping train east Station Road south(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/78E23507147E1655/4AoRvDOLtZP2nl5L.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="Changping train east Station Road south">
+			<url>rtsp://211.139.194.251:554/live/1/78E23507147E1655/f4wAd3k0k9bBhmoV.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+
+			
+			<video name="Changping lang bay road northwest(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/7BE45C553E532756/AH5lelAXHUqRTnMq.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>
+			<video name="Changping lang bay road northwest">
+			<url>rtsp://211.139.194.251:554/live/1/7BE45C553E532756/jGj0pBRZTRVqsmtJ.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+			</video>			
+			<video name="WanJiang changtai Lucy(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/5814395F1DB703B9/HvgLyZVVq9ta6Ejx.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="WanJiang changtai Lucy">
+			<url>rtsp://211.139.194.251:554/live/1/5814395F1DB703B9/jYHQpnie32tqbnTW.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="WanJiang WanGao Road North">
+			<url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=12</url>			
+			</video>
+			<video name="Liaobu education Road north(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/687F04687A1F1ED2/1CzdmGUCaCUEvoJa.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="Liaobu education Road north">
+			<url>rtsp://211.139.194.251:554/live/1/687F04687A1F1ED2/sufjTOLoBf8LlUH7.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="ShiLong XinQiao Road north(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/0F4D669B2D651E5A/r7vZpR7HTRysWTmL.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="ShiLong XinQiao Road north(HD)">
+			<url>rtsp://211.139.194.251:554/live/1/0F4D669B2D651E5A/n3jKTka6PVGhr4sT.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="Humen HaoTingYuan northwest">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48234.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/30BF35BA44267239/GjiLcrFJTmIYXYw0.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="DongCheng JiaHu villa east">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48235.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/4E9F4CE076115955/HOaRoFAWPZvoUSEZ.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+		  <video name="DongCheng culture square East">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48236.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/51BB6B6C44D84789/dJ4003QOU72ICU9v.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="Shilong exchange league pedestrian street west(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/4C271C1B28057F24/XfNvR9rH17pRzjHB.sdp?id=13922991295::1;t=1302488104::1;en=11c4d96e912e32b219a1c33ecf2acdd0::1;rs=wap</url>
+			</video>
+			<video name="Shilong exchange league pedestrian street west">
+			<url>rtsp://211.139.194.251:554/live/1/4C271C1B28057F24/WibH3uINJPTNQAPT.sdp?id=13922991295::1;t=1302488213::1;en=fc407bd05cd4f752ca4e997c9f31885e::1;rs=wap</url>
+			</video>			
+			<video name="NanCheng HuFu Road southeast">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48238.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/27085A76298D0814/i73c3yse1fpZRGkX.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+			<video name="GuanCheng culture square west(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/549D2C22169506E9/3Lpi5Pk84RfNmkhP.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="GuanCheng culture square west">
+			<url>rtsp://211.139.194.251:554/live/1/549D2C22169506E9/r5HBY664nVTscMxy.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="GuanCheng YuTingJiaJu south(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/27D037BF02907B33/7IMMjhOTY1INA31z.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>
+			<video name="GuanCheng YuTingJiaJu south">
+			<url>rtsp://211.139.194.251:554/live/1/27D037BF02907B33/anYAY9UpTkvoofam.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+			</video>			
+			<video name="Houjie square east">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48240.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/66E2558A6948135D/jyudjn5OEFxieisK.sdp?id=guest::1;t=1321687637::1;en=51ebdc76754d6121d909059c103cfc50::1;rs=cmgd</hdurl>
+			</video>
+			<video name="LiaoBu bridge north(LD)">
+			<url>rtsp://211.139.194.251:554/mobile/1/2CEE6E05557B4D5E/OQfZcXRgdPgkIlfp.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>
+			<video name="LiaoBu bridge north">
+			<url>rtsp://211.139.194.251:554/live/1/2CEE6E05557B4D5E/XFHLFpcbw5UkqwiM.sdp?id=13922991295::1;t=1302487207::1;en=134e2f0357fc1565f2799f64aaf79a75::1;rs=wap</url>
+			</video>			
+			<video name="Shilong JinLongHui hotel northwest">
+			<url>http://wap.gd.10086.cn/mqly/ggsp/3121/48242.3_1.jsp?redirected=true</url>
+			<hdurl>rtsp://211.139.194.251:554/live/1/790B096A424D4F4E/DibZoLrC06KxDkSf.sdp?id=guest::1;t=1321716814::1;en=c633e91daee083859913d0c2c81ada2c::1;rs=cmgd</hdurl>
+			</video>
+		
+			<video name="Houjie KangLeNan road northeast(LD)">
+	    <url>rtsp://211.139.194.251:554/mobile/1/10FD0AC1183A1F32/U3l1uInlU8rbuQQf.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+ 	    </video>
+			<video name="Houjie KangLeNan road northeast">
+	    <url>rtsp://211.139.194.251:554/live/1/10FD0AC1183A1F32/sljvec4OKiQoZk27.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+ 	    </video> 	    
+ 	    <video name="Humen town ZhenYuan Bridge south">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=23</url>
+	    <hdurl>rtsp://211.139.194.251:554/live/1/025D0E48530179DC/jgeLLNOlNchUDLIk.sdp?id=guest::1;t=1315286006::1;en=54a56d30c94c711c75cc1a162bda4199::1;rs=wap</hdurl>
+	    </video>
+	    <video name="HuMen Zhujiang  Garden east(LD)">
+	    <url>rtsp://211.139.194.251:554/mobile/1/0AC21B8F24AB51C1/hx6XBTbDx7RCDh0e.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	    </video>
+	    <video name="HuMen Zhujiang  Garden east">
+	    <url>rtsp://211.139.194.251:554/live/1/0AC21B8F24AB51C1/IijHv5gygSKyzLhz.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	    </video>	    
+	    <video name="Humen road west">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=25</url>
+	    <hdurl>rtsp://211.139.194.251:554/live/1/752F275955D41F6D/dXwB7RBvNggiFH3z.sdp?id=guest::1;t=1315285179::1;en=9e514b38a438005f23f79fac4564d719::1;rs=wap</hdurl>
+	    </video>
+	    <video name="Tangxia TangLong square west(LD)">
+	    <url>rtsp://211.139.194.251:554/mobile/1/44DA3DFD1B7A6244/KodsWetIMHuoKBx4.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+	    </video>
+	    <video name="Tangxia TangLong square west">
+	    <url>rtsp://211.139.194.251:554/live/1/44DA3DFD1B7A6244/eyzN4HXL1ebEsqIQ.sdp?id=13922991295::1;t=1302487205::1;en=771677345fd6e5c2fcbc5b01ce8593a1::1;rs=wap</url>
+	    </video>	    
+	    <video name="HuangJiang book city northeast ">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=30</url>
+    	<hdurl></hdurl>
+    	</video>
+    	<video name="ChaShan Road West(LD)">
+	    <url>rtsp://211.139.194.251:554/mobile/1/06B87F622AA441D3/YUUZGyp31kwN5n99.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	   </video>
+    	<video name="ChaShan Road West">
+	    <url>rtsp://211.139.194.251:554/live/1/06B87F622AA441D3/XqA5iiIwgZkipsly.sdp?id=13922991295::1;t=1302487206::1;en=c9a5197f1d4257e6877fcefade560c3d::1;rs=wap</url>
+	   </video>	   
+	   	<video name="DaLingShan  square South">
+	    <url>http://wap.udongguan.com/wap/traffic/video.do?method=viewDetail::1;id=29</url>
+	   </video>
+		</city>
+	</province>
+</provinces> 

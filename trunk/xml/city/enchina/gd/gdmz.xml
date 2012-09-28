@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+   <province name="guangdong" order="S">
+		<city name="meizhou" type="1" order="K" >
+			<video name="MeiXian City BoLi Hotel crossroads(LD)"><url>rtsp://221.179.119.58:554/mobile/1/0B08130162E8012C/ostt45d5vd5do7g1.sdp</url></video>
+			<video name="MeiXian City BoLi Hotel crossroads"><url>rtsp://221.179.119.58:554/live/1/0B08130162E8012C/umtzwcxnxtp9p6cz.sdp</url></video>
+			<video name="JiangNan postal JinYe Hotel rotary(LD)"><url>rtsp://221.179.119.58:554/mobile/1/723D1ACB627C100A/54ovagmkjcubxx5d.sdp</url></video>
+			<video name="JiangNan postal JinYe Hotel rotary"><url>rtsp://221.179.119.58:554/live/1/723D1ACB627C100A/93w14nr9mxy6jp9m.sdp</url></video>
+			<video name="BinFang Road YouYi Hotel rotary(LD)"><url>rtsp://221.179.119.58:554/mobile/1/7B182D492F503A5D/a7utd7o0u4z1pcll.sdp</url></video>
+			<video name="BinFang Road YouYi Hotel rotary"><url>rtsp://221.179.119.58:554/live/1/7B182D492F503A5D/jrzwa7jgs33gc9td.sdp</url></video>
+			<video name="JiaYing Road mindle Bridge West Traffic lights (LD)"><url>rtsp://221.179.119.58:554/mobile/1/514071A87D662F38/sxgcuqbxhkr6y08a.sdp</url></video>
+			<video name="JiaYing Road mindle Bridge West Traffic lights "><url>rtsp://221.179.119.58:554/live/1/514071A87D662F38/uk0rg4lgpup2tnso.sdp</url></video>
+			<video name="MeiJiang eara Shiye Building  triangle  rotary(LD)"><url>rtsp://221.179.119.58:554/mobile/1/3F2F76321E31354E/cqhaunwkrdg2lu8o.sdp</url></video>
+			<video name="MeiJiang eara Shiye Building  triangle  rotary"><url>rtsp://221.179.119.58:554/live/1/3F2F76321E31354E/f1gminl2g5te9y22.sdp</url></video>
+			<video name="JiangNan LiDu Road Midle FuLi Hotel(LD)"><url>rtsp://221.179.119.58:554/mobile/1/6F3757F810AC4E58/1bv04srhs7mkti5p.sdp</url></video>
+			<video name="JiangNan LiDu Road Midle FuLi Hotel"><url>rtsp://221.179.119.58:554/live/1/6F3757F810AC4E58/pslbisubsmp0d1qm.sdp</url></video>
+			<video name="Meijiang Eara The fire fighting culture park road(LD)"><url>rtsp://221.179.119.58:554/mobile/1/3DF3201165D56765/8ew0mnzztg0esfcw.sdp</url></video>
+			<video name="Meijiang Eara The fire fighting culture park road "><url>rtsp://221.179.119.58:554/live/1/3DF3201165D56765/ch372ahuaio5q3gd.sdp</url></video>
+			<video name="Jianghua YueMei triangle  rotary(LD)"><url>rtsp://221.179.119.58:554/mobile/1/0A5B19E937CE5CE3/e869bm7smk4gb1os.sdp</url></video>
+			<video name="Jianghua YueMei triangle  rotary"><url>rtsp://221.179.119.58:554/live/1/0A5B19E937CE5CE3/1a0iq96wzmnpzeex.sdp</url></video>
+			<video name="BinFang Road EnHua Square rotary(LD)"><url>rtsp://221.179.119.58:554/mobile/1/580C0C4F2E3270EE/z48u6g8xzou3gohs.sdp</url></video>
+			<video name="BinFang Road EnHua Square rotary"><url>rtsp://221.179.119.58:554/live/1/580C0C4F2E3270EE/z23fj4olktsexiav.sdp</url></video>
+		</city>
+	</province>
+</provinces> 
