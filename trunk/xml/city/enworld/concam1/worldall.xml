@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+<province name="The controllable camera" order="H" >
+		<city name="The controllable camera 1" type="4888" order="A" >	<video name="# The controllable camera 1(Click to loading)"><url>city/concam/con1.xml</url></video></city>
+    <city name="The controllable camera 2" type="4888" order="B" >	<video name="# The controllable camera 2(Click to loading)"><url>city/concam/con2.xml</url></video></city>
+    <city name="The controllable camera 3" type="4888" order="C" >	<video name="# The controllable camera 3(Click to loading)"><url>city/concam/con3.xml</url></video></city>
+ </province>
+</provinces> 
