@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="Controllable camera" order="H" >
-<city name="Controllable camera 2" type="1888" order="B" >	
+<province name="controllable  camera" order="H" >
+<city name="controllable camera 2" type="1888" order="B" >	
 
 <video name="Japan-Hokkaido-Sapporo. The sea wharf">
 <url>http://shimamaki-camera.aa0.netvolante.jp:8001/nphMotionJpeg?resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>

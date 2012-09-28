@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="Controllable camera" order="H" >
-<city name="Controllable camera 3" type="1888" order="C" >	
+<province name="controllable camera" order="H" >
+<city name="controllable camera 3" type="1888" order="C" >	
 
 <video name="Germany-Niedersachsen-Osnabruck. Large rotary">
 <url>http://85.8.92.254:333/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>

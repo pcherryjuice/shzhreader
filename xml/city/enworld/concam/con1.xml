@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <provinces version="1.2">
-<province name="Controllable camera" order="H" >
-<city name="Controllable camera" type="1888" order="A" >	
+<province name="controllable camera" order="H" >
+<city name="controllable camera" type="1888" order="A" >	
 
 
 <video name="Macau ,china. Street">
