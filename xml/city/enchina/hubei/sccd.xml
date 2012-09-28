@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="sichuan" order="T1" >
+    <city name="chengdu" type="1" order="A" >
+                                                       
+     <video name="JinNiu eara - YiHuan Road west Sanling eara intersection" ><url>rtsp://218.205.231.149:554/live/1/2CBE124B67C85A59/rscRaz2pXgfUgF2e.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinNiu eara - CCB doorway " ><url>rtsp://218.205.231.149:554/live/1/795B030D238307B4/DHbnf2JI1AKDtstZ.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="Qingynag eara - ErHuan Road SanDuan xidu hotel" ><url>rtsp://218.205.231.149:554/live/1/3B7D4C49332A47EC/NxTfMADS4vYI9m9B.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinNiu eara - Erhuan road Youyi Hotel" ><url>rtsp://218.205.231.149:554/live/1/5E59316B72A234EB/VXjsMfKS50V8il23.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="WuHou eara - Renmin Road west Xihuamen Street " ><url>rtsp://218.205.231.149:554/live/1/7B32251532CA35C0/0Zs1gZ5J46ATVp8m.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinJiang eara-Yihuan Road Donghuan Door street" ><url>rtsp://218.205.231.149:554/live/1/3BAA039735D01614/4BkVdQEp2NXZ0Atv.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="Qingynag eara-ShuDu Duilding" ><url>rtsp://218.205.231.149:554/live/1/6C7213EC450B2EF8/6OUaCMqXX53ryQ0u.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="Qingynag eara - rendong shuwei street west" ><url>rtsp://218.205.231.149:554/live/1/43CE6F9443445D9A/6CdKvOqkQYSeAcMj.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinJiang eara - ShunJiang Road LianGui Road west intersection " ><url>rtsp://218.205.231.149:554/live/1/292A593D55916357/40eGRVDyHrpn4EKZ.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinJiang eara - XiYuLong street DongHuaMen street intersection " ><url>rtsp://218.205.231.149:554/live/1/0FA6042C499878C7/10YXG94CxwFQ2cXv.sdp?id=guest::1;t=1339177118::1;en=ed34532b77c2da5b76cd2a531f42a8aa::1;rs=ws</url></video>
+     <video name="JinNiu eara - HuanJiang road 1# HeLe HoTel" ><url>rtsp://218.205.231.149:554/live/1/03F5400F3D3C52B8/rkrFNvMpQIrpLMqf.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinJiang eara - Chengbei bus station" ><url>rtsp://218.205.231.149:554/live/1/45F44D7D2DB87DF3/553KUO95wbHj82H0.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="Qingynag eara - ZongFu road 46" ><url>rtsp://218.205.231.149:554/live/1/38F1636968AB7AD3/tc9UeXumUZqjJ8Vm.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinJiang eara - Chengdu university Affiliated hospital gate" ><url>rtsp://218.205.231.149:554/live/1/65B734FB35E4707E/zEHbMWOd18Dox48i.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="WuHou eara - JiangHua intersection Twinbridge cross" ><url>rtsp://218.205.231.149:554/live/1/35AB46A109903442/orJxxM5GRDiAzQjP.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="Qingynag eara - RanFang street" ><url>rtsp://218.205.231.149:554/live/1/55201E55160872A4/VzdZwrlJptqROtsY.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinJiang eara - RenDong-yanshikou Daye road" ><url>rtsp://218.205.231.149:554/live/1/30C34A0446F274C9/b3bxIXynGE1ehXyH.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinNiu eara - YinHe Hotel" ><url>rtsp://218.205.231.149:554/live/1/3FF7112C7BE43CA9/9SBa8kKCFb6HXgD0.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinJiang eara - YiHuan road TaiSheng road South #43" ><url>rtsp://218.205.231.149:554/live/1/64677BD2169974DC/Q2vUMxUsn2DgRqGV.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="Qingynag eara - Qingshi bridge street Agricultural bank of China" ><url>rtsp://218.205.231.149:554/live/1/3933291736436024/fySJDA1SNgEVZqHq.sdp?id=guest::1;t=1339177353::1;en=0b1755b1a7bbb580174c363a7681bfae::1;rs=ws</url></video>
+     <video name="JinJiang eara - new GuangHua street #1" ><url>rtsp://218.205.231.149:554/live/1/4AAD1EF95EDD6C0B/BEn1V7H2OyGWREHa.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     <video name="Qingynag eara - CTG road" ><url>rtsp://218.205.231.149:554/live/1/7E71637404F7667F/6JYKLxdpDpJ3i5Ub.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     <video name="Qingynag eara - Iron public security fo chengdu" ><url>rtsp://218.205.231.149:554/live/1/730108A4299325B3/G2qsdF3fyuD9jetE.sdp?id=guest::1;t=1339177486::1;en=78a4a073922073e3299b7f9c76cec5ac::1;rs=ws</url></video>
+     
+     <video name="DuJiangYan eara - DuJiangYan eara-YunJu villa" ><url>rtsp://218.205.231.149:554/live/1/253F11C128C42A50/uTbrgpGxsPteaomt.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara DuJiangYan eara Medical center" ><url>rtsp://218.205.231.149:554/live/1/0C741A3841E50125/MZD0xWGRkWCqgdiG.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="Qionglai eara-Pingle bridge street #45" ><url>rtsp://218.205.231.149:554/live/1/6D020FE924CF2E3C/EOq1TIv8NM75re5R.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="Longquanyi eara - TaoHuaShan 1" ><url>rtsp://218.205.231.149:554/live/1/57B57700157717F9/8lywlGboQkXdIuIZ.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="Longquanyi eara - TaoHuashan 2" ><url>rtsp://218.205.231.149:554/live/1/16EC1C722A2B7FD0/cB2tTTHBuB8P6Wb6.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="Longquanyi eara - TaoHuajie meeting place" ><url>rtsp://218.205.231.149:554/live/1/1CF503160E83027B/RzRUwj3NJAFTzDvb.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara - Qingcheng mountain-Tianrantuhua" ><url>rtsp://218.205.231.149:554/live/1/6D577D2D53E53744/7g1OgWgXzixr7xEe.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara - Qingcheng mountain PaiFang" ><url>rtsp://218.205.231.149:554/live/1/521E6E3637542B77/YGxa5Nj4ZIKrMEFf.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara - Qingcheng mountain-Qinglv tree" ><url>rtsp://218.205.231.149:554/live/1/2BE002E246997C6D/pOo00Sda1RiVwZve.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara - Qingcheng mountain-Xinchang bridge " ><url>rtsp://218.205.231.149:554/live/1/079F66093A58487A/sEAj1aWeDJcRnycb.sdp?id=guest::1;t=1339178191::1;en=90cc345558efa90b6040d705ea29bcd5::1;rs=ws</url></video>
+     <video name="DuJiangYan eara - Qingcheng mountain-22 Feixianguan" ><url>rtsp://218.205.231.149:554/live/1/6D593052659B32CF/NcdQf6X59c4YdN1D.sdp?id=guest::1;t=1339178266::1;en=585fb631150c4603aab976a915172c56::1;rs=ws</url></video>
+     <video name="DaYiLiMin chain store " ><url>rtsp://218.205.231.149:554/live/1/1124104B343D0961/1q5kMfsx8Sk2LDaU.sdp?id=guest::1;t=1339178266::1;en=585fb631150c4603aab976a915172c56::1;rs=ws</url></video>
+     
+     <video name="Chenghua eara MAMaAikindergarten" ><url>rtsp://218.205.231.149:554/live/1/100C40C327070133/9fT9qozozGVE3faM.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - Moon class" ><url>rtsp://218.205.231.149:554/live/1/730C1F7217016400/lfFr8riqbFZiW2WV.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - rainbow class" ><url>rtsp://218.205.231.149:554/live/1/7BA64B081FEE128A/tnJtp2jvIn43QtdX.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - hall" ><url>rtsp://218.205.231.149:554/live/1/1A3079C118906ECE/A6wR9KxqdGS8e0IP.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - DuDu class" ><url>rtsp://218.205.231.149:554/live/1/231A312A13D610AD/Fq1BmxZcGAoz5Cqy.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - DingDing class" ><url>rtsp://218.205.231.149:554/live/1/39F871BD7D2463FC/IkfF2qFO74Dlplm7.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - PeiPei class" ><url>rtsp://218.205.231.149:554/live/1/52D06C5101C16E0C/JQb5cpygw9Asc9ww.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - playground" ><url>rtsp://218.205.231.149:554/live/1/0B9D117B610D2B43/IWQQOuEzTPgVs3TM.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - PaoPao class" ><url>rtsp://218.205.231.149:554/live/1/585814D16E7E409C/FDdWTFZHf6FJb3tS.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - QQ class" ><url>rtsp://218.205.231.149:554/live/1/7E6122E75A11390D/AVkosVwHyYMTn9hO.sdp?id=guest::1;t=1339178522::1;en=6cf6819a165ea9734688fc580f34b405::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - sun class" ><url>rtsp://218.205.231.149:554/live/1/37D826721708254B/S8WEKHBcfaGvQEpq.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - star class" ><url>rtsp://218.205.231.149:554/live/1/566A153C1F697126/aipYGPw3WUawqCAf.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+     <video name="WuHou eara Peilei kindergarten - lele class" ><url>rtsp://218.205.231.149:554/live/1/27FC1BAC18AE2561/q3BD54ELBfnTsGZT.sdp?id=guest::1;t=1339178601::1;en=b455ea14b5f459fe35eb9d6f89a653f6::1;rs=ws</url></video>
+
+
+		</city>			
+	</province>
+</provinces> 

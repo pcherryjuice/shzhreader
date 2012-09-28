@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="hubei" order="T" >
+		<city name="wuhan" type="200" order="A" >
+			<video name="HongShan square"><url>rtsp://211.137.78.148/broadcast/jgj02_03.rm</url></video>	
+			<video name="HuangPu road flyover"><url>rtsp://211.137.78.148/broadcast/jgj06_04</url></video>
+			<video name="WuLuo road zhongnan intersection"><url>rtsp://211.137.78.148/broadcast/jgj04_02</url></video>	
+			<video name="HuangXiao river road YuCai primary school"><url>rtsp://211.137.78.148/broadcast/jgj06_01</url></video>	
+			<video name="Jiefang Road Bridge intersection"><url>rtsp://211.137.78.148/broadcast/jgj04_03</url></video>	
+			<video name="Minsheng Road HuaLou street"><url>rtsp://211.137.78.148/broadcast/jgj08_01</url></video>	
+			<video name="Qingnian Road Hankou Railway station "><url>rtsp://211.137.78.148/broadcast/jgj04_04</url></video>	
+			<video name="Shengli street sanyang intersection"><url>rtsp://211.137.78.148/broadcast/jgj08_03</url></video>	
+			<video name="xinhua road tangjiadun intersection"><url>rtsp://211.137.78.148/broadcast/jgj08_04</url></video>	
+			<video name="yanjiang road lanling intersection"><url>rtsp://211.137.78.148/broadcast/jgj09_03</url></video>	
+			<video name="Zhongshan road huangpu intersection"><url>rtsp://211.137.78.148/broadcast/jgj06_02</url></video>	
+			<video name="Zhongshan road nanjing intersection"><url>rtsp://211.137.78.148/broadcast/jgj10_04</url></video>	
+			<video name="hanjiang first bridge"><url>rtsp://211.137.78.148/broadcast/jgj02_04.rm</url></video>	
+			<video name="changjiang bridge Next bridge ramp"><url>rtsp://211.137.78.148/broadcast/jgj03_02.rm</url></video>	
+			<video name="hanyang road zhongjia village"><url>rtsp://211.137.78.148/broadcast/jgj09_04</url></video>
+			<video name="Qingnian Road hankou Railway station "><url>rtsp://211.137.78.148/broadcast/jgj04_04</url></video>
+			<video name="Shengli street sanyang intersection"><url>rtsp://211.137.78.148/broadcast/jgj08_03</url></video>
+			<video name="xinhua road tangjiadun intersection"><url>rtsp://211.137.78.148/broadcast/jgj08_04</url></video>
+			<video name="yanjiang road qingdao intersection"><url>rtsp://211.137.78.148/broadcast/jgj10_01</url></video>
+			
+			<video name="Zhongshan road jianghan intersection"><url>rtsp://211.137.78.148/broadcast/jgj10_03</url></video>
+			<video name="jiangshe road jiefang park intersection"><url>rtsp://211.137.78.148/broadcast/jgj08_02</url></video>
+			<video name="jianghan road wusheng road"><url>rtsp://211.137.78.148/broadcast/jgj09_01</url></video>
+			<video name="yanjiang road lanling intersection"><url>rtsp://211.137.78.148/broadcast/jgj09_02</url></video>
+			<video name="Zhongshan road liji intersection"><url>rtsp://211.137.78.148/broadcast/jgj06_03</url></video>
+			
+			
+			<video name="chuxiong road T bridge intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_03</url>
+			</video>
+			<video name="chuxiong road University of science and technology bridge intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_04</url>
+			</video>
+			<video name="chengqing road">
+			<url>rtsp://211.137.78.148/broadcast/jgj01_01.rm</url>
+			</video>
+			<video name="jianshe road aomen intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_04</url>
+			</video>
+			<video name="jianshe road lugou intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_01</url>
+			</video>
+			<video name="jianshe road taibei intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_02</url>
+			</video>
+			<video name="Qingnian Road Flyover">
+			<url>rtsp://211.137.78.148/broadcast/jgj01_02.rm</url>
+			</video>
+			<video name="xinhua road hanjiang north intersection">
+			<url>rtsp://211.137.78.148/broadcast/jgj07_03</url>
+			</video>
+			<video name="longyang road moshui lake road north">
+			<url>rtsp://211.137.78.148/broadcast/jgj05_02</url>
+			</video>
+		</city>
+	</province>
+</provinces> 
