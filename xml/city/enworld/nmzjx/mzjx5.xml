@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="America selected " order="b" >
+		<city name="America selected  5" type="1888" order="E" >
+			
+<video name="USA-North Carolina-Elon.  Elon University.">
+<url>http://alamance-webcam.elon.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-North Carolina-Greensboro.  Elon University 2.">
+<url>http://216.215.184.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-North Carolina-Shallotte.  The sea beach.">
+<url>http://216.99.115.136:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-North Carolina-Cullowhee.  Radio broadcast.">
+<url>http://152.30.169.250/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-North Carolina-More erskine college campus.">
+<url>http://circlecam.erskine.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-North Carolina-Chapel Hill classroom.">
+<url>http://152.2.182.19/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-North Carolina-Chapel Hill classroom 2">
+<url>http://152.2.182.48/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-North Carolina-Chapel Hill classroom 3">
+<url>http://152.2.182.54/image?speed=0::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-Maine-Rockland. The beach swimming pool.">
+<url>http://webcam.atlanticeyrielodge.com/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maine-Brunswick. Bao much for college.">
+<url>http://webcam4.bowdoin.edu:4200/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Maine-Brunswick. Bao much for college 2.">
+<url>http://webcam5.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maine-Portland. City scenery.">
+<url>http://24.97.41.28/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maine-South Portland.  The school laboratory.">
+<url>http://208.233.32.8:1949/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maine-Brunswick. Bao much for college campus.">
+<url>http://webcam1.bowdoin.edu:4200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maine-South Portland.  Southern Maine institute of technology.">
+<url>http://sp-tc-cam1.smccme.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Maryland-Hebron. Seres red school campus.">
+<url>http://webcam.salisbury.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Ellicott City. The university of Maryland.">
+<url>http://129.2.16.181/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Maryland-College Park. The university of Maryland lab.">
+<url>http://128.8.181.15/cgi-bin/hugesize.jpg?motion=0::1;dummy=1338556846688::1;resolution=352x288::1;data=v.mjpg</url>
+</video>
+<video name="USA-Maryland-College Park. The university of Maryland 2.">
+<url>http://129.2.122.140/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Hebron. The university of Maryland 3.">
+<url>http://131.118.32.130/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Silver Spring.  The university of Maryland lab 2.">
+<url>http://128.8.138.131/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Solomons. The university of Maryland lab 3.">
+<url>http://131.118.225.80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Maryland-Hagerstown.  Hotel.">
+<url>http://24.49.47.102:7150/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Massachusetts-Revere. Wharf.">
+<url>http://75.144.144.237/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Boston. office.">
+<url>http://128.197.58.142/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Boston.  City scenery.">
+<url>http://168.122.98.2/image?speed=0::1;data=v.mjpg</url>
+</video>
+<video name="USA-Massachusetts-Everett. The river surveillance cameras.">
+<url>http://72.72.76.48/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Cambridge. The Massachusetts institute of technology's media lab.">
+<url>http://foodcam.media.mit.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Massachusetts-Cambridge. Harvard University.">
+<url>http://sciencecentercam.fas.harvard.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Northampton. Campus center.">
+<url>http://131.229.128.2/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Monson. Seaside camera.">
+<url>http://74.92.4.154/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Medford. Coffee shop.">
+<url>http://74.92.3.186:12022/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Massachusetts-Sheffield. Burke summer school.">
+<url>http://bsnwebcam1.berkshireschool.org/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-South Hadley. Monte helle york college.">
+<url>http://scicam.mtholyoke.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Massachusetts-Waltham. Brent diss university lab.">
+<url>http://wbrs.campusctr.brandeis.edu/mjpg/video.mjpg?Resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Maumee. Hippo pool water bottom camera.">
+<url>http://72.240.51.210/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Maumee. Ants monitoring camera.">
+<url>http://72.240.51.211/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Painesville. The traffic intersection camera.">
+<url>http://208.108.146.134/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Ohio-Cedarville. Plug of Wells university.">
+<url>http://webcam3.cedarville.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Cleveland. Laboratory camera.">
+<url>http://129.22.128.83/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Ohio-Maumee. Small streams.">
+<url>http://72.240.51.213/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Athens. Ohio university campus.">
+<url>http://132.235.24.98/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Cedarville. Plug of Wells university campus.">
+<url>http://webcam4.cedarville.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Cincinnati. Cincinnati university lab.">
+<url>http://snoop2.mie.rhod.uc.edu/cgi-bin/mjpg/video.cgi?1338643564278::1;data=v.mjpg</url>
+</video>
+<video name="USA-Ohio-Athens. Ohio university campus.">
+<url>http://scaliacam.phy.ohiou.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Ohio-Cincinnati. Cincinnati university lab 2.">
+<url>http://snoop1.mie.rhod.uc.edu/cgi-bin/mjpg/video.cgi?1338644029357::1;data=v.mjpg</url>
+</video>
+<video name="USA-Ohio-Ottawa. stadium.">
+<url>http://webcam.vanwertcougars.net/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+
+<video name="USA-Oregon-Eugene. University of Oregon campus.">
+<url>http://webcam.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oregon-Portland. Road.">
+<url>http://salemnaz.net:8081/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Eugene. University of Oregon lab.">
+<url>http://151cam.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oregon-Eugene. University of Oregon campus 3.">
+<url>http://128.223.164.246/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oregon-Monmouth. The school campus.">
+<url>http://140.211.116.31/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oregon-Riddle. School showroom.">
+<url>http://cam7077625.viewnetcam.com/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Eugene. University of Oregon campus.">
+<url>http://pmovid24.uoregon.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="USA-Oregon-Albany. The sea beach.">
+<url>http://207.224.31.229/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="USA-Oregon-Corvallis Oregon. Made the university campus.">
+<url>http://mu.webcam.oregonstate.edu/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="USA-Oregon-Grants Pass.  wharf.">
+<url>http://68.185.19.92/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+			
+			
+		</city>
+	</province>
+</provinces> 

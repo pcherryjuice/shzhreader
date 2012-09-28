@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="Americas collection" order="b" >
+		<city name="Americas collection 1" type="1" order="A" ><video name="# Americas collection 1(单击加载)"><url>city/enworld/nmzjx/mzjx1.xml</url></video></city>
+		<city name="Americas collection 2" type="1" order="B" ><video name="# Americas collection 2(单击加载)"><url>city/enworld/nmzjx/mzjx2.xml</url></video></city>
+		<city name="Americas collection 3" type="1" order="C" ><video name="# Americas collection 3(单击加载)"><url>city/enworld/nmzjx/mzjx3.xml</url></video></city>
+		<city name="Americas collection 4" type="1" order="D" ><video name="# Americas collection 4(单击加载)"><url>city/enworld/nmzjx/mzjx4.xml</url></video></city>
+		<city name="Americas collection 5" type="1" order="E" ><video name="# Americas collection 5(单击加载)"><url>city/enworld/nmzjx/mzjx5.xml</url></video></city>
+ </province>
+</provinces> 
