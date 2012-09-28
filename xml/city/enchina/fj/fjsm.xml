@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="fujian" order="G" >
+		<city name="sanming" type="1" order="D" >	
+			<video name="Dongxinsan intersection(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012348::1;StreamingType=1</url>
+			</video>
+			<video name="Dongxinsan intersection">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012348::1;StreamingType=2</url>
+			</video>
+			
+			<video name="The first technology at the school gate(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012345::1;StreamingType=1</url>
+			</video>
+			<video name="The first technology at the school gate">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012345::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Societe generale Door (LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012343::1;StreamingType=1</url>
+			</video>
+			<video name="Societe generale Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012343::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Intermediate court Door (LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012347::1;StreamingType=1</url>
+			</video>
+			<video name="Intermediate court Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012347::1;StreamingType=2</url>
+			</video>
+			
+			<video name="The third hospital old Door(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012341::1;StreamingType=1</url>
+			</video>
+			<video name="The third hospital old Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012341::1;StreamingType=2</url>
+			</video>
+			
+			<video name="LieDong bridge west intersection(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012346::1;StreamingType=1</url>
+			</video>
+			<video name="LieDong bridge west intersection">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012346::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Sanyuan area traffic department intersection(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012338::1;StreamingType=1</url>
+			</video>
+			<video name="Sanyuan area traffic department intersection">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012338::1;StreamingType=2</url>
+			</video>
+			
+			<video name=" HongYin mountain sports center Door(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012339::1;StreamingType=1</url>
+			</video>
+			<video name=" HongYin mountain sports center Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012339::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Sanyuan eara government Door(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012335::1;StreamingType=1</url>
+			</video>
+			<video name="Sanyuan eara government Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012335::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Sanyuan eara CCB Door(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012333::1;StreamingType=1</url>
+			</video>
+			<video name="Sanyuan eara CCB Door">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012333::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Dongquan kindergarten trigeminal intersection(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012344::1;StreamingType=1</url>
+			</video>
+			<video name="Dongquan kindergarten trigeminal intersection">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012344::1;StreamingType=2</url>
+			</video>
+			
+			<video name="chongrong YiYuan intersection(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012337::1;StreamingType=1</url>
+			</video>
+			<video name="chongrong YiYuan intersection">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359800004010100012337::1;StreamingType=2</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 

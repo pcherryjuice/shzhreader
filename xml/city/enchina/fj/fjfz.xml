@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="fujian" order="T" >
+		<city name="fuzhou" type="1" order="A" >
+			<video name="DeGui port(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=1</url></video>
+			<video name="ZhuangYuanJing1(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=1</url></video>
+			<video name="YingBin Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=1</url></video>
+			<video name="ShouShan Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012629::1;StreamingType=1</url></video>
+			<video name="ZhuangYuanJIng 2(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012631::1;StreamingType=1</url></video>
+			<video name="XianShi Underground passage 1(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012637::1;StreamingType=1</url></video>
+			<video name="XianShi Underground passage 2(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012638::1;StreamingType=1</url></video>
+			<video name="GuSanZuo Underground passage 1(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=1</url></video>
+			<video name="GuSanZhuo Underground passage 2(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=1</url></video>
+			<video name="HuaLin Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012647::1;StreamingType=1</url></video>
+			<video name="HuaLin Road bridge(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012648::1;StreamingType=1</url></video>
+			<video name="WuShan Road DaYang JingDian Doorway(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012649::1;StreamingType=1</url></video>
+			<video name="WuYi Road HuaRong Hotel front flyover(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012650::1;StreamingType=1</url></video>
+			<video name="GuTian Road DeKeShi front garden(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012651::1;StreamingType=1</url></video>
+			<video name="ShuangHu  Viaduct  rotary(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012667::1;StreamingType=1</url></video>
+
+      <video name="DeGui port"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012641::1;StreamingType=2</url></video>
+			<video name="ZhuangYuanJing1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012630::1;StreamingType=2</url></video>
+			<video name="YingBin Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012628::1;StreamingType=2</url></video>
+			<video name="ShouShan Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012629::1;StreamingType=2</url></video>
+			<video name="ZhuangYuanJing 2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012631::1;StreamingType=2</url></video>
+			<video name="XianShi Underground passage 1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012637::1;StreamingType=2</url></video>
+			<video name="XianShi Underground passage 2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012638::1;StreamingType=2</url></video>
+			<video name="GuSanZuo Underground passage 1"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=2</url></video>
+			<video name="GuSanZuo Underground passage 2"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012639::1;StreamingType=2</url></video>
+			<video name="HuaLin Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012647::1;StreamingType=2</url></video>
+			<video name="HuaLin Road bridge"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012648::1;StreamingType=2</url></video>
+			<video name="WuShan Road DaYang JingDian Doorway"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012649::1;StreamingType=2</url></video>
+			<video name="WuYi Road HuaRong Hotel front flyover"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012650::1;StreamingType=2</url></video>
+			<video name="GuTian Road DeKeShi front garden"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012651::1;StreamingType=2</url></video>
+			<video name="ShuangHu  Viaduct  rotary"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359100377010100012667::1;StreamingType=2</url></video>
+		</city>
+	</province>
+</provinces> 
