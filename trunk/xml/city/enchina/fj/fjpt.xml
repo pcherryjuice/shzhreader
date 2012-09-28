@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="fujian" order="T" >
+		<city name="putian" type="1" order="B" >
+			<video name="HanJiang XinHan Street intersection(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008773::1;StreamingType=1</url></video>
+			<video name="XiuYu Railway station Entrance camera(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400194010100013211::1;StreamingType=1</url></video>
+			<video name="FuXia Road  chixi  eara intersection(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008759::1;StreamingType=1</url></video>
+			<video name="PuTian college To Student Street(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008484::1;StreamingType=1</url></video>
+			<video name="PuTian college To DongYuan Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008483::1;StreamingType=1</url></video>
+			<video name="PuTian college To SanXin electronic shopping mall (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008481::1;StreamingType=1</url></video>
+			<video name="DongYuan-Educational park intersectionTo PuTian college (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008433::1;StreamingType=1</url></video>
+			<video name="DongYuan -Educational park intersectionTo government(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008436::1;StreamingType=1</url></video>
+			<video name="procuratorate intersectionTo government(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008321::1;StreamingType=1</url></video>
+			<video name="procuratorate intersectionTo HanJiang (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008323::1;StreamingType=1</url></video>
+			<video name="procuratorate intersectionTo Dongzhen Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008319::1;StreamingType=1</url></video>
+			<video name="governmentintersectionTo DongYuan Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008467::1;StreamingType=1</url></video>
+			<video name="governmentintersectionTo BeiMo(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008471::1;StreamingType=1</url></video>
+			<video name="governmentintersectionTo procuratorate(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008469::1;StreamingType=1</url></video>
+			<video name="LiCheng eara  Wenxian Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008592::1;StreamingType=1</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo South(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008922::1;StreamingType=1</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo east(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008926::1;StreamingType=1</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo north(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008924::1;StreamingType=1</url></video>
+			<video name="PuTian Building MeiYuan Roadintersection(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=1</url></video>
+			<video name="HengFeng  Hotel intersectionTo GouTou circle(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008362::1;StreamingType=1</url></video>
+			<video name="HengFeng  Hotel intersectionSouth(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007653::1;StreamingType=1</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo XinJie (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008313::1;StreamingType=1</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo HaiFeng temple(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008317::1;StreamingType=1</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo SanXin(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=1</url></video>
+			<video name="HengFeng  HotelintersectionTo FengHuang mountain(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007654::1;StreamingType=1</url></video>
+			<video name="XinJie To GaoLou(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010128::1;StreamingType=1</url></video>
+			<video name="XinJie To NanMen(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010138::1;StreamingType=1</url></video>
+			<video name="XinJie To  Wenxian Road(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010139::1;StreamingType=1</url></video>
+			<video name="SanXin electronic shopping mall To Party school (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008477::1;StreamingType=1</url></video>
+			<video name="SanXin electronic shopping mall To TianWei(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008479::1;StreamingType=1</url></video>
+			<video name="SanXin electronic shopping mall To PuTian college (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008452::1;StreamingType=1</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To PuTian college (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007545::1;StreamingType=1</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To Radio and television center(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007217::1;StreamingType=1</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To  chixi (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007218::1;StreamingType=1</url></video>
+			<video name="HuiTong Hotelintersectioneast (LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005181::1;StreamingType=1</url></video>
+			<video name="GouTou circleTo HuiTong"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008442::1;StreamingType=1</url></video>
+			<video name="GuCheng-Shizi Street intersection West(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005166::1;StreamingType=1</url></video>
+			<video name="XianYou city LiNan Town South west Roadintersection(LD)"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008630::1;StreamingType=1</url></video>
+			
+			<video name="HanJiang XinHan Street intersection"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008773::1;StreamingType=2</url></video>
+			<video name="XiuYu Railway station Entrance "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400194010100013211::1;StreamingType=2</url></video>
+			<video name="FuXia Road  chixi  eara intersection"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008759::1;StreamingType=2</url></video>
+			<video name="PuTian college To Student Street"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008484::1;StreamingType=2</url></video>
+			<video name="PuTian college To DongYuan Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008483::1;StreamingType=2</url></video>
+			<video name="PuTian college To SanXin electronic shopping mall "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008481::1;StreamingType=2</url></video>
+			<video name="DongYuan -Educational park intersectionTo PuTian college "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008433::1;StreamingType=2</url></video>
+			<video name="DongYuan -Educational park intersectionTo government"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008436::1;StreamingType=2</url></video>
+			<video name="procuratorate intersectionTo government"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008321::1;StreamingType=2</url></video>
+			<video name="procuratorate intersectionTo HanJiang "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008323::1;StreamingType=2</url></video>
+			<video name="procuratorate intersectionTo DongZhen Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008319::1;StreamingType=2</url></video>
+			<video name="governmentintersectionTo DongYuan Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008467::1;StreamingType=2</url></video>
+			<video name="governmentintersectionTo BeiMo"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008471::1;StreamingType=2</url></video>
+			<video name="governmentintersectionTo procuratorate"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008469::1;StreamingType=2</url></video>
+			<video name="LiCheng eara  Wenxian Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008592::1;StreamingType=2</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo South"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008922::1;StreamingType=2</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo east"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008926::1;StreamingType=2</url></video>
+			<video name="LiCheng-MeiYuan intersectionTo north"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008924::1;StreamingType=2</url></video>
+			<video name="PuTian BuildingMeiYuan Roadintersection"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=2</url></video>
+			<video name="HengFeng  HotelintersectionTo GouTou circle"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008362::1;StreamingType=2</url></video>
+			<video name="HengFeng  HotelintersectionSouth"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007653::1;StreamingType=2</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo XinJie "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008313::1;StreamingType=2</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo HaiFeng temple"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008317::1;StreamingType=2</url></video>
+			<video name="MeiYuan -ShengLi intersectionTo SanXin"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008315::1;StreamingType=2</url></video>
+			<video name="HengFeng  HotelintersectionTo FengHuang mountain"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007654::1;StreamingType=2</url></video>
+			<video name="XinJie To GaoLou"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010128::1;StreamingType=2</url></video>
+			<video name="XinJie To NanMen"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010138::1;StreamingType=2</url></video>
+			<video name="XinJie To  Wenxian Road"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100010139::1;StreamingType=2</url></video>
+			<video name="SanXin electronic shopping mall To Party school "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008477::1;StreamingType=2</url></video>
+			<video name="SanXin electronic shopping mall To TianWei"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008479::1;StreamingType=2</url></video>
+			<video name="SanXin electronic shopping mall To PuTian college "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008452::1;StreamingType=2</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To PuTian college "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007545::1;StreamingType=2</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To Radio and television center"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007217::1;StreamingType=2</url></video>
+			<video name="Educational park -DongZhen intersection Bridge To  chixi "><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100007218::1;StreamingType=2</url></video>
+			<video name="HuiTong Hotelintersectioneast"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005181::1;StreamingType=2</url></video>
+			<video name="GouTou circleTo HuiTong"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400044010100008442::1;StreamingType=2</url></video>
+			<video name="GuCheng-Shizi Street intersection West"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400035010100005166::1;StreamingType=2</url></video>
+			<video name="XianYou city LiNan Town South west Roadintersection"><url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359400001010100008630::1;StreamingType=2</url></video>
+		</city>
+	</province>
+</provinces> 

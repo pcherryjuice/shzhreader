@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces version="1.2">
+	<province name="fujian" order="T" >
+		<city name="nanping" type="1" order="E" >	
+			
+			<video name="ZhangHu Town Main Road camera(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012705::1;StreamingType=1</url>
+			</video>
+			
+			<video name="ZhangHu Town Main Road camera">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012705::1;StreamingType=2</url>
+			</video>
+			
+			<video name="ZhangHu Town Market(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012702::1;StreamingType=1</url>
+			</video>
+			<video name="ZhangHu Town Market">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012702::1;StreamingType=2</url>
+			</video>
+			
+			<video name="ZhangHu Town wharf(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012703::1;StreamingType=1</url>
+			</video>
+			<video name="ZhangHu Town wharf">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012703::1;StreamingType=2</url>
+			</video>
+			
+			<video name="ZhangHu Town government(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012704::1;StreamingType=1</url>
+			</video>
+			<video name="ZhangHu Town government">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012704::1;StreamingType=2</url>
+			</video>
+			
+			<video name="ZhangHu Town Center kindergarten(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012706::1;StreamingType=1</url>
+			</video>
+			<video name="ZhangHu Town Center kindergarten">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900033010100012706::1;StreamingType=2</url>
+			</video>
+			
+			<video name="Nanping city ShuiNa around the island road monitoring(LD)">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900019010100010467::1;StreamingType=1</url>
+			</video>
+			<video name="Nanping city ShuiNa around the island road monitoring ">
+			<url>rtsp://218.207.183.161:554/service?UserId=00000001200000000001::1;PUID-ChannelNo=01020359900019010100010467::1;StreamingType=2</url>
+			</video>
+
+		</city>
+	</province>
+</provinces> 
